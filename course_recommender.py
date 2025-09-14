@@ -226,17 +226,15 @@ Return ONLY a valid JSON array. CRITICAL JSON RULES:
 - Use simple punctuation only (periods, commas)
 - Select as many courses per department as needed. Do not histate to add as many prerequisites as need. Add many and be happy. I need from you the comprehending guide for the user. With the full list of courses.
 
-Example format:
-[{"course_title": "Course Name", "course_description": "Short description", "department": "correct department", "prerequisites": ["Prereq 1", "Prereq 2"]}]
+RESPONSE FORMAT:
+            Return ONLY a valid JSON array. CRITICAL JSON RULES:
+            - NO line breaks anywhere in the JSON
+            - NO quotes inside descriptions 
+            - Keep descriptions under 50 characters
+            - Use simple punctuation only (periods, commas)
+            - Select as many courses per department as needed
 
-            [
-              {{
-                "course_title": "Actual Course Title from List",
-                "course_description": "Brief description without quotes or line breaks",
-                "department": "{{department}}",
-                "prerequisites": ["Prerequisite Course 1", "Prerequisite Course 2"]
-              }}
-            ]
+            Return format: JSON array of course objects with course_title, course_description, department, and prerequisites fields.
 
             IMPORTANT: Return ONLY the JSON array, nothing else. No explanations.
 
@@ -245,17 +243,31 @@ Example format:
             try:
                 response = self._call_claude_api(prompt)
                 if response:
-                    # Clean and extract JSON from response
                     import re
-                    # First try to find JSON array
-                    json_match = re.search(r'\[[\s\S]*?\]', response)
-                    if json_match:
-                        json_str = json_match.group()
+
+                    # Find the complete JSON array using bracket counting
+                    start_idx = response.find('[')
+                    if start_idx != -1:
+                        bracket_count = 0
+                        end_idx = start_idx
+
+                        for i, char in enumerate(response[start_idx:], start_idx):
+                            if char == '[':
+                                bracket_count += 1
+                            elif char == ']':
+                                bracket_count -= 1
+                                if bracket_count == 0:
+                                    end_idx = i + 1
+                                    break
+
+                        json_str = response[start_idx:end_idx]
+
                         # Clean the JSON string
-                        json_str = json_str.replace('\n', ' ').replace('\r', '')
+                        json_str = json_str.replace('\n', ' ').replace('\r', ' ')
+                        json_str = re.sub(r'\s+', ' ', json_str)  # Multiple spaces to single
+
                         try:
                             courses = json.loads(json_str)
-                            # Validate structure
                             if isinstance(courses, list):
                                 all_selected_courses.extend(courses)
                                 logger.info(f"Selected {len(courses)} courses from {department}")
@@ -263,24 +275,10 @@ Example format:
                                 logger.error(f"Invalid JSON structure from {department}")
                         except json.JSONDecodeError as je:
                             logger.error(f"JSON decode error for {department}: {str(je)}")
-                            # Try to fix common JSON issues and retry
-                            try:
-                                # Fix common issues
-                                fixed_json = json_str.replace('\n', ' ').replace('\r', ' ')
-                                fixed_json = re.sub(r'([^\\])"([^,}\]])', r'\1\"\2', fixed_json)  # Fix unescaped quotes
-                                fixed_json = re.sub(r'\s+', ' ', fixed_json)  # Multiple spaces to single
-                                courses = json.loads(fixed_json)
-                                if isinstance(courses, list):
-                                    all_selected_courses.extend(courses)
-                                    logger.info(f"Fixed and selected {len(courses)} courses from {department}")
-                                else:
-                                    logger.error(f"Still invalid JSON structure from {department}")
-                            except:
-                                logger.error(f"Could not fix JSON for {department}")
-                                logger.error(f"Original JSON: {json_str[:300]}...")
+                            logger.error(f"Problematic JSON: {json_str}")
                     else:
                         logger.error(f"No JSON array found in response for {department}")
-                        logger.error(f"Response was: {response[:200]}...")
+                        logger.error(f"Full response: {response}")
 
             except Exception as e:
                 logger.error(f"Error selecting courses from {department}: {str(e)}")
@@ -368,27 +366,106 @@ Create an optimal learning sequence with proper dependencies."""
         try:
             response = self._call_claude_api(prompt)
             if response:
-                # Extract JSON from response
                 import re
-                json_match = re.search(r'\{[\s\S]*?\}', response)
-                if json_match:
-                    json_str = json_match.group()
-                    json_str = json_str.replace('\n', ' ').replace('\r', '')
+
+                # Find the complete JSON object using brace counting
+                start_idx = response.find('{')
+                if start_idx != -1:
+                    brace_count = 0
+                    end_idx = start_idx
+
+                    for i, char in enumerate(response[start_idx:], start_idx):
+                        if char == '{':
+                            brace_count += 1
+                        elif char == '}':
+                            brace_count -= 1
+                            if brace_count == 0:
+                                end_idx = i + 1
+                                break
+
+                    json_str = response[start_idx:end_idx]
+
+                    # Clean the JSON string
+                    json_str = json_str.replace('\n', ' ').replace('\r', ' ')
+                    json_str = re.sub(r'\s+', ' ', json_str)  # Multiple spaces to single
+
                     try:
                         roadmap = json.loads(json_str)
+                        logger.info("Successfully created learning roadmap")
+                        return roadmap
                     except json.JSONDecodeError as je:
                         logger.error(f"JSON decode error in roadmap: {str(je)}")
-                        logger.error(f"JSON string was: {json_str[:200]}...")
+                        logger.error(f"Problematic JSON: {json_str}")
                         return {"error": "Failed to parse roadmap JSON"}
-                    logger.info("Successfully created learning roadmap")
-                    return roadmap
+                else:
+                    logger.error(f"No JSON object found in response")
+                    logger.error(f"Full response: {response}")
 
-            logger.error("Failed to parse roadmap from Claude response")
+            logger.error("Failed to get response from Claude")
             return {"error": "Failed to create roadmap"}
 
         except Exception as e:
             logger.error(f"Error creating learning roadmap: {str(e)}")
             return {"error": f"Roadmap creation failed: {str(e)}"}
+
+    def create_course_graph(self, courses_with_prereqs: List[Dict]) -> List:
+        """
+        Function 4: Create a graph representation of courses and their prerequisites.
+
+        Args:
+            courses_with_prereqs: Output from select_courses_with_prerequisites
+
+        Returns:
+            List with format: [[vertices], [edges]]
+            vertices: List of [course_name, course_description] pairs
+            edges: List of [prerequisite_course, dependent_course] pairs
+        """
+        if not courses_with_prereqs:
+            return [[], []]
+
+        # Create vertices (nodes) - each course is a vertex
+        vertices = []
+        course_names = set()
+
+        # Collect all course names first (including prerequisites that might not be in main list)
+        all_course_names = set()
+        for course in courses_with_prereqs:
+            course_name = course.get('course_title', 'Unknown')
+            all_course_names.add(course_name)
+
+            # Add prerequisite names too
+            for prereq in course.get('prerequisites', []):
+                all_course_names.add(prereq)
+
+        # Create vertices list
+        for course in courses_with_prereqs:
+            course_name = course.get('course_title', 'Unknown')
+            course_desc = course.get('course_description', 'No description')
+            vertices.append([course_name, course_desc])
+            course_names.add(course_name)
+
+        # Add vertices for prerequisites that aren't in main course list
+        for course in courses_with_prereqs:
+            for prereq in course.get('prerequisites', []):
+                if prereq not in course_names:
+                    vertices.append([prereq, "Prerequisite course"])
+                    course_names.add(prereq)
+
+        # Create edges - from prerequisite to dependent course
+        edges = []
+        for course in courses_with_prereqs:
+            course_name = course.get('course_title', 'Unknown')
+            prerequisites = course.get('prerequisites', [])
+
+            for prereq in prerequisites:
+                # Edge format: [from_course, to_course]
+                # From prerequisite TO the course that requires it
+                edges.append([prereq, course_name])
+
+        logger.info(f"Created graph with {len(vertices)} vertices and {len(edges)} edges")
+        return [vertices, edges]
+
+
 
 
 def main():
@@ -454,6 +531,31 @@ def main():
         "goal": "AI Engineer/Researcher"
     }
     roadmap = recommender.create_learning_roadmap(courses, student_profile)
+
+    # Step 4: Create course graph
+    print("Step 4: Creating course graph...")
+    graph = recommender.create_course_graph(courses)
+
+    vertices, edges = graph
+    print(f"\n=== COURSE GRAPH ===")
+    print(f"Total vertices (courses): {len(vertices)}")
+    print(f"Total edges (dependencies): {len(edges)}")
+
+    print("\nVertices (Courses):")
+    for i, vertex in enumerate(vertices[:10]):  # Show first 10
+        print(f"{i + 1}. {vertex[0]} - {vertex[1]}")
+    if len(vertices) > 10:
+        print(f"... and {len(vertices) - 10} more courses")
+
+    print("\nEdges (Dependencies):")
+    for i, edge in enumerate(edges[:15]):  # Show first 15
+        print(f"{i + 1}. {edge[0]} → {edge[1]}")
+    if len(edges) > 15:
+        print(f"... and {len(edges) - 15} more dependencies")
+
+    print(f"\nGraph data structure:")
+    print(f"Vertices: {len(vertices)} courses")
+    print(f"Edges: {len(edges)} prerequisite relationships")
 
     if "error" in roadmap:
         print(f"Error creating roadmap: {roadmap['error']}")
