@@ -1,0 +1,171 @@
+[
+  {
+    "id": 13080,
+    "course_id": "6bb3dc97b2314b97a611d7dd18fe997d+RES.SP-001",
+    "coursenum": "RES.SP-001",
+    "short_description": "This course introduces the D.I.S. method to structure and define real-world problems. The D.I.S., which stands for “Describe, Inquire, State,\" is a domain-agnostic method for structuring (or defining) ill-structured problems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State",
+    "image_src": "/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/mit_res_sp_001_s24.jpg",
+    "topics": [
+      "Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course introduces the D.I.S. method to structure and define real-world problems. The D.I.S., which stands for “Describe, Inquire, State,\" is a domain-agnostic method for structuring (or defining) ill-structured problems.",
+        "run_id": "6bb3dc97b2314b97a611d7dd18fe997d",
+        "year": 2024,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2024-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State",
+        "image_src": "/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/mit_res_sp_001_s24.jpg",
+        "instructors": [
+          "Claire Berman",
+          "Dr. Rea Lavi",
+          "Alejandro Paz"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2024-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 22728,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024",
+        "start_date": null
+      }
+    ],
+    "created": "2024-09-10T16:35:45.796735Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Special Programs"
+    ],
+    "department_slug": "special-programs",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.SP-001",
+        "sort_coursenum": "RES.SP-001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13071,
+    "course_id": "b0f4df70d01f4b9a810ef3336c3f3a7b+SP.248",
+    "coursenum": "SP.248",
+    "short_description": "This subject gives first-year students a unique opportunity to explore the New Engineering Education Transformation (NEET) program while acquiring valuable problem-solving skills. It introduces students to the NEET Ways of Thinking, which are cognitive approaches for tackling complex challenges, valued by industry and for thriving in an uncertain and rapidly changing world. Student teams will engage in challenge-based learning in interdisciplinary engineering education via the NEET program threads. Student teams will learn how to apply various Ways of Thinking for solving these challenges, including practical methods and tools which they can later use at MIT and beyond.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "NEET Ways of Thinking",
+    "image_src": "/courses/sp-248-neet-ways-of-thinking-fall-2023/mitsp_248_f23.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 22707,
+        "run_id": "b0f4df70d01f4b9a810ef3336c3f3a7b",
+        "short_description": "This subject gives first-year students a unique opportunity to explore the New Engineering Education Transformation (NEET) program while acquiring valuable problem-solving skills. It introduces students to the NEET Ways of Thinking, which are cognitive approaches for tackling complex challenges, valued by industry and for thriving in an uncertain and rapidly changing world. Student teams will engage in challenge-based learning in interdisciplinary engineering education via the NEET program threads. Student teams will learn how to apply various Ways of Thinking for solving these challenges, including practical methods and tools which they can later use at MIT and beyond.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2023,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2023-09-01T00:00:00Z",
+        "best_end_date": "2023-12-31T00:00:00Z",
+        "title": "NEET Ways of Thinking",
+        "image_src": "/courses/sp-248-neet-ways-of-thinking-fall-2023/mitsp_248_f23.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Cong Cong",
+          "Justin Lavallee",
+          "Dr. Rea Lavi",
+          "Dr. Greg Long",
+          "Dr. Nathan Melenbrink",
+          "Dr. Mehdi Salek"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/sp-248-neet-ways-of-thinking-fall-2023"
+      }
+    ],
+    "created": "2024-08-07T20:43:15.514313Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Special Programs"
+    ],
+    "department_slug": "special-programs",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Demonstration Videos",
+      "Design Assignments",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "SP.248",
+        "department": "Special Programs",
+        "primary": true,
+        "sort_coursenum": "SP.248"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

@@ -1,0 +1,4171 @@
+[
+  {
+    "id": 7698,
+    "course_id": "dbdb15031dbb270311b104e2e2aa19b9+MAS.160",
+    "coursenum": "MAS.160",
+    "short_description": "This class teaches the fundamentals of signals and information theory with emphasis on modeling audio/visual messages and physiologically derived signals, and the human source or recipient. Topics include linear systems, difference equations, Z-transforms, sampling and sampling rate conversion, convolution, filtering, modulation, Fourier analysis, entropy, noise, and Shannon's fundamental theorems. Additional topics may include data compression, filter design, and feature detection. The undergraduate subject MAS.160 meets with the two half-semester graduate subjects MAS.510 and MAS.511, but assignments differ.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Signals, Systems and Information for Media Technology",
+    "image_src": "/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/5d42511881d1fb08d4a504eda70b78e4_mas-160f07.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Media Studies",
+      "Fine Arts",
+      "Signal Processing",
+      "Computational Modeling and Simulation",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13430,
+        "run_id": "dbdb15031dbb270311b104e2e2aa19b9",
+        "short_description": "This class teaches the fundamentals of signals and information theory with emphasis on modeling audio/visual messages and physiologically derived signals, and the human source or recipient. Topics include linear systems, difference equations, Z-transforms, sampling and sampling rate conversion, convolution, filtering, modulation, Fourier analysis, entropy, noise, and Shannon's fundamental theorems. Additional topics may include data compression, filter design, and feature detection. The undergraduate subject MAS.160 meets with the two half-semester graduate subjects MAS.510 and MAS.511, but assignments differ.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-09-01T00:00:00Z",
+        "best_end_date": "2007-12-31T00:00:00Z",
+        "title": "Signals, Systems and Information for Media Technology",
+        "image_src": "/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/5d42511881d1fb08d4a504eda70b78e4_mas-160f07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. V. Michael Bove",
+          "Prof. Rosalind W. Picard",
+          "Dr. Quinn Smithwick"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007"
+      }
+    ],
+    "created": "2020-03-03T20:25:47.569571Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.160",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.160"
+      },
+      {
+        "coursenum": "MAS.510,MAS.511",
+        "department": "Media Arts and Sciences",
+        "primary": false,
+        "sort_coursenum": "MAS.510,MAS.511"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7794,
+    "course_id": "f84c17335b5f7b47a8b4f7423f0e0981+MAS.965",
+    "coursenum": "MAS.965",
+    "short_description": "Can you make a cellphone change the world?\n\nNextLab is a hands-on year-long design course in which students research, develop and deploy mobile technologies for the next billion mobile users in developing countries. Guided by real-world needs as observed by local partners, students work in multidisciplinary teams on term-long projects, closely collaborating with NGOs and communities at the local level, field practitioners, and experts in relevant fields.\n\nStudents are expected to leverage technical ingenuity in both mobile and internet technologies together with social insight in order to address social challenges in areas such as health, microfinance, entrepreneurship, education, and civic activism. Students with technically and socially viable prototypes may obtain funding for travel to their target communities, in order to obtain the first-hand feedback necessary to prepare their technologies for full fledged deployment into the real world (subject to guidelines and limitations).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "NextLab I: Designing Mobile Technologies for the Next Billion Users",
+    "image_src": "/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/c09b3c0595785ee0a87fd58615a80266_mas-965f08.jpg",
+    "topics": [
+      "Engineering",
+      "Entrepreneurship",
+      "Social Science",
+      "Electrical Engineering",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Sociology",
+      "Digital Media",
+      "Community Development",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14610,
+        "run_id": "f84c17335b5f7b47a8b4f7423f0e0981",
+        "short_description": "Can you make a cellphone change the world?\n\nNextLab is a hands-on year-long design course in which students research, develop and deploy mobile technologies for the next billion mobile users in developing countries. Guided by real-world needs as observed by local partners, students work in multidisciplinary teams on term-long projects, closely collaborating with NGOs and communities at the local level, field practitioners, and experts in relevant fields.\n\nStudents are expected to leverage technical ingenuity in both mobile and internet technologies together with social insight in order to address social challenges in areas such as health, microfinance, entrepreneurship, education, and civic activism. Students with technically and socially viable prototypes may obtain funding for travel to their target communities, in order to obtain the first-hand feedback necessary to prepare their technologies for full fledged deployment into the real world (subject to guidelines and limitations).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "NextLab I: Designing Mobile Technologies for the Next Billion Users",
+        "image_src": "/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/c09b3c0595785ee0a87fd58615a80266_mas-965f08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Gari Clifford",
+          "Dr. Richard Fletcher",
+          "Mr. Jhonatan Rotberg",
+          "Dr. Luis Sarmenta"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T20:32:04.736323Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Electrical Engineering and Computer Science",
+      "Edgerton Center"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Presentation Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.965",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.965"
+      },
+      {
+        "coursenum": "6.976,EC.S06",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.976,EC.S06"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7815,
+    "course_id": "54e6b390b95a87ca8b8e6bf05e73f12a+CMS.631",
+    "coursenum": "CMS.631",
+    "short_description": "This course explores visualization methodologies to conceive and represent systems and data, e.g., financial, media, economic, political, etc., with a particular focus on climate change data in this version of the course. Topics include basic methods for research, cleaning, and analysis of datasets, and creative methods of data presentation and storytelling. The course considers the emotional, aesthetic, ethical, and practical effects of different presentation methods as well as how to develop metrics for assessing impact. Coursework includes readings, visualization exercises, and a final project.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Data Storytelling Studio: Climate Change",
+    "image_src": "/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/6a102252006ddb7f4bc6e80ad8e90199_cms-631s17.gif",
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Ethnography",
+      "Graphic Design",
+      "Game Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13553,
+        "run_id": "54e6b390b95a87ca8b8e6bf05e73f12a",
+        "short_description": "This course explores visualization methodologies to conceive and represent systems and data, e.g., financial, media, economic, political, etc., with a particular focus on climate change data in this version of the course. Topics include basic methods for research, cleaning, and analysis of datasets, and creative methods of data presentation and storytelling. The course considers the emotional, aesthetic, ethical, and practical effects of different presentation methods as well as how to develop metrics for assessing impact. Coursework includes readings, visualization exercises, and a final project.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2017,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2017-01-01T00:00:00Z",
+        "best_end_date": "2017-05-31T00:00:00Z",
+        "title": "Data Storytelling Studio: Climate Change",
+        "image_src": "/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/6a102252006ddb7f4bc6e80ad8e90199_cms-631s17.gif",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Rahul Bhargava"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/cms-631-data-storytelling-studio-climate-change-spring-2017"
+      }
+    ],
+    "created": "2020-03-03T20:35:37.838855Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Comparative Media Studies/Writing"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "CMS.631",
+        "department": null,
+        "primary": true,
+        "sort_coursenum": "CMS.631"
+      },
+      {
+        "coursenum": "CMS.831,MAS.784",
+        "department": null,
+        "primary": false,
+        "sort_coursenum": "CMS.831,MAS.784"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8696,
+    "course_id": "072189760bf2bbb4f5932bae81c91c07+MAS.630",
+    "coursenum": "MAS.630",
+    "short_description": "This course instructs students on how to develop technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and have internal mechanisms inspired by the useful roles emotions play.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Affective Computing",
+    "image_src": "/courses/mas-630-affective-computing-fall-2015/40aae8fab8508b459b0d960272bdca57_mas-630f15.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14607,
+        "run_id": "072189760bf2bbb4f5932bae81c91c07",
+        "short_description": "This course instructs students on how to develop technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and have internal mechanisms inspired by the useful roles emotions play.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "Affective Computing",
+        "image_src": "/courses/mas-630-affective-computing-fall-2015/40aae8fab8508b459b0d960272bdca57_mas-630f15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Rosalind W. Picard"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-630-affective-computing-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T21:41:43.875181Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.630",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.630"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8725,
+    "course_id": "4b1505a610385dbd64512d9b30307c94+MAS.845",
+    "coursenum": "MAS.845",
+    "short_description": "This seminar explores approaches to representation for distributed cinematic storytelling. The relationship between story creation and story appreciation is analyzed. Readings are drawn from literary and cinematic criticism, as well as from descriptions of interactive, distributed works. Students analyze a range of storytelling techniques; they develop a proposal using visualization techniques; and they prototype a working story experience, culminating in a final project displayed at the end of the semester.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics in Cinematic Storytelling",
+    "image_src": "/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/96044f409959b603307d50fdebc596d1_mas-845s04.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "Criticism"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14646,
+        "run_id": "4b1505a610385dbd64512d9b30307c94",
+        "short_description": "This seminar explores approaches to representation for distributed cinematic storytelling. The relationship between story creation and story appreciation is analyzed. Readings are drawn from literary and cinematic criticism, as well as from descriptions of interactive, distributed works. Students analyze a range of storytelling techniques; they develop a proposal using visualization techniques; and they prototype a working story experience, culminating in a final project displayed at the end of the semester.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Special Topics in Cinematic Storytelling",
+        "image_src": "/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/96044f409959b603307d50fdebc596d1_mas-845s04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Barbara Barry",
+          "Prof. Glorianna Davenport"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004"
+      }
+    ],
+    "created": "2020-03-03T21:43:39.065393Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.845",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.845"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9089,
+    "course_id": "a0928bb9cdf4628c9552f92e1dee23c0+MAS.S66",
+    "coursenum": "MAS.S66",
+    "short_description": "With a focus on the creation of functional prototypes and practicing real magical crafts, this class combines theatrical illusion, game design, sleight of hand, machine learning, camouflage, and neuroscience to explore how ideas from ancient magic and modern stage illusion can inform cutting edge technology.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Indistinguishable From... Magic as Interface, Technology, and Tradition",
+    "image_src": "/courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/45eccaaa78bc893bee33b215d7d19b02_mas-s66s15.jpg",
+    "topics": [
+      "Science",
+      "Humanities",
+      "History",
+      "Visual Arts",
+      "Fine Arts",
+      "Biology",
+      "Performance Arts",
+      "History of Science and Technology",
+      "Neuroscience",
+      "Game Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15171,
+        "run_id": "a0928bb9cdf4628c9552f92e1dee23c0",
+        "short_description": "With a focus on the creation of functional prototypes and practicing real magical crafts, this class combines theatrical illusion, game design, sleight of hand, machine learning, camouflage, and neuroscience to explore how ideas from ancient magic and modern stage illusion can inform cutting edge technology.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-05-31T00:00:00Z",
+        "title": "Indistinguishable From... Magic as Interface, Technology, and Tradition",
+        "image_src": "/courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/45eccaaa78bc893bee33b215d7d19b02_mas-s66s15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Greg Borenstein",
+          "Dan Novy"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015"
+      }
+    ],
+    "created": "2020-03-03T22:22:08.440199Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Design Assignments",
+      "Media Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.S66",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.S66"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9600,
+    "course_id": "129b69b6569730cc323778aef9ca20e9+MAS.771",
+    "coursenum": "MAS.771",
+    "short_description": "This course illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants are expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project are required.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Autism Theory and Technology",
+    "image_src": "/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Health and Medicine",
+      "Teaching and Education",
+      "Educational Technology",
+      "Psychology",
+      "Mental Health",
+      "Human-Computer Interfaces"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16143,
+        "run_id": "129b69b6569730cc323778aef9ca20e9",
+        "short_description": "This course illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants are expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project are required.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "Autism Theory and Technology",
+        "image_src": "/courses/mas-771-autism-theory-and-technology-spring-2011/d82a1ef249729b363656ab3592ad09ef_mas-771s11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Matthew Goodwin",
+          "Prof. Rosalind W. Picard"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-771-autism-theory-and-technology-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T23:29:38.236003Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects",
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.771",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.771"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9624,
+    "course_id": "388d838ee254be4066c6291c075c13e2+MAS.111",
+    "coursenum": "MAS.111",
+    "short_description": "This course is intended for students pursuing research projects at the Media Laboratory. Topics include Media Lab research areas, documenting research progress, ethical issues in research; patents, copyrights, intellectual property, and giving oral, written, and online presentations of results. A final oral presentation is required. Enrollment limited with preference given to students in the Media Arts and Sciences freshman program.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Doing Research in Media Arts and Sciences",
+    "image_src": "/courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/949643e857940dc682d6f3b53065d562_mas-111s11.jpg",
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16193,
+        "run_id": "388d838ee254be4066c6291c075c13e2",
+        "short_description": "This course is intended for students pursuing research projects at the Media Laboratory. Topics include Media Lab research areas, documenting research progress, ethical issues in research; patents, copyrights, intellectual property, and giving oral, written, and online presentations of results. A final oral presentation is required. Enrollment limited with preference given to students in the Media Arts and Sciences freshman program.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "Introduction to Doing Research in Media Arts and Sciences",
+        "image_src": "/courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/949643e857940dc682d6f3b53065d562_mas-111s11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. V. Michael Bove"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T23:31:32.927927Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.111",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.111"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10844,
+    "course_id": "b9eabf84909b9e5fe8fe7a8a93f22191+MAS.963",
+    "coursenum": "MAS.963",
+    "short_description": "The nature of human identity - how we think of ourselves, how we perceive others - is a mutable concept, changing with the rise and fall of religious beliefs, social mores, philosophical theories. Today, we live in a world in which science and technology are among the most powerful forces reshaping our culture - and thus our definitions and perceptions of identity. In this seminar, we will examine the impact of science and technology on identity.\n\nThe instructor's course page may be viewed at [http://smg.media.mit.edu/classes/IdentitySeminar/](http://smg.media.mit.edu/classes/IdentitySeminar/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Techno-identity: Who we are and how we perceive ourselves and others",
+    "image_src": "/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/815df0b94b36f8dc071acac7a7a9ea3c_mas-963s02.jpg",
+    "topics": [
+      "Humanities",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Philosophy",
+      "Social Anthropology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14446,
+        "run_id": "b9eabf84909b9e5fe8fe7a8a93f22191",
+        "short_description": "The nature of human identity - how we think of ourselves, how we perceive others - is a mutable concept, changing with the rise and fall of religious beliefs, social mores, philosophical theories. Today, we live in a world in which science and technology are among the most powerful forces reshaping our culture - and thus our definitions and perceptions of identity. In this seminar, we will examine the impact of science and technology on identity.\n\nThe instructor's course page may be viewed at [http://smg.media.mit.edu/classes/IdentitySeminar/](http://smg.media.mit.edu/classes/IdentitySeminar/)",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-01-01T00:00:00Z",
+        "best_end_date": "2002-05-31T00:00:00Z",
+        "title": "Techno-identity: Who we are and how we perceive ourselves and others",
+        "image_src": "/courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002/815df0b94b36f8dc071acac7a7a9ea3c_mas-963s02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Judith Donath"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002"
+      }
+    ],
+    "created": "2020-12-04T02:41:20.089523Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.963",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.963"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10904,
+    "course_id": "a9fd6e060084eb7b2c4698694b9e5330+MAS.961",
+    "coursenum": "MAS.961",
+    "short_description": "The aim of the students from the Numeric Photography class at the MIT Media Laboratory was to present an exhibition of digital artworks which blend photography and computation, in the context of scene capture, image play, and interaction. Equipped with low end digital cameras, students created weekly software projects to explore aesthetic issues in signal processing and interaction design. The results are more than a hundred Java® applets, many of which are interactive, that suggest new avenues for image play on the computer. These weekly exercises led to the final product, an exhibition of the student work.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Numeric Photography",
+    "image_src": "/courses/mas-961-numeric-photography-fall-1998/cfa783346ec143a8a9cf0742d8b6a35e_mas-961f98.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Software Design and Engineering",
+      "Digital Media",
+      "Photography"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15628,
+        "run_id": "a9fd6e060084eb7b2c4698694b9e5330",
+        "short_description": "The aim of the students from the Numeric Photography class at the MIT Media Laboratory was to present an exhibition of digital artworks which blend photography and computation, in the context of scene capture, image play, and interaction. Equipped with low end digital cameras, students created weekly software projects to explore aesthetic issues in signal processing and interaction design. The results are more than a hundred Java® applets, many of which are interactive, that suggest new avenues for image play on the computer. These weekly exercises led to the final product, an exhibition of the student work.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 1998,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "1998-09-01T00:00:00Z",
+        "best_end_date": "1998-12-31T00:00:00Z",
+        "title": "Numeric Photography",
+        "image_src": "/courses/mas-961-numeric-photography-fall-1998/cfa783346ec143a8a9cf0742d8b6a35e_mas-961f98.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. John Maeda"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-961-numeric-photography-fall-1998"
+      }
+    ],
+    "created": "2020-12-04T02:41:31.322425Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.961",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.961"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10903,
+    "course_id": "0aee512f434ce8f77065fe696e282b90+MAS.961",
+    "coursenum": "MAS.961",
+    "short_description": "Innovation in expression, as realized in media, tangible objects, performance and more,  generates new questions and new potentials for human engagement. When and how does expression engage us deeply? Many personal stories confirm the hypothesis that once we experience deep engagement, it is a state we long for, remember, and want to repeat. This class will explore what underlying principles and innovative methods can ensure the development of higher-quality \"deep engagement\" products (artifacts, experiences, environments, performances, etc.) that appeal to a broad audience and that have lasting value over the long term.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Seminar on Deep Engagement",
+    "image_src": "/courses/mas-961-seminar-on-deep-engagement-fall-2004/a51909935fdfae2c5745851fcb9f1ef1_mas-961f04.jpg",
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15849,
+        "run_id": "0aee512f434ce8f77065fe696e282b90",
+        "short_description": "Innovation in expression, as realized in media, tangible objects, performance and more,  generates new questions and new potentials for human engagement. When and how does expression engage us deeply? Many personal stories confirm the hypothesis that once we experience deep engagement, it is a state we long for, remember, and want to repeat. This class will explore what underlying principles and innovative methods can ensure the development of higher-quality \"deep engagement\" products (artifacts, experiences, environments, performances, etc.) that appeal to a broad audience and that have lasting value over the long term.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Seminar on Deep Engagement",
+        "image_src": "/courses/mas-961-seminar-on-deep-engagement-fall-2004/a51909935fdfae2c5745851fcb9f1ef1_mas-961f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Cynthia Breazeal",
+          "Prof. Glorianna Davenport"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-961-seminar-on-deep-engagement-fall-2004"
+      }
+    ],
+    "created": "2020-12-04T02:41:31.177361Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.961",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.961"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10845,
+    "course_id": "51ed8fd9de9dda8b19823adaf485a9c1+MAS.963",
+    "coursenum": "MAS.963",
+    "short_description": "Increasingly, we are realizing that to make computer systems more intelligent and responsive to users, we will have to make them more sensitive to context. Traditional hardware and software design overlooks context because it conceptualizes systems as input-output functions. Systems take input explicitly given to them by a human, act upon that input alone and produce explicit output. But this view is too restrictive. Smart computers, intelligent agent software, and digital devices of the future will also have to operate on data that they observe or gather for themselves. They may have to sense their environment, decide which aspects of a situation are really important, and infer the user's intention from concrete actions. The system's actions may be dependent on time, place, or the history of interaction, in other words, dependent upon context.\n\nBut what exactly is context? We'll look at perspectives from machine learning, sensors and embedded devices, information visualization, philosophy and psychology. We'll see how each treats the problem of context, and discuss the implications for design of context-sensitive hardware and software.\n\nCourse requirements will consist of critiques of class readings (about 3 papers/week), and a final project (paper or computer implementation project).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+    "image_src": "/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/b626878bf85dcb8eb5096231dd1c9add_mas-963f01.gif",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Cognitive Science",
+      "Theory of Computation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14439,
+        "run_id": "51ed8fd9de9dda8b19823adaf485a9c1",
+        "short_description": "Increasingly, we are realizing that to make computer systems more intelligent and responsive to users, we will have to make them more sensitive to context. Traditional hardware and software design overlooks context because it conceptualizes systems as input-output functions. Systems take input explicitly given to them by a human, act upon that input alone and produce explicit output. But this view is too restrictive. Smart computers, intelligent agent software, and digital devices of the future will also have to operate on data that they observe or gather for themselves. They may have to sense their environment, decide which aspects of a situation are really important, and infer the user's intention from concrete actions. The system's actions may be dependent on time, place, or the history of interaction, in other words, dependent upon context.\n\nBut what exactly is context? We'll look at perspectives from machine learning, sensors and embedded devices, information visualization, philosophy and psychology. We'll see how each treats the problem of context, and discuss the implications for design of context-sensitive hardware and software.\n\nCourse requirements will consist of critiques of class readings (about 3 papers/week), and a final project (paper or computer implementation project).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2001,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2001-09-01T00:00:00Z",
+        "best_end_date": "2001-12-31T00:00:00Z",
+        "title": "Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context",
+        "image_src": "/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/b626878bf85dcb8eb5096231dd1c9add_mas-963f01.gif",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Henry Lieberman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001"
+      }
+    ],
+    "created": "2020-12-04T02:41:20.158840Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.963",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.963"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11790,
+    "course_id": "640d232bb56f1f0d215c474a0fb29090+MAS.962",
+    "coursenum": "MAS.962",
+    "short_description": "This course examines the philosophical and theoretical foundations of constructionism as a paradigm for formulating and evaluating new theories for learning and approaches to education. One of the goals of this course is to help new learning researchers situate their work within the constructionist framework through readings and projects that will focus on the rich interplay between the process of knowledge construction and the development and co-evolution of ideas, learners, tools, and contexts.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "The Nature of Constructionist Learning",
+    "image_src": "/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/7ebf57a499b55f39cbb6f2d42b6c6705_mas-962s03.jpg",
+    "topics": [
+      "Humanities",
+      "Teaching and Education",
+      "Philosophy",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13875,
+        "run_id": "640d232bb56f1f0d215c474a0fb29090",
+        "short_description": "This course examines the philosophical and theoretical foundations of constructionism as a paradigm for formulating and evaluating new theories for learning and approaches to education. One of the goals of this course is to help new learning researchers situate their work within the constructionist framework through readings and projects that will focus on the rich interplay between the process of knowledge construction and the development and co-evolution of ideas, learners, tools, and contexts.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "The Nature of Constructionist Learning",
+        "image_src": "/courses/mas-962-the-nature-of-constructionist-learning-spring-2003/7ebf57a499b55f39cbb6f2d42b6c6705_mas-962s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bakhtiar Mikhak"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-962-the-nature-of-constructionist-learning-spring-2003"
+      }
+    ],
+    "created": "2020-12-04T02:45:37.023494Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.962",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.962"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8837,
+    "course_id": "feefd0f6a180f9d305d7206ff4df8fa4+MAS.836",
+    "coursenum": "MAS.836",
+    "short_description": "This course is a broad introduction to a host of sensor technologies, illustrated by applications drawn from human-computer interfaces and ubiquitous computing. After extensively reviewing electronics for sensor signal conditioning, the lectures cover the principles and operation of a variety of sensor architectures and modalities, including pressure, strain, displacement, proximity, thermal, electric and magnetic field, optical, acoustic, RF, inertial, and bioelectric. Simple sensor processing algorithms and wired and wireless network standards are also discussed. Students are required to complete written assignments, a set of laboratories, and a final project.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Sensor Technologies for Interactive Environments",
+    "image_src": "/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/0d7be60808a4d0e0843f1a87c4c991d5_mas-836s11.jpg",
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Digital Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14804,
+        "run_id": "feefd0f6a180f9d305d7206ff4df8fa4",
+        "short_description": "This course is a broad introduction to a host of sensor technologies, illustrated by applications drawn from human-computer interfaces and ubiquitous computing. After extensively reviewing electronics for sensor signal conditioning, the lectures cover the principles and operation of a variety of sensor architectures and modalities, including pressure, strain, displacement, proximity, thermal, electric and magnetic field, optical, acoustic, RF, inertial, and bioelectric. Simple sensor processing algorithms and wired and wireless network standards are also discussed. Students are required to complete written assignments, a set of laboratories, and a final project.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "Sensor Technologies for Interactive Environments",
+        "image_src": "/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/0d7be60808a4d0e0843f1a87c4c991d5_mas-836s11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Joseph Paradiso"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T21:59:03.364714Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.836",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.836"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8806,
+    "course_id": "b0ba8bb5e9a087ad052c2e62fdc1deb9+2.717J",
+    "coursenum": "2.717J",
+    "short_description": "This course concerns the theory and practice of optical methods in engineering and system design, with an emphasis on diffraction, statistical optics, holography, and imaging. It provides the engineering methodology skills necessary to incorporate optical components in systems serving diverse areas such as precision engineering and metrology, bio-imaging, and computing (sensors, data storage, communication in multi-processor systems). Experimental demonstrations and a design project are included.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Optical Engineering",
+    "image_src": "/courses/2-717j-optical-engineering-spring-2002/c2248f3aa7fc26291c269e9acee1e208_2-717js02.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Quantum Mechanics",
+      "Electromagnetism",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14765,
+        "run_id": "b0ba8bb5e9a087ad052c2e62fdc1deb9",
+        "short_description": "This course concerns the theory and practice of optical methods in engineering and system design, with an emphasis on diffraction, statistical optics, holography, and imaging. It provides the engineering methodology skills necessary to incorporate optical components in systems serving diverse areas such as precision engineering and metrology, bio-imaging, and computing (sensors, data storage, communication in multi-processor systems). Experimental demonstrations and a design project are included.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-01-01T00:00:00Z",
+        "best_end_date": "2002-05-31T00:00:00Z",
+        "title": "Optical Engineering",
+        "image_src": "/courses/2-717j-optical-engineering-spring-2002/c2248f3aa7fc26291c269e9acee1e208_2-717js02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. George Barbastathis"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-717j-optical-engineering-spring-2002"
+      }
+    ],
+    "created": "2020-03-03T21:55:06.474597Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.717J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.717J"
+      },
+      {
+        "coursenum": "MAS.857J",
+        "department": "Media Arts and Sciences",
+        "primary": false,
+        "sort_coursenum": "MAS.857J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11970,
+    "course_id": "6d4dd94c698390ea69d240f220d8a892+RES.MAS-002",
+    "coursenum": "RES.MAS-002",
+    "short_description": "This resource is to support teachers and educators to run Day of AI activities in their classrooms through curriculum packages and teacher training, all of which is available at no cost to participants.\n\nDeveloped by leading faculty and educators from [MIT RAISE](https://raise.mit.edu/), [the curriculum](https://www.dayofai.org/curriculum) features up to four hours of hands-on activities that engage kids in creative discovery, discussion, and play as they learn the fundamentals of AI, investigate the societal impact of these technologies, and bring artificial intelligence to life through lessons and activities that are accessible to all, even those with no computer science or technical background.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Day of AI",
+    "image_src": "/courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This resource is to support teachers and educators to run Day of AI activities in their classrooms through curriculum packages and teacher training, all of which is available at no cost to participants.\n\nDeveloped by leading faculty and educators from [MIT RAISE](https://raise.mit.edu/), [the curriculum](https://www.dayofai.org/curriculum) features up to four hours of hands-on activities that engage kids in creative discovery, discussion, and play as they learn the fundamentals of AI, investigate the societal impact of these technologies, and bring artificial intelligence to life through lessons and activities that are accessible to all, even those with no computer science or technical background.",
+        "run_id": "6d4dd94c698390ea69d240f220d8a892",
+        "year": 2022,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2022-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Day of AI",
+        "image_src": "/courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg",
+        "instructors": [
+          "MIT RAISE "
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2022-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 19985,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-mas-002-day-of-ai-spring-2022",
+        "start_date": null
+      }
+    ],
+    "created": "2022-02-03T09:03:30.449661Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.MAS-002",
+        "sort_coursenum": "RES.MAS-002",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8826,
+    "course_id": "0088ec5b36eb33b3c47bec2ba1182dbc+MAS.714J",
+    "coursenum": "MAS.714J",
+    "short_description": "This course explores the design of innovative educational technologies and creative learning environments, drawing on specific case studies such as the LEGO® Programmable Brick, Scratch software and Computer Clubhouse after-school learning centers. Includes activities with new educational technologies, reflections on learning experiences, and discussion of strategies and principles underlying the design of new tools and activities.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Technologies for Creative Learning",
+    "image_src": "/courses/mas-714j-technologies-for-creative-learning-fall-2009/52f5b523c692d20747464e48c72e1b96_mas-714jf09.jpg",
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16893,
+        "run_id": "0088ec5b36eb33b3c47bec2ba1182dbc",
+        "short_description": "This course explores the design of innovative educational technologies and creative learning environments, drawing on specific case studies such as the LEGO® Programmable Brick, Scratch software and Computer Clubhouse after-school learning centers. Includes activities with new educational technologies, reflections on learning experiences, and discussion of strategies and principles underlying the design of new tools and activities.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "Technologies for Creative Learning",
+        "image_src": "/courses/mas-714j-technologies-for-creative-learning-fall-2009/52f5b523c692d20747464e48c72e1b96_mas-714jf09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Karen Brennan",
+          "Prof. Mitchel Resnick"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-714j-technologies-for-creative-learning-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T21:57:00.886253Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Science, Technology, and Society"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Projects with Examples",
+      "Activity Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.714J",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.714J"
+      },
+      {
+        "coursenum": "STS.445J",
+        "department": "Science, Technology, and Society",
+        "primary": false,
+        "sort_coursenum": "STS.445J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9134,
+    "course_id": "18c3d87cff7ad0d55672b3aa38395c00+MAS.878",
+    "coursenum": "MAS.878",
+    "short_description": "This class deals with interactive art. Visiting artists will discuss their work from a theoretical and practical perspective. Discussions of the history of interactive digital art and contemporary issues in the field will take place. Students will develop an interactive art project for a final exhibition or submit a short paper.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics in Multimedia Production: Experiences in Interactive Art",
+    "image_src": "/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/67252d7e738d825e9593d96a8de35e81_mas-878f03.jpg",
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15259,
+        "run_id": "18c3d87cff7ad0d55672b3aa38395c00",
+        "short_description": "This class deals with interactive art. Visiting artists will discuss their work from a theoretical and practical perspective. Discussions of the history of interactive digital art and contemporary issues in the field will take place. Students will develop an interactive art project for a final exhibition or submit a short paper.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Special Topics in Multimedia Production: Experiences in Interactive Art",
+        "image_src": "/courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003/67252d7e738d825e9593d96a8de35e81_mas-878f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stephen Benton",
+          "Prof. Glorianna Davenport",
+          "Ali Mazalek"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003"
+      }
+    ],
+    "created": "2020-03-03T22:30:56.515686Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.878",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.878"
+      },
+      {
+        "coursenum": "MAS.478",
+        "department": "Media Arts and Sciences",
+        "primary": false,
+        "sort_coursenum": "MAS.478"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9475,
+    "course_id": "062de6cc3ad57678c591526e6e397100+MAS.966",
+    "coursenum": "MAS.966",
+    "short_description": "Digital Anthropology is a Spring 2003 applied social science and media arts seminar, surveying the blossoming arena of digital-artifact enabled experimental sociology/anthropology. We will emphasize on both (a) Technology Testbeds – systematically deploying research lab prototypes and corporate pre-production products in a sample human organizational population and carefully observing the social consequences, and (b) Sociometrics – using digital artifacts to better observe and measure the complex social reality of interesting human systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Digital Anthropology",
+    "image_src": "/courses/mas-966-digital-anthropology-spring-2003/d5fdf7a6a6709b806e58ab7879b21a06_mas-966s03.jpg",
+    "topics": [
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15871,
+        "run_id": "062de6cc3ad57678c591526e6e397100",
+        "short_description": "Digital Anthropology is a Spring 2003 applied social science and media arts seminar, surveying the blossoming arena of digital-artifact enabled experimental sociology/anthropology. We will emphasize on both (a) Technology Testbeds – systematically deploying research lab prototypes and corporate pre-production products in a sample human organizational population and carefully observing the social consequences, and (b) Sociometrics – using digital artifacts to better observe and measure the complex social reality of interesting human systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Digital Anthropology",
+        "image_src": "/courses/mas-966-digital-anthropology-spring-2003/d5fdf7a6a6709b806e58ab7879b21a06_mas-966s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Alex Pentland"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-966-digital-anthropology-spring-2003"
+      }
+    ],
+    "created": "2020-03-03T23:15:09.002604Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Sloan School of Management"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.966",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.966"
+      },
+      {
+        "coursenum": "15.970",
+        "department": "Sloan School of Management",
+        "primary": false,
+        "sort_coursenum": "15.970"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9609,
+    "course_id": "969f320541dfdcb2456567ce2436a740+MAS.712",
+    "coursenum": "MAS.712",
+    "short_description": "As the digital revolution brings with it radical changes in how and what we learn, people must continue to learn all the time. New technologies make possible new approaches to learning, new contexts for learning, new tools to support learning, and new ideas of what can be learned. This course will explore these new opportunities for learning with a special focus on what can be learned through immersive, hands-on activities. Students will participate in (and reflect on) a variety of learning situations, and will use Media Lab technologies to develop new workshops, iteratively run and refine the workshops, and analyze how and what the workshop participants learn.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "How to Learn (Almost) Anything",
+    "image_src": "/courses/mas-712-how-to-learn-almost-anything-spring-2001/da9f2616a119f1452fb39e957834f3c8_mas-712s01.jpg",
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16155,
+        "run_id": "969f320541dfdcb2456567ce2436a740",
+        "short_description": "As the digital revolution brings with it radical changes in how and what we learn, people must continue to learn all the time. New technologies make possible new approaches to learning, new contexts for learning, new tools to support learning, and new ideas of what can be learned. This course will explore these new opportunities for learning with a special focus on what can be learned through immersive, hands-on activities. Students will participate in (and reflect on) a variety of learning situations, and will use Media Lab technologies to develop new workshops, iteratively run and refine the workshops, and analyze how and what the workshop participants learn.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2001,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2001-01-01T00:00:00Z",
+        "best_end_date": "2001-05-31T00:00:00Z",
+        "title": "How to Learn (Almost) Anything",
+        "image_src": "/courses/mas-712-how-to-learn-almost-anything-spring-2001/da9f2616a119f1452fb39e957834f3c8_mas-712s01.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bakhtiar Mikhak",
+          "Prof. Mitchel Resnick"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-712-how-to-learn-almost-anything-spring-2001"
+      }
+    ],
+    "created": "2020-03-03T23:29:59.980239Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.712",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.712"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9679,
+    "course_id": "d94da0f7e2e6982bb7e9e70f70ed5f67+MAS.666",
+    "coursenum": "MAS.666",
+    "short_description": "This class surveys developmental entrepreneurship via case examples of both successful and failed businesses and generally grapples with deploying and diffusing products and services through entrepreneurial action. By drawing on live and historical cases, especially from South Asia, Africa, Latin America as well as Eastern Europe, China, and other developing regions, we seek to cover the broad spectrum of challenges and opportunities facing developmental entrepreneurs. Finally, we explore a range of established and emerging business models as well as new business opportunities enabled by developmental technologies developed in MIT labs and beyond.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Developmental Entrepreneurship",
+    "image_src": "/courses/mas-666-developmental-entrepreneurship-fall-2003/85f71ca49f7aae933a806189a573046d_mas-666f03.jpg",
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Business",
+      "International Development"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16311,
+        "run_id": "d94da0f7e2e6982bb7e9e70f70ed5f67",
+        "short_description": "This class surveys developmental entrepreneurship via case examples of both successful and failed businesses and generally grapples with deploying and diffusing products and services through entrepreneurial action. By drawing on live and historical cases, especially from South Asia, Africa, Latin America as well as Eastern Europe, China, and other developing regions, we seek to cover the broad spectrum of challenges and opportunities facing developmental entrepreneurs. Finally, we explore a range of established and emerging business models as well as new business opportunities enabled by developmental technologies developed in MIT labs and beyond.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Developmental Entrepreneurship",
+        "image_src": "/courses/mas-666-developmental-entrepreneurship-fall-2003/85f71ca49f7aae933a806189a573046d_mas-666f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Alex Pentland"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-666-developmental-entrepreneurship-fall-2003"
+      }
+    ],
+    "created": "2020-03-03T23:37:32.739554Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Sloan School of Management"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.666",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.666"
+      },
+      {
+        "coursenum": "15.971",
+        "department": "Sloan School of Management",
+        "primary": false,
+        "sort_coursenum": "15.971"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9832,
+    "course_id": "0b114fee82246dffc51aaddfc5e1ec3c+MAS.531",
+    "coursenum": "MAS.531",
+    "short_description": "A computational camera attempts to digitally capture the essence of visual information by exploiting the synergistic combination of task-specific optics, illumination, sensors and processing. In this course we will study this emerging multi-disciplinary field at the intersection of signal processing, applied optics, computer graphics and vision, electronics, art, and online sharing through social networks. If novel cameras can be designed to sample light in radically new ways, then rich and useful forms of visual information may be recorded — beyond those present in traditional photographs. Furthermore, if computational process can be made aware of these novel imaging models, them the scene can be analyzed in higher dimensions and novel aesthetic renderings of the visual information can be synthesized.\n\nWe will discuss and play with thermal cameras, multi-spectral cameras, high-speed, and 3D range-sensing cameras and camera arrays. We will learn about opportunities in scientific and medical imaging, mobile-phone based photography, camera for HCI and sensors mimicking animal eyes. We will learn about the complete camera pipeline. In several hands-on projects we will build physical imaging prototypes and understand how each stage of the imaging process can be manipulated.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Computational Camera and Photography",
+    "image_src": "/courses/mas-531-computational-camera-and-photography-fall-2009/e384ffa6dc782eac4a6775c56f709083_mas-531f09.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Signal Processing",
+      "Digital Media",
+      "Photography",
+      "Graphics and Visualization"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16661,
+        "run_id": "0b114fee82246dffc51aaddfc5e1ec3c",
+        "short_description": "A computational camera attempts to digitally capture the essence of visual information by exploiting the synergistic combination of task-specific optics, illumination, sensors and processing. In this course we will study this emerging multi-disciplinary field at the intersection of signal processing, applied optics, computer graphics and vision, electronics, art, and online sharing through social networks. If novel cameras can be designed to sample light in radically new ways, then rich and useful forms of visual information may be recorded — beyond those present in traditional photographs. Furthermore, if computational process can be made aware of these novel imaging models, them the scene can be analyzed in higher dimensions and novel aesthetic renderings of the visual information can be synthesized.\n\nWe will discuss and play with thermal cameras, multi-spectral cameras, high-speed, and 3D range-sensing cameras and camera arrays. We will learn about opportunities in scientific and medical imaging, mobile-phone based photography, camera for HCI and sensors mimicking animal eyes. We will learn about the complete camera pipeline. In several hands-on projects we will build physical imaging prototypes and understand how each stage of the imaging process can be manipulated.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "Computational Camera and Photography",
+        "image_src": "/courses/mas-531-computational-camera-and-photography-fall-2009/e384ffa6dc782eac4a6775c56f709083_mas-531f09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Ramesh Raskar"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-531-computational-camera-and-photography-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T23:57:55.135725Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Programming Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.531",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.531"
+      },
+      {
+        "coursenum": "MAS.131",
+        "department": "Media Arts and Sciences",
+        "primary": false,
+        "sort_coursenum": "MAS.131"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10039,
+    "course_id": "626bec5a79997d9fa14c34959ae34679+MAS.450",
+    "coursenum": "MAS.450",
+    "short_description": "MAS.450 is a laboratory course about holography and holographic imaging.\n\nThis course teaches holography from a scientific and analytical point of view, moving from interference and diffraction to imaging of single points to the display of three-dimensional images. Using a \"hands-on\" approach, students explore the underlying physical phenomena that make holograms work, as well as designing laboratory setups to make their own images. The course also teaches mathematical techniques that allow the behavior of holography to be understood, predicted, and harnessed.\n\nHolography today brings together the fields of optics, chemistry, computer science, electrical engineering, visualization, three-dimensional display, and human perception in a unique and comprehensive way. As such, MAS.450 offers interesting and useful exposure to a wide range of principles and ideas. As a course satisfying the Institute Laboratory Requirement, MAS.450 teaches about science, scientific research, and the scientific method through observation and exploration, hinting at the excitement that inventors feel before they put their final equations to paper.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Holographic Imaging",
+    "image_src": "/courses/mas-450-holographic-imaging-spring-2003/e3986afb4e8937475499c11544fccbbc_mas-450s03.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Media Studies",
+      "Fine Arts",
+      "Cognitive Science",
+      "Atomic, Molecular, Optical Physics",
+      "Graphics and Visualization"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17185,
+        "run_id": "626bec5a79997d9fa14c34959ae34679",
+        "short_description": "MAS.450 is a laboratory course about holography and holographic imaging.\n\nThis course teaches holography from a scientific and analytical point of view, moving from interference and diffraction to imaging of single points to the display of three-dimensional images. Using a \"hands-on\" approach, students explore the underlying physical phenomena that make holograms work, as well as designing laboratory setups to make their own images. The course also teaches mathematical techniques that allow the behavior of holography to be understood, predicted, and harnessed.\n\nHolography today brings together the fields of optics, chemistry, computer science, electrical engineering, visualization, three-dimensional display, and human perception in a unique and comprehensive way. As such, MAS.450 offers interesting and useful exposure to a wide range of principles and ideas. As a course satisfying the Institute Laboratory Requirement, MAS.450 teaches about science, scientific research, and the scientific method through observation and exploration, hinting at the excitement that inventors feel before they put their final equations to paper.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Holographic Imaging",
+        "image_src": "/courses/mas-450-holographic-imaging-spring-2003/e3986afb4e8937475499c11544fccbbc_mas-450s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stephen Benton",
+          "Prof. Michael Halle"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-450-holographic-imaging-spring-2003"
+      }
+    ],
+    "created": "2020-03-04T00:40:16.573581Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.450",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.450"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10905,
+    "course_id": "0cc5c17b2acf313869fce2f97e638b24+MAS.961",
+    "coursenum": "MAS.961",
+    "short_description": "This course will provide an overview of a new vision for Human-Computer Interaction (HCI) in which people are surrounded by intelligent and intuitive interfaces embedded in the everyday objects around them. It will focus on understanding enabling technologies and studying applications and experiments, and, to a lesser extent, it will address the socio-cultural impact. Students will read and discuss the most relevant articles in related areas: smart environments, smart networked objects, augmented and mixed realities, ubiquitous computing, pervasive computing, tangible computing, intelligent interfaces and wearable computing. Finally, they will be asked to come up with new ideas and start innovative projects in this area.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Ambient Intelligence",
+    "image_src": "/courses/mas-961-ambient-intelligence-spring-2005/27822f98e8a12a5f3ebc46b598a049e0_mas-961s05.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Human-Computer Interfaces"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16034,
+        "run_id": "0cc5c17b2acf313869fce2f97e638b24",
+        "short_description": "This course will provide an overview of a new vision for Human-Computer Interaction (HCI) in which people are surrounded by intelligent and intuitive interfaces embedded in the everyday objects around them. It will focus on understanding enabling technologies and studying applications and experiments, and, to a lesser extent, it will address the socio-cultural impact. Students will read and discuss the most relevant articles in related areas: smart environments, smart networked objects, augmented and mixed realities, ubiquitous computing, pervasive computing, tangible computing, intelligent interfaces and wearable computing. Finally, they will be asked to come up with new ideas and start innovative projects in this area.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Ambient Intelligence",
+        "image_src": "/courses/mas-961-ambient-intelligence-spring-2005/27822f98e8a12a5f3ebc46b598a049e0_mas-961s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Patricia Maes"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-961-ambient-intelligence-spring-2005"
+      }
+    ],
+    "created": "2020-12-04T02:41:31.407818Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.961",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.961"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10925,
+    "course_id": "25b63b559a42351ab5a7a86dfcc4c5de+MAS.965",
+    "coursenum": "MAS.965",
+    "short_description": "This course examines the issues, principles, and challenges toward building relational machines through a combination of studio-style design and critique along with lecture, lively discussion of course readings, and assignments. Insights from social psychology, human-computer interaction, and design will be examined, as well as how these ideas are manifest in a broad range of applications for software agents and robots.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Relational Machines",
+    "image_src": "/courses/mas-965-relational-machines-spring-2005/169eb340b3f07123238332e56a58ddc8_mas-965s05.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Electrical Engineering",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Robotics and Control Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14933,
+        "run_id": "25b63b559a42351ab5a7a86dfcc4c5de",
+        "short_description": "This course examines the issues, principles, and challenges toward building relational machines through a combination of studio-style design and critique along with lecture, lively discussion of course readings, and assignments. Insights from social psychology, human-computer interaction, and design will be examined, as well as how these ideas are manifest in a broad range of applications for software agents and robots.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Relational Machines",
+        "image_src": "/courses/mas-965-relational-machines-spring-2005/169eb340b3f07123238332e56a58ddc8_mas-965s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Cynthia Breazeal"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-965-relational-machines-spring-2005"
+      }
+    ],
+    "created": "2020-12-04T02:41:36.952393Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.965",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.965"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7733,
+    "course_id": "b174d8e4face76d829e36336e1d82187+MAS.S62",
+    "coursenum": "MAS.S62",
+    "short_description": "Bitcoin and other cryptographic currencies have gained attention over the years as the systems continue to evolve. This course looks at the design of Bitcoin and other cryptocurrencies and how they function in practice, focusing on cryptography, game theory, and network architecture.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Cryptocurrency Engineering and Design",
+    "image_src": "/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/3342fe0c3491729d56718ebf8f502fb8_mas-s62s18.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering",
+      "Data Mining",
+      "Algorithms and Data Structures"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13468,
+        "run_id": "b174d8e4face76d829e36336e1d82187",
+        "short_description": "Bitcoin and other cryptographic currencies have gained attention over the years as the systems continue to evolve. This course looks at the design of Bitcoin and other cryptocurrencies and how they function in practice, focusing on cryptography, game theory, and network architecture.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2018,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2018-01-01T00:00:00Z",
+        "best_end_date": "2018-05-31T00:00:00Z",
+        "title": "Cryptocurrency Engineering and Design",
+        "image_src": "/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/3342fe0c3491729d56718ebf8f502fb8_mas-s62s18.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Tadge Dryja",
+          "Neha Narula"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018"
+      }
+    ],
+    "created": "2020-03-03T20:27:57.068385Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.S62",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.S62"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8114,
+    "course_id": "db9501d1efc122621af369704acd9485+MAS.962",
+    "coursenum": "MAS.962",
+    "short_description": "This project-based course will explore the future of textiles, focusing particularly on blending rich crafting traditions with new technologies. Topics will include textile-based electronics, textile fabrication, algorithmic pattern design, and composites. We will experiment with a wide range of fibers, yarns, and fabrics including traditional materials like wool and cotton as well as metal fibers and yarns, fusible plastics, papers, and resins. We will also explore techniques like felting, laser cutting, CNC knitting, digital printing, and CNC embroidery. Students will complete weekly hands-on assignments and a final project.\nWARNING NOTICE:\n\nAn activity described in this course is potentially hazardous and requires a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics: New Textiles",
+    "image_src": "/courses/mas-962-special-topics-new-textiles-spring-2010/cc4f2e567ab0e72fb2fde7f077d43e00_mas-962s10.jpg",
+    "topics": [
+      "Engineering",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Materials Science and Engineering",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16450,
+        "run_id": "db9501d1efc122621af369704acd9485",
+        "short_description": "This project-based course will explore the future of textiles, focusing particularly on blending rich crafting traditions with new technologies. Topics will include textile-based electronics, textile fabrication, algorithmic pattern design, and composites. We will experiment with a wide range of fibers, yarns, and fabrics including traditional materials like wool and cotton as well as metal fibers and yarns, fusible plastics, papers, and resins. We will also explore techniques like felting, laser cutting, CNC knitting, digital printing, and CNC embroidery. Students will complete weekly hands-on assignments and a final project.\nWARNING NOTICE:\n\nAn activity described in this course is potentially hazardous and requires a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Special Topics: New Textiles",
+        "image_src": "/courses/mas-962-special-topics-new-textiles-spring-2010/cc4f2e567ab0e72fb2fde7f077d43e00_mas-962s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Leah Buechley"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-962-special-topics-new-textiles-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T20:55:14.740894Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Other Video",
+      "Image Gallery",
+      "Projects with Examples",
+      "Design Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.962",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.962"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8176,
+    "course_id": "999b8539deb6475648627cd22deaacfb+MAS.742",
+    "coursenum": "MAS.742",
+    "short_description": "This class investigates cognitive science and technology as it is applied to the industrial design process. The class introduces prototyping techniques and approaches for objective evaluation as part of the design process. Students practice evaluating products with mechanical and electronic aspects. Evaluation processes are applied to creating functioning smart product prototypes. This is a project oriented subject that draws upon engineering, aesthetic, and creative skills. It is geared toward students interested in creating physical products which encompass electronics and computers, aimed at including them in smart scenarios. Students in the class will present readings, learn prototyping skills, create a product prototype, and complete a publication style paper.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Industrial Design Intelligence: A Cognitive Approach to Engineering",
+    "image_src": "/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/401addf07f58ab98b111ff25471c334d_mas-742f03.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Electronics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Cognitive Science",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13949,
+        "run_id": "999b8539deb6475648627cd22deaacfb",
+        "short_description": "This class investigates cognitive science and technology as it is applied to the industrial design process. The class introduces prototyping techniques and approaches for objective evaluation as part of the design process. Students practice evaluating products with mechanical and electronic aspects. Evaluation processes are applied to creating functioning smart product prototypes. This is a project oriented subject that draws upon engineering, aesthetic, and creative skills. It is geared toward students interested in creating physical products which encompass electronics and computers, aimed at including them in smart scenarios. Students in the class will present readings, learn prototyping skills, create a product prototype, and complete a publication style paper.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Industrial Design Intelligence: A Cognitive Approach to Engineering",
+        "image_src": "/courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003/401addf07f58ab98b111ff25471c334d_mas-742f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Ted Selker"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003"
+      }
+    ],
+    "created": "2020-03-03T21:01:00.756796Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.742",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.742"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8425,
+    "course_id": "961c0f53e27fd059a5ba23c7773cfa5c+MAS.964",
+    "coursenum": "MAS.964",
+    "short_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nCourse requirements will consist of critiques of class readings (about 2 papers/week), and a final project (paper or computer implementation project). Grades will be based primarily on the projects, as well as a small component for class and online participation",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Common Sense Reasoning for Interactive Applications",
+    "image_src": "/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/d272274cd5f7e5ac5f1d806e41420678_mas-964f02.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Software Design and Engineering",
+      "Human-Computer Interfaces"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14264,
+        "run_id": "961c0f53e27fd059a5ba23c7773cfa5c",
+        "short_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nCourse requirements will consist of critiques of class readings (about 2 papers/week), and a final project (paper or computer implementation project). Grades will be based primarily on the projects, as well as a small component for class and online participation",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-09-01T00:00:00Z",
+        "best_end_date": "2002-12-31T00:00:00Z",
+        "title": "Common Sense Reasoning for Interactive Applications",
+        "image_src": "/courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002/d272274cd5f7e5ac5f1d806e41420678_mas-964f02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Henry Lieberman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002"
+      }
+    ],
+    "created": "2020-03-03T21:21:19.466832Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.964",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.964"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8570,
+    "course_id": "dd05184171f6ae71568b359e3c6f073b+MAS.963",
+    "coursenum": "MAS.963",
+    "short_description": "This course explores the potential impact of modern technologies on the school reforms debate. The first part of the course provides an overview of the current state of the school reform debate and reviews the ideas in the progressive school reform movement, as well as examining the new public charter school in Cambridge as a case study. The second part of the course requires critical study of research projects that hold promise as inspirations and guidelines for concrete multidisciplinary activities and curriculum for progressive charter schools. The course concludes with a discussion of the challenges in scaling the successful innovations in school reform to new contexts.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Technological Tools for School Reform",
+    "image_src": "/courses/mas-963-technological-tools-for-school-reform-fall-2005/66c90a7ecd943972db344ab4c0804151_mas-963f05.jpg",
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14573,
+        "run_id": "dd05184171f6ae71568b359e3c6f073b",
+        "short_description": "This course explores the potential impact of modern technologies on the school reforms debate. The first part of the course provides an overview of the current state of the school reform debate and reviews the ideas in the progressive school reform movement, as well as examining the new public charter school in Cambridge as a case study. The second part of the course requires critical study of research projects that hold promise as inspirations and guidelines for concrete multidisciplinary activities and curriculum for progressive charter schools. The course concludes with a discussion of the challenges in scaling the successful innovations in school reform to new contexts.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Technological Tools for School Reform",
+        "image_src": "/courses/mas-963-technological-tools-for-school-reform-fall-2005/66c90a7ecd943972db344ab4c0804151_mas-963f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bakhtiar Mikhak"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-963-technological-tools-for-school-reform-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T21:31:53.598100Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.963",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.963"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8614,
+    "course_id": "7159bfef02eb0385f80e6907d22cb114+4.110J",
+    "coursenum": "4.110J",
+    "short_description": "This course explores the reciprocal relationships among design, science, and technology by covering a wide range of topics including industrial design, architecture, visualization and perception, design computation, material ecology, and environmental design and sustainability. Students will examine how transformations in science and technology have influenced design thinking and vice versa, as well as develop methodologies for design research and collaborate on design solutions to interdisciplinary problems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Design Across Scales, Disciplines and Problem Contexts",
+    "image_src": "/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3fe2b0c7a2d9d714237b7d0c456f77ce_4-110js13.jpg",
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Game Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14495,
+        "run_id": "7159bfef02eb0385f80e6907d22cb114",
+        "short_description": "This course explores the reciprocal relationships among design, science, and technology by covering a wide range of topics including industrial design, architecture, visualization and perception, design computation, material ecology, and environmental design and sustainability. Students will examine how transformations in science and technology have influenced design thinking and vice versa, as well as develop methodologies for design research and collaborate on design solutions to interdisciplinary problems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "title": "Design Across Scales, Disciplines and Problem Contexts",
+        "image_src": "/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3fe2b0c7a2d9d714237b7d0c456f77ce_4-110js13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Neri Oxman",
+          "Prof. Meejin Yoon"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013"
+      }
+    ],
+    "created": "2020-03-03T21:34:57.541313Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Architecture",
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "architecture",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "4.110J",
+        "department": "Architecture",
+        "primary": true,
+        "sort_coursenum": "04.110J"
+      },
+      {
+        "coursenum": "4.S64,MAS.330J",
+        "department": "Architecture",
+        "primary": false,
+        "sort_coursenum": "04.S64,MAS.330J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8911,
+    "course_id": "bea83bb68a69b9f54187a47222990988+MAS.622J",
+    "coursenum": "MAS.622J",
+    "short_description": "This class deals with the fundamentals of characterizing and recognizing patterns and features of interest in numerical data. We discuss the basic tools and theory for signal understanding problems with applications to user modeling, affect recognition, speech recognition and understanding, computer vision, physiological analysis, and more. We also cover decision theory, statistical classification, maximum likelihood and Bayesian estimation, nonparametric methods, unsupervised learning and clustering. Additional topics on machine and human learning from active research are also talked about in the class.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Pattern Recognition and Analysis",
+    "image_src": "/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/b25342ba460a1b4b373299237c7e735e_mas-622jf06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Cognitive Science"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14910,
+        "run_id": "bea83bb68a69b9f54187a47222990988",
+        "short_description": "This class deals with the fundamentals of characterizing and recognizing patterns and features of interest in numerical data. We discuss the basic tools and theory for signal understanding problems with applications to user modeling, affect recognition, speech recognition and understanding, computer vision, physiological analysis, and more. We also cover decision theory, statistical classification, maximum likelihood and Bayesian estimation, nonparametric methods, unsupervised learning and clustering. Additional topics on machine and human learning from active research are also talked about in the class.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Pattern Recognition and Analysis",
+        "image_src": "/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/b25342ba460a1b4b373299237c7e735e_mas-622jf06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Media Lab Faculty and Staff",
+          "Bo Morgan",
+          "Prof. Rosalind W. Picard",
+          "Andrea Thomaz"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-622j-pattern-recognition-and-analysis-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T22:05:00.455052Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Civil and Environmental Engineering"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects",
+      "Programming Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.622J",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.622J"
+      },
+      {
+        "coursenum": "1.126J",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.126J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8906,
+    "course_id": "4825ea1d6c952638269a2438ff732660+MAS.S63",
+    "coursenum": "MAS.S63",
+    "short_description": "Students will learn to fabricate, remix, and design detection and monitoring devices for health following the core focus of the Tricorder: a portable, handheld diagnostic device which can brings health solutions to consumers at home or in remote parts of the world. Inspired by the Tricorder X-Prize (with a purse of $10 million), students will aim to create specific component technologies that integrate into a comprehensive Tricorder mechanism capable of reading vital signs and specific disease biomarker detection. Component areas will include optical, electric, biochemical, and molecular diagnostics.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Engineering Health: Towards the Tricorder",
+    "image_src": "/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/02586f6bbafae0cd921bd9671531cbf0_mas-s63f13.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Biomedical Enterprise"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14904,
+        "run_id": "4825ea1d6c952638269a2438ff732660",
+        "short_description": "Students will learn to fabricate, remix, and design detection and monitoring devices for health following the core focus of the Tricorder: a portable, handheld diagnostic device which can brings health solutions to consumers at home or in remote parts of the world. Inspired by the Tricorder X-Prize (with a purse of $10 million), students will aim to create specific component technologies that integrate into a comprehensive Tricorder mechanism capable of reading vital signs and specific disease biomarker detection. Component areas will include optical, electric, biochemical, and molecular diagnostics.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Engineering Health: Towards the Tricorder",
+        "image_src": "/courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/02586f6bbafae0cd921bd9671531cbf0_mas-s63f13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Jose Gomez-Marquez",
+          "Prof. Ramesh Raskar",
+          "Anna Young"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013"
+      }
+    ],
+    "created": "2020-03-03T22:04:36.641591Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.S63",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.S63"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8950,
+    "course_id": "9ed50bc9ee873500faf3aa27c19d51c8+MAS.110",
+    "coursenum": "MAS.110",
+    "short_description": "This class covers the history of 20th century art and design from the perspective of the technologist. Methods for visual analysis, oral critique, and digital expression are introduced. Class projects this term use the OLPC XO (One Laptop Per Child) laptop, Csound and Python software.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fundamentals of Computational Media Design",
+    "image_src": "/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/8f54107db0feaf5d14fbc3b12fc05dc5_mas-110f08.jpg",
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Art History",
+      "Digital Media",
+      "Graphic Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14976,
+        "run_id": "9ed50bc9ee873500faf3aa27c19d51c8",
+        "short_description": "This class covers the history of 20th century art and design from the perspective of the technologist. Methods for visual analysis, oral critique, and digital expression are introduced. Class projects this term use the OLPC XO (One Laptop Per Child) laptop, Csound and Python software.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "Fundamentals of Computational Media Design",
+        "image_src": "/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/8f54107db0feaf5d14fbc3b12fc05dc5_mas-110f08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. V. Michael Bove",
+          "Dr. Henry Holtzman",
+          "Prof. David Small",
+          "Prof. Barry Vercoe"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-110-fundamentals-of-computational-media-design-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T22:08:54.921840Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Programming Assignments",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.110",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.110"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9344,
+    "course_id": "bf60b5092c2fd04f4e3c9182e429b5f5+MAS.961",
+    "coursenum": "MAS.961",
+    "short_description": "Networks are a ubiquitous way to represent complex systems, including those in the social and economic sciences. The goal of the course is to equip students with conceptual tools that can help them understand complex systems that emerge in both nature and social systems. This is a course intended for a general audience and will discuss applications of networks and complexity to diverse systems, including epidemic spreading, social networks and the evolution of economic development.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Networks, Complexity and Its Applications",
+    "image_src": "/courses/mas-961-networks-complexity-and-its-applications-spring-2011/1d0610c00cfb2953ed13e03338dbdcd5_mas-961s11.jpg",
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Organizational Behavior",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17051,
+        "run_id": "bf60b5092c2fd04f4e3c9182e429b5f5",
+        "short_description": "Networks are a ubiquitous way to represent complex systems, including those in the social and economic sciences. The goal of the course is to equip students with conceptual tools that can help them understand complex systems that emerge in both nature and social systems. This is a course intended for a general audience and will discuss applications of networks and complexity to diverse systems, including epidemic spreading, social networks and the evolution of economic development.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "Networks, Complexity and Its Applications",
+        "image_src": "/courses/mas-961-networks-complexity-and-its-applications-spring-2011/1d0610c00cfb2953ed13e03338dbdcd5_mas-961s11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Cesar Hidalgo"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-961-networks-complexity-and-its-applications-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T22:59:51.988856Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.961",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.961"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9822,
+    "course_id": "03076a618eee445e53e99398dd284211+MAS.863",
+    "coursenum": "MAS.863",
+    "short_description": "This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "How to Make (Almost) Anything",
+    "image_src": "/courses/mas-863-how-to-make-almost-anything-fall-2002/2163303b679d345cd6e715248a29fd20_mas-863f02.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16633,
+        "run_id": "03076a618eee445e53e99398dd284211",
+        "short_description": "This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-09-01T00:00:00Z",
+        "best_end_date": "2002-12-31T00:00:00Z",
+        "title": "How to Make (Almost) Anything",
+        "image_src": "/courses/mas-863-how-to-make-almost-anything-fall-2002/2163303b679d345cd6e715248a29fd20_mas-863f02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Isaac Chuang",
+          "Prof. Neil Gershenfeld"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-863-how-to-make-almost-anything-fall-2002"
+      }
+    ],
+    "created": "2020-03-03T23:55:53.100617Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.863",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.863"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9854,
+    "course_id": "712d85bbbf3dc88dfd0e2fa8f7fcff09+MAS.865J",
+    "coursenum": "MAS.865J",
+    "short_description": "This is an advanced graduate course on quantum computation and quantum information, for which prior knowledge of quantum mechanics is required. Topics include quantum computation, advanced quantum error correction codes, fault tolerance, quantum algorithms beyond factoring, properties of quantum entanglement, and quantum protocols and communication complexity.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Quantum Information Science",
+    "image_src": "/courses/mas-865j-quantum-information-science-spring-2006/f90571e3d8ce6713e9d3ead06639903a_mas-865js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Theory of Computation",
+      "Quantum Mechanics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16712,
+        "run_id": "712d85bbbf3dc88dfd0e2fa8f7fcff09",
+        "short_description": "This is an advanced graduate course on quantum computation and quantum information, for which prior knowledge of quantum mechanics is required. Topics include quantum computation, advanced quantum error correction codes, fault tolerance, quantum algorithms beyond factoring, properties of quantum entanglement, and quantum protocols and communication complexity.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Quantum Information Science",
+        "image_src": "/courses/mas-865j-quantum-information-science-spring-2006/f90571e3d8ce6713e9d3ead06639903a_mas-865js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Isaac Chuang",
+          "Prof. Peter Shor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-865j-quantum-information-science-spring-2006"
+      }
+    ],
+    "created": "2020-03-04T00:00:47.638647Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Electrical Engineering and Computer Science",
+      "Physics"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.865J",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.865J"
+      },
+      {
+        "coursenum": "6.443J,8.371J",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.443J,8.371J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10901,
+    "course_id": "ccffa1a01ac37f73178a048280cc48ba+MAS.961",
+    "coursenum": "MAS.961",
+    "short_description": "This project-based course explores new design strategies for social interaction in the computer mediated world. Through weekly readings and design assignments we will examine topics such as:\n\n*   Data-based portraiture\n*   Depicting growth, change and the passage of time\n*   Visualizing conversations, crowds, and networks\n*   Interfaces for the connected city\n*   Mobile social technologies\n\nThe course emphasizes developing visual and interactive literacy.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics: Designing Sociable Media",
+    "image_src": "/courses/mas-961-special-topics-designing-sociable-media-spring-2008/8877ee4f9adfecbf6fdb504ebc29b999_mas-961s08.jpg",
+    "topics": [
+      "Communication",
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Graphics and Visualization"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17222,
+        "run_id": "ccffa1a01ac37f73178a048280cc48ba",
+        "short_description": "This project-based course explores new design strategies for social interaction in the computer mediated world. Through weekly readings and design assignments we will examine topics such as:\n\n*   Data-based portraiture\n*   Depicting growth, change and the passage of time\n*   Visualizing conversations, crowds, and networks\n*   Interfaces for the connected city\n*   Mobile social technologies\n\nThe course emphasizes developing visual and interactive literacy.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2008,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-01-01T00:00:00Z",
+        "best_end_date": "2008-05-31T00:00:00Z",
+        "title": "Special Topics: Designing Sociable Media",
+        "image_src": "/courses/mas-961-special-topics-designing-sociable-media-spring-2008/8877ee4f9adfecbf6fdb504ebc29b999_mas-961s08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Judith Donath"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-961-special-topics-designing-sociable-media-spring-2008"
+      }
+    ],
+    "created": "2020-12-04T02:41:31.065244Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.961",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.961"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10926,
+    "course_id": "36774e7fd71c321475d6937c40f21747+MAS.965",
+    "coursenum": "MAS.965",
+    "short_description": "Millions of people are on-line today and the number is rapidly growing - yet this virtual crowd is often invisible. In this course we will examine ways of visualizing people, their activities and their interactions. Students will study the cognitive and cultural basis for social visualization through readings drawn from sociology, psychology and interface design and they will explore new ways of depicting virtual crowds and mapping electronic spaces through a series of design exercises.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Social Visualization",
+    "image_src": "/courses/mas-965-social-visualization-fall-2004/9036e42f2ca60873fb5fbede44568d2e_mas-965f04.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Social Anthropology",
+      "Graphics and Visualization"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15551,
+        "run_id": "36774e7fd71c321475d6937c40f21747",
+        "short_description": "Millions of people are on-line today and the number is rapidly growing - yet this virtual crowd is often invisible. In this course we will examine ways of visualizing people, their activities and their interactions. Students will study the cognitive and cultural basis for social visualization through readings drawn from sociology, psychology and interface design and they will explore new ways of depicting virtual crowds and mapping electronic spaces through a series of design exercises.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Social Visualization",
+        "image_src": "/courses/mas-965-social-visualization-fall-2004/9036e42f2ca60873fb5fbede44568d2e_mas-965f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Judith Donath"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-965-social-visualization-fall-2004"
+      }
+    ],
+    "created": "2020-12-04T02:41:37.042376Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.965",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.965"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10924,
+    "course_id": "d0a66f33bbfa052f6244ad7c1d947fb6+MAS.965",
+    "coursenum": "MAS.965",
+    "short_description": "This course examines the issues, principles, and challenges toward building machines that cooperate with humans and with other machines. Philosophical, scientific, and theoretical insights into this subject will be covered, as well as how these ideas are manifest in both natural and artificial systems (e.g. software agents and robots).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics in Media Technology: Cooperative Machines",
+    "image_src": "/courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/dc372971d9009e706c92f0429714978f_mas-965f03.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13530,
+        "run_id": "d0a66f33bbfa052f6244ad7c1d947fb6",
+        "short_description": "This course examines the issues, principles, and challenges toward building machines that cooperate with humans and with other machines. Philosophical, scientific, and theoretical insights into this subject will be covered, as well as how these ideas are manifest in both natural and artificial systems (e.g. software agents and robots).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Special Topics in Media Technology: Cooperative Machines",
+        "image_src": "/courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/dc372971d9009e706c92f0429714978f_mas-965f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Cynthia Breazeal"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003"
+      }
+    ],
+    "created": "2020-12-04T02:41:36.755167Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.965",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.965"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11791,
+    "course_id": "ec80017186695c2ecba76b4fec9f9a26+MAS.962",
+    "coursenum": "MAS.962",
+    "short_description": "This class introduces studies in the algorithmic manipulation of type as word, symbol, and form. Problems covered will include semantic filtering, inherently unstable letterforms, and spoken letters. The history and traditions of typography, and their entry into the digital age, will be studied. Weekly assignments using Java® will explore new ways of looking at and manipulating type.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Digital Typography",
+    "image_src": "/courses/mas-962-digital-typography-fall-1997/1f4b0a0b32d2fe63146d1ef68fcb31c0_mas-962f97.jpg",
+    "topics": [
+      "Humanities",
+      "Linguistics",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Graphic Design",
+      "Semantics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17058,
+        "run_id": "ec80017186695c2ecba76b4fec9f9a26",
+        "short_description": "This class introduces studies in the algorithmic manipulation of type as word, symbol, and form. Problems covered will include semantic filtering, inherently unstable letterforms, and spoken letters. The history and traditions of typography, and their entry into the digital age, will be studied. Weekly assignments using Java® will explore new ways of looking at and manipulating type.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 1997,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "1997-09-01T00:00:00Z",
+        "best_end_date": "1997-12-31T00:00:00Z",
+        "title": "Digital Typography",
+        "image_src": "/courses/mas-962-digital-typography-fall-1997/1f4b0a0b32d2fe63146d1ef68fcb31c0_mas-962f97.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. John Maeda"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-962-digital-typography-fall-1997"
+      }
+    ],
+    "created": "2020-12-04T02:45:37.083486Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.962",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.962"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11788,
+    "course_id": "65230faa1186c39fc44b31761a4264d0+MAS.962",
+    "coursenum": "MAS.962",
+    "short_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nThis year's theme will be about how common sense knowledge differs in different languages and cultures, and how machine understanding of this knowledge can help increase communication between people, and between people and machines.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Common Sense Reasoning for Interactive Applications",
+    "image_src": "/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/72bb549cc02756d116aa4e30839a7e79_mas-962f06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Media Studies",
+      "Fine Arts",
+      "Cognitive Science",
+      "Human-Computer Interfaces"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15689,
+        "run_id": "65230faa1186c39fc44b31761a4264d0",
+        "short_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nThis year's theme will be about how common sense knowledge differs in different languages and cultures, and how machine understanding of this knowledge can help increase communication between people, and between people and machines.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Common Sense Reasoning for Interactive Applications",
+        "image_src": "/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/72bb549cc02756d116aa4e30839a7e79_mas-962f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Henry Lieberman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006"
+      }
+    ],
+    "created": "2020-12-04T02:45:36.905943Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.962",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.962"
+      },
+      {
+        "coursenum": "MAS.964",
+        "department": "Media Arts and Sciences",
+        "primary": false,
+        "sort_coursenum": "MAS.964"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11787,
+    "course_id": "15bd330a6dd345a9f5597f47584193b7+MAS.962",
+    "coursenum": "MAS.962",
+    "short_description": "How do words get their meanings? How can word meanings be represented and used by machines? We will explore three families of approaches to these questions from a computational perspective. Relational / structural methods such as semantic networks represent the meaning of words in terms of their relations to other words. Knowledge of the world through perception and action leads to the notion of external grounding, a process by which word meanings are 'attached' to the world. How an agent theorizes about, and conceptualizes its world provides yet another foundation for word meanings. We will examine each of these perspectives, and consider ways to integrate them.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics in Media Technology: Computational Semantics",
+    "image_src": "/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/14438afbab1f2900cc23099df2cd27df_mas-962f02.jpg",
+    "topics": [
+      "Humanities",
+      "Mathematics",
+      "Linguistics",
+      "Media Studies",
+      "Fine Arts",
+      "Computation",
+      "Semantics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16937,
+        "run_id": "15bd330a6dd345a9f5597f47584193b7",
+        "short_description": "How do words get their meanings? How can word meanings be represented and used by machines? We will explore three families of approaches to these questions from a computational perspective. Relational / structural methods such as semantic networks represent the meaning of words in terms of their relations to other words. Knowledge of the world through perception and action leads to the notion of external grounding, a process by which word meanings are 'attached' to the world. How an agent theorizes about, and conceptualizes its world provides yet another foundation for word meanings. We will examine each of these perspectives, and consider ways to integrate them.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-09-01T00:00:00Z",
+        "best_end_date": "2002-12-31T00:00:00Z",
+        "title": "Special Topics in Media Technology: Computational Semantics",
+        "image_src": "/courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002/14438afbab1f2900cc23099df2cd27df_mas-962f02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Deb Roy"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002"
+      }
+    ],
+    "created": "2020-12-04T02:45:36.832813Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.962",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.962"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11971,
+    "course_id": "cb6b73fec07525d3e1c2b145d956a19a+RES.MAS-001",
+    "coursenum": "RES.MAS-001",
+    "short_description": "RAISE (Responsible AI for Social Empowerment and Education) is a new MIT-wide initiative headquartered in the [MIT Media Lab](https://www.media.mit.edu/) and in collaboration with the [MIT Schwarzman College of Computing](https://computing.mit.edu/) and [MIT Open Learning](https://openlearning.mit.edu/). MIT researchers continually develop [curriculum modules and associated teaching materials](https://raise.mit.edu/resources.html) that are available to all K-12 educators for free under a Creative Commons license.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "RAISE (Responsible AI for Social Empowerment and Education)",
+    "image_src": "/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/a24be09628556b3e46239599638a3c61_res-mas-001s22.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "RAISE (Responsible AI for Social Empowerment and Education) is a new MIT-wide initiative headquartered in the [MIT Media Lab](https://www.media.mit.edu/) and in collaboration with the [MIT Schwarzman College of Computing](https://computing.mit.edu/) and [MIT Open Learning](https://openlearning.mit.edu/). MIT researchers continually develop [curriculum modules and associated teaching materials](https://raise.mit.edu/resources.html) that are available to all K-12 educators for free under a Creative Commons license.",
+        "run_id": "cb6b73fec07525d3e1c2b145d956a19a",
+        "year": 2022,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2022-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "RAISE (Responsible AI for Social Empowerment and Education)",
+        "image_src": "/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/a24be09628556b3e46239599638a3c61_res-mas-001s22.jpg",
+        "instructors": [
+          "MIT RAISE "
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2022-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 19986,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022",
+        "start_date": null
+      }
+    ],
+    "created": "2022-02-03T09:03:30.638751Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.MAS-001",
+        "sort_coursenum": "RES.MAS-001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13163,
+    "course_id": "3399256fc68c45389bf272eb0a4b12fd+MAS.S60",
+    "coursenum": "MAS.S60",
+    "short_description": "Artificial Intelligence (AI) holds great promise as a technology to enhance digital productivity, physical interactions, overall well-being, and the human experience. To enable the true impact of AI, these systems will need to be grounded in real-world data modalities, from language-only systems to vision, audio, sensors, medical data, music, art, smell, and taste. This course will introduce the basic principles of AI (focusing on modern deep learning and foundation models) and how we can apply AI to novel real-world data modalities. In addition, we will introduce the principles of multimodal AI that can process many modalities at once, such as connecting language and multimedia, music and art, sensing and actuation, and more.\n\nThrough lectures, readings, discussions, and a significant research component, this course will develop critical thinking skills and intuitions when applying AI to new data modalities, knowledge of recent technical achievements in AI, and a deeper understanding of the AI research process.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "How to AI (Almost) Anything",
+    "image_src": "/courses/mas-s60-how-to-ai-almost-anything-spring-2025/mitmas_s60_s25.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 22975,
+        "run_id": "3399256fc68c45389bf272eb0a4b12fd",
+        "short_description": "Artificial Intelligence (AI) holds great promise as a technology to enhance digital productivity, physical interactions, overall well-being, and the human experience. To enable the true impact of AI, these systems will need to be grounded in real-world data modalities, from language-only systems to vision, audio, sensors, medical data, music, art, smell, and taste. This course will introduce the basic principles of AI (focusing on modern deep learning and foundation models) and how we can apply AI to novel real-world data modalities. In addition, we will introduce the principles of multimodal AI that can process many modalities at once, such as connecting language and multimedia, music and art, sensing and actuation, and more.\n\nThrough lectures, readings, discussions, and a significant research component, this course will develop critical thinking skills and intuitions when applying AI to new data modalities, knowledge of recent technical achievements in AI, and a deeper understanding of the AI research process.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2025,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2025-01-01T00:00:00Z",
+        "best_end_date": "2025-05-31T00:00:00Z",
+        "title": "How to AI (Almost) Anything",
+        "image_src": "/courses/mas-s60-how-to-ai-almost-anything-spring-2025/mitmas_s60_s25.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Paul Liang"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-s60-how-to-ai-almost-anything-spring-2025"
+      }
+    ],
+    "created": "2025-03-27T17:04:14.069470Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Readings",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.S60",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.S60"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12990,
+    "course_id": "ee29e0988466470ba891a48e6e09551b+6.S062",
+    "coursenum": "6.S062",
+    "short_description": "The emergence of transformer architectures in 2017 triggered a breakthrough in machine learning that today lets anyone create computer-generated essays, stories, pictures, music, videos, and programs from high-level prompts in natural language, all without the need to code. That has stimulated fervent discussion among educators about the implications of generative AI systems for curricula and teaching methods across a broad range of subjects. It has also raised questions of how to understand both these systems and the at times overstated claims made for them. This class will introduce the foundations of generative AI technology, and participants will explore new opportunities it enables for K–12 education. It will also describe and explore how an analytical frame of mind can help make clear the core issues underlying both the successes and failures of these systems. Much of the work will be project-based, involving implementing innovative teaching and learning tools and testing these with K–12 students and teachers.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Generative Artificial Intelligence in K–12 Education",
+    "image_src": "/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/mit6_s062_f23.jpeg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "The emergence of transformer architectures in 2017 triggered a breakthrough in machine learning that today lets anyone create computer-generated essays, stories, pictures, music, videos, and programs from high-level prompts in natural language, all without the need to code. That has stimulated fervent discussion among educators about the implications of generative AI systems for curricula and teaching methods across a broad range of subjects. It has also raised questions of how to understand both these systems and the at times overstated claims made for them. This class will introduce the foundations of generative AI technology, and participants will explore new opportunities it enables for K–12 education. It will also describe and explore how an analytical frame of mind can help make clear the core issues underlying both the successes and failures of these systems. Much of the work will be project-based, involving implementing innovative teaching and learning tools and testing these with K–12 students and teachers.",
+        "run_id": "ee29e0988466470ba891a48e6e09551b",
+        "year": 2023,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2023-09-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Generative Artificial Intelligence in K–12 Education",
+        "image_src": "/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/mit6_s062_f23.jpeg",
+        "instructors": [
+          "Prof. Harold Abelson",
+          "Safinah Ali",
+          "Prof. Cynthia Breazeal",
+          "Prof. Randall Davis",
+          "Kate Moore",
+          "Prerna Ravi"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2023-12-31T00:00:00Z",
+        "semester": "Fall",
+        "id": 22202,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023",
+        "start_date": null
+      }
+    ],
+    "created": "2023-11-14T18:28:39.051115Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Electrical Engineering and Computer Science",
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "electrical-engineering-and-computer-science",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Multiple Assignment Types",
+      "Podcasts"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "6.S062",
+        "sort_coursenum": "06.S062",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": true
+      },
+      {
+        "coursenum": "MAS.S10",
+        "sort_coursenum": "MAS.S10",
+        "department": "Media Arts and Sciences",
+        "primary": false
+      },
+      {
+        "coursenum": "MAS.S60",
+        "sort_coursenum": "MAS.S60",
+        "department": "Media Arts and Sciences",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9568,
+    "course_id": "7aaa57cc44268511c4ff82f8e896bf1b+MAS.632",
+    "coursenum": "MAS.632",
+    "short_description": "This class explores interaction with mobile computing systems and telephones by voice, including speech synthesis, recognition, digital recording, and browsing recorded speech. Emphasis on human interface design issues and interaction techniques appropriate for cognitive requirements of speech. Topics include human speech production and perception, speech recognition and text-to-speech algorithms, telephone networks, and spatial and time-compressed listening. Extensive reading from current research literature.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Conversational Computer Systems",
+    "image_src": "/courses/mas-632-conversational-computer-systems-fall-2008/2faa50e20f8c6305ba1be87c2719028e_mas-632f08.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Electrical Engineering",
+      "Cognitive Science",
+      "Telecommunications",
+      "Human-Computer Interfaces"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This class explores interaction with mobile computing systems and telephones by voice, including speech synthesis, recognition, digital recording, and browsing recorded speech. Emphasis on human interface design issues and interaction techniques appropriate for cognitive requirements of speech. Topics include human speech production and perception, speech recognition and text-to-speech algorithms, telephone networks, and spatial and time-compressed listening. Extensive reading from current research literature.",
+        "run_id": "7aaa57cc44268511c4ff82f8e896bf1b",
+        "year": 2008,
+        "level": [
+          "Graduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Conversational Computer Systems",
+        "image_src": "/courses/mas-632-conversational-computer-systems-fall-2008/2faa50e20f8c6305ba1be87c2719028e_mas-632f08.jpg",
+        "instructors": [
+          "Mr. Christopher Schmandt"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "semester": "Fall",
+        "id": 16073,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/mas-632-conversational-computer-systems-fall-2008",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:25:35.708872Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.632",
+        "sort_coursenum": "MAS.632",
+        "department": "Media Arts and Sciences",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

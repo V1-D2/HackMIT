@@ -1,0 +1,434 @@
+[
+  {
+    "id": 8600,
+    "course_id": "c70561f916e3e48dd6eda5a13a4e409d+CC.112",
+    "coursenum": "CC.112",
+    "short_description": "This course explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. It investigates the distinction among eros, philia, and agape. Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors studied include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle.\n\nThis course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Philosophy of Love",
+    "image_src": "/courses/cc-112-philosophy-of-love-spring-2013/882ee59f952e689efa8dce3e404955bd_CC-112s13.jpg",
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Philosophy",
+      "Classics",
+      "Political Philosophy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. It investigates the distinction among eros, philia, and agape. Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors studied include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle.\n\nThis course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.",
+        "run_id": "c70561f916e3e48dd6eda5a13a4e409d",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Philosophy of Love",
+        "image_src": "/courses/cc-112-philosophy-of-love-spring-2013/882ee59f952e689efa8dce3e404955bd_CC-112s13.jpg",
+        "instructors": [
+          "Dr. Lee Perlman"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 14480,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/cc-112-philosophy-of-love-spring-2013",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T21:34:15.189436Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Concourse"
+    ],
+    "department_slug": "concourse",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "CC.112",
+        "sort_coursenum": "CC.112",
+        "department": "Concourse",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7983,
+    "course_id": "9d513205d4a2d4cdc5566b631d5d5dc0+CC.S10",
+    "coursenum": "CC.S10",
+    "short_description": "This course focuses on an in-depth reading of _Principia Mathematica Philosophiae Naturalis_ by Isaac Newton, as well as several related commentaries and historical philosophical texts.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "History and Philosophy of Mechanics: Newton's Principia Mathematica",
+    "image_src": "/courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/def07a7af9d6d9acaa6cfec6f3e63590_cc-s10f11.jpg",
+    "topics": [
+      "Humanities",
+      "History",
+      "Philosophy",
+      "History of Science and Technology",
+      "Intellectual History"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13728,
+        "run_id": "9d513205d4a2d4cdc5566b631d5d5dc0",
+        "short_description": "This course focuses on an in-depth reading of _Principia Mathematica Philosophiae Naturalis_ by Isaac Newton, as well as several related commentaries and historical philosophical texts.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2011,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-09-01T00:00:00Z",
+        "best_end_date": "2011-12-31T00:00:00Z",
+        "title": "History and Philosophy of Mechanics: Newton's Principia Mathematica",
+        "image_src": "/courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/def07a7af9d6d9acaa6cfec6f3e63590_cc-s10f11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Adam Schulman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011"
+      }
+    ],
+    "created": "2020-03-03T20:48:02.687485Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Concourse"
+    ],
+    "department_slug": "concourse",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "CC.S10",
+        "department": "Concourse",
+        "primary": true,
+        "sort_coursenum": "CC.S10"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9071,
+    "course_id": "a1af3ab1ded1c20003d16b99541d7a6b+21H.343J",
+    "coursenum": "21H.343J",
+    "short_description": "This course explores the impact of new technology on the recording and distribution of words and images at three different times: The invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, phonograph); and the emergence of digital media today. Assignments include essays and online projects. Students also participate in the design and construction of a hand-set printing press.\n\nThis course is also part of the [Concourse](http://concourse.mit.edu/) program at MIT.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Making Books: The Renaissance and Today",
+    "image_src": "/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/fd722bbbe7df11aa1787ff2a1e257f8d_21h-343js16.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "History",
+      "European History",
+      "History of Science and Technology",
+      "International Literature"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15147,
+        "run_id": "a1af3ab1ded1c20003d16b99541d7a6b",
+        "short_description": "This course explores the impact of new technology on the recording and distribution of words and images at three different times: The invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, phonograph); and the emergence of digital media today. Assignments include essays and online projects. Students also participate in the design and construction of a hand-set printing press.\n\nThis course is also part of the [Concourse](http://concourse.mit.edu/) program at MIT.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "title": "Making Books: The Renaissance and Today",
+        "image_src": "/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/fd722bbbe7df11aa1787ff2a1e257f8d_21h-343js16.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Anne McCants",
+          "Prof. Jeffrey S. Ravel",
+          "Kenneth Stone"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/21h-343j-making-books-the-renaissance-and-today-spring-2016"
+      }
+    ],
+    "created": "2020-03-03T22:20:04.912927Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "History",
+      "Concourse"
+    ],
+    "department_slug": "history",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Image Gallery",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "21H.343J",
+        "department": "History",
+        "primary": true,
+        "sort_coursenum": "21H.343J"
+      },
+      {
+        "coursenum": "CC.120J",
+        "department": "Concourse",
+        "primary": false,
+        "sort_coursenum": "CC.120J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11589,
+    "course_id": "a5c2a135947e69a6d44eead54ade3ff2+CC.S10",
+    "coursenum": "CC.S10",
+    "short_description": "Explore where the prohibitions and permissions that occur in every day life come from, why they exist, and what gives them force. For example: food—you are only willing and able to eat a subset of the world's edible substances. Marriage—some marriages are prohibited by law or by custom. This course addresses questions of prohibition and permission using psychological sources and literary works from ancient to modern. Texts include works by Shakespeare, Melville, Mary Rowlandson, and Anita Desai. Students give group and individual oral presentations.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Prohibition and Permission",
+    "image_src": "/courses/cc-s10-prohibition-and-permission-spring-2007/7dd059c22fd19733e92b4b324b46d5a4_cc-s10s07.jpg",
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Social Science",
+      "Philosophy",
+      "Legal Studies",
+      "Political Philosophy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13744,
+        "run_id": "a5c2a135947e69a6d44eead54ade3ff2",
+        "short_description": "Explore where the prohibitions and permissions that occur in every day life come from, why they exist, and what gives them force. For example: food—you are only willing and able to eat a subset of the world's edible substances. Marriage—some marriages are prohibited by law or by custom. This course addresses questions of prohibition and permission using psychological sources and literary works from ancient to modern. Texts include works by Shakespeare, Melville, Mary Rowlandson, and Anita Desai. Students give group and individual oral presentations.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Prohibition and Permission",
+        "image_src": "/courses/cc-s10-prohibition-and-permission-spring-2007/7dd059c22fd19733e92b4b324b46d5a4_cc-s10s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Wyn Kelley",
+          "Prof. Jeremy Wolfe"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/cc-s10-prohibition-and-permission-spring-2007"
+      }
+    ],
+    "created": "2020-12-04T02:44:35.180107Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Concourse"
+    ],
+    "department_slug": "concourse",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "CC.S10",
+        "department": "Concourse",
+        "primary": true,
+        "sort_coursenum": "CC.S10"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9594,
+    "course_id": "541fcd9012875320b8f2cfcc2ed978b7+CC.111",
+    "coursenum": "CC.111",
+    "short_description": "This course examines the modern definition of freedom, and the obligations that people accept in honoring it. It investigates how these obligations are captured in the principles of our political associations. This course also studies how the centrality of freedom plays out in the political thought of such authors as Hobbes, Locke, Rousseau, Burke and Montesquieu, as well as debating which notions of freedom inspire and sustain the American experiment by careful reading of the documents and arguments of the founding of the United States.\n\nThis course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Modern Conceptions of Freedom",
+    "image_src": "/courses/cc-111-modern-conceptions-of-freedom-spring-2013/570145f2dc2535544c89aebc302e4fc5_CC-111s13.jpg",
+    "topics": [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course examines the modern definition of freedom, and the obligations that people accept in honoring it. It investigates how these obligations are captured in the principles of our political associations. This course also studies how the centrality of freedom plays out in the political thought of such authors as Hobbes, Locke, Rousseau, Burke and Montesquieu, as well as debating which notions of freedom inspire and sustain the American experiment by careful reading of the documents and arguments of the founding of the United States.\n\nThis course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.",
+        "run_id": "541fcd9012875320b8f2cfcc2ed978b7",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Modern Conceptions of Freedom",
+        "image_src": "/courses/cc-111-modern-conceptions-of-freedom-spring-2013/570145f2dc2535544c89aebc302e4fc5_CC-111s13.jpg",
+        "instructors": [
+          "Dr. Linda Rabieh"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 16132,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/cc-111-modern-conceptions-of-freedom-spring-2013",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:29:04.062450Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Concourse"
+    ],
+    "department_slug": "concourse",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "CC.111",
+        "sort_coursenum": "CC.111",
+        "department": "Concourse",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

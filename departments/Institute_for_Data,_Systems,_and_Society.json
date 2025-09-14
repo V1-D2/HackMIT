@@ -1,0 +1,1898 @@
+[
+  {
+    "id": 8160,
+    "course_id": "9997dd987506732492d3bf2dadaf5bd5+16.423J",
+    "coursenum": "16.423J",
+    "short_description": "This course introduces students to a quantitative approach to studying the problems of physiological adaptation in altered environments, especially microgravity and partial gravity environments. The course curriculum starts with an Introduction and Selected Topics, which provides background information on the physiological problems associated with human space flight, as well as reviewing terminology and key engineering concepts. Then curriculum modules on Bone Mechanics, Muscle Mechanics, Musculoskeletal Dynamics and Control, and the Cardiovascular System are presented. These modules start out with qualitative and biological information regarding the system and its adaptation, and progresses to a quantitative endpoint in which engineering methods are used to analyze specific problems and countermeasures. Additional course curriculum focuses on interdisciplinary topics, suggestions include extravehicular activity and life support. The final module consists of student term project work.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Aerospace Biomedical and Life Support Engineering",
+    "image_src": "/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ae295f205947c1937ece436557f4e472_16-423js06.jpg",
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomechanics",
+      "Aerospace Engineering",
+      "Biomedical Instrumentation",
+      "Bioastronautics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13932,
+        "run_id": "9997dd987506732492d3bf2dadaf5bd5",
+        "short_description": "This course introduces students to a quantitative approach to studying the problems of physiological adaptation in altered environments, especially microgravity and partial gravity environments. The course curriculum starts with an Introduction and Selected Topics, which provides background information on the physiological problems associated with human space flight, as well as reviewing terminology and key engineering concepts. Then curriculum modules on Bone Mechanics, Muscle Mechanics, Musculoskeletal Dynamics and Control, and the Cardiovascular System are presented. These modules start out with qualitative and biological information regarding the system and its adaptation, and progresses to a quantitative endpoint in which engineering methods are used to analyze specific problems and countermeasures. Additional course curriculum focuses on interdisciplinary topics, suggestions include extravehicular activity and life support. The final module consists of student term project work.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Aerospace Biomedical and Life Support Engineering",
+        "image_src": "/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ae295f205947c1937ece436557f4e472_16-423js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dava Newman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:59:17.573888Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Aeronautics and Astronautics",
+      "Health Sciences and Technology",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "aeronautics-and-astronautics",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "16.423J",
+        "department": "Aeronautics and Astronautics",
+        "primary": true,
+        "sort_coursenum": "16.423J"
+      },
+      {
+        "coursenum": "HST.515J,IDS.337J (formerly ESD.65J)",
+        "department": "Health Sciences and Technology",
+        "primary": false,
+        "sort_coursenum": "HST.515J,IDS.337J (formerly ESD.65J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9144,
+    "course_id": "4999b0a33a479c11e34838328adee058+16.355J",
+    "coursenum": "16.355J",
+    "short_description": "This is a reading and discussion subject on issues in the engineering of software systems and software development project design. It includes the present state of software engineering, what has been tried in the past, what worked, what did not, and why. Topics may differ in each offering, but will be chosen from: the software process and lifecycle; requirements and specifications; design principles; testing, formal analysis, and reviews; quality management and assessment; product and process metrics; COTS and reuse; evolution and maintenance; team organization and people management; and software engineering aspects of programming languages.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Software Engineering Concepts",
+    "image_src": "/courses/16-355j-software-engineering-concepts-fall-2005/8418b32501d762759b8279b1e289ae3f_16-355jf05.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Business",
+      "Software Design and Engineering",
+      "Project Management",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16918,
+        "run_id": "4999b0a33a479c11e34838328adee058",
+        "short_description": "This is a reading and discussion subject on issues in the engineering of software systems and software development project design. It includes the present state of software engineering, what has been tried in the past, what worked, what did not, and why. Topics may differ in each offering, but will be chosen from: the software process and lifecycle; requirements and specifications; design principles; testing, formal analysis, and reviews; quality management and assessment; product and process metrics; COTS and reuse; evolution and maintenance; team organization and people management; and software engineering aspects of programming languages.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Software Engineering Concepts",
+        "image_src": "/courses/16-355j-software-engineering-concepts-fall-2005/8418b32501d762759b8279b1e289ae3f_16-355jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Nancy Leveson"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/16-355j-software-engineering-concepts-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T22:32:13.579046Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "aeronautics-and-astronautics",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "16.355J",
+        "department": "Aeronautics and Astronautics",
+        "primary": true,
+        "sort_coursenum": "16.355J"
+      },
+      {
+        "coursenum": "IDS.341J (formerly ESD.355J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.341J (formerly ESD.355J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10832,
+    "course_id": "8ed14b90ea264454dc555dbf843c57f9+IDS.910",
+    "coursenum": "IDS.910",
+    "short_description": "Students work in a team environment to develop five core leadership capabilities: Visioning, Analyzing, Relating, Inventing and Enabling. In addition, students participate in a negotiation simulation, improve communication skills and learn about cross-cultural negotiation. A structured set of outdoor experiences complements classroom activities. Restricted to entering students in the Technology and Policy Program.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Leadership Development",
+    "image_src": "/courses/ids-910-leadership-development-fall-2002/e14522d5d32e33a270c1602a248c85fa_ids-910f02.jpg",
+    "topics": [
+      "Leadership",
+      "Business"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15310,
+        "run_id": "8ed14b90ea264454dc555dbf843c57f9",
+        "short_description": "Students work in a team environment to develop five core leadership capabilities: Visioning, Analyzing, Relating, Inventing and Enabling. In addition, students participate in a negotiation simulation, improve communication skills and learn about cross-cultural negotiation. A structured set of outdoor experiences complements classroom activities. Restricted to entering students in the Technology and Policy Program.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2002,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-09-01T00:00:00Z",
+        "best_end_date": "2002-12-31T00:00:00Z",
+        "title": "Leadership Development",
+        "image_src": "/courses/ids-910-leadership-development-fall-2002/e14522d5d32e33a270c1602a248c85fa_ids-910f02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Joel Cutcher-Gershenfeld"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-910-leadership-development-fall-2002"
+      }
+    ],
+    "created": "2020-12-04T02:41:17.567238Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.910",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.910"
+      },
+      {
+        "coursenum": "IDS.910 (formerly ESD.801)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.910 (formerly ESD.801)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8799,
+    "course_id": "4c3046f2d71f18e4e18c97b4d4a07dd4+IDS.720J",
+    "coursenum": "IDS.720J",
+    "short_description": "This course is an introduction to the analytical tools that support design and decision-making in real estate and infrastructure development. There is a particular focus on identifying and valuing sources of flexibility using “real options”, Monte-Carlo simulation, and other techniques from the field of engineering systems. This course integrates economic and engineering perspectives, and is suitable for students with various backgrounds. It serves to provide useful preparation for thesis work in the area. The course applies the approach to the design and phasing of a mega infrastructure real estate project.\n\n**Note**\n\nThis MIT OpenCourseWare site is based, in part, on materials on Design for Real Estate and Infrastructure Development from [Professor de Neufville's and Professor Geltner's Web site](https://ardent.mit.edu/).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Tools for Analysis: Design for Real Estate and Infrastructure Development",
+    "image_src": "/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/e91e3ad436df40c9fa47fddb025ba7b3_ids-712s10.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Real Estate",
+      "Urban Planning",
+      "Computational Modeling and Simulation",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14758,
+        "run_id": "4c3046f2d71f18e4e18c97b4d4a07dd4",
+        "short_description": "This course is an introduction to the analytical tools that support design and decision-making in real estate and infrastructure development. There is a particular focus on identifying and valuing sources of flexibility using “real options”, Monte-Carlo simulation, and other techniques from the field of engineering systems. This course integrates economic and engineering perspectives, and is suitable for students with various backgrounds. It serves to provide useful preparation for thesis work in the area. The course applies the approach to the design and phasing of a mega infrastructure real estate project.\n\n**Note**\n\nThis MIT OpenCourseWare site is based, in part, on materials on Design for Real Estate and Infrastructure Development from [Professor de Neufville's and Professor Geltner's Web site](https://ardent.mit.edu/).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Tools for Analysis: Design for Real Estate and Infrastructure Development",
+        "image_src": "/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/e91e3ad436df40c9fa47fddb025ba7b3_ids-712s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Richard de Neufville",
+          "Prof. David Geltner"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T21:54:34.098890Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society",
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.720J",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.720J"
+      },
+      {
+        "coursenum": "11.434,15.428,IDS.720J (formerly ESD.712)",
+        "department": "Urban Studies and Planning",
+        "primary": false,
+        "sort_coursenum": "11.434,15.428,IDS.720J (formerly ESD.712)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8545,
+    "course_id": "431d09439d2c421d52add026b96eacaf+16.863J",
+    "coursenum": "16.863J",
+    "short_description": "This course covers important concepts and techniques in designing and operating safety-critical systems. Topics include the nature of risk, formal accident and human error models, causes of accidents, fundamental concepts of system safety engineering, system and software hazard analysis, designing for safety, fault tolerance, safety issues in the design of human-machine interaction, verification of safety, creating a safety culture, and management of safety-critical projects. Includes a class project involving the high-level system design and analysis of a safety-critical system.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "System Safety",
+    "image_src": "/courses/16-863j-system-safety-spring-2016/40b9cb5fdf60d814b4a50963694a75e2_16-863js16.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course covers important concepts and techniques in designing and operating safety-critical systems. Topics include the nature of risk, formal accident and human error models, causes of accidents, fundamental concepts of system safety engineering, system and software hazard analysis, designing for safety, fault tolerance, safety issues in the design of human-machine interaction, verification of safety, creating a safety culture, and management of safety-critical projects. Includes a class project involving the high-level system design and analysis of a safety-critical system.",
+        "run_id": "431d09439d2c421d52add026b96eacaf",
+        "year": 2016,
+        "level": [
+          "Graduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "System Safety",
+        "image_src": "/courses/16-863j-system-safety-spring-2016/40b9cb5fdf60d814b4a50963694a75e2_16-863js16.jpg",
+        "instructors": [
+          "Prof. Nancy Leveson"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 15478,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/16-863j-system-safety-spring-2016",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T21:29:29.815687Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "aeronautics-and-astronautics",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "16.863J",
+        "sort_coursenum": "16.863J",
+        "department": "Aeronautics and Astronautics",
+        "primary": true
+      },
+      {
+        "coursenum": "IDS.340J (formerly ESD.863J)",
+        "sort_coursenum": "IDS.340J (formerly ESD.863J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8224,
+    "course_id": "e9a04fce8224b7adfa94b99a8c069e1e+15.762J",
+    "coursenum": "15.762J",
+    "short_description": "15.762J Supply Chain Planning focuses on effective supply chain strategies for companies that operate globally, with an emphasis on how to plan and integrate supply chain components into a coordinated system. Students are exposed to concepts and models important in supply chain planning with emphasis on key tradeoffs and phenomena. The course introduces and utilizes key tactics such as risk pooling and inventory placement, integrated planning and collaboration, and information sharing. Lectures, computer exercises, and case discussions introduce various models and methods for supply chain analysis and optimization.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Supply Chain Planning",
+    "image_src": "/courses/15-762j-supply-chain-planning-spring-2011/12b4faeba1b4a271a2f6630a9e35c46f_15-762js11.jpg",
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17104,
+        "run_id": "e9a04fce8224b7adfa94b99a8c069e1e",
+        "short_description": "15.762J Supply Chain Planning focuses on effective supply chain strategies for companies that operate globally, with an emphasis on how to plan and integrate supply chain components into a coordinated system. Students are exposed to concepts and models important in supply chain planning with emphasis on key tradeoffs and phenomena. The course introduces and utilizes key tactics such as risk pooling and inventory placement, integrated planning and collaboration, and information sharing. Lectures, computer exercises, and case discussions introduce various models and methods for supply chain analysis and optimization.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "Supply Chain Planning",
+        "image_src": "/courses/15-762j-supply-chain-planning-spring-2011/12b4faeba1b4a271a2f6630a9e35c46f_15-762js11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stephen Graves",
+          "Prof. David Simchi-Levi"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-762j-supply-chain-planning-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T21:03:58.511546Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society",
+      "Civil and Environmental Engineering"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.762J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.762J"
+      },
+      {
+        "coursenum": "IDS.735J (formerly ESD.267J),1.273J",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.735J (formerly ESD.267J),1.273J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8413,
+    "course_id": "1d5d59bdfcab97e6f8340abb264d3ef3+15.763J",
+    "coursenum": "15.763J",
+    "short_description": "15.763J focuses on decision making for system design, as it arises in manufacturing systems and supply chains. Students are exposed to frameworks and models for structuring the key issues and trade-offs. The class presents and discusses new opportunities, issues and concepts introduced by the internet and e-commerce. It also introduces various models, methods and software tools for logistics network design, capacity planning and flexibility, make-buy, and integration with product development. Industry applications and cases illustrate concepts and challenges. The class is recommended for anyone concentrating in Operations Management, and is a second half-term subject.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Manufacturing System and Supply Chain Design",
+    "image_src": "/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1a7951328ea94209e663d0aab03d627e_15-763js05.jpg",
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14248,
+        "run_id": "1d5d59bdfcab97e6f8340abb264d3ef3",
+        "short_description": "15.763J focuses on decision making for system design, as it arises in manufacturing systems and supply chains. Students are exposed to frameworks and models for structuring the key issues and trade-offs. The class presents and discusses new opportunities, issues and concepts introduced by the internet and e-commerce. It also introduces various models, methods and software tools for logistics network design, capacity planning and flexibility, make-buy, and integration with product development. Industry applications and cases illustrate concepts and challenges. The class is recommended for anyone concentrating in Operations Management, and is a second half-term subject.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Manufacturing System and Supply Chain Design",
+        "image_src": "/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1a7951328ea94209e663d0aab03d627e_15-763js05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stephen Graves",
+          "Prof. David Simchi-Levi"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T21:19:51.021550Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.763J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.763J"
+      },
+      {
+        "coursenum": "1.274J,IDS.736J (formerly ESD.268J)",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.274J,IDS.736J (formerly ESD.268J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8416,
+    "course_id": "8eb0a7a1ed321e8015a460a745af8b0c+15.136J",
+    "coursenum": "15.136J",
+    "short_description": "This course serves as a description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Topics covered include drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules, and economic and financial considerations of the drug development process. A multidisciplinary perspective is provided by the faculty, who represent clinical, life, and management sciences. Various industry guests also participate.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles and Practice of Drug Development",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14252,
+        "run_id": "8eb0a7a1ed321e8015a460a745af8b0c",
+        "short_description": "This course serves as a description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Topics covered include drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules, and economic and financial considerations of the drug development process. A multidisciplinary perspective is provided by the faculty, who represent clinical, life, and management sciences. Various industry guests also participate.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Principles and Practice of Drug Development",
+        "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Charles Cooney",
+          "Stan Finkelstein, MD",
+          "Dr. G. K. Raju",
+          "Prof. Anthony Sinskey"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-136j-principles-and-practice-of-drug-development-fall-2013"
+      }
+    ],
+    "created": "2020-03-03T21:20:25.088484Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.136J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.136J"
+      },
+      {
+        "coursenum": "7.547J,10.547J,IDS.620J (formerly ESD.691J),HST.920J",
+        "department": "Biology",
+        "primary": false,
+        "sort_coursenum": "07.547J,10.547J,IDS.620J (formerly ESD.691J),HST.920J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8469,
+    "course_id": "d425148108ed91aa0099afc24e95b25a+IDS.505J",
+    "coursenum": "IDS.505J",
+    "short_description": "The course presents an in-depth interdisciplinary perspective of electric power systems, with regulation providing the link among the engineering, economic, legal and environmental viewpoints. Generation dispatch, demand response, optimal network flows, risk allocation, reliability of service, renewable energy sources, ancillary services, tariff design, distributed generation, rural electrification, environmental impacts and strategic sustainability issues will be among the topics addressed under both traditional and competitive regulatory frameworks.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Engineering, Economics and Regulation of the Electric Power Sector",
+    "image_src": "/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/c7a7c58a4c930f5ab008559fb1fa4002_ids-505j10.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Industrial Organization",
+      "Public Policy",
+      "Electricity",
+      "Renewables"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14318,
+        "run_id": "d425148108ed91aa0099afc24e95b25a",
+        "short_description": "The course presents an in-depth interdisciplinary perspective of electric power systems, with regulation providing the link among the engineering, economic, legal and environmental viewpoints. Generation dispatch, demand response, optimal network flows, risk allocation, reliability of service, renewable energy sources, ancillary services, tariff design, distributed generation, rural electrification, environmental impacts and strategic sustainability issues will be among the topics addressed under both traditional and competitive regulatory frameworks.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Engineering, Economics and Regulation of the Electric Power Sector",
+        "image_src": "/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/c7a7c58a4c930f5ab008559fb1fa4002_ids-505j10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Ignacio Perez-Arriaga"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T21:24:17.924211Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Engineering Systems Division"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.505J",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.505J"
+      },
+      {
+        "coursenum": "6.695,15.032J,ESD.162,6.974,IDS.505J (formerly ESD.934)",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.695,15.032J,ESD.162,6.974,IDS.505J (formerly ESD.934)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8670,
+    "course_id": "12b5a4b6dff2012128956c4487a4e4c6+15.075J",
+    "coursenum": "15.075J",
+    "short_description": "This course is an introduction to statistical data analysis. Topics are chosen from applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Statistical Thinking and Data Analysis",
+    "image_src": "/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/c3ba8e3261f34300d7ffebdbecb89f43_15-075f11.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Data Mining"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14569,
+        "run_id": "12b5a4b6dff2012128956c4487a4e4c6",
+        "short_description": "This course is an introduction to statistical data analysis. Topics are chosen from applied probability, sampling, estimation, hypothesis testing, linear regression, analysis of variance, categorical data analysis, and nonparametric statistics.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2011,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-09-01T00:00:00Z",
+        "best_end_date": "2011-12-31T00:00:00Z",
+        "title": "Statistical Thinking and Data Analysis",
+        "image_src": "/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/c3ba8e3261f34300d7ffebdbecb89f43_15-075f11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dimitrios Bisias",
+          "Allison Chang",
+          "Prof. Cynthia Rudin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-075j-statistical-thinking-and-data-analysis-fall-2011"
+      }
+    ],
+    "created": "2020-03-03T21:39:38.662439Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Programming Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.075J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.075J"
+      },
+      {
+        "coursenum": "IDS.013J (formerly ESD.07J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.013J (formerly ESD.07J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9184,
+    "course_id": "9379fd3852cf359908475b87322f8ef0+IDS.338J",
+    "coursenum": "IDS.338J",
+    "short_description": "There is need for a rigorous, quantitative multidisciplinary design methodology that works with the non-quantitative and creative side of the design process in engineering systems. The goal of multidisciplinary systems design optimization is to create advanced and complex engineering systems that must be competitive not only in terms of performance, but also in terms of life-cycle value. The objective of the course is to present tools and methodologies for performing system optimization in a multidisciplinary design context. Focus will be equally strong on all three aspects of the problem: (i) the multidisciplinary character of engineering systems, (ii) design of these complex systems, and (iii) tools for optimization.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Multidisciplinary System Design Optimization",
+    "image_src": "/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9021d53e7c8531a050f752695115501c_ids-77s10.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Systems Optimization",
+      "Project Management",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15349,
+        "run_id": "9379fd3852cf359908475b87322f8ef0",
+        "short_description": "There is need for a rigorous, quantitative multidisciplinary design methodology that works with the non-quantitative and creative side of the design process in engineering systems. The goal of multidisciplinary systems design optimization is to create advanced and complex engineering systems that must be competitive not only in terms of performance, but also in terms of life-cycle value. The objective of the course is to present tools and methodologies for performing system optimization in a multidisciplinary design context. Focus will be equally strong on all three aspects of the problem: (i) the multidisciplinary character of engineering systems, (ii) design of these complex systems, and (iii) tools for optimization.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Multidisciplinary System Design Optimization",
+        "image_src": "/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9021d53e7c8531a050f752695115501c_ids-77s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Olivier de Weck",
+          "Prof. Karen Willcox"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T22:36:55.797602Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society",
+      "Aeronautics and Astronautics"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.338J",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.338J"
+      },
+      {
+        "coursenum": "16.888,IDS.338J (formerly ESD.77)",
+        "department": "Aeronautics and Astronautics",
+        "primary": false,
+        "sort_coursenum": "16.888,IDS.338J (formerly ESD.77)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9161,
+    "course_id": "bcb54d38e45a3dea79504972b337a4df+IDS.910",
+    "coursenum": "IDS.910",
+    "short_description": "Students work in a seminar environment to enhance their leadership capabilities. An initial Leadership Laboratory Outward Bound experience builds trust, teamwork and communications. Readings and assignments emphasize the characteristics of effective leadership. Distinguished leaders participate in the \"Leadership Lunch\" story-telling series to share their experiences and to provide recommendations. Discussions help explore and further probe leadership development. The learning experience culminates in a personal leadership plan.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Leadership Development",
+    "image_src": "/courses/ids-910-leadership-development-fall-2014/fe14e7ef33719033b5e8ea3de861209a_ids-910f14.jpg",
+    "topics": [
+      "Leadership",
+      "Business"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17215,
+        "run_id": "bcb54d38e45a3dea79504972b337a4df",
+        "short_description": "Students work in a seminar environment to enhance their leadership capabilities. An initial Leadership Laboratory Outward Bound experience builds trust, teamwork and communications. Readings and assignments emphasize the characteristics of effective leadership. Distinguished leaders participate in the \"Leadership Lunch\" story-telling series to share their experiences and to provide recommendations. Discussions help explore and further probe leadership development. The learning experience culminates in a personal leadership plan.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "Leadership Development",
+        "image_src": "/courses/ids-910-leadership-development-fall-2014/fe14e7ef33719033b5e8ea3de861209a_ids-910f14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dava Newman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-910-leadership-development-fall-2014"
+      }
+    ],
+    "created": "2020-03-03T22:33:43.581171Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.910",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.910"
+      },
+      {
+        "coursenum": "IDS.910 (formerly ESD.801)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.910 (formerly ESD.801)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9376,
+    "course_id": "43362d66791404886d3fe75dea3f9743+IDS.410J",
+    "coursenum": "IDS.410J",
+    "short_description": "_IDS.410J Modeling and Assessment for Policy_ explores how scientific information and quantitative models can be used to inform policy decision-making. Students will develop an understanding of quantitative modeling techniques and their role in the policy process through case studies and interactive activities. The course addresses issues such as analysis of scientific assessment processes, uses of integrated assessment models, public perception of quantitative information, methods for dealing with uncertainties, and design choices in building policy-relevant models. Examples used in this class focus on models and information used in earth system governance.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Modeling and Assessment for Policy",
+    "image_src": "/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/8d1465f89eaf61f058e2381d62bd1ac4_ids-410js13.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Systems Engineering",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Environmental Engineering",
+      "Data Mining",
+      "Environmental Science",
+      "Computational Modeling and Simulation",
+      "Climate Studies",
+      "Atmospheric Science",
+      "Science and Technology Policy",
+      "Public Policy",
+      "Environmental Management",
+      "Environmental Policy",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15692,
+        "run_id": "43362d66791404886d3fe75dea3f9743",
+        "short_description": "_IDS.410J Modeling and Assessment for Policy_ explores how scientific information and quantitative models can be used to inform policy decision-making. Students will develop an understanding of quantitative modeling techniques and their role in the policy process through case studies and interactive activities. The course addresses issues such as analysis of scientific assessment processes, uses of integrated assessment models, public perception of quantitative information, methods for dealing with uncertainties, and design choices in building policy-relevant models. Examples used in this class focus on models and information used in earth system governance.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "title": "Modeling and Assessment for Policy",
+        "image_src": "/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/8d1465f89eaf61f058e2381d62bd1ac4_ids-410js13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Noelle Selin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-410j-modeling-and-assessment-for-policy-spring-2013"
+      }
+    ],
+    "created": "2020-03-03T23:03:42.243601Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Exams with Solutions",
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.410J",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.410J"
+      },
+      {
+        "coursenum": "12.844J,IDS.410J (formerly ESD.864)",
+        "department": "Earth, Atmospheric, and Planetary Sciences",
+        "primary": false,
+        "sort_coursenum": "12.844J,IDS.410J (formerly ESD.864)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10711,
+    "course_id": "0d33bf352dcc7def67fc0f5d942772ab+IDS.900",
+    "coursenum": "IDS.900",
+    "short_description": "This team-taught subject is for doctoral students working on emerging technologies at the interface of technology, policy and societal issues. It integrates concepts of research strategy and design from a variety of disciplines. The class addresses problem identification and formulation of research topics, the role of qualitative and quantitative research methods, and the use of various data collection techniques. Coursework focuses on students' thesis proposals, faculty-student study panels, critical evaluation of research design, and ethical issues in conducting research and gathering data.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrating Doctoral Seminar on Emerging Technologies",
+    "image_src": "/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/4d63e1c36654adeeea823324382715be_ids-900jf05.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15203,
+        "run_id": "0d33bf352dcc7def67fc0f5d942772ab",
+        "short_description": "This team-taught subject is for doctoral students working on emerging technologies at the interface of technology, policy and societal issues. It integrates concepts of research strategy and design from a variety of disciplines. The class addresses problem identification and formulation of research topics, the role of qualitative and quantitative research methods, and the use of various data collection techniques. Coursework focuses on students' thesis proposals, faculty-student study panels, critical evaluation of research design, and ethical issues in conducting research and gathering data.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Integrating Doctoral Seminar on Emerging Technologies",
+        "image_src": "/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/4d63e1c36654adeeea823324382715be_ids-900jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Jason Black",
+          "Prof. Daniel Hastings",
+          "Dr. Lawrence McCray"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005"
+      }
+    ],
+    "created": "2020-12-04T02:40:50.322604Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society",
+      "Political Science",
+      "Science, Technology, and Society"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.900",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.900"
+      },
+      {
+        "coursenum": "17.312J,STS.461J,IDS.900 (formerly ESD.85J)",
+        "department": "Political Science",
+        "primary": false,
+        "sort_coursenum": "17.312J,STS.461J,IDS.900 (formerly ESD.85J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12104,
+    "course_id": "1ee799c3154f4a5cbfae60ab54ec189a+IDS.333",
+    "coursenum": "IDS.333",
+    "short_description": "The course addresses a fundamental issue in system design and management, the need for engineering leaders to recognize uncertainty in the performance of their plans or designs. It presents discounted cash flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies. It also addresses how we should analyze possible performance outcomes and cope with risks in demand, requirements, cost, technology, etc.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "IDS.333 Risk and Decision Analysis",
+    "image_src": "/courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 20291,
+        "run_id": "1ee799c3154f4a5cbfae60ab54ec189a",
+        "short_description": "The course addresses a fundamental issue in system design and management, the need for engineering leaders to recognize uncertainty in the performance of their plans or designs. It presents discounted cash flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies. It also addresses how we should analyze possible performance outcomes and cope with risks in demand, requirements, cost, technology, etc.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2021,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2021-09-01T00:00:00Z",
+        "best_end_date": "2021-12-31T00:00:00Z",
+        "title": "IDS.333 Risk and Decision Analysis",
+        "image_src": "/courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Richard de Neufville"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-333-risk-and-decision-analysis-fall-2021"
+      }
+    ],
+    "created": "2022-09-28T20:41:39.988240Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Video Materials",
+      "Instructor Insights",
+      "Projects with Examples",
+      "Media Assignments",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.333",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.333"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9135,
+    "course_id": "c980073b349ef25a996211dfaa6931cb+16.63J",
+    "coursenum": "16.63J",
+    "short_description": "This course introduces the concepts of system safety and how to analyze and design safer systems. Topics include the causes of accidents in general, and recent major accidents in particular; hazard analysis, safety-driven design techniques; design of human-automation interaction; integrating safety into the system engineering process; and managing and operating safety-critical systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "System Safety",
+    "image_src": "/courses/16-63j-system-safety-spring-2016/fb6e7f0f774b88759b1f9d0bb33d1259_16-63js16.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course introduces the concepts of system safety and how to analyze and design safer systems. Topics include the causes of accidents in general, and recent major accidents in particular; hazard analysis, safety-driven design techniques; design of human-automation interaction; integrating safety into the system engineering process; and managing and operating safety-critical systems.",
+        "run_id": "c980073b349ef25a996211dfaa6931cb",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "System Safety",
+        "image_src": "/courses/16-63j-system-safety-spring-2016/fb6e7f0f774b88759b1f9d0bb33d1259_16-63js16.jpg",
+        "instructors": [
+          "Prof. Nancy Leveson"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 15263,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/16-63j-system-safety-spring-2016",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T22:31:07.349097Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "aeronautics-and-astronautics",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "16.63J",
+        "sort_coursenum": "16.63J",
+        "department": "Aeronautics and Astronautics",
+        "primary": true
+      },
+      {
+        "coursenum": "IDS.045J (formerly ESD.03J)",
+        "sort_coursenum": "IDS.045J (formerly ESD.03J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7714,
+    "course_id": "028c113a98ac834908f78965766d3e46+10.805J",
+    "coursenum": "10.805J",
+    "short_description": "This course addresses the relationship between technology-related problems and the law applicable to work environment. The National Labor Relations Act, the Occupational Safety and Health Act, the Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts are discussed in the course. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work are also addressed. Prior courses or experience in environmental, public health, or law-related areas will be useful.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Technology, Law, and the Working Environment",
+    "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Health and Medicine",
+      "Public Health",
+      "Business",
+      "Legal Studies",
+      "Environmental Engineering",
+      "Science and Technology Policy",
+      "Industrial Relations and Human Resource Management",
+      "Environmental Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13447,
+        "run_id": "028c113a98ac834908f78965766d3e46",
+        "short_description": "This course addresses the relationship between technology-related problems and the law applicable to work environment. The National Labor Relations Act, the Occupational Safety and Health Act, the Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts are discussed in the course. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work are also addressed. Prior courses or experience in environmental, public health, or law-related areas will be useful.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Technology, Law, and the Working Environment",
+        "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Nicholas Ashford",
+          "Prof. Charles Caldart"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-805j-technology-law-and-the-working-environment-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:27:13.690385Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.805J",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.805J"
+      },
+      {
+        "coursenum": "IDS.436 (formerly ESD.136J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.436 (formerly ESD.136J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8621,
+    "course_id": "f08ec502e326a71948f292020efec938+16.89J",
+    "coursenum": "16.89J",
+    "short_description": "In 16.89 / ESD.352 the students will first be asked to understand the key challenges in designing ground and space telescopes, the stakeholder structure and value flows, and the particular pros and cons of the proposed project. The first half of the class will concentrate on performing a thorough architectural analysis of the key astrophysical, engineering, human, budgetary and broader policy issues that are involved in this decision. This will require the students to carry out a qualitative and quantitative conceptual study during the first half of the semester and recommend a small set of promising architectures for further study at the Preliminary Design Review (PDR).\n\nBoth lunar surface telescopes as well as orbital locations should be considered.\n\nThe second half of the class will then pick 1-2 of the top-rated architectures for a lunar telescope facility and develop the concept in more detail and present the detailed design at the Critical Design Review (CDR). This should not only sketch out the science program, telescope architecture and design, but also the stakeholder relationships, a rough estimate of budget and timeline, and also clarify the role that human explorers could or should play during both deployment and servicing/operations of such a facility (if any).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Space Systems Engineering",
+    "image_src": "/courses/16-89j-space-systems-engineering-spring-2007/2a01cea04000d318a1d63c46d451a0d4_16-89js07.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14502,
+        "run_id": "f08ec502e326a71948f292020efec938",
+        "short_description": "In 16.89 / ESD.352 the students will first be asked to understand the key challenges in designing ground and space telescopes, the stakeholder structure and value flows, and the particular pros and cons of the proposed project. The first half of the class will concentrate on performing a thorough architectural analysis of the key astrophysical, engineering, human, budgetary and broader policy issues that are involved in this decision. This will require the students to carry out a qualitative and quantitative conceptual study during the first half of the semester and recommend a small set of promising architectures for further study at the Preliminary Design Review (PDR).\n\nBoth lunar surface telescopes as well as orbital locations should be considered.\n\nThe second half of the class will then pick 1-2 of the top-rated architectures for a lunar telescope facility and develop the concept in more detail and present the detailed design at the Critical Design Review (CDR). This should not only sketch out the science program, telescope architecture and design, but also the stakeholder relationships, a rough estimate of budget and timeline, and also clarify the role that human explorers could or should play during both deployment and servicing/operations of such a facility (if any).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Space Systems Engineering",
+        "image_src": "/courses/16-89j-space-systems-engineering-spring-2007/2a01cea04000d318a1d63c46d451a0d4_16-89js07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Edward Crawley",
+          "Prof. Olivier de Weck"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/16-89j-space-systems-engineering-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T21:35:31.573421Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "aeronautics-and-astronautics",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "16.89J",
+        "department": "Aeronautics and Astronautics",
+        "primary": true,
+        "sort_coursenum": "16.89J"
+      },
+      {
+        "coursenum": "IDS.339J (formerly ESD.352J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.339J (formerly ESD.352J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9076,
+    "course_id": "24cf23ca4c720ee2d87e10da334d6380+15.565J",
+    "coursenum": "15.565J",
+    "short_description": "The strategic importance of information technology is now widely accepted. It has also become increasingly clear that the identification of strategic applications alone does not result in success for an organization. A careful coordination of strategic applications, information technologies, and organizational structures must be made to attain success. This course addresses strategic, technological, and organizational connectivity issues to support effective and meaningful integration of information and systems. This course is especially relevant to those who wish to effectively exploit information technology and create new business processes and opportunities.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrating eSystems & Global Information Systems",
+    "image_src": "/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7b1a1a52b467a6e13a0fec98f5175d52_15-565js02.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Organizational Behavior",
+      "Data Mining",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15153,
+        "run_id": "24cf23ca4c720ee2d87e10da334d6380",
+        "short_description": "The strategic importance of information technology is now widely accepted. It has also become increasingly clear that the identification of strategic applications alone does not result in success for an organization. A careful coordination of strategic applications, information technologies, and organizational structures must be made to attain success. This course addresses strategic, technological, and organizational connectivity issues to support effective and meaningful integration of information and systems. This course is especially relevant to those who wish to effectively exploit information technology and create new business processes and opportunities.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2002,
+        "level": [
+          "Undergraduate",
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-01-01T00:00:00Z",
+        "best_end_date": "2002-05-31T00:00:00Z",
+        "title": "Integrating eSystems & Global Information Systems",
+        "image_src": "/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7b1a1a52b467a6e13a0fec98f5175d52_15-565js02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stuart Madnick"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-565j-integrating-esystems-global-information-systems-spring-2002"
+      }
+    ],
+    "created": "2020-03-03T22:21:15.130478Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.565J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.565J"
+      },
+      {
+        "coursenum": "15.578J,IDS.345J (formerly ESD.565J)",
+        "department": "Sloan School of Management",
+        "primary": false,
+        "sort_coursenum": "15.578J,IDS.345J (formerly ESD.565J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9105,
+    "course_id": "6eb10361db31904e63ce5b02e9cf963b+IDS.900",
+    "coursenum": "IDS.900",
+    "short_description": "IDS.900 _Doctoral Seminar in Engineering Systems_ examines the core theory and contextual applications of the emerging field of Engineering Systems. There is a focus on doctoral–level analysis of scholarship on key concepts such as complexity, uncertainty, fragility, and robustness, as well as a critical look at the historical roots of the field and related areas such as systems engineering, systems dynamics, agent modeling, and systems simulations. Contextual applications of the course range from aerospace to technology implementation to regulatory systems to large–scale systems change. Special attention is given to the interdependence of social and technical dimensions of engineering systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Doctoral Seminar in Engineering Systems",
+    "image_src": "/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/5d8a7b8f83eaae7c74e42331cf763928_ids-900f11.jpg",
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16322,
+        "run_id": "6eb10361db31904e63ce5b02e9cf963b",
+        "short_description": "IDS.900 _Doctoral Seminar in Engineering Systems_ examines the core theory and contextual applications of the emerging field of Engineering Systems. There is a focus on doctoral–level analysis of scholarship on key concepts such as complexity, uncertainty, fragility, and robustness, as well as a critical look at the historical roots of the field and related areas such as systems engineering, systems dynamics, agent modeling, and systems simulations. Contextual applications of the course range from aerospace to technology implementation to regulatory systems to large–scale systems change. Special attention is given to the interdependence of social and technical dimensions of engineering systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2011,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-09-01T00:00:00Z",
+        "best_end_date": "2011-12-31T00:00:00Z",
+        "title": "Doctoral Seminar in Engineering Systems",
+        "image_src": "/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/5d8a7b8f83eaae7c74e42331cf763928_ids-900f11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Christopher L. Magee",
+          "Rebecca Saari",
+          "Prof. Joseph Sussman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011"
+      }
+    ],
+    "created": "2020-03-03T22:25:14.290376Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "institute-for-data-systems-and-society",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "IDS.900",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": true,
+        "sort_coursenum": "IDS.900"
+      },
+      {
+        "coursenum": "IDS.900 (formerly ESD.83)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.900 (formerly ESD.83)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

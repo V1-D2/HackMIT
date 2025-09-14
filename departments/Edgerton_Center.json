@@ -1,0 +1,2543 @@
+[
+  {
+    "id": 7794,
+    "course_id": "f84c17335b5f7b47a8b4f7423f0e0981+MAS.965",
+    "coursenum": "MAS.965",
+    "short_description": "Can you make a cellphone change the world?\n\nNextLab is a hands-on year-long design course in which students research, develop and deploy mobile technologies for the next billion mobile users in developing countries. Guided by real-world needs as observed by local partners, students work in multidisciplinary teams on term-long projects, closely collaborating with NGOs and communities at the local level, field practitioners, and experts in relevant fields.\n\nStudents are expected to leverage technical ingenuity in both mobile and internet technologies together with social insight in order to address social challenges in areas such as health, microfinance, entrepreneurship, education, and civic activism. Students with technically and socially viable prototypes may obtain funding for travel to their target communities, in order to obtain the first-hand feedback necessary to prepare their technologies for full fledged deployment into the real world (subject to guidelines and limitations).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "NextLab I: Designing Mobile Technologies for the Next Billion Users",
+    "image_src": "/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/c09b3c0595785ee0a87fd58615a80266_mas-965f08.jpg",
+    "topics": [
+      "Engineering",
+      "Entrepreneurship",
+      "Social Science",
+      "Electrical Engineering",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Sociology",
+      "Digital Media",
+      "Community Development",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14610,
+        "run_id": "f84c17335b5f7b47a8b4f7423f0e0981",
+        "short_description": "Can you make a cellphone change the world?\n\nNextLab is a hands-on year-long design course in which students research, develop and deploy mobile technologies for the next billion mobile users in developing countries. Guided by real-world needs as observed by local partners, students work in multidisciplinary teams on term-long projects, closely collaborating with NGOs and communities at the local level, field practitioners, and experts in relevant fields.\n\nStudents are expected to leverage technical ingenuity in both mobile and internet technologies together with social insight in order to address social challenges in areas such as health, microfinance, entrepreneurship, education, and civic activism. Students with technically and socially viable prototypes may obtain funding for travel to their target communities, in order to obtain the first-hand feedback necessary to prepare their technologies for full fledged deployment into the real world (subject to guidelines and limitations).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "NextLab I: Designing Mobile Technologies for the Next Billion Users",
+        "image_src": "/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/c09b3c0595785ee0a87fd58615a80266_mas-965f08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Gari Clifford",
+          "Dr. Richard Fletcher",
+          "Mr. Jhonatan Rotberg",
+          "Dr. Luis Sarmenta"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T20:32:04.736323Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Media Arts and Sciences",
+      "Electrical Engineering and Computer Science",
+      "Edgerton Center"
+    ],
+    "department_slug": "media-arts-and-sciences",
+    "course_feature_tags": [
+      "Presentation Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "MAS.965",
+        "department": "Media Arts and Sciences",
+        "primary": true,
+        "sort_coursenum": "MAS.965"
+      },
+      {
+        "coursenum": "6.976,EC.S06",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.976,EC.S06"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9191,
+    "course_id": "8e89306cbdf6da17971af829ae288663+EC.710",
+    "coursenum": "EC.710",
+    "short_description": "D-Lab Health provides a multidisciplinary approach to global health technology design via guest lectures and a major project based on fieldwork. We will explore the current state of global health challenges and learn how to design medical technologies that address those problems. Students may travel to Nicaragua during spring break to work with health professionals, using medical technology design kits to gain field experience for their device challenge. As a final class deliverable, you will create a product design solution to address challenges observed in the field. The resulting designs are prototyped in the summer for continued evaluation and testing.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Medical Technologies for the Developing World",
+    "image_src": "/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/a115d7fab61565074532061023d11f78_ec-710s10.jpg",
+    "topics": [
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Biomedicine"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15358,
+        "run_id": "8e89306cbdf6da17971af829ae288663",
+        "short_description": "D-Lab Health provides a multidisciplinary approach to global health technology design via guest lectures and a major project based on fieldwork. We will explore the current state of global health challenges and learn how to design medical technologies that address those problems. Students may travel to Nicaragua during spring break to work with health professionals, using medical technology design kits to gain field experience for their device challenge. As a final class deliverable, you will create a product design solution to address challenges observed in the field. The resulting designs are prototyped in the summer for continued evaluation and testing.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "D-Lab: Medical Technologies for the Developing World",
+        "image_src": "/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/a115d7fab61565074532061023d11f78_ec-710s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Jose Gomez-Marquez"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T22:38:15.482045Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Design Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.710",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.710"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9279,
+    "course_id": "f2a4eba72ff8f65b2df00d2a31b6f1a3+ESD.172J",
+    "coursenum": "ESD.172J",
+    "short_description": "In 2004, the Ansari X PRIZE for suborbital spaceflight captured the public's imagination and revolutionized an industry, leveraging a $10M prize purse into over $100M in innovation. Building from that success, the X PRIZE Foundation is now developing new prizes to focus innovation around \"Grand Challenge\" themes, including genomics, energy, healthcare, and education.\n\nThis course will examine the intersection of incentives and innovation, drawing on economic models, historic examples, and recent experience of the X PRIZE Foundation to help develop a future prize in Energy Storage Technologies.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "X PRIZE Workshop: Grand Challenges in Energy",
+    "image_src": "/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/a9faff9c8b6ac023e7d9726d9a4d3d80_esd-172jf09.jpg",
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Industrial Organization"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15507,
+        "run_id": "f2a4eba72ff8f65b2df00d2a31b6f1a3",
+        "short_description": "In 2004, the Ansari X PRIZE for suborbital spaceflight captured the public's imagination and revolutionized an industry, leveraging a $10M prize purse into over $100M in innovation. Building from that success, the X PRIZE Foundation is now developing new prizes to focus innovation around \"Grand Challenge\" themes, including genomics, energy, healthcare, and education.\n\nThis course will examine the intersection of incentives and innovation, drawing on economic models, historic examples, and recent experience of the X PRIZE Foundation to help develop a future prize in Energy Storage Technologies.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "X PRIZE Workshop: Grand Challenges in Energy",
+        "image_src": "/courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009/a9faff9c8b6ac023e7d9726d9a4d3d80_esd-172jf09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Erika Wagner"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T22:50:27.302627Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Engineering Systems Division",
+      "Edgerton Center"
+    ],
+    "department_slug": "engineering-systems-division",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Videos",
+      "Design Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ESD.172J",
+        "department": "Engineering Systems Division",
+        "primary": true,
+        "sort_coursenum": "ESD.172J"
+      },
+      {
+        "coursenum": "EC.421J",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.421J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9299,
+    "course_id": "a11a54dbcd42d7621b4e0d23c6be8fa9+EC.210",
+    "coursenum": "EC.210",
+    "short_description": "This course is an introduction to principles and techniques of visual communication, and provides opportunities for science and engineering majors to acquire practical skills in the visual computer arts, in a studio environment. Students will learn how to create graphics for print and web, animations, and interactive media, and how to use these techniques to effectively communicate scientific and engineering concepts for learning and teaching. This class involves three hands-on creative projects, which will be presented in class.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Visualization for Mathematics, Science, and Technology Education",
+    "image_src": "/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/3218759092d555c44fb42fb5e4feb616_EC-210S16.jpg",
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Teaching and Education",
+      "Visual Arts",
+      "Media Studies",
+      "Educational Technology",
+      "Fine Arts",
+      "Film and Video",
+      "Digital Media",
+      "Graphic Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15534,
+        "run_id": "a11a54dbcd42d7621b4e0d23c6be8fa9",
+        "short_description": "This course is an introduction to principles and techniques of visual communication, and provides opportunities for science and engineering majors to acquire practical skills in the visual computer arts, in a studio environment. Students will learn how to create graphics for print and web, animations, and interactive media, and how to use these techniques to effectively communicate scientific and engineering concepts for learning and teaching. This class involves three hands-on creative projects, which will be presented in class.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "title": "Visualization for Mathematics, Science, and Technology Education",
+        "image_src": "/courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016/3218759092d555c44fb42fb5e4feb616_EC-210S16.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Violeta Ivanova"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016"
+      }
+    ],
+    "created": "2020-03-03T22:52:19.834635Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Media Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.210",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.210"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11195,
+    "course_id": "3c35131b04e406d6ab3f3694bf6ae21f+EC.S06",
+    "coursenum": "EC.S06",
+    "short_description": "For students and teams who have started a sustainable-development project in D-Lab (EC.701J or EC.720J), Product Engineering Processes (2.009), or elsewhere, this class provides a setting to continue developing projects for field implementation. Topics covered include prototyping techniques, materials selection, design-for-manufacturing, field-testing, and project management. All classwork will directly relate to the students' projects, and the instructor will consult on the projects during weekly lab time. There are no exams. Teams are encouraged to enroll together.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Prototypes to Products",
+    "image_src": "/courses/ec-s06-prototypes-to-products-fall-2005/7db5ed83a1414498ebf6bcc008cf02bd_ec-s06f05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "Sociology",
+      "Community Development",
+      "Developmental Economics",
+      "International Development",
+      "Mechanical Design",
+      "Systems Design",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16990,
+        "run_id": "3c35131b04e406d6ab3f3694bf6ae21f",
+        "short_description": "For students and teams who have started a sustainable-development project in D-Lab (EC.701J or EC.720J), Product Engineering Processes (2.009), or elsewhere, this class provides a setting to continue developing projects for field implementation. Topics covered include prototyping techniques, materials selection, design-for-manufacturing, field-testing, and project management. All classwork will directly relate to the students' projects, and the instructor will consult on the projects during weekly lab time. There are no exams. Teams are encouraged to enroll together.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Prototypes to Products",
+        "image_src": "/courses/ec-s06-prototypes-to-products-fall-2005/7db5ed83a1414498ebf6bcc008cf02bd_ec-s06f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Mr. Andrew Heafitz"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s06-prototypes-to-products-fall-2005"
+      }
+    ],
+    "created": "2020-12-04T02:42:47.202610Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Other Video",
+      "Design Assignments with Examples",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S06",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S06"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8812,
+    "course_id": "5d05be6fda30ddb85242727ee14d096b+EC.716",
+    "coursenum": "EC.716",
+    "short_description": "This introductory course will provide you with a multidisciplinary approach to managing waste in low- and middle-income countries, with strategies that diminish greenhouse gas emissions and provide enterprise opportunities for marginalized populations. You will focus on understanding some of the multiple dimensions of waste generation and management. Topics are presented in real contexts through case studies, field visits, civic engagement and research, and include consumer culture, waste streams, waste management, entrepreneurship and innovation on waste, technology evaluation, downcycling / upcycling, Life Cycle Analysis and waste assessment. Labs include building low-cost, small scale technology, field trips to waste-related institutions and businesses, art workshops and e-waste scrapping taught by practitioners, artists and waste enthusiasts.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Waste",
+    "image_src": "/courses/ec-716-d-lab-waste-fall-2015/72667318ef9eaaec29fd0276687649c4_ec-716f15.jpg",
+    "topics": [
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Urban Studies",
+      "Urban Planning",
+      "Environmental Policy",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14771,
+        "run_id": "5d05be6fda30ddb85242727ee14d096b",
+        "short_description": "This introductory course will provide you with a multidisciplinary approach to managing waste in low- and middle-income countries, with strategies that diminish greenhouse gas emissions and provide enterprise opportunities for marginalized populations. You will focus on understanding some of the multiple dimensions of waste generation and management. Topics are presented in real contexts through case studies, field visits, civic engagement and research, and include consumer culture, waste streams, waste management, entrepreneurship and innovation on waste, technology evaluation, downcycling / upcycling, Life Cycle Analysis and waste assessment. Labs include building low-cost, small scale technology, field trips to waste-related institutions and businesses, art workshops and e-waste scrapping taught by practitioners, artists and waste enthusiasts.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "D-Lab: Waste",
+        "image_src": "/courses/ec-716-d-lab-waste-fall-2015/72667318ef9eaaec29fd0276687649c4_ec-716f15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Kate Mytty",
+          "Pedro Reynolds-Cuellar"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-716-d-lab-waste-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T21:55:24.005412Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.716",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.716"
+      },
+      {
+        "coursenum": "EC.786",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.786"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8467,
+    "course_id": "6be3bf58d97003e5cc3f1b9e75b807e6+EC.721",
+    "coursenum": "EC.721",
+    "short_description": "According to the [United States Agency for International Development](http://www.usaid.gov/), 20 million people in developing countries require wheelchairs, and the [United Nations Development Programme](http://www.undp.org/) estimates below 1% of their need is being met in Africa by local production. Wheelchair Design in Developing Countries (WDDC) gives students the chance to better the lives of others by improving wheelchairs and tricycles made in the developing world. Lectures will focus on understanding local factors, such as operating environments, social stigmas against the disabled, and manufacturing constraints, and then applying sound scientific/engineering knowledge to develop appropriate technical solutions. Multidisciplinary student teams will conduct term-long projects on topics such as hardware design, manufacturing optimization, biomechanics modeling, and business plan development. Theory will further be connected to real-world implementation during guest lectures by MIT faculty, Third-World community partners, and U.S. wheelchair organizations.\n\nThis class is made possible by an [MIT Alumni Sponsored Funding Opportunities](http://web.mit.edu/alumnifunds/index.html) grant with additional support from the [National Collegiate Inventors and Innovators Alliance (now VentureWell)](https://venturewell.org/history/), the [MIT Public Service Center](https://pkgcenter.mit.edu/), and the [MIT Edgerton Center](http://web.mit.edu/Edgerton/); special thanks to [CustomInk.com](http://www.customink.com/).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Wheelchair Design in Developing Countries",
+    "image_src": "/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/55fff7754f6f0eee9d0bfd757a9b32ff_ec-721s09.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "According to the [United States Agency for International Development](http://www.usaid.gov/), 20 million people in developing countries require wheelchairs, and the [United Nations Development Programme](http://www.undp.org/) estimates below 1% of their need is being met in Africa by local production. Wheelchair Design in Developing Countries (WDDC) gives students the chance to better the lives of others by improving wheelchairs and tricycles made in the developing world. Lectures will focus on understanding local factors, such as operating environments, social stigmas against the disabled, and manufacturing constraints, and then applying sound scientific/engineering knowledge to develop appropriate technical solutions. Multidisciplinary student teams will conduct term-long projects on topics such as hardware design, manufacturing optimization, biomechanics modeling, and business plan development. Theory will further be connected to real-world implementation during guest lectures by MIT faculty, Third-World community partners, and U.S. wheelchair organizations.\n\nThis class is made possible by an [MIT Alumni Sponsored Funding Opportunities](http://web.mit.edu/alumnifunds/index.html) grant with additional support from the [National Collegiate Inventors and Innovators Alliance (now VentureWell)](https://venturewell.org/history/), the [MIT Public Service Center](https://pkgcenter.mit.edu/), and the [MIT Edgerton Center](http://web.mit.edu/Edgerton/); special thanks to [CustomInk.com](http://www.customink.com/).",
+        "run_id": "6be3bf58d97003e5cc3f1b9e75b807e6",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Wheelchair Design in Developing Countries",
+        "image_src": "/courses/ec-721-wheelchair-design-in-developing-countries-spring-2009/55fff7754f6f0eee9d0bfd757a9b32ff_ec-721s09.jpg",
+        "instructors": [
+          "Amy J. Smith",
+          "Mr. Amos G. Winter"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 14316,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/ec-721-wheelchair-design-in-developing-countries-spring-2009",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T21:24:15.749219Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Image Gallery",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.721",
+        "sort_coursenum": "EC.721",
+        "department": "Edgerton Center",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13014,
+    "course_id": "717e12e5f88e4e8c9e0d5478ec6e5694+RES.EC-004",
+    "coursenum": "RES.EC-004",
+    "short_description": "Understanding the energy needs and market opportunities in the specific off-grid community or region is the first step for effectively selecting and implementing the solutions to meet a community's energy needs. MIT D-Lab has developed the Energy Assessment Toolkit to guide organizations through the process of gathering the information needed to make informed decisions about what technologies and business models are best suited to meet the specific needs of their community through market-based initiatives. \n\nThis toolkit is designed for any organization that has an on­-the­-ground presence in an off­-grid community or region and has the ability to take action based on the opportunities identified. This community-­based assessment approach is not intended to replace studies that track energy access on a national level or to generate market intelligence reports for external organizations looking to expand their business or programs into new markets.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Energy Needs Assessment Toolkit",
+    "image_src": "/courses/res-ec-004-energy-needs-assessment-toolkit/mitres_ec-004_s17.jpg",
+    "topics": [
+      "The Developing World",
+      "Society",
+      "Energy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "Understanding the energy needs and market opportunities in the specific off-grid community or region is the first step for effectively selecting and implementing the solutions to meet a community's energy needs. MIT D-Lab has developed the Energy Assessment Toolkit to guide organizations through the process of gathering the information needed to make informed decisions about what technologies and business models are best suited to meet the specific needs of their community through market-based initiatives. \n\nThis toolkit is designed for any organization that has an on­-the­-ground presence in an off­-grid community or region and has the ability to take action based on the opportunities identified. This community-­based assessment approach is not intended to replace studies that track energy access on a national level or to generate market intelligence reports for external organizations looking to expand their business or programs into new markets.",
+        "run_id": "717e12e5f88e4e8c9e0d5478ec6e5694",
+        "year": 2017,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2017-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Energy Needs Assessment Toolkit",
+        "image_src": "/courses/res-ec-004-energy-needs-assessment-toolkit/mitres_ec-004_s17.jpg",
+        "instructors": [
+          "Dr. Eric Verploegen"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2017-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 22287,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-ec-004-energy-needs-assessment-toolkit",
+        "start_date": null
+      }
+    ],
+    "created": "2023-12-15T16:50:06.828458Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Tools"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.EC-004",
+        "sort_coursenum": "RES.EC-004",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11924,
+    "course_id": "0109272d65e61fdca5bfdebebbc32948+RES.EC-002",
+    "coursenum": "RES.EC-002",
+    "short_description": "This course introduces effective techniques for conducting interviews and is designed to help you develop and strengthen your skills as an interviewer. It does not assume any existing experience conducting interviews, but will quickly take you past the basics and into best practices that incorporate the Lean Research principles of rigor, relevance, respect, and right-size. The course focuses specifically on conducting interviews in “the field”— contexts in which we may be in an unfamiliar setting or culture, such as when traveling abroad or conducting research in a place we haven’t been before.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Lean Research Skills for Conducting Interviews",
+    "image_src": "/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/29274c1cafce008a0d7e5e40a1d16df8_RES-EC002.jpg",
+    "topics": [
+      "Social Science"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course introduces effective techniques for conducting interviews and is designed to help you develop and strengthen your skills as an interviewer. It does not assume any existing experience conducting interviews, but will quickly take you past the basics and into best practices that incorporate the Lean Research principles of rigor, relevance, respect, and right-size. The course focuses specifically on conducting interviews in “the field”— contexts in which we may be in an unfamiliar setting or culture, such as when traveling abroad or conducting research in a place we haven’t been before.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
+        "run_id": "0109272d65e61fdca5bfdebebbc32948",
+        "year": 2021,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2021-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Lean Research Skills for Conducting Interviews",
+        "image_src": "/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/29274c1cafce008a0d7e5e40a1d16df8_RES-EC002.jpg",
+        "instructors": [
+          "Zoe Dibb",
+          "Elizabeth Hoffecker"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2021-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 19845,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021",
+        "start_date": null
+      }
+    ],
+    "created": "2021-06-26T09:03:39.157369Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.EC-002",
+        "sort_coursenum": "RES.EC-002",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12031,
+    "course_id": "0590306bea4d4670bd23cd4cc624087f+RES.EC-003",
+    "coursenum": "RES.EC-003",
+    "short_description": "Student projects in [D-Lab classes](https://d-lab.mit.edu/academics/classes) are defined by community partners and social ventures around the world. We don't always know what is needed, but our community partners do, and our students have technical knowledge and skills to contribute to that work.\n\nEach semester, through a selection of full-semester classes, our students form into teams to work on projects framed by community partners – NGOs, local nonprofits, and social entrepreneurs. At the end of each semester, students present their work to their peers, partners, and guests.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab Student Showcases",
+    "image_src": "/courses/res-ec-003-d-lab-student-showcases-spring-2022/res-ec-003s22.jpeg",
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Health and Medicine",
+      "Teaching and Education",
+      "Society",
+      "Energy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "Student projects in [D-Lab classes](https://d-lab.mit.edu/academics/classes) are defined by community partners and social ventures around the world. We don't always know what is needed, but our community partners do, and our students have technical knowledge and skills to contribute to that work.\n\nEach semester, through a selection of full-semester classes, our students form into teams to work on projects framed by community partners – NGOs, local nonprofits, and social entrepreneurs. At the end of each semester, students present their work to their peers, partners, and guests.",
+        "run_id": "0590306bea4d4670bd23cd4cc624087f",
+        "year": 2022,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2022-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "D-Lab Student Showcases",
+        "image_src": "/courses/res-ec-003-d-lab-student-showcases-spring-2022/res-ec-003s22.jpeg",
+        "instructors": [
+          "MIT D-Lab"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2022-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 20142,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-ec-003-d-lab-student-showcases-spring-2022",
+        "start_date": null
+      }
+    ],
+    "created": "2022-07-11T15:35:26.647959Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.EC-003",
+        "sort_coursenum": "RES.EC-003",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10336,
+    "course_id": "7afcb28c4374ffed8caa3700d01f0bda+RES.EC-001",
+    "coursenum": "RES.EC-001",
+    "short_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the [MIT CITE](https://d-lab.mit.edu/research/mit-d-lab-cite) team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Exploring Fairness in Machine Learning for International Development",
+    "image_src": "/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/43b207872b667ae4a14645a6228d85a5_res-ec001s19.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the [MIT CITE](https://d-lab.mit.edu/research/mit-d-lab-cite) team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.",
+        "run_id": "7afcb28c4374ffed8caa3700d01f0bda",
+        "year": 2020,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2020-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Exploring Fairness in Machine Learning for International Development",
+        "image_src": "/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/43b207872b667ae4a14645a6228d85a5_res-ec001s19.jpg",
+        "instructors": [
+          "Dr. Richard Fletcher",
+          "Prof. Daniel Frey",
+          "Amit Gandhi",
+          "Audace Nakeshimana",
+          "Dr. Mike Teodorescu"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2020-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 19495,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020",
+        "start_date": null
+      }
+    ],
+    "created": "2020-10-02T09:03:43.760669Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.EC-001",
+        "sort_coursenum": "RES.EC-001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7796,
+    "course_id": "88af529c2db4f198dfca38dedf6268d2+EC.722",
+    "coursenum": "EC.722",
+    "short_description": "D-Lab World Prosthetics is a collaboration between the Massachusetts Institute of Technology and the Jaipur Foot Organization to improve the design, manufacture, and distribution of rehabilitation devices in the developing world. The course welcomes individuals interested in physical rehabilitation to work on multidisciplinary teams of students with bioengineering, mechanical engineering, material science, and medical or pre-medical backgrounds. Students will learn about the basics of human walking, different types of gait disabilities, as well as the technologies that seek to address those disabilities. Patient perspectives and current research areas are presented. Lecture topics focus on lower-limb disabilities, including polio and above-knee and below-knee amputation, and will cover both developed and developing world techniques for overcoming these disabilities. Students form teams to design and prototype low-cost orthotic and prosthetic devices, and present their work at the end of the course.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Special Topics at Edgerton Center:Developing World Prosthetics",
+    "image_src": "/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/9fc182ae05acef67a364c80379721ca4_ec-722s10.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Biomedicine",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13532,
+        "run_id": "88af529c2db4f198dfca38dedf6268d2",
+        "short_description": "D-Lab World Prosthetics is a collaboration between the Massachusetts Institute of Technology and the Jaipur Foot Organization to improve the design, manufacture, and distribution of rehabilitation devices in the developing world. The course welcomes individuals interested in physical rehabilitation to work on multidisciplinary teams of students with bioengineering, mechanical engineering, material science, and medical or pre-medical backgrounds. Students will learn about the basics of human walking, different types of gait disabilities, as well as the technologies that seek to address those disabilities. Patient perspectives and current research areas are presented. Lecture topics focus on lower-limb disabilities, including polio and above-knee and below-knee amputation, and will cover both developed and developing world techniques for overcoming these disabilities. Students form teams to design and prototype low-cost orthotic and prosthetic devices, and present their work at the end of the course.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Special Topics at Edgerton Center:Developing World Prosthetics",
+        "image_src": "/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/9fc182ae05acef67a364c80379721ca4_ec-722s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Robert  Emerson",
+          "Ken Endo"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T20:32:11.572035Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.722",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.722"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7881,
+    "course_id": "aaa5ea6ab7a5c93ec9f79c02baff7c2d+EC.720J",
+    "coursenum": "EC.720J",
+    "short_description": "D-Lab: Design addresses problems faced by undeserved communities with a focus on design, experimentation, and prototyping processes. Particular attention is placed on constraints faced when designing for developing countries. Multidisciplinary teams work on semester-long projects in collaboration with community partners, field practitioners, and experts in relevant fields. Topics covered include design for affordability, design for manufacture, sustainability, and strategies for working effectively with community partners and customers. Students may continue projects begun in [_EC.701J D-Lab I: Development_](courses/sp-721-d-lab-i-development-fall-2009).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab II: Design",
+    "image_src": "/courses/ec-720j-d-lab-ii-design-spring-2010/1e7f669f9a7b0af8094fcf5119d01820_ec-720js10.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Developmental Economics",
+      "Mechanical Design",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13621,
+        "run_id": "aaa5ea6ab7a5c93ec9f79c02baff7c2d",
+        "short_description": "D-Lab: Design addresses problems faced by undeserved communities with a focus on design, experimentation, and prototyping processes. Particular attention is placed on constraints faced when designing for developing countries. Multidisciplinary teams work on semester-long projects in collaboration with community partners, field practitioners, and experts in relevant fields. Topics covered include design for affordability, design for manufacture, sustainability, and strategies for working effectively with community partners and customers. Students may continue projects begun in [_EC.701J D-Lab I: Development_](courses/sp-721-d-lab-i-development-fall-2009).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "D-Lab II: Design",
+        "image_src": "/courses/ec-720j-d-lab-ii-design-spring-2010/1e7f669f9a7b0af8094fcf5119d01820_ec-720js10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Victor Grau Serrat",
+          "Amy J. Smith"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-720j-d-lab-ii-design-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T20:41:55.811128Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments",
+      "Written Assignments",
+      "Activity Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.720J",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.720J"
+      },
+      {
+        "coursenum": "2.722J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.722J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8095,
+    "course_id": "a0fab535b2dae477f2c6efb4ae1eaa0c+EC.S07",
+    "coursenum": "EC.S07",
+    "short_description": "This class will study the behavior of photovoltaic solar energy systems, focusing on the behavior of \"stand-alone\" systems. The design of stand-alone photovoltaic systems will be covered. This will include estimation of costs and benefits, taking into account any available government subsidies. Introduction to the hardware elements and their behavior will be included.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Photovoltaic Solar Energy Systems",
+    "image_src": "/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/1a9c4226a67ba672332e35434c398521_ec-s07f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electrical Engineering",
+      "Materials Science and Engineering",
+      "Transport Processes",
+      "Electric Power",
+      "Atomic, Molecular, Optical Physics",
+      "Electronic Materials",
+      "Chemical Engineering",
+      "Electromagnetism"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13855,
+        "run_id": "a0fab535b2dae477f2c6efb4ae1eaa0c",
+        "short_description": "This class will study the behavior of photovoltaic solar energy systems, focusing on the behavior of \"stand-alone\" systems. The design of stand-alone photovoltaic systems will be covered. This will include estimation of costs and benefits, taking into account any available government subsidies. Introduction to the hardware elements and their behavior will be included.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Photovoltaic Solar Energy Systems",
+        "image_src": "/courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004/1a9c4226a67ba672332e35434c398521_ec-s07f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Louis Bucciarelli"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T20:54:13.182191Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Simulations",
+      "Lecture Notes",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S07",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S07"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8981,
+    "course_id": "2caaa9e46ee9f7db21d12593b566b679+EC.701J",
+    "coursenum": "EC.701J",
+    "short_description": "D-Lab Development addresses issues of technological improvements at the micro level for developing countries—in particular, how the quality of life of low-income households can be improved by adaptation of low cost and sustainable technologies. Discussion of development issues as well as project implementation challenges are addressed through lectures, case studies, guest speakers and laboratory exercises. Students form project teams to partner with mostly local level organizations in developing countries, and formulate plans for an IAP site visit. (Previous field sites include Ghana, Brazil, Honduras and India.) Project team meetings focus on developing specific projects and include cultural, social, political, environmental and economic overviews of the countries and localities to be visited as well as an introduction to the local languages.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab I: Development",
+    "image_src": "/courses/ec-701j-d-lab-i-development-fall-2009/616e7a7bf16fbcef2928b0da889f6782_ec-701jf09.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Developmental Economics",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15011,
+        "run_id": "2caaa9e46ee9f7db21d12593b566b679",
+        "short_description": "D-Lab Development addresses issues of technological improvements at the micro level for developing countries—in particular, how the quality of life of low-income households can be improved by adaptation of low cost and sustainable technologies. Discussion of development issues as well as project implementation challenges are addressed through lectures, case studies, guest speakers and laboratory exercises. Students form project teams to partner with mostly local level organizations in developing countries, and formulate plans for an IAP site visit. (Previous field sites include Ghana, Brazil, Honduras and India.) Project team meetings focus on developing specific projects and include cultural, social, political, environmental and economic overviews of the countries and localities to be visited as well as an introduction to the local languages.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "D-Lab I: Development",
+        "image_src": "/courses/ec-701j-d-lab-i-development-fall-2009/616e7a7bf16fbcef2928b0da889f6782_ec-701jf09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bishwapriya Sanyal",
+          "Victor Grau Serrat",
+          "Amy J. Smith"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-701j-d-lab-i-development-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T22:10:18.587500Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center",
+      "Urban Studies and Planning"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Activity Assignments",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.701J",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.701J"
+      },
+      {
+        "coursenum": "11.025J,11.472J",
+        "department": "Urban Studies and Planning",
+        "primary": false,
+        "sort_coursenum": "11.025J,11.472J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9019,
+    "course_id": "b109c4058331f1d0d1263ebf2aa7f0e6+EC.719",
+    "coursenum": "EC.719",
+    "short_description": "D-Lab: Water, Climate Change, and Health is a project-based, experiential, and transdisciplinary course. Together with peers and experts, we will explore the vitally important interface of water, climate change, and health. This course addresses mitigation and adaptation to climate change as it pertains to water and health. Water-borne illness, malnutrition, and vector-borne diseases represent the top three causes of morbidity and mortality in regions of our focus. Students submit a term project, setting the stage for a lifelong commitment to communicating climate science to a broad public.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Water, Climate Change, and Health",
+    "image_src": "/courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/77f600a7b63c1e4abda441b2af62a92e_EC-719S19.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Earth Science",
+      "Public Health",
+      "Environmental Science",
+      "Climate Studies",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15075,
+        "run_id": "b109c4058331f1d0d1263ebf2aa7f0e6",
+        "short_description": "D-Lab: Water, Climate Change, and Health is a project-based, experiential, and transdisciplinary course. Together with peers and experts, we will explore the vitally important interface of water, climate change, and health. This course addresses mitigation and adaptation to climate change as it pertains to water and health. Water-borne illness, malnutrition, and vector-borne diseases represent the top three causes of morbidity and mortality in regions of our focus. Students submit a term project, setting the stage for a lifelong commitment to communicating climate science to a broad public.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2019,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2019-01-01T00:00:00Z",
+        "best_end_date": "2019-05-31T00:00:00Z",
+        "title": "D-Lab: Water, Climate Change, and Health",
+        "image_src": "/courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/77f600a7b63c1e4abda441b2af62a92e_EC-719S19.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Susan Murcott",
+          "Juliet Simpson"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-719-d-lab-water-climate-change-and-health-spring-2019"
+      }
+    ],
+    "created": "2020-03-03T22:13:40.463157Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Projects with Examples",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.719",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.719"
+      },
+      {
+        "coursenum": "EC.789",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.789"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9065,
+    "course_id": "5b0f0a66d0383b6aa7881295ae7baf27+EC.S11",
+    "coursenum": "EC.S11",
+    "short_description": "This multidisciplinary seminar addresses fundamental issues in global health faced by community-based healthcare programs in developing countries. Students will broadly explore topics with expert lecturers and guided readings. Topics will be further illuminated with case studies from healthcare programs in urban centers of Zambia. Multidisciplinary teams will be formed to develop feasible solutions to specific health challenges posed in the case studies and encouraged to pursue their ideas beyond the seminar. Possible global health topics include community-based AIDS/HIV management, maternity care, health diagnostics, and information technology in patient management and tracking. Students from Medicine, Public Health, Engineering, Management, and Social Sciences are encouraged to enroll. No specific background experience is expected, but students should have some relevant skills or experiences.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Engineering Capacity in Community-Based Healthcare",
+    "image_src": "/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/63c7caeff26186c01b9b0347b9081011_ec-s11f05.jpg",
+    "topics": [
+      "Health Care Management",
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Business",
+      "Biomedical Enterprise"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17033,
+        "run_id": "5b0f0a66d0383b6aa7881295ae7baf27",
+        "short_description": "This multidisciplinary seminar addresses fundamental issues in global health faced by community-based healthcare programs in developing countries. Students will broadly explore topics with expert lecturers and guided readings. Topics will be further illuminated with case studies from healthcare programs in urban centers of Zambia. Multidisciplinary teams will be formed to develop feasible solutions to specific health challenges posed in the case studies and encouraged to pursue their ideas beyond the seminar. Possible global health topics include community-based AIDS/HIV management, maternity care, health diagnostics, and information technology in patient management and tracking. Students from Medicine, Public Health, Engineering, Management, and Social Sciences are encouraged to enroll. No specific background experience is expected, but students should have some relevant skills or experiences.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Engineering Capacity in Community-Based Healthcare",
+        "image_src": "/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/63c7caeff26186c01b9b0347b9081011_ec-s11f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Mr. Sankey Chibale",
+          "Ms. MaryAnn Dakkak",
+          "Ms. Christina DeFilippo",
+          "Mr. Will DelHagen",
+          "Ms. Kathie Dionisio",
+          "Mr. Peter J. Mack",
+          "Mr. Eric Soller"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T22:19:08.476363Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S11",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S11"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9294,
+    "course_id": "8b15ce7d8206859a969812fd32893f0d+EC.S06",
+    "coursenum": "EC.S06",
+    "short_description": "Humanitarian Demining is the process of detecting, removing and disposing of landmines. Millions of landmines are buried in more than 80 countries resulting in more than 10,000 civilian victims every year. MIT Design for Demining is a design course that spans the entire product design and development process from identification of needs and idea generation to prototyping and blast testing to manufacture and deployment. Technical, business and customer aspects are addressed. Students learn about demining while they design, develop and deliver devices to aid the demining community. Past students have invented or improved hand tools, protective gear, safety equipment, educational graphics and teaching materials. Some tools designed in previous years are in use worldwide in the thousands. Course work is informed by a class field trip to a U.S. Army base for demining training and guest expert speakers.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Design for Demining",
+    "image_src": "/courses/ec-s06-design-for-demining-spring-2007/6589eee7d933fe2b54da738fd65b9100_ec-s06s07.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15527,
+        "run_id": "8b15ce7d8206859a969812fd32893f0d",
+        "short_description": "Humanitarian Demining is the process of detecting, removing and disposing of landmines. Millions of landmines are buried in more than 80 countries resulting in more than 10,000 civilian victims every year. MIT Design for Demining is a design course that spans the entire product design and development process from identification of needs and idea generation to prototyping and blast testing to manufacture and deployment. Technical, business and customer aspects are addressed. Students learn about demining while they design, develop and deliver devices to aid the demining community. Past students have invented or improved hand tools, protective gear, safety equipment, educational graphics and teaching materials. Some tools designed in previous years are in use worldwide in the thousands. Course work is informed by a class field trip to a U.S. Army base for demining training and guest expert speakers.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Design for Demining",
+        "image_src": "/courses/ec-s06-design-for-demining-spring-2007/6589eee7d933fe2b54da738fd65b9100_ec-s06s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Mr. Andrew Heafitz",
+          "Mr. Benjamin Linder"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s06-design-for-demining-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T22:51:52.025529Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Projects",
+      "Design Assignments with Examples",
+      "Written Assignments with Examples",
+      "Demonstration Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S06",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S06"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9615,
+    "course_id": "03ecfbe74faf55554e96b55bafa7899e+EC.711",
+    "coursenum": "EC.711",
+    "short_description": "D-Lab: Energy offers a hands-on, project-based approach that engages students in understanding and addressing the applications of small-scale, sustainable energy technology in developing countries where compact, robust, low-cost systems for generating power are required. Projects may include micro-hydro, solar, or wind turbine generators along with theoretical analysis, design, prototype construction, evaluation and implementation. Students will have the opportunity both to travel to Nicaragua during spring break to identify and implement projects.\n\nD-Lab: Energy is part of MIT's [D-Lab program](http://d-lab.mit.edu/), which fosters the development of appropriate technologies and sustainable solutions within the framework of international development.\n\nThis course is an elective subject in MIT’s undergraduate [Energy Studies Minor](http://mitei.mit.edu/education/energy-minor/). This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Energy",
+    "image_src": "/courses/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Electrical Engineering",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Energy",
+      "Electric Power",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16171,
+        "run_id": "03ecfbe74faf55554e96b55bafa7899e",
+        "short_description": "D-Lab: Energy offers a hands-on, project-based approach that engages students in understanding and addressing the applications of small-scale, sustainable energy technology in developing countries where compact, robust, low-cost systems for generating power are required. Projects may include micro-hydro, solar, or wind turbine generators along with theoretical analysis, design, prototype construction, evaluation and implementation. Students will have the opportunity both to travel to Nicaragua during spring break to identify and implement projects.\n\nD-Lab: Energy is part of MIT's [D-Lab program](http://d-lab.mit.edu/), which fosters the development of appropriate technologies and sustainable solutions within the framework of international development.\n\nThis course is an elective subject in MIT’s undergraduate [Energy Studies Minor](http://mitei.mit.edu/education/energy-minor/). This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2011,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2011-01-01T00:00:00Z",
+        "best_end_date": "2011-05-31T00:00:00Z",
+        "title": "D-Lab: Energy",
+        "image_src": "/courses/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Amy Banzaert",
+          "Amit Gandhi"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-711-d-lab-energy-spring-2011"
+      }
+    ],
+    "created": "2020-03-03T23:30:35.304151Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Lecture Videos",
+      "Demonstration Videos",
+      "Activity Assignments",
+      "Design Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.711",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.711"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9935,
+    "course_id": "0ac5089a56e1e0c77caca20088e25f05+15.772J",
+    "coursenum": "15.772J",
+    "short_description": "This course introduces concepts of supply chain design and operations with a focus on supply chains for products destined to improve quality of life in developing countries. Topics include demand estimation, capacity planning and process analysis, inventory management, and supply chain coordination and performance. We also cover issues specific to emerging markets, such as sustainable supply chains, how to couple product design with supply chain design and operation, and how to account for the value-adding role of a supply chain. A major aspect of class is the student projects on supply chain design or improvement.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Supply Chains",
+    "image_src": "/courses/15-772j-d-lab-supply-chains-fall-2014/bbfbe2108c45d842b113a3bd45fb73a8_15-772jf14.jpg",
+    "topics": [
+      "The Developing World",
+      "Society",
+      "Business",
+      "Supply Chain Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16909,
+        "run_id": "0ac5089a56e1e0c77caca20088e25f05",
+        "short_description": "This course introduces concepts of supply chain design and operations with a focus on supply chains for products destined to improve quality of life in developing countries. Topics include demand estimation, capacity planning and process analysis, inventory management, and supply chain coordination and performance. We also cover issues specific to emerging markets, such as sustainable supply chains, how to couple product design with supply chain design and operation, and how to account for the value-adding role of a supply chain. A major aspect of class is the student projects on supply chain design or improvement.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "D-Lab: Supply Chains",
+        "image_src": "/courses/15-772j-d-lab-supply-chains-fall-2014/bbfbe2108c45d842b113a3bd45fb73a8_15-772jf14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Stephen Graves"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-772j-d-lab-supply-chains-fall-2014"
+      }
+    ],
+    "created": "2020-03-04T00:14:49.276876Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Edgerton Center"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.772J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.772J"
+      },
+      {
+        "coursenum": "EC.733J",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.733J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9931,
+    "course_id": "63843c691bdb855277b73dd6fa765015+EC.715",
+    "coursenum": "EC.715",
+    "short_description": "In the trilogy of D-Lab courses, D-Lab: Dissemination focuses on disseminating innovations among underserved communities, especially in developing countries. Students acquire skills related to building partnerships and piloting, financing, implementing, and scaling-up a selected innovation for the common good. The course is structured around MIT and outside competitions. Teams develop an idea, project or (social) business plan that is \"ready to roll\" by term's end. Course includes an on-line forum discussion board, student-led case studies and a final proposal or business plan for realizing your dream innovation.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Disseminating Innovations for the Common Good",
+    "image_src": "/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/c97fe7bd4a9c7ddad96fed19e3552d97_ec-715s07.jpg",
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "The Developing World",
+      "Society",
+      "Business",
+      "Sociology",
+      "Community Development",
+      "Developmental Economics",
+      "International Development"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16903,
+        "run_id": "63843c691bdb855277b73dd6fa765015",
+        "short_description": "In the trilogy of D-Lab courses, D-Lab: Dissemination focuses on disseminating innovations among underserved communities, especially in developing countries. Students acquire skills related to building partnerships and piloting, financing, implementing, and scaling-up a selected innovation for the common good. The course is structured around MIT and outside competitions. Teams develop an idea, project or (social) business plan that is \"ready to roll\" by term's end. Course includes an on-line forum discussion board, student-led case studies and a final proposal or business plan for realizing your dream innovation.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "D-Lab: Disseminating Innovations for the Common Good",
+        "image_src": "/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/c97fe7bd4a9c7ddad96fed19e3552d97_ec-715s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Susan Murcott"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007"
+      }
+    ],
+    "created": "2020-03-04T00:14:00.744535Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Other Video",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.715",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.715"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11194,
+    "course_id": "2750899616a0ac5648b84695a41e7c74+EC.S06",
+    "coursenum": "EC.S06",
+    "short_description": "You can build a wide range of practical electronic devices if you understand a few basic electronics concepts and follow some simple rules. These devices include light-activated and sound-activated toys and appliances, remote controls, timers and clocks, and motorized devices.\n\nThe subject begins with an overview of the fundamental concepts, followed by a series of laboratory exercises that demonstrate the basic rules, and a final project.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Practical Electronics",
+    "image_src": "/courses/ec-s06-practical-electronics-fall-2004/3e72b2232fd943361e35b21bdfbdc686_ec-s06f04.jpg",
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Electrical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16257,
+        "run_id": "2750899616a0ac5648b84695a41e7c74",
+        "short_description": "You can build a wide range of practical electronic devices if you understand a few basic electronics concepts and follow some simple rules. These devices include light-activated and sound-activated toys and appliances, remote controls, timers and clocks, and motorized devices.\n\nThe subject begins with an overview of the fundamental concepts, followed by a series of laboratory exercises that demonstrate the basic rules, and a final project.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Practical Electronics",
+        "image_src": "/courses/ec-s06-practical-electronics-fall-2004/3e72b2232fd943361e35b21bdfbdc686_ec-s06f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. James Bales"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s06-practical-electronics-fall-2004"
+      }
+    ],
+    "created": "2020-12-04T02:42:47.142739Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S06",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S06"
+      },
+      {
+        "coursenum": "EC.S11",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.S11"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7648,
+    "course_id": "MITx+EC.745X",
+    "coursenum": "EC.745X",
+    "short_description": null,
+    "full_description": null,
+    "platform": "oll",
+    "title": "Lean Research Skills for Conducting Interviews",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+EC.745X+1T2019+type@asset+block@course_image.jpg",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "Open Learning Library"
+    ],
+    "runs": [
+      {
+        "id": 5380,
+        "run_id": "course-v1:MITx+EC.745X+1T2019",
+        "short_description": "Learn to gather information from people using interviewing techniques that are effective and respectful.",
+        "full_description": null,
+        "language": null,
+        "semester": "spring",
+        "year": 2019,
+        "level": null,
+        "start_date": "2019-05-06T00:00:00Z",
+        "end_date": "2019-07-01T00:00:00Z",
+        "enrollment_start": "2018-12-03T09:00:00Z",
+        "enrollment_end": null,
+        "best_start_date": "2018-12-03T09:00:00Z",
+        "best_end_date": "2019-07-01T00:00:00Z",
+        "title": "Lean Research Skills for Conducting Interviews",
+        "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+EC.745X+1T2019+type@asset+block@course_image.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": ""
+          }
+        ],
+        "instructors": [],
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "Open Learning Library"
+        ],
+        "slug": null
+      }
+    ],
+    "created": "2019-10-15T15:02:44.795082Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9501,
+    "course_id": "cfa21986ec578002a932f6c5815ab65f+EC.050",
+    "coursenum": "EC.050",
+    "short_description": "2010 marks the 400th anniversary of Galileo's astonishing sightings of features on the moon, stars, and moons around Jupiter that no one had seen before. Recreate these new ways of seeing and exploring from the materials and techniques Galileo had on hand, while you reflect on the times and works of Galileo. What was it like to improvise new ways of seeing and exploring from the materials and techniques on hand? What do we notice? What surprises us? How can we relate to past experience and ideas? What are we curious to research? How does our experimenting grow into our learning? Let your own curiosity drive your explorations.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Recreate Experiments from History: Inform the Future from the Past: Galileo",
+    "image_src": "/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/118ea95073a9849937243a6d7307075c_ec-050iap10.jpg",
+    "topics": [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15937,
+        "run_id": "cfa21986ec578002a932f6c5815ab65f",
+        "short_description": "2010 marks the 400th anniversary of Galileo's astonishing sightings of features on the moon, stars, and moons around Jupiter that no one had seen before. Recreate these new ways of seeing and exploring from the materials and techniques Galileo had on hand, while you reflect on the times and works of Galileo. What was it like to improvise new ways of seeing and exploring from the materials and techniques on hand? What do we notice? What surprises us? How can we relate to past experience and ideas? What are we curious to research? How does our experimenting grow into our learning? Let your own curiosity drive your explorations.",
+        "full_description": null,
+        "language": null,
+        "semester": "January IAP",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-01-31T00:00:00Z",
+        "title": "Recreate Experiments from History: Inform the Future from the Past: Galileo",
+        "image_src": "/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/118ea95073a9849937243a6d7307075c_ec-050iap10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Elizabeth Cavicchi"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010"
+      }
+    ],
+    "created": "2020-03-03T23:17:41.696499Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Image Gallery",
+      "Activity Assignments",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.050",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.050"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9523,
+    "course_id": "6b92559c609d504ef0a8be99626436b3+EC.S01",
+    "coursenum": "EC.S01",
+    "short_description": "This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. The program focuses upon programming principles, cutting-edge internet technology, free open-source systems, and even an entrepreneurship seminar to introduce students in Africa to the power of information technology in today's world.\n\nMIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks. The AITI program is implemented with emphasis on classroom teaching, community-oriented projects, and independent learning.\n\nThis course has two major components:\n\n1.  Content from a spring 2005 preparatory seminar offered by the MIT-AITI leadership. The goal of this seminar is to adequately prepare the AITI student teachers for their upcoming summer experiences in Africa.\n2.  A snapshot of the summer 2005 MIT-AITI program. This includes the Java®-based curriculum that MIT-AITI ambassadors teach in Africa each year, as well as content from an entrepreneurship seminar offered concurrently with the IT class.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Internet Technology in Local and Global Communities",
+    "image_src": "/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6abfe297c6c1b514356f4b56f629a9c4_ec-s01s05.jpg",
+    "topics": [
+      "Engineering",
+      "Entrepreneurship",
+      "Electrical Engineering",
+      "Teaching and Education",
+      "Media Studies",
+      "Educational Technology",
+      "Fine Arts",
+      "Business",
+      "Digital Media",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15991,
+        "run_id": "6b92559c609d504ef0a8be99626436b3",
+        "short_description": "This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. The program focuses upon programming principles, cutting-edge internet technology, free open-source systems, and even an entrepreneurship seminar to introduce students in Africa to the power of information technology in today's world.\n\nMIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks. The AITI program is implemented with emphasis on classroom teaching, community-oriented projects, and independent learning.\n\nThis course has two major components:\n\n1.  Content from a spring 2005 preparatory seminar offered by the MIT-AITI leadership. The goal of this seminar is to adequately prepare the AITI student teachers for their upcoming summer experiences in Africa.\n2.  A snapshot of the summer 2005 MIT-AITI program. This includes the Java®-based curriculum that MIT-AITI ambassadors teach in Africa each year, as well as content from an entrepreneurship seminar offered concurrently with the IT class.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Internet Technology in Local and Global Communities",
+        "image_src": "/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6abfe297c6c1b514356f4b56f629a9c4_ec-s01s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Mr. Manish Gaudi",
+          "Prof. Paul Gray"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005"
+      }
+    ],
+    "created": "2020-03-03T23:20:36.291100Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Programming Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S01",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S01"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9719,
+    "course_id": "b7eb69e944106627c3015049cbc9cdc3+21A.801J",
+    "coursenum": "21A.801J",
+    "short_description": "This course enhances cross-cultural understanding through the discussion of practical, ethical, and epistemological issues in conducting social science and applied research in foreign countries or unfamiliar communities. It includes a research practicum to help students develop interviewing, participant-observation, and other qualitative research skills, as well as critical discussion of case studies. The course is open to all interested students, but intended particularly for those planning to undertake exploratory research or applied work abroad. Students taking the graduate version complete additional assignments.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Cross-Cultural Investigations: Technology and Development",
+    "image_src": "/courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/828908a378436271bf87b95537b87287_21a-801jf12.jpg",
+    "topics": [
+      "Social Science",
+      "Anthropology",
+      "Ethnography",
+      "Cultural Anthropology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16398,
+        "run_id": "b7eb69e944106627c3015049cbc9cdc3",
+        "short_description": "This course enhances cross-cultural understanding through the discussion of practical, ethical, and epistemological issues in conducting social science and applied research in foreign countries or unfamiliar communities. It includes a research practicum to help students develop interviewing, participant-observation, and other qualitative research skills, as well as critical discussion of case studies. The course is open to all interested students, but intended particularly for those planning to undertake exploratory research or applied work abroad. Students taking the graduate version complete additional assignments.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2012,
+        "level": [
+          "Undergraduate",
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-09-01T00:00:00Z",
+        "best_end_date": "2012-12-31T00:00:00Z",
+        "title": "Cross-Cultural Investigations: Technology and Development",
+        "image_src": "/courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/828908a378436271bf87b95537b87287_21a-801jf12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Heather Paxson"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012"
+      }
+    ],
+    "created": "2020-03-03T23:41:52.314120Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Anthropology",
+      "Edgerton Center",
+      "Science, Technology, and Society"
+    ],
+    "department_slug": "anthropology",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "21A.801J",
+        "department": "Anthropology",
+        "primary": true,
+        "sort_coursenum": "21A.801J"
+      },
+      {
+        "coursenum": "EC.702J,STS.071J,EC.792J,21A.839J,STS.481J",
+        "department": "Edgerton Center",
+        "primary": false,
+        "sort_coursenum": "EC.702J,STS.071J,EC.792J,21A.839J,STS.481J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9727,
+    "course_id": "37d530b05141b2bbf9e1b4b661951212+EC.S02",
+    "coursenum": "EC.S02",
+    "short_description": "In this Public Service Design Seminar (PSDS), we will design and build products with developmentally disabled students at the Protestant Guild Learning Center in Waltham, MA. The class will work closely with community clients to make sure that what is developed is helpful and functional. These products will be built using the Hobby Shop equipment, the water jet machine in particular. Over the course of the seminar, this class will teach students how to use the OMAX® Jet Machining Center commonly called the water jet and associated OMAX® software. The product development process will also be detailed in depth: determining customer needs, concept development, prototyping, design, and manufacturing.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Water Jet Technologies",
+    "image_src": "/courses/ec-s02-water-jet-technologies-spring-2005/140d044037fb8c58177bafcbf016d5da_ec-s02s05.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16414,
+        "run_id": "37d530b05141b2bbf9e1b4b661951212",
+        "short_description": "In this Public Service Design Seminar (PSDS), we will design and build products with developmentally disabled students at the Protestant Guild Learning Center in Waltham, MA. The class will work closely with community clients to make sure that what is developed is helpful and functional. These products will be built using the Hobby Shop equipment, the water jet machine in particular. Over the course of the seminar, this class will teach students how to use the OMAX® Jet Machining Center commonly called the water jet and associated OMAX® software. The product development process will also be detailed in depth: determining customer needs, concept development, prototyping, design, and manufacturing.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Water Jet Technologies",
+        "image_src": "/courses/ec-s02-water-jet-technologies-spring-2005/140d044037fb8c58177bafcbf016d5da_ec-s02s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Kenneth Stone",
+          "Alea Teeters"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-s02-water-jet-technologies-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T23:43:00.777646Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.S02",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.S02"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11891,
+    "course_id": "3f593a0ab0b6cebd8b01d8c56c9fea8e+EC.715",
+    "coursenum": "EC.715",
+    "short_description": "This course focuses on disseminating Water, Sanitation and Hygiene (WASH) or water/environment innovations in developing countries and underserved communities worldwide. It emphasizes core WASH and water/environment principles, culture-specific solutions, tools for start-ups, appropriate and sustainable technologies, behavior change, social marketing, building partnerships, and the theory and practice of innovation diffusion.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "D-Lab: Water, Sanitation, and Hygiene",
+    "image_src": "/courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019/f402674eb612e32df8ec9f7a8d3465b2_ec-715f19.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health and Medicine",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Environmental Engineering",
+      "Aquatic Sciences and Water Quality Control",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 19701,
+        "run_id": "3f593a0ab0b6cebd8b01d8c56c9fea8e",
+        "short_description": "This course focuses on disseminating Water, Sanitation and Hygiene (WASH) or water/environment innovations in developing countries and underserved communities worldwide. It emphasizes core WASH and water/environment principles, culture-specific solutions, tools for start-ups, appropriate and sustainable technologies, behavior change, social marketing, building partnerships, and the theory and practice of innovation diffusion.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2019,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2019-09-01T00:00:00Z",
+        "best_end_date": "2019-12-31T00:00:00Z",
+        "title": "D-Lab: Water, Sanitation, and Hygiene",
+        "image_src": "/courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019/f402674eb612e32df8ec9f7a8d3465b2_ec-715f19.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Libby Hsu",
+          "Susan Murcott"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019"
+      }
+    ],
+    "created": "2021-03-30T09:03:31.581683Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Edgerton Center",
+      "Urban Studies and Planning"
+    ],
+    "department_slug": "edgerton-center",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "EC.715",
+        "department": "Edgerton Center",
+        "primary": true,
+        "sort_coursenum": "EC.715"
+      },
+      {
+        "coursenum": "11.474",
+        "department": "Urban Studies and Planning",
+        "primary": false,
+        "sort_coursenum": "11.474"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

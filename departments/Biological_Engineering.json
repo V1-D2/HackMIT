@@ -1,0 +1,3890 @@
+[
+  {
+    "id": 11878,
+    "course_id": "MITx+20.373x",
+    "coursenum": "20.373x",
+    "short_description": "<p>Cell therapies, such as CAR-T and stem cell therapies, are an exciting new class of therapeutics with the potential to revolutionize medicine. Learn the biology, engineering, and analytical chemistry behind how these amazing new products are manufactured.</p>",
+    "full_description": "<p>The success of CAR-T cell therapies, driven by their unprecedented efficacy and recent regulatory approvals, has kick-started a new wave of interest into cells as therapies. Yet manufacturing is the link between an exciting new development in the laboratory and a commercial therapy available to the patients who need it. This course will introduce learners to this new field through the following topics.</p>\n<ul>\n<li>Cellular therapies are living products that are only effective when delivered alive. This course will introduce the <strong>basic cellular biology</strong> that controls cellular growth and metabolism.</li>\n<li>The enhanced function of some cell therapies relies on our ability to genetically engineer the cells. This course will teach the current and emerging approaches that are used for <strong>genetic modification</strong>.</li>\n<li>This course will teach how we isolate cells from patients or donors and then manipulate them, including helping those cells to grow and multiply outside of the body, to <strong>produce a living product at a therapeutically relevant dose</strong>.</li>\n<li>We also need to have confidence that the product we have made is safe and effective and that the process we have used to make it did not encounter any unanticipated obstacles along the way. This course will teach some of the <strong>analytical methods</strong> used to do this and why these methods were chosen.</li>\n<li>As these are often individualized therapies, how do you reproducibly manufacture a highly complex living therapy for all of the patients who may need it? This course will teach about the unique characteristics of cell therapies and <strong>how those characteristics drive manufacturing, delivery, and supply chain decisions</strong>.</li>\n<li>Cell therapies are part of the larger pharmaceutical industry, which operates under regulatory oversight. This course will teach about how drugs are regulated and <strong>how those regulations are applied specifically to cellular therapies</strong>.</li>\n</ul>\n<p>This course is intended to provide an overview of the key concepts needed to manufacture a cell therapy for learners interested in entering this exciting new field.</p>",
+    "platform": "mitx",
+    "title": "Making a Cell Therapy: Principles and Practice of Manufacturing",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/1ee8e1c7-85c7-4182-a08d-e2a48e3946f8-058048167a7d.small.jpeg",
+    "topics": [
+      "Engineering",
+      "Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "end_date": "2023-11-16T17:00:00Z",
+        "short_description": "<p>Cell therapies, such as CAR-T and stem cell therapies, are an exciting new class of therapeutics with the potential to revolutionize medicine. Learn the biology, engineering, and analytical chemistry behind how these amazing new products are manufactured.</p>",
+        "run_id": "course-v1:MITx+20.373x+3T2023",
+        "year": 2023,
+        "level": [
+          "Intermediate"
+        ],
+        "enrollment_end": null,
+        "language": "en-us",
+        "best_start_date": "2023-09-05T16:00:00Z",
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "MITx"
+        ],
+        "title": "Making a Cell Therapy: Principles and Practice of Manufacturing",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/1ee8e1c7-85c7-4182-a08d-e2a48e3946f8-058048167a7d.small.jpeg",
+        "instructors": [
+          "Paul W. Barone",
+          "Michael Birnbaum",
+          "Caleb Neufeld",
+          "Stacy L. Springs",
+          "Krystyn Van Vliet",
+          "Jacqueline M. Wolfrum",
+          "Mingyu Yang"
+        ],
+        "enrollment_start": null,
+        "full_description": "<p>The success of CAR-T cell therapies, driven by their unprecedented efficacy and recent regulatory approvals, has kick-started a new wave of interest into cells as therapies. Yet manufacturing is the link between an exciting new development in the laboratory and a commercial therapy available to the patients who need it. This course will introduce learners to this new field through the following topics.</p>\n<ul>\n<li>Cellular therapies are living products that are only effective when delivered alive. This course will introduce the <strong>basic cellular biology</strong> that controls cellular growth and metabolism.</li>\n<li>The enhanced function of some cell therapies relies on our ability to genetically engineer the cells. This course will teach the current and emerging approaches that are used for <strong>genetic modification</strong>.</li>\n<li>This course will teach how we isolate cells from patients or donors and then manipulate them, including helping those cells to grow and multiply outside of the body, to <strong>produce a living product at a therapeutically relevant dose</strong>.</li>\n<li>We also need to have confidence that the product we have made is safe and effective and that the process we have used to make it did not encounter any unanticipated obstacles along the way. This course will teach some of the <strong>analytical methods</strong> used to do this and why these methods were chosen.</li>\n<li>As these are often individualized therapies, how do you reproducibly manufacture a highly complex living therapy for all of the patients who may need it? This course will teach about the unique characteristics of cell therapies and <strong>how those characteristics drive manufacturing, delivery, and supply chain decisions</strong>.</li>\n<li>Cell therapies are part of the larger pharmaceutical industry, which operates under regulatory oversight. This course will teach about how drugs are regulated and <strong>how those regulations are applied specifically to cellular therapies</strong>.</li>\n</ul>\n<p>This course is intended to provide an overview of the key concepts needed to manufacture a cell therapy for learners interested in entering this exciting new field.</p>",
+        "best_end_date": "2023-11-16T17:00:00Z",
+        "semester": "fall",
+        "id": 21465,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          },
+          {
+            "mode": "verified",
+            "price": "149.00"
+          }
+        ],
+        "slug": null,
+        "start_date": "2023-09-05T16:00:00Z"
+      }
+    ],
+    "created": "2021-01-09T13:31:43.222388Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7767,
+    "course_id": "4f473c961ef9e8a50b97e8df0c15e97f+3.051J",
+    "coursenum": "3.051J",
+    "short_description": "This class provides an introduction to the interactions between cells and the surfaces of biomaterials. The course covers: surface chemistry and physics of selected metals, polymers, and ceramics; surface characterization methodology; modification of biomaterials surfaces; quantitative assays of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and acute and chronic response to implanted biomaterials. General topics include biosensors, drug delivery, and tissue engineering.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Materials for Biomedical Applications",
+    "image_src": "/courses/3-051j-materials-for-biomedical-applications-spring-2006/dd7e6b2de384b403160338bb0b12f33b_3-051s06.jpg",
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Materials Science and Engineering",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15565,
+        "run_id": "4f473c961ef9e8a50b97e8df0c15e97f",
+        "short_description": "This class provides an introduction to the interactions between cells and the surfaces of biomaterials. The course covers: surface chemistry and physics of selected metals, polymers, and ceramics; surface characterization methodology; modification of biomaterials surfaces; quantitative assays of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and acute and chronic response to implanted biomaterials. General topics include biosensors, drug delivery, and tissue engineering.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Materials for Biomedical Applications",
+        "image_src": "/courses/3-051j-materials-for-biomedical-applications-spring-2006/dd7e6b2de384b403160338bb0b12f33b_3-051s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Anne Mayes"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/3-051j-materials-for-biomedical-applications-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:29:32.358423Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Materials Science and Engineering",
+      "Biological Engineering"
+    ],
+    "department_slug": "materials-science-and-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "3.051J",
+        "department": "Materials Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "03.051J"
+      },
+      {
+        "coursenum": "20.340J",
+        "department": "Biological Engineering",
+        "primary": false,
+        "sort_coursenum": "20.340J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7931,
+    "course_id": "5a41db0d68e65f33a71c7bd42cdc567a+20.310J",
+    "coursenum": "20.310J",
+    "short_description": "This course develops and applies scaling laws and the methods of continuum and statistical mechanics to biomechanical phenomena over a range of length scales, from molecular to cellular to tissue or organ level.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular, Cellular, and Tissue Biomechanics",
+    "image_src": "/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/da998b322ebfd224e91101606a61d96b_20-310js15.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell and Tissue Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13673,
+        "run_id": "5a41db0d68e65f33a71c7bd42cdc567a",
+        "short_description": "This course develops and applies scaling laws and the methods of continuum and statistical mechanics to biomechanical phenomena over a range of length scales, from molecular to cellular to tissue or organ level.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2015,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-05-31T00:00:00Z",
+        "title": "Molecular, Cellular, and Tissue Biomechanics",
+        "image_src": "/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/da998b322ebfd224e91101606a61d96b_20-310js15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Alan Grodzinsky",
+          "Prof. Roger Kamm"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015"
+      }
+    ],
+    "created": "2020-03-03T20:44:45.245586Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.310J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.310J"
+      },
+      {
+        "coursenum": "3.053J,6.024J,2.797J",
+        "department": "Materials Science and Engineering",
+        "primary": false,
+        "sort_coursenum": "03.053J,6.024J,2.797J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8065,
+    "course_id": "63624fbe430c95fbcecfc9793bab8ccc+20.450",
+    "coursenum": "20.450",
+    "short_description": "This course focuses on the fundamentals of tissue and organ response to injury from a molecular and cellular perspective. There is a special emphasis on disease states that bridge infection, inflammation, immunity, and cancer. The systems approach to pathophysiology includes lectures, critical evaluation of recent scientific papers, and student projects and presentations.\n\nThis term, we focus on hepatocellular carcinoma (HCC), chronic-active hepatitis, and hepatitis virus infections. In addition to lectures, students work in teams to critically evaluate and present primary scientific papers.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular and Cellular Pathophysiology (BE.450)",
+    "image_src": "/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/0529b1bef093680b1b6678ad42c20b87_20-450s05.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Molecular Biology",
+      "Virology",
+      "Pathology and Pathophysiology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13823,
+        "run_id": "63624fbe430c95fbcecfc9793bab8ccc",
+        "short_description": "This course focuses on the fundamentals of tissue and organ response to injury from a molecular and cellular perspective. There is a special emphasis on disease states that bridge infection, inflammation, immunity, and cancer. The systems approach to pathophysiology includes lectures, critical evaluation of recent scientific papers, and student projects and presentations.\n\nThis term, we focus on hepatocellular carcinoma (HCC), chronic-active hepatitis, and hepatitis virus infections. In addition to lectures, students work in teams to critically evaluate and present primary scientific papers.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Molecular and Cellular Pathophysiology (BE.450)",
+        "image_src": "/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/0529b1bef093680b1b6678ad42c20b87_20-450s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. David Schauer"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:52:55.141576Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.450",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.450"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8158,
+    "course_id": "6395a19b162653e6b8340a7312b86607+20.441J",
+    "coursenum": "20.441J",
+    "short_description": "This course covers the principles of materials science and cell biology underlying the design of medical implants, artificial organs, and matrices for tissue engineering. Methods for biomaterials surface characterization and analysis of protein adsorption on biomaterials. Molecular and cellular interactions with biomaterials are analyzed in terms of unit cell processes, such as matrix synthesis, degradation, and contraction. Mechanisms underlying wound healing and tissue remodeling following implantation in various organs. Tissue and organ regeneration. Design of implants and prostheses based on control of biomaterials-tissue interactions. Comparative analysis of intact, biodegradable, and bioreplaceable implants by reference to case studies. Criteria for restoration of physiological function for tissues and organs.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biomaterials-Tissue Interactions",
+    "image_src": "/courses/20-441j-biomaterials-tissue-interactions-fall-2009/579634cee65ebf48d88003207b90f9f8_20-441jf09.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13930,
+        "run_id": "6395a19b162653e6b8340a7312b86607",
+        "short_description": "This course covers the principles of materials science and cell biology underlying the design of medical implants, artificial organs, and matrices for tissue engineering. Methods for biomaterials surface characterization and analysis of protein adsorption on biomaterials. Molecular and cellular interactions with biomaterials are analyzed in terms of unit cell processes, such as matrix synthesis, degradation, and contraction. Mechanisms underlying wound healing and tissue remodeling following implantation in various organs. Tissue and organ regeneration. Design of implants and prostheses based on control of biomaterials-tissue interactions. Comparative analysis of intact, biodegradable, and bioreplaceable implants by reference to case studies. Criteria for restoration of physiological function for tissues and organs.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "Biomaterials-Tissue Interactions",
+        "image_src": "/courses/20-441j-biomaterials-tissue-interactions-fall-2009/579634cee65ebf48d88003207b90f9f8_20-441jf09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Myron Spector",
+          "Prof. Ioannis Yannas"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-441j-biomaterials-tissue-interactions-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T20:58:55.014760Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.441J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.441J"
+      },
+      {
+        "coursenum": "2.79J,3.96J,HST.522J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.79J,3.96J,HST.522J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8848,
+    "course_id": "2417d3ded32fde6b209dd8af720637ae+20.020",
+    "coursenum": "20.020",
+    "short_description": "This class is a project-based introduction to the engineering of synthetic biological systems. Throughout the term, students develop projects that are responsive to real-world problems of their choosing, and whose solutions depend on biological technologies. Lectures, discussions, and studio exercises will introduce (1) components and control of prokaryotic and eukaryotic behavior, (2) DNA synthesis, standards, and abstraction in biological engineering, and (3) issues of human practice, including biological safety; security; ownership, sharing, and innovation; and ethics. Enrollment preference is given to freshmen.\n\nThis subject was originally developed and first taught in Spring 2008 by Drew Endy and Natalie Kuldell. Many of Drew's materials are used in this Spring 2009 version, and are included with his permission.\n\nThis OCW Web site is based on the OpenWetWare class Wiki, found at [OpenWetWare: 20.020 (S09)](http://openwetware.org/wiki/20.20%28S09%29)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Biological Engineering Design",
+    "image_src": "/courses/20-020-introduction-to-biological-engineering-design-spring-2009/9cd08e0573573f60c97b19038c3b678b_20-020s09.jpg",
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14821,
+        "run_id": "2417d3ded32fde6b209dd8af720637ae",
+        "short_description": "This class is a project-based introduction to the engineering of synthetic biological systems. Throughout the term, students develop projects that are responsive to real-world problems of their choosing, and whose solutions depend on biological technologies. Lectures, discussions, and studio exercises will introduce (1) components and control of prokaryotic and eukaryotic behavior, (2) DNA synthesis, standards, and abstraction in biological engineering, and (3) issues of human practice, including biological safety; security; ownership, sharing, and innovation; and ethics. Enrollment preference is given to freshmen.\n\nThis subject was originally developed and first taught in Spring 2008 by Drew Endy and Natalie Kuldell. Many of Drew's materials are used in this Spring 2009 version, and are included with his permission.\n\nThis OCW Web site is based on the OpenWetWare class Wiki, found at [OpenWetWare: 20.020 (S09)](http://openwetware.org/wiki/20.20%28S09%29)",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Introduction to Biological Engineering Design",
+        "image_src": "/courses/20-020-introduction-to-biological-engineering-design-spring-2009/9cd08e0573573f60c97b19038c3b678b_20-020s09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Andrew Endy",
+          "Dr. Natalie Kuldell"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-020-introduction-to-biological-engineering-design-spring-2009"
+      }
+    ],
+    "created": "2020-03-03T22:00:01.100852Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Tutorial Videos",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.020",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.020"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9181,
+    "course_id": "0a82553e412ba5629d4aa16ca361e658+20.453J",
+    "coursenum": "20.453J",
+    "short_description": "This course teaches the design of contemporary information systems for biological and medical data. Examples are chosen from biology and medicine to illustrate complete life cycle information systems, beginning with data acquisition, following to data storage and finally to retrieval and analysis. Design of appropriate databases, client-server strategies, data interchange protocols, and computational modeling architectures. Students are expected to have some familiarity with scientific application software and a basic understanding of at least one contemporary programming language (e.g. C, C++, Java, Lisp, Perl, Python). A major term project is required of all students. This subject is open to motivated seniors having a strong interest in biomedical engineering and information system design with the ability to carry out a significant independent project.\n\nThis course was offered as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma) (SMA) program as course number SMA 5304.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biomedical Information Technology",
+    "image_src": "/courses/20-453j-biomedical-information-technology-fall-2008/c2dc5f4cc94aa3c22770f8e497f3734e_20-453jf08.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomedicine",
+      "Business",
+      "Information Technology",
+      "Data Mining",
+      "Computational Biology",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15607,
+        "run_id": "0a82553e412ba5629d4aa16ca361e658",
+        "short_description": "This course teaches the design of contemporary information systems for biological and medical data. Examples are chosen from biology and medicine to illustrate complete life cycle information systems, beginning with data acquisition, following to data storage and finally to retrieval and analysis. Design of appropriate databases, client-server strategies, data interchange protocols, and computational modeling architectures. Students are expected to have some familiarity with scientific application software and a basic understanding of at least one contemporary programming language (e.g. C, C++, Java, Lisp, Perl, Python). A major term project is required of all students. This subject is open to motivated seniors having a strong interest in biomedical engineering and information system design with the ability to carry out a significant independent project.\n\nThis course was offered as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma) (SMA) program as course number SMA 5304.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "Biomedical Information Technology",
+        "image_src": "/courses/20-453j-biomedical-information-technology-fall-2008/c2dc5f4cc94aa3c22770f8e497f3734e_20-453jf08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Sourav Saha Bhowmick",
+          "Prof. C. Forbes Dewey",
+          "Prof. Hanry Yu"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-453j-biomedical-information-technology-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T22:36:27.358768Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.453J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.453J"
+      },
+      {
+        "coursenum": "2.771J,HST.958J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.771J,HST.958J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9593,
+    "course_id": "01577db1d6d1c4e7ad2d6cd16d9abf0f+20.109",
+    "coursenum": "20.109",
+    "short_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on RNA engineering, protein engineering, and cell-biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, [20.109(S10): Laboratory Fundamentals of Biological Engineering](http://openwetware.org/wiki/20.109%28S10%29).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Laboratory Fundamentals in Biological Engineering",
+    "image_src": "/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/ebc1d693664362da7dd5af5369d23285_20-109s10.JPG",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Genetics",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17158,
+        "run_id": "01577db1d6d1c4e7ad2d6cd16d9abf0f",
+        "short_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on RNA engineering, protein engineering, and cell-biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, [20.109(S10): Laboratory Fundamentals of Biological Engineering](http://openwetware.org/wiki/20.109%28S10%29).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Laboratory Fundamentals in Biological Engineering",
+        "image_src": "/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/ebc1d693664362da7dd5af5369d23285_20-109s10.JPG",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Atissa Banuazizi",
+          "Prof. Alan Jasanoff",
+          "Dr. Neal Lerner",
+          "Prof. Jacquin Niles",
+          "Dr. Agi Stachowiak",
+          "Dr. Linda Sutliff"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T23:28:59.902357Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Other Video",
+      "Presentation Assignments",
+      "Written Assignments",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.109",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.109"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9717,
+    "course_id": "db4573d27b2207f53759678ba5aa149c+20.320",
+    "coursenum": "20.320",
+    "short_description": "This course focuses on computational and experimental analysis of biological systems across a hierarchy of scales, including genetic, molecular, cellular, and cell population levels. The two central themes of the course are modeling of complex dynamic systems and protein design and engineering. Topics include gene sequence analysis, molecular modeling, metabolic and gene regulation networks, signal transduction pathways and cell populations in tissues. Emphasis is placed on experimental methods, quantitative analysis, and computational modeling.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Analysis of Biomolecular and Cellular Systems",
+    "image_src": "/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/4faa70be56e18dd9e1c05b7d2c40e81f_20-320f12.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16394,
+        "run_id": "db4573d27b2207f53759678ba5aa149c",
+        "short_description": "This course focuses on computational and experimental analysis of biological systems across a hierarchy of scales, including genetic, molecular, cellular, and cell population levels. The two central themes of the course are modeling of complex dynamic systems and protein design and engineering. Topics include gene sequence analysis, molecular modeling, metabolic and gene regulation networks, signal transduction pathways and cell populations in tissues. Emphasis is placed on experimental methods, quantitative analysis, and computational modeling.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-09-01T00:00:00Z",
+        "best_end_date": "2012-12-31T00:00:00Z",
+        "title": "Analysis of Biomolecular and Cellular Systems",
+        "image_src": "/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/4faa70be56e18dd9e1c05b7d2c40e81f_20-320f12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Ernest Fraenkel",
+          "Prof. Forest White"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012"
+      }
+    ],
+    "created": "2020-03-03T23:41:43.362412Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Projects",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.320",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.320"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9797,
+    "course_id": "6a3214ea8fde6a8e8cf661335c59511e+20.010J",
+    "coursenum": "20.010J",
+    "short_description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Bioengineering (BE.010J)",
+    "image_src": "/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Computation and Systems Biology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16570,
+        "run_id": "6a3214ea8fde6a8e8cf661335c59511e",
+        "short_description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Introduction to Bioengineering (BE.010J)",
+        "image_src": "/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Angela M. Belcher",
+          "Biological Engineering Faculty",
+          "Prof. Douglas Lauffenburger",
+          "Prof. Paul T. Matsudaira"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:51:08.636577Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.010J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.010J"
+      },
+      {
+        "coursenum": "2.790J,6.025J,7.38J,10.010J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.790J,6.025J,7.38J,10.010J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10070,
+    "course_id": "b7932fd7ad8f3c60dbda439632880008+20.410J",
+    "coursenum": "20.410J",
+    "short_description": "This course develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include: structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels will also be investigated.\n\nThis course was originally co-developed by Professors Alan Grodzinsky, Roger Kamm, and L. Mahadevan.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+    "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17277,
+        "run_id": "b7932fd7ad8f3c60dbda439632880008",
+        "short_description": "This course develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include: structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels will also be investigated.\n\nThis course was originally co-developed by Professors Alan Grodzinsky, Roger Kamm, and L. Mahadevan.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+        "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Patrick Doyle",
+          "Maxine Jonas",
+          "Roger D. Kamm"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003"
+      }
+    ],
+    "created": "2020-03-04T00:59:29.927344Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.410J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.410J"
+      },
+      {
+        "coursenum": "2.798J,6.524J,10.537",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.798J,6.524J,10.537"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10629,
+    "course_id": "1868c546a4ebdddaf5573bc35dadd9e9+20.109",
+    "coursenum": "20.109",
+    "short_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, rigorous data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on genome engineering, expression engineering, and biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, found at [20.109(F07): Laboratory Fundamentals of Biological Engineering](http://openwetware.org/wiki/20.109%28F07%29).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Laboratory Fundamentals in Biological Engineering",
+    "image_src": "/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/099f9c18f4f1ccbf4c21b5198e2c60ba_20-109f07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Genetics",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16631,
+        "run_id": "1868c546a4ebdddaf5573bc35dadd9e9",
+        "short_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, rigorous data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on genome engineering, expression engineering, and biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, found at [20.109(F07): Laboratory Fundamentals of Biological Engineering](http://openwetware.org/wiki/20.109%28F07%29).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-09-01T00:00:00Z",
+        "best_end_date": "2007-12-31T00:00:00Z",
+        "title": "Laboratory Fundamentals in Biological Engineering",
+        "image_src": "/courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/099f9c18f4f1ccbf4c21b5198e2c60ba_20-109f07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Atissa Banuazizi",
+          "Prof. Angela M. Belcher",
+          "Prof. Drew Endy",
+          "Dr. Natalie Kuldell",
+          "Dr. Neal Lerner",
+          "Dr. Agi Stachowiak"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007"
+      }
+    ],
+    "created": "2020-12-04T02:40:23.259976Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.109",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.109"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8825,
+    "course_id": "7f344898ccc5faab5f54ead4063b76ee+20.110J",
+    "coursenum": "20.110J",
+    "short_description": "This subject deals primarily with equilibrium properties of macroscopic and microscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and macromolecular interactions.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Thermodynamics of Biomolecular Systems",
+    "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Thermodynamics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14787,
+        "run_id": "7f344898ccc5faab5f54ead4063b76ee",
+        "short_description": "This subject deals primarily with equilibrium properties of macroscopic and microscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and macromolecular interactions.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Thermodynamics of Biomolecular Systems",
+        "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Moungi Bawendi",
+          "Prof. Robert Field",
+          "Prof. Linda Griffith",
+          "Prof. Kim Hamad-Schifferli"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T21:56:56.721169Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemistry",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.110J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.110J"
+      },
+      {
+        "coursenum": "5.601J,2.772J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.601J,2.772J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 4964,
+    "course_id": "MITx+20.305x",
+    "coursenum": "20.305x",
+    "short_description": "<p>Learn how to engineer biological systems and program organisms to perform novel tasks.</p>",
+    "full_description": "<p>Do you like biology, biotechnology, or genetic engineering? Are you interested in computer science, engineering, or design? Synthetic Biology is an innovative field bringing together these subject areas and many more to create useful tools to solve everyday problems.</p>\n<p>This introductory synthetic biology course starts with a brief overview of the field and then delves into more challenging yet exciting concepts. You will learn how to design your very own biological regulatory circuits and consider ways in which you can apply these circuits to real-world problems we face today.</p>\n<p>From basic oscillators, toggle switches, and band-pass filters to more sophisticated circuits that build upon these devices, you will learn what synthetic biologists of today are currently constructing and how these circuits can be used in interesting and novel ways.</p>\n<p>Join us as we explore the field of synthetic biology: its past, present, and promising future!</p>",
+    "platform": "mitx",
+    "title": "Principles of Synthetic Biology",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/542d8850-77cd-4675-961a-b2673dbfc895-a7f9ce414e4a.small.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "id": 17305,
+        "run_id": "course-v1:MITx+20.305x+2T2020",
+        "short_description": "<p>Learn how to engineer biological systems and program organisms to perform novel tasks.</p>",
+        "full_description": "<p>Do you like biology, biotechnology, or genetic engineering? Are you interested in computer science, engineering, or design? Synthetic Biology is an innovative field bringing together these subject areas and many more to create useful tools to solve everyday problems.</p>\n<p>This introductory synthetic biology course starts with a brief overview of the field and then delves into more challenging yet exciting concepts. You will learn how to design your very own biological regulatory circuits and consider ways in which you can apply these circuits to real-world problems we face today.</p>\n<p>From basic oscillators, toggle switches, and band-pass filters to more sophisticated circuits that build upon these devices, you will learn what synthetic biologists of today are currently constructing and how these circuits can be used in interesting and novel ways.</p>\n<p>Join us as we explore the field of synthetic biology: its past, present, and promising future!</p>",
+        "language": "en-us",
+        "semester": "summer",
+        "year": 2020,
+        "level": [
+          "Advanced"
+        ],
+        "start_date": "2020-05-26T16:00:00Z",
+        "end_date": "2020-09-08T16:00:00Z",
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2020-05-26T16:00:00Z",
+        "best_end_date": "2020-09-08T16:00:00Z",
+        "title": "Principles of Synthetic Biology",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/542d8850-77cd-4675-961a-b2673dbfc895-a7f9ce414e4a.small.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          },
+          {
+            "price": "49.00",
+            "mode": "verified"
+          }
+        ],
+        "instructors": [
+          "Adam Arkin",
+          "Ron Weiss"
+        ],
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "MITx"
+        ],
+        "slug": null
+      }
+    ],
+    "created": "2019-08-28T15:33:24.207144Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9053,
+    "course_id": "f9f737703c09e536d071ea21779402b7+RES.GEM4",
+    "coursenum": "RES.GEM4",
+    "short_description": "### GEM{{< sup \"4\" >}} Vision\n\nGEM{{< sup \"4\" >}} has brought together researchers and professionals in major institutions across the globe with distinctly different, but complementary, expertise and facilities to address significant problems at the intersections of select topics of engineering, life sciences, technology, medicine and public health.\n\nGEM{{< sup \"4\" >}} creates new models for interactions across scientific disciplinary boundaries whereby problems spanning the range of fundamental science to clinical studies and public health can be addressed on a global scale through strategic international partnerships.\n\nThrough initial focus areas in cell and molecular biomechanics, and environmental health, in the context of select human diseases, GEM{{< sup \"4\" >}} creates a global forum for the definition and exploration of grand challenges and scientific studies, for the cross-fertilization of ideas among engineers, life scientists and medical professionals, and for the development of novel educational tools.\n\n### GEM{{< sup \"4\" >}} Activities\n\nGEM{{< sup \"4\" >}} enables the brokering of engineers, life scientists and medical professionals with shared facilities and joint students and post-doctoral fellows to tackle major problems in the context of human health and diseases that call for state-of-the-art experimental and computational tools in cell and molecular mechanics, biology and medicine. Broad examples of problems addressed include:\n\n*   infectious diseases such as malaria,\n*   cancer,\n*   cardiovascular diseases,\n*   biomechanical origins of inflammation.\n\nIn each of these areas, the initial emphasis has included (but will not be limited to) molecular, subcellular and cellular mechanics applied to biomedicine, where a single investigator or institution is not likely to have the full spectrum of expertise, infrastructure or resources available to cover fundamental molecular science all the way to clinical studies and societal implications. Currently, twelve institutions in North America, Europe and Asia participate in this effort as Core institutions, focusing on mechanistic studies, as well as novel methods for diagnostics, vaccines or drug development and delivery.\n\nFunds have been raised to provide a structure for coordinated studies from major organizations under the umbrella of GEM{{< sup \"4\" >}}. These funds are being used for:\n\n*   organization of major symposia/conferences specifically targeted at the theme areas of the initiative,\n*   training grants for student fellowships for the partner institutions,\n*   summer schools to develop teaching materials,\n*   the exchange of students and researchers,\n*   operations of a central secretariat for handling the administrative and infrastructure details for such interactions,\n*   maintenance of a web site for dissemination of information.\n\n[GEM{{< sup \"4\" >}} Online](/ans7870/GEM4/index.html)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)",
+    "image_src": "/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/5a8e939539c69e0e251677f9de883722_res-gem4s07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Public Health",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cellular and Molecular Medicine"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "### GEM{{< sup \"4\" >}} Vision\n\nGEM{{< sup \"4\" >}} has brought together researchers and professionals in major institutions across the globe with distinctly different, but complementary, expertise and facilities to address significant problems at the intersections of select topics of engineering, life sciences, technology, medicine and public health.\n\nGEM{{< sup \"4\" >}} creates new models for interactions across scientific disciplinary boundaries whereby problems spanning the range of fundamental science to clinical studies and public health can be addressed on a global scale through strategic international partnerships.\n\nThrough initial focus areas in cell and molecular biomechanics, and environmental health, in the context of select human diseases, GEM{{< sup \"4\" >}} creates a global forum for the definition and exploration of grand challenges and scientific studies, for the cross-fertilization of ideas among engineers, life scientists and medical professionals, and for the development of novel educational tools.\n\n### GEM{{< sup \"4\" >}} Activities\n\nGEM{{< sup \"4\" >}} enables the brokering of engineers, life scientists and medical professionals with shared facilities and joint students and post-doctoral fellows to tackle major problems in the context of human health and diseases that call for state-of-the-art experimental and computational tools in cell and molecular mechanics, biology and medicine. Broad examples of problems addressed include:\n\n*   infectious diseases such as malaria,\n*   cancer,\n*   cardiovascular diseases,\n*   biomechanical origins of inflammation.\n\nIn each of these areas, the initial emphasis has included (but will not be limited to) molecular, subcellular and cellular mechanics applied to biomedicine, where a single investigator or institution is not likely to have the full spectrum of expertise, infrastructure or resources available to cover fundamental molecular science all the way to clinical studies and societal implications. Currently, twelve institutions in North America, Europe and Asia participate in this effort as Core institutions, focusing on mechanistic studies, as well as novel methods for diagnostics, vaccines or drug development and delivery.\n\nFunds have been raised to provide a structure for coordinated studies from major organizations under the umbrella of GEM{{< sup \"4\" >}}. These funds are being used for:\n\n*   organization of major symposia/conferences specifically targeted at the theme areas of the initiative,\n*   training grants for student fellowships for the partner institutions,\n*   summer schools to develop teaching materials,\n*   the exchange of students and researchers,\n*   operations of a central secretariat for handling the administrative and infrastructure details for such interactions,\n*   maintenance of a web site for dissemination of information.\n\n[GEM{{< sup \"4\" >}} Online](/ans7870/GEM4/index.html)",
+        "run_id": "f9f737703c09e536d071ea21779402b7",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2006-06-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)",
+        "image_src": "/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/5a8e939539c69e0e251677f9de883722_res-gem4s07.jpg",
+        "instructors": [
+          "Roger D. Kamm"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2006-08-30T00:00:00Z",
+        "semester": "Summer",
+        "id": 15123,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T22:16:31.237805Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.GEM4",
+        "sort_coursenum": "RES.GEM4",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8827,
+    "course_id": "3cab90849b7b419dadbb72d089929f11+9.123",
+    "coursenum": "9.123",
+    "short_description": "This course, as a part of MIT's [Center for Neurobiological Engineering curriculum](http://web.mit.edu/cnbe/training.html), explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as in situ lab tours.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Neurotechnology in Action",
+    "image_src": "/courses/9-123-neurotechnology-in-action-fall-2014/690f3e03ec2fe4ff38ac5349f74336a1_9-123f14.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Biotechnology",
+      "Biomedical Instrumentation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14790,
+        "run_id": "3cab90849b7b419dadbb72d089929f11",
+        "short_description": "This course, as a part of MIT's [Center for Neurobiological Engineering curriculum](http://web.mit.edu/cnbe/training.html), explores cutting-edge neurotechnology that is essential for advances in all aspects of neuroscience, including improvements in existing methods as well as the development, testing and discussion of completely new paradigms. Readings and in-class sessions cover the fields of electrophysiology, light microscopy, cellular engineering, optogenetics, electron microscopy, MRI / fMRI, and MEG / EEG. The course is designed with lectures that cover the background, context, and theoretical descriptions of neurotechnologies, and labs, which provide firsthand demonstrations as well as in situ lab tours.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "Neurotechnology in Action",
+        "image_src": "/courses/9-123-neurotechnology-in-action-fall-2014/690f3e03ec2fe4ff38ac5349f74336a1_9-123f14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Edward Boyden",
+          "Prof. Alan Jasanoff",
+          "Maxine Jonas"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/9-123-neurotechnology-in-action-fall-2014"
+      }
+    ],
+    "created": "2020-03-03T21:57:05.708408Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Brain and Cognitive Sciences",
+      "Biological Engineering"
+    ],
+    "department_slug": "brain-and-cognitive-sciences",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "9.123",
+        "department": "Brain and Cognitive Sciences",
+        "primary": true,
+        "sort_coursenum": "09.123"
+      },
+      {
+        "coursenum": "20.203",
+        "department": "Biological Engineering",
+        "primary": false,
+        "sort_coursenum": "20.203"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7775,
+    "course_id": "8b9e07126b5b42fb576fa6d2bda83050+20.106J",
+    "coursenum": "20.106J",
+    "short_description": "This course covers introductory microbiology from a systems perspective, considering microbial diversity, population dynamics, and genomics. Emphasis is placed on the delicate balance between microbes and humans, and the changes that result in the emergence of infectious diseases and antimicrobial resistance. The case study approach covers such topics as vaccines, toxins, biodefense, and infections including Legionnaire’s disease, tuberculosis, Helicobacter pylori, and plague.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Systems Microbiology",
+    "image_src": "/courses/20-106j-systems-microbiology-fall-2006/143e8064abe7d168bd7917b66bc5a4a1_20-106jf06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Ecology",
+      "Microbiology",
+      "Computation and Systems Biology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13509,
+        "run_id": "8b9e07126b5b42fb576fa6d2bda83050",
+        "short_description": "This course covers introductory microbiology from a systems perspective, considering microbial diversity, population dynamics, and genomics. Emphasis is placed on the delicate balance between microbes and humans, and the changes that result in the emergence of infectious diseases and antimicrobial resistance. The case study approach covers such topics as vaccines, toxins, biodefense, and infections including Legionnaire’s disease, tuberculosis, Helicobacter pylori, and plague.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Systems Microbiology",
+        "image_src": "/courses/20-106j-systems-microbiology-fall-2006/143e8064abe7d168bd7917b66bc5a4a1_20-106jf06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Edward DeLong",
+          "Prof. David Schauer"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-106j-systems-microbiology-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T20:30:08.139640Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.106J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.106J"
+      },
+      {
+        "coursenum": "1.084J",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.084J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7891,
+    "course_id": "119c66f99e6a5eb57e2cba502457a03d+6.021J",
+    "coursenum": "6.021J",
+    "short_description": "In this subject, we consider two basic topics in cellular biophysics, posed here as questions:\n\n1.  Which molecules are transported across cellular membranes, and what are the mechanisms of transport? How do cells maintain their compositions, volume, and membrane potential?\n2.  How are potentials generated across the membranes of cells? What do these potentials do?\n\nAlthough the questions posed are fundamentally biological questions, the methods for answering these questions are inherently multidisciplinary. As we will see throughout the course, the role of mathematical models is to express concepts precisely enough that precise conclusions can be drawn. In connection with all the topics covered, we will consider both theory and experiment. For the student, the educational value of examining the interplay between theory and experiment transcends the value of the specific knowledge gained in the subject matter.\n\nThis course is jointly offered through four departments, available to both undergraduates and graduates.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Quantitative Physiology: Cells and Tissues",
+    "image_src": "/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/17364cc98645e0ab3e6f218d8cc93e7c_6-021jf04.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Molecular Biology",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15159,
+        "run_id": "119c66f99e6a5eb57e2cba502457a03d",
+        "short_description": "In this subject, we consider two basic topics in cellular biophysics, posed here as questions:\n\n1.  Which molecules are transported across cellular membranes, and what are the mechanisms of transport? How do cells maintain their compositions, volume, and membrane potential?\n2.  How are potentials generated across the membranes of cells? What do these potentials do?\n\nAlthough the questions posed are fundamentally biological questions, the methods for answering these questions are inherently multidisciplinary. As we will see throughout the course, the role of mathematical models is to express concepts precisely enough that precise conclusions can be drawn. In connection with all the topics covered, we will consider both theory and experiment. For the student, the educational value of examining the interplay between theory and experiment transcends the value of the specific knowledge gained in the subject matter.\n\nThis course is jointly offered through four departments, available to both undergraduates and graduates.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Quantitative Physiology: Cells and Tissues",
+        "image_src": "/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/17364cc98645e0ab3e6f218d8cc93e7c_6-021jf04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Dennis Freeman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T20:42:39.318241Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "electrical-engineering-and-computer-science",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "6.021J",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": true,
+        "sort_coursenum": "06.021J"
+      },
+      {
+        "coursenum": "2.791J,2.794J,6.521J,20.370J,20.470J,HST.541J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.791J,2.794J,6.521J,20.370J,20.470J,HST.541J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8325,
+    "course_id": "d3cb25098dbe960e8ce6693e0ae52502+20.201",
+    "coursenum": "20.201",
+    "short_description": "This course addresses the scientific basis for the development of new drugs. The first half of the semester begins with an overview of the drug discovery process, followed by fundamental principles of pharmacokinetics, pharmacodynamics, metabolism, and the mechanisms by which drugs cause therapeutic and toxic responses. The second half of the semester applies those principles to case studies and literature discussions of current problems with specific drugs, drug classes, and therapeutic targets.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Mechanisms of Drug Actions",
+    "image_src": "/courses/20-201-mechanisms-of-drug-actions-fall-2013/f76b778e71e28b963c4efb1e5625ad1a_20-201f13.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomedicine",
+      "Biology",
+      "Biochemistry",
+      "Pharmacology and Toxicology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14134,
+        "run_id": "d3cb25098dbe960e8ce6693e0ae52502",
+        "short_description": "This course addresses the scientific basis for the development of new drugs. The first half of the semester begins with an overview of the drug discovery process, followed by fundamental principles of pharmacokinetics, pharmacodynamics, metabolism, and the mechanisms by which drugs cause therapeutic and toxic responses. The second half of the semester applies those principles to case studies and literature discussions of current problems with specific drugs, drug classes, and therapeutic targets.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Mechanisms of Drug Actions",
+        "image_src": "/courses/20-201-mechanisms-of-drug-actions-fall-2013/f76b778e71e28b963c4efb1e5625ad1a_20-201f13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Peter Dedon",
+          "Dr. Charles Knutson",
+          "Dr. Mark Murcko",
+          "Prof. Steven Tannenbaum"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-201-mechanisms-of-drug-actions-fall-2013"
+      }
+    ],
+    "created": "2020-03-03T21:11:35.591038Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.201",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.201"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8409,
+    "course_id": "508775edd54294800927424e20b484f4+HST.542J",
+    "coursenum": "HST.542J",
+    "short_description": "This course elaborates on the application of the principles of energy and mass flow to major human organ systems. It discusses mechanisms of regulation and homeostasis. It also discusses anatomical, physiological, and pathophysiological features of the cardiovascular, respiratory, and renal systems. There is emphasis on those systems, features, and devices that are most illuminated by the methods of physical sciences.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Quantitative Physiology: Organ Transport Systems",
+    "image_src": "/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/9c3c4cb6c0240523b5574088fa8a7722_hst-542js04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Transport Processes",
+      "Biochemistry",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14241,
+        "run_id": "508775edd54294800927424e20b484f4",
+        "short_description": "This course elaborates on the application of the principles of energy and mass flow to major human organ systems. It discusses mechanisms of regulation and homeostasis. It also discusses anatomical, physiological, and pathophysiological features of the cardiovascular, respiratory, and renal systems. There is emphasis on those systems, features, and devices that are most illuminated by the methods of physical sciences.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Quantitative Physiology: Organ Transport Systems",
+        "image_src": "/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/9c3c4cb6c0240523b5574088fa8a7722_hst-542js04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Roger Mark",
+          "Prof. Jose Venegas"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004"
+      }
+    ],
+    "created": "2020-03-03T21:19:10.179914Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Health Sciences and Technology",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "department_slug": "health-sciences-and-technology",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "HST.542J",
+        "department": "Health Sciences and Technology",
+        "primary": true,
+        "sort_coursenum": "HST.542J"
+      },
+      {
+        "coursenum": "2.792J,20.371J,6.022J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.792J,20.371J,6.022J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8536,
+    "course_id": "a62705d19a9854f744ab5c9be191fe24+7.91J",
+    "coursenum": "7.91J",
+    "short_description": "This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Foundations of Computational and Systems Biology",
+    "image_src": "/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Computational Modeling and Simulation",
+      "Computational Biology",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14396,
+        "run_id": "a62705d19a9854f744ab5c9be191fe24",
+        "short_description": "This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-01-01T00:00:00Z",
+        "best_end_date": "2014-05-31T00:00:00Z",
+        "title": "Foundations of Computational and Systems Biology",
+        "image_src": "/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Christopher Burge",
+          "Prof. Ernest Fraenkel",
+          "Prof. David Gifford"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014"
+      }
+    ],
+    "created": "2020-03-03T21:28:25.380287Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biology",
+      "Biological Engineering",
+      "Electrical Engineering and Computer Science",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "biology",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Projects",
+      "Programming Assignments with Examples",
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "7.91J",
+        "department": "Biology",
+        "primary": true,
+        "sort_coursenum": "07.91J"
+      },
+      {
+        "coursenum": "20.490J,20.390J,7.36J,6.802J,6.874J,HST.506J",
+        "department": "Biological Engineering",
+        "primary": false,
+        "sort_coursenum": "20.490J,20.390J,7.36J,6.802J,6.874J,HST.506J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8616,
+    "course_id": "dc37df83c5c8c8545d4b4f13e9c04a57+20.482J",
+    "coursenum": "20.482J",
+    "short_description": "This subject describes and illustrates computational approaches to solving problems in systems biology. A series of case-studies will be explored that demonstrate how an effective match between the statement of a biological problem and the selection of an appropriate algorithm or computational technique can lead to fundamental advances. The subject will cover several discrete and numerical algorithms used in simulation, feature extraction, and optimization for molecular, network, and systems models in biology.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Foundations of Algorithms and Computational Techniques in Systems Biology",
+    "image_src": "/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/33e5aa6847cd390a978c109e612e01e9_20-482js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Algorithms and Data Structures",
+      "Computational Modeling and Simulation",
+      "Computational Biology",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14497,
+        "run_id": "dc37df83c5c8c8545d4b4f13e9c04a57",
+        "short_description": "This subject describes and illustrates computational approaches to solving problems in systems biology. A series of case-studies will be explored that demonstrate how an effective match between the statement of a biological problem and the selection of an appropriate algorithm or computational technique can lead to fundamental advances. The subject will cover several discrete and numerical algorithms used in simulation, feature extraction, and optimization for molecular, network, and systems models in biology.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Foundations of Algorithms and Computational Techniques in Systems Biology",
+        "image_src": "/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/33e5aa6847cd390a978c109e612e01e9_20-482js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bruce Tidor",
+          "Prof. Jacob White"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:35:02.745829Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.482J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.482J"
+      },
+      {
+        "coursenum": "6.581J",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.581J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8661,
+    "course_id": "259c5128579aa2c446508f4086938387+2.785J",
+    "coursenum": "2.785J",
+    "short_description": "Mechanical forces play a decisive role during development of tissues and organs, during remodeling following injury as well as in normal function. A stress field influences cell function primarily through deformation of the extracellular matrix to which cells are attached. Deformed cells express different biosynthetic activity relative to undeformed cells. The unit cell process paradigm combined with topics in connective tissue mechanics form the basis for discussions of several topics from cell biology, physiology, and medicine.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Cell-Matrix Mechanics",
+    "image_src": "/courses/2-785j-cell-matrix-mechanics-fall-2014/8794273a97730c712f932df66e95bcd6_2-785jf14.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Materials Science and Engineering",
+      "Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Developmental Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14554,
+        "run_id": "259c5128579aa2c446508f4086938387",
+        "short_description": "Mechanical forces play a decisive role during development of tissues and organs, during remodeling following injury as well as in normal function. A stress field influences cell function primarily through deformation of the extracellular matrix to which cells are attached. Deformed cells express different biosynthetic activity relative to undeformed cells. The unit cell process paradigm combined with topics in connective tissue mechanics form the basis for discussions of several topics from cell biology, physiology, and medicine.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "Cell-Matrix Mechanics",
+        "image_src": "/courses/2-785j-cell-matrix-mechanics-fall-2014/8794273a97730c712f932df66e95bcd6_2-785jf14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Myron Spector",
+          "Prof. Ioannis Yannas"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-785j-cell-matrix-mechanics-fall-2014"
+      }
+    ],
+    "created": "2020-03-03T21:38:25.047152Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.785J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.785J"
+      },
+      {
+        "coursenum": "3.97J,20.411J,HST.523J",
+        "department": "Materials Science and Engineering",
+        "primary": false,
+        "sort_coursenum": "03.97J,20.411J,HST.523J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9132,
+    "course_id": "486ff7a627cdb020bafa146f1f0351b9+20.309",
+    "coursenum": "20.309",
+    "short_description": "This course covers sensing and measurement for quantitative molecular/cell/tissue analysis, in terms of genetic, biochemical, and biophysical properties. Methods include light and fluorescence microscopies; electro-mechanical probes such as atomic force microscopy, laser and magnetic traps, and MEMS devices; and the application of statistics, probability and noise analysis to experimental data. Enrollment preference is given to juniors and seniors.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Engineering II: Instrumentation and Measurement",
+    "image_src": "/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/a599a67054decb5975ac24a94fc58f43_20-309f06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electronics",
+      "Biological Engineering",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15251,
+        "run_id": "486ff7a627cdb020bafa146f1f0351b9",
+        "short_description": "This course covers sensing and measurement for quantitative molecular/cell/tissue analysis, in terms of genetic, biochemical, and biophysical properties. Methods include light and fluorescence microscopies; electro-mechanical probes such as atomic force microscopy, laser and magnetic traps, and MEMS devices; and the application of statistics, probability and noise analysis to experimental data. Enrollment preference is given to juniors and seniors.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Biological Engineering II: Instrumentation and Measurement",
+        "image_src": "/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/a599a67054decb5975ac24a94fc58f43_20-309f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Scott Manalis",
+          "Maxim Shusteff",
+          "Prof. Peter So"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T22:30:27.632184Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Tutorial Videos",
+      "Problem Sets",
+      "Design Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.309",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.309"
+      },
+      {
+        "coursenum": "2.673J,20.409J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.673J,20.409J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9193,
+    "course_id": "605397ede8efe1d149c29d4e8f3c3b94+22.56J",
+    "coursenum": "22.56J",
+    "short_description": "22.56J aims to give graduate students and advanced undergraduates background in the theory and application of noninvasive imaging methods to biology and medicine, with emphasis on neuroimaging. The course focuses on the modalities most frequently used in scientific research (X-ray CT, PET/SPECT, MRI, and optical imaging), and includes discussion of molecular imaging approaches used in conjunction with these scanning methods. Lectures by the professor will be supplemented by in-class discussions of problems in research, and hands-on demonstrations of imaging systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Noninvasive Imaging in Biology and Medicine",
+    "image_src": "/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/0baab77f2b778b713d47e0c909b38b67_22-56jf05.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15362,
+        "run_id": "605397ede8efe1d149c29d4e8f3c3b94",
+        "short_description": "22.56J aims to give graduate students and advanced undergraduates background in the theory and application of noninvasive imaging methods to biology and medicine, with emphasis on neuroimaging. The course focuses on the modalities most frequently used in scientific research (X-ray CT, PET/SPECT, MRI, and optical imaging), and includes discussion of molecular imaging approaches used in conjunction with these scanning methods. Lectures by the professor will be supplemented by in-class discussions of problems in research, and hands-on demonstrations of imaging systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Noninvasive Imaging in Biology and Medicine",
+        "image_src": "/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/0baab77f2b778b713d47e0c909b38b67_22-56jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Alan Jasanoff"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T22:38:33.116615Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "department_slug": "nuclear-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "22.56J",
+        "department": "Nuclear Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "22.56J"
+      },
+      {
+        "coursenum": "2.761J,20.483J,HST.561J,9.173J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.761J,20.483J,HST.561J,9.173J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9314,
+    "course_id": "ccac4bc2db9c08a4122aed9f5188edc1+20.462J",
+    "coursenum": "20.462J",
+    "short_description": "This course covers the analysis and design at a molecular scale of materials used in contact with biological systems, including biotechnology and biomedical engineering. Topics include molecular interactions between bio- and synthetic molecules and surfaces; design, synthesis, and processing approaches for materials that control cell functions; and application of state-of-the-art materials science to problems in tissue engineering, drug delivery, vaccines, and cell-guiding surfaces.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular Principles of Biomaterials",
+    "image_src": "/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/9c4127c2192a822360d00de4774d1c47_20-462js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Nanotechnology",
+      "Biology",
+      "Molecular Biology",
+      "Biotechnology",
+      "Synthetic Biology",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16971,
+        "run_id": "ccac4bc2db9c08a4122aed9f5188edc1",
+        "short_description": "This course covers the analysis and design at a molecular scale of materials used in contact with biological systems, including biotechnology and biomedical engineering. Topics include molecular interactions between bio- and synthetic molecules and surfaces; design, synthesis, and processing approaches for materials that control cell functions; and application of state-of-the-art materials science to problems in tissue engineering, drug delivery, vaccines, and cell-guiding surfaces.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Molecular Principles of Biomaterials",
+        "image_src": "/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/9c4127c2192a822360d00de4774d1c47_20-462js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Darrell Irvine"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-462j-molecular-principles-of-biomaterials-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T22:54:27.556459Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Materials Science and Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.462J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.462J"
+      },
+      {
+        "coursenum": "3.962J",
+        "department": "Materials Science and Engineering",
+        "primary": false,
+        "sort_coursenum": "03.962J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9441,
+    "course_id": "e13dc87784a3762709bd0ca14a41a647+20.180",
+    "coursenum": "20.180",
+    "short_description": "In this course problems from biological engineering are used to develop structured computer programming skills and explore the theory and practice of complex systems design and construction.\n\nThe official course Web site can be viewed at: [BE.180 Biological Engineering Programming](http://openwetware.org/wiki/BE.180).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Engineering Programming",
+    "image_src": "/courses/20-180-biological-engineering-programming-spring-2006/bbde5980c3ab16fe17fac2a3cac2f783_20-180s06.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Computational Science and Engineering",
+      "Theory of Computation",
+      "Systems Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15802,
+        "run_id": "e13dc87784a3762709bd0ca14a41a647",
+        "short_description": "In this course problems from biological engineering are used to develop structured computer programming skills and explore the theory and practice of complex systems design and construction.\n\nThe official course Web site can be viewed at: [BE.180 Biological Engineering Programming](http://openwetware.org/wiki/BE.180).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Biological Engineering Programming",
+        "image_src": "/courses/20-180-biological-engineering-programming-spring-2006/bbde5980c3ab16fe17fac2a3cac2f783_20-180s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Andrew Endy"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-180-biological-engineering-programming-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:11:05.375489Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Programming Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.180",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.180"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9629,
+    "course_id": "b273d16277b0806d168cdfe07cb03236+20.442",
+    "coursenum": "20.442",
+    "short_description": "This course, intended for both graduate and upper level undergraduate students, will focus on understanding of the basic molecular structural principles of biological materials. It will address the molecular structures of various materials of biological origin, such as several types of collagen, silk, spider silk, wool, hair, bones, shells, protein adhesives, GFP, and self-assembling peptides. It will also address molecular design of new biological materials applying the molecular structural principles. The long-term goal of this course is to teach molecular design of new biological materials for a broad range of applications. A brief history of biological materials and its future perspective as well as its impact to the society will also be discussed. Several experts will be invited to give guest lectures.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular Structure of Biological Materials (BE.442)",
+    "image_src": "/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/64305e65f9e16478177b0a1865cd410e_20-442f05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Nanotechnology",
+      "Biology",
+      "Molecular Biology",
+      "Biotechnology",
+      "Biomaterials",
+      "Structural Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16203,
+        "run_id": "b273d16277b0806d168cdfe07cb03236",
+        "short_description": "This course, intended for both graduate and upper level undergraduate students, will focus on understanding of the basic molecular structural principles of biological materials. It will address the molecular structures of various materials of biological origin, such as several types of collagen, silk, spider silk, wool, hair, bones, shells, protein adhesives, GFP, and self-assembling peptides. It will also address molecular design of new biological materials applying the molecular structural principles. The long-term goal of this course is to teach molecular design of new biological materials for a broad range of applications. A brief history of biological materials and its future perspective as well as its impact to the society will also be discussed. Several experts will be invited to give guest lectures.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Molecular Structure of Biological Materials (BE.442)",
+        "image_src": "/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/64305e65f9e16478177b0a1865cd410e_20-442f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Shuguang Zhang"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T23:32:05.322956Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.442",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.442"
+      },
+      {
+        "coursenum": "20.342",
+        "department": "Biological Engineering",
+        "primary": false,
+        "sort_coursenum": "20.342"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9724,
+    "course_id": "45f2ec926c70c4dc48822c50d96b6a47+20.416J",
+    "coursenum": "20.416J",
+    "short_description": "This course provides broad exposure to research in biophysics and physical biology, with emphasis on the critical evaluation of scientific literature. Weekly meetings include in-depth discussion of scientific literature led by various MIT faculty on active research topics. Each session also includes a brief discussion of non-research topics including effective presentation skills, writing papers and fellowship proposals, choosing scientific and technical research topics, time management, and scientific ethics.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Topics in Biophysics and Physical Biology",
+    "image_src": "/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/9ceac5cf6c936b97239b5161ed49515c_20-416jf14.jpeg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Biophysics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16410,
+        "run_id": "45f2ec926c70c4dc48822c50d96b6a47",
+        "short_description": "This course provides broad exposure to research in biophysics and physical biology, with emphasis on the critical evaluation of scientific literature. Weekly meetings include in-depth discussion of scientific literature led by various MIT faculty on active research topics. Each session also includes a brief discussion of non-research topics including effective presentation skills, writing papers and fellowship proposals, choosing scientific and technical research topics, time management, and scientific ethics.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "Topics in Biophysics and Physical Biology",
+        "image_src": "/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/9ceac5cf6c936b97239b5161ed49515c_20-416jf14.jpeg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Mark Bathe",
+          "Prof. Jeff Gore"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014"
+      }
+    ],
+    "created": "2020-03-03T23:42:44.044863Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Biology",
+      "Physics"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.416J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.416J"
+      },
+      {
+        "coursenum": "7.74J,8.590J",
+        "department": "Biology",
+        "primary": false,
+        "sort_coursenum": "07.74J,8.590J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9834,
+    "course_id": "91f3136178ee684f96d407e3c4a85fe9+20.011J",
+    "coursenum": "20.011J",
+    "short_description": "This course provides an introduction to the physical chemistry of biological systems. Topics include: connection of macroscopic thermodynamic properties to microscopic molecular properties using statistical mechanics, chemical potentials, equilibrium states, binding cooperativity, behavior of macromolecules in solution and at interfaces, and solvation. Example problems include protein structure, genomic analysis, single molecule biomechanics, and biomaterials.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Statistical Thermodynamics of Biomolecular Systems (BE.011J)",
+    "image_src": "/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/9b735be947a92b7bc53688370345842b_20-011js04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Thermodynamics",
+      "Biophysics",
+      "Computation and Systems Biology",
+      "Biostatistics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16663,
+        "run_id": "91f3136178ee684f96d407e3c4a85fe9",
+        "short_description": "This course provides an introduction to the physical chemistry of biological systems. Topics include: connection of macroscopic thermodynamic properties to microscopic molecular properties using statistical mechanics, chemical potentials, equilibrium states, binding cooperativity, behavior of macromolecules in solution and at interfaces, and solvation. Example problems include protein structure, genomic analysis, single molecule biomechanics, and biomaterials.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Statistical Thermodynamics of Biomolecular Systems (BE.011J)",
+        "image_src": "/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/9b735be947a92b7bc53688370345842b_20-011js04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Linda Griffith",
+          "Prof. Kim Hamad-Schifferli"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004"
+      }
+    ],
+    "created": "2020-03-03T23:58:10.139263Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.011J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.011J"
+      },
+      {
+        "coursenum": "2.772J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.772J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9983,
+    "course_id": "b8de67852d79acd2bd8746e06cf450b4+20.440",
+    "coursenum": "20.440",
+    "short_description": "This class analyzes complex biological processes from the molecular, cellular, extracellular, and organ levels of hierarchy. Emphasis is placed on the basic biochemical and biophysical principles that govern these processes. Examples of processes to be studied include chemotaxis, the fixation of nitrogen into organic biological molecules, growth factor and hormone mediated signaling cascades, and signaling cascades leading to cell death in response to DNA damage. In each case, the availability of a resource, or the presence of a stimulus, results in some biochemical pathways being turned on while others are turned off. The course examines the dynamic aspects of these processes and details how biochemical mechanistic themes impinge on molecular/cellular/tissue/organ-level functions. Chemical and quantitative views of the interplay of multiple pathways as biological networks are emphasized. Student work culminates in the preparation of a unique grant application in an area of biological networks.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Analysis of Biological Networks (BE.440)",
+    "image_src": "/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/35bfa14c33c3b437850f6dea8b931c54_20-440f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Biochemistry",
+      "Biophysics",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17036,
+        "run_id": "b8de67852d79acd2bd8746e06cf450b4",
+        "short_description": "This class analyzes complex biological processes from the molecular, cellular, extracellular, and organ levels of hierarchy. Emphasis is placed on the basic biochemical and biophysical principles that govern these processes. Examples of processes to be studied include chemotaxis, the fixation of nitrogen into organic biological molecules, growth factor and hormone mediated signaling cascades, and signaling cascades leading to cell death in response to DNA damage. In each case, the availability of a resource, or the presence of a stimulus, results in some biochemical pathways being turned on while others are turned off. The course examines the dynamic aspects of these processes and details how biochemical mechanistic themes impinge on molecular/cellular/tissue/organ-level functions. Chemical and quantitative views of the interplay of multiple pathways as biological networks are emphasized. Student work culminates in the preparation of a unique grant application in an area of biological networks.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Analysis of Biological Networks (BE.440)",
+        "image_src": "/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/35bfa14c33c3b437850f6dea8b931c54_20-440f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. John Essigmann",
+          "Prof. Ram Sasisekharan"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-440-analysis-of-biological-networks-be-440-fall-2004"
+      }
+    ],
+    "created": "2020-03-04T00:22:38.182513Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.440",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.440"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7828,
+    "course_id": "5802de52c5cb09c6d7da5a4b196d1a5f+2.782J",
+    "coursenum": "2.782J",
+    "short_description": "This design course targets the solution of clinical problems by use of implants and other medical devices. Topics include the systematic use of cell-matrix control volumes; the role of stress analysis in the design process; anatomic fit, shape and size of implants; selection of biomaterials; instrumentation for surgical implantation procedures; preclinical testing for safety and efficacy, including risk/benefit ratio assessment evaluation of clinical performance and design of clinical trials. Student project materials are drawn from orthopedic devices, soft tissue implants, artificial organs, and dental implants.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Design of Medical Devices and Implants",
+    "image_src": "/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/65650082d488092ca06baf6e4050018b_2-782js06.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biotechnology",
+      "Mechanical Design",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13566,
+        "run_id": "5802de52c5cb09c6d7da5a4b196d1a5f",
+        "short_description": "This design course targets the solution of clinical problems by use of implants and other medical devices. Topics include the systematic use of cell-matrix control volumes; the role of stress analysis in the design process; anatomic fit, shape and size of implants; selection of biomaterials; instrumentation for surgical implantation procedures; preclinical testing for safety and efficacy, including risk/benefit ratio assessment evaluation of clinical performance and design of clinical trials. Student project materials are drawn from orthopedic devices, soft tissue implants, artificial organs, and dental implants.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Design of Medical Devices and Implants",
+        "image_src": "/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/65650082d488092ca06baf6e4050018b_2-782js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Myron Spector",
+          "Prof. Ioannis Yannas"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-782j-design-of-medical-devices-and-implants-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:38:08.967824Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.782J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.782J"
+      },
+      {
+        "coursenum": "3.961J,20.451J,HST.524J",
+        "department": "Materials Science and Engineering",
+        "primary": false,
+        "sort_coursenum": "03.961J,20.451J,HST.524J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8259,
+    "course_id": "5c19747846ba609fedcd196a71f3b070+20.400J",
+    "coursenum": "20.400J",
+    "short_description": "This seminar-format course provides an in-depth presentation and discussion of how engineering and biological approaches can be combined to solve problems in science and technology, emphasizing integration of biological information and methodologies with engineering analysis, synthesis, and design. Emphasis is placed on molecular mechanisms underlying cellular processes, including signal transduction, gene expression networks, and functional responses.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Perspectives in Biological Engineering",
+    "image_src": "/courses/20-400j-perspectives-in-biological-engineering-spring-2006/69cabaea1c7006faaefb4f0c5e79283a_20-400js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14056,
+        "run_id": "5c19747846ba609fedcd196a71f3b070",
+        "short_description": "This seminar-format course provides an in-depth presentation and discussion of how engineering and biological approaches can be combined to solve problems in science and technology, emphasizing integration of biological information and methodologies with engineering analysis, synthesis, and design. Emphasis is placed on molecular mechanisms underlying cellular processes, including signal transduction, gene expression networks, and functional responses.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Perspectives in Biological Engineering",
+        "image_src": "/courses/20-400j-perspectives-in-biological-engineering-spring-2006/69cabaea1c7006faaefb4f0c5e79283a_20-400js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Peter Dedon",
+          "Prof. Douglas Lauffenburger"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-400j-perspectives-in-biological-engineering-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:06:52.016942Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Biology"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.400J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.400J"
+      },
+      {
+        "coursenum": "7.548J",
+        "department": "Biology",
+        "primary": false,
+        "sort_coursenum": "07.548J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8324,
+    "course_id": "7b91439bc75f0cc8f8c4fdb2b57d73ab+20.330J",
+    "coursenum": "20.330J",
+    "short_description": "This course introduces the basic driving forces for electric current, fluid flow, and mass transport, plus their application to a variety of biological systems. Basic mathematical and engineering tools will be introduced, in the context of biology and physiology. Various electrokinetic phenomena are also considered as an example of coupled nature of chemical-electro-mechanical driving forces. Applications include transport in biological tissues and across membranes, manipulation of cells and biomolecules, and microfluidics.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fields, Forces and Flows in Biological Systems",
+    "image_src": "/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/f581d528660db0b5e25e5978ef573f52_20-330js07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14133,
+        "run_id": "7b91439bc75f0cc8f8c4fdb2b57d73ab",
+        "short_description": "This course introduces the basic driving forces for electric current, fluid flow, and mass transport, plus their application to a variety of biological systems. Basic mathematical and engineering tools will be introduced, in the context of biology and physiology. Various electrokinetic phenomena are also considered as an example of coupled nature of chemical-electro-mechanical driving forces. Applications include transport in biological tissues and across membranes, manipulation of cells and biomolecules, and microfluidics.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Fields, Forces and Flows in Biological Systems",
+        "image_src": "/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/f581d528660db0b5e25e5978ef573f52_20-330js07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jongyoon Han",
+          "Prof. Scott Manalis"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T21:11:18.780290Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.330J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.330J"
+      },
+      {
+        "coursenum": "2.793J,6.023J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.793J,6.023J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8996,
+    "course_id": "66d67daaf18994748c09233522fa4d06+20.420J",
+    "coursenum": "20.420J",
+    "short_description": "This subject deals primarily with kinetic and equilibrium mathematical models of biomolecular interactions, as well as the application of these quantitative analyses to biological problems across a wide range of levels of organization, from individual molecular interactions to populations of cells.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biomolecular Kinetics and Cellular Dynamics (BE.420J)",
+    "image_src": "/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/ec443edc179b4dd44f89b6d9330ea3db_20-420jf04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15033,
+        "run_id": "66d67daaf18994748c09233522fa4d06",
+        "short_description": "This subject deals primarily with kinetic and equilibrium mathematical models of biomolecular interactions, as well as the application of these quantitative analyses to biological problems across a wide range of levels of organization, from individual molecular interactions to populations of cells.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Biomolecular Kinetics and Cellular Dynamics (BE.420J)",
+        "image_src": "/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/ec443edc179b4dd44f89b6d9330ea3db_20-420jf04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bruce Tidor",
+          "Prof. Karl Wittrup"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T22:11:38.718207Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.420J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.420J"
+      },
+      {
+        "coursenum": "10.538J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.538J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9330,
+    "course_id": "b8927a0bf918da77889242f712ab0844+20.219",
+    "coursenum": "20.219",
+    "short_description": "*Becoming the Next* [*Bill Nye*](https://en.wikipedia.org/wiki/Bill_Nye) is about using video production techniques to develop your ability to engagingly convey your passions for science, technology, engineering, and / or math. You'll have the opportunity to script and on-screen host 5-minute YouTube science, technology, engineering, and / or math-related shows to inspire youth to consider a future in science.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Becoming the Next Bill Nye: Writing and Hosting the Educational Show",
+    "image_src": "/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg",
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Teaching and Education",
+      "Visual Arts",
+      "Media Studies",
+      "Educational Technology",
+      "Fine Arts",
+      "Curriculum and Teaching",
+      "Film and Video",
+      "Digital Media"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15595,
+        "run_id": "b8927a0bf918da77889242f712ab0844",
+        "short_description": "*Becoming the Next* [*Bill Nye*](https://en.wikipedia.org/wiki/Bill_Nye) is about using video production techniques to develop your ability to engagingly convey your passions for science, technology, engineering, and / or math. You'll have the opportunity to script and on-screen host 5-minute YouTube science, technology, engineering, and / or math-related shows to inspire youth to consider a future in science.",
+        "full_description": null,
+        "language": null,
+        "semester": "January IAP",
+        "year": 2015,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-01-31T00:00:00Z",
+        "title": "Becoming the Next Bill Nye: Writing and Hosting the Educational Show",
+        "image_src": "/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Chris Boebel",
+          "Elizabeth Choe",
+          "Jaime Goldstein",
+          "Joshua Gunn",
+          "Dr. Natalie Kuldell",
+          "Ceri Riley",
+          "George Zaidan"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015"
+      }
+    ],
+    "created": "2020-03-03T22:56:57.424777Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.219",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.219"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9413,
+    "course_id": "5de2b2312f41955afeb0e494fe552337+20.181",
+    "coursenum": "20.181",
+    "short_description": "This course covers the analytical, graphical, and numerical methods supporting the analysis and design of integrated biological systems. Topics include modularity and abstraction in biological systems, mathematical encoding of detailed physical problems, numerical methods for solving the dynamics of continuous and discrete chemical systems, statistics and probability in dynamic systems, applied local and global optimization, simple feedback and control analysis, statistics and probability in pattern recognition.\n\nAn official course Web site and Wiki is maintained on OpenWetWare: [20.181 Computation for Biological Engineers](http://openwetware.org/wiki/20.181).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Computation for Biological Engineers",
+    "image_src": "/courses/20-181-computation-for-biological-engineers-fall-2006/fd0492843b9ba7dd741a714a88be8317_20-181f06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Computational Science and Engineering",
+      "Systems Optimization",
+      "Computation and Systems Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15746,
+        "run_id": "5de2b2312f41955afeb0e494fe552337",
+        "short_description": "This course covers the analytical, graphical, and numerical methods supporting the analysis and design of integrated biological systems. Topics include modularity and abstraction in biological systems, mathematical encoding of detailed physical problems, numerical methods for solving the dynamics of continuous and discrete chemical systems, statistics and probability in dynamic systems, applied local and global optimization, simple feedback and control analysis, statistics and probability in pattern recognition.\n\nAn official course Web site and Wiki is maintained on OpenWetWare: [20.181 Computation for Biological Engineers](http://openwetware.org/wiki/20.181).",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Computation for Biological Engineers",
+        "image_src": "/courses/20-181-computation-for-biological-engineers-fall-2006/fd0492843b9ba7dd741a714a88be8317_20-181f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Eric Alm",
+          "Prof. Andrew Endy"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-181-computation-for-biological-engineers-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T23:07:28.271757Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets with Solutions",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.181",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.181"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9391,
+    "course_id": "08d97bbbf9ade98658c8b2b43cefc9f5+20.430J",
+    "coursenum": "20.430J",
+    "short_description": "This course covers the fundamental driving forces for transport—chemical gradients, electrical interactions, and fluid flow—as applied to the biology and biophysics of molecules, cells, and tissues.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fields, Forces, and Flows in Biological Systems",
+    "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15861,
+        "run_id": "08d97bbbf9ade98658c8b2b43cefc9f5",
+        "short_description": "This course covers the fundamental driving forces for transport—chemical gradients, electrical interactions, and fluid flow—as applied to the biology and biophysics of molecules, cells, and tissues.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "Fields, Forces, and Flows in Biological Systems",
+        "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Mark Bathe",
+          "Prof. Alan Grodzinsky"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T23:05:09.884307Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.430J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.430J"
+      },
+      {
+        "coursenum": "2.795J,6.561J,10.539J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.795J,6.561J,10.539J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9736,
+    "course_id": "fa83ac7edcb97131ae68a68f8cf28f63+20.102",
+    "coursenum": "20.102",
+    "short_description": "This course presents a challenging multi-dimensional perspective on the causes of human disease and mortality. The course focuses on analyses of major causes of mortality in the US since 1900: cancer, cardiovascular and cerebrovascular diseases, diabetes, and infectious diseases. Students create analytical models to derive estimates for historically variant population risk factors and physiological rate parameters, and conduct analyses of familial data to separately estimate inherited and environmental risks. The course evaluates the basic population genetics of dominant, recessive and non-deleterious inherited risk factors.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Macroepidemiology (BE.102)",
+    "image_src": "/courses/20-102-macroepidemiology-be-102-spring-2005/adaca182c4200a9735511a4835e68aef_20-102s05.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Public Health",
+      "Biology",
+      "Genetics",
+      "Epidemiology",
+      "Social Medicine"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16434,
+        "run_id": "fa83ac7edcb97131ae68a68f8cf28f63",
+        "short_description": "This course presents a challenging multi-dimensional perspective on the causes of human disease and mortality. The course focuses on analyses of major causes of mortality in the US since 1900: cancer, cardiovascular and cerebrovascular diseases, diabetes, and infectious diseases. Students create analytical models to derive estimates for historically variant population risk factors and physiological rate parameters, and conduct analyses of familial data to separately estimate inherited and environmental risks. The course evaluates the basic population genetics of dominant, recessive and non-deleterious inherited risk factors.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Macroepidemiology (BE.102)",
+        "image_src": "/courses/20-102-macroepidemiology-be-102-spring-2005/adaca182c4200a9735511a4835e68aef_20-102s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. William Thilly"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-102-macroepidemiology-be-102-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T23:44:14.623961Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.102",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.102"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9840,
+    "course_id": "0d730a5334b00463c511a96d7cd98c7b+20.104J",
+    "coursenum": "20.104J",
+    "short_description": "This course addresses the challenges of defining a relationship between exposure to environmental chemicals and human disease. Course topics include epidemiological approaches to understanding disease causation; biostatistical methods; evaluation of human exposure to chemicals, and their internal distribution, metabolism, reactions with cellular components, and biological effects; and qualitative and quantitative health risk assessment methods used in the U.S. as bases for regulatory decision-making. Throughout the term, students consider case studies of local and national interest.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemicals in the Environment: Toxicology and Public Health (BE.104J)",
+    "image_src": "/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/ab70931f359e46de9e431df1ed019aaf_20-104js05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Earth Science",
+      "Public Health",
+      "Environmental Science",
+      "Pharmacology and Toxicology",
+      "Biostatistics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16678,
+        "run_id": "0d730a5334b00463c511a96d7cd98c7b",
+        "short_description": "This course addresses the challenges of defining a relationship between exposure to environmental chemicals and human disease. Course topics include epidemiological approaches to understanding disease causation; biostatistical methods; evaluation of human exposure to chemicals, and their internal distribution, metabolism, reactions with cellular components, and biological effects; and qualitative and quantitative health risk assessment methods used in the U.S. as bases for regulatory decision-making. Throughout the term, students consider case studies of local and national interest.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Chemicals in the Environment: Toxicology and Public Health (BE.104J)",
+        "image_src": "/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/ab70931f359e46de9e431df1ed019aaf_20-104js05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Laura Green",
+          "Prof. James Sherley",
+          "Prof. Steven Tannenbaum"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T23:58:50.020075Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.104J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.104J"
+      },
+      {
+        "coursenum": "1.081J,ESD.053J",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.081J,ESD.053J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9852,
+    "course_id": "ac66ca7638a70997d607fad6776b3b51+20.380J",
+    "coursenum": "20.380J",
+    "short_description": "This course illustrates how knowledge and principles of biology, biochemistry, and engineering are integrated to create new products for societal benefit. It uses a case study format to examine recently developed products of pharmaceutical and biotechnology industries: how a product evolves from initial idea, through patents, testing, evaluation, production, and marketing. Emphasizes scientific and engineering principles; the responsibility scientists, engineers, and business executives have for the consequences of their technology; and instruction and practice in written and oral communication.\n\nThe topic focus of this class will vary from year to year. This version looks at inflammation underlying many diseases, specifically its role in cancer, diabetes, and cardiovascular disease.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Engineering Design",
+    "image_src": "/courses/20-380j-biological-engineering-design-spring-2010/c16631b7dab45a97451c3c335373fa23_20-380js10.jpg",
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Public Health",
+      "Biomedical Enterprise",
+      "Pathology and Pathophysiology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16705,
+        "run_id": "ac66ca7638a70997d607fad6776b3b51",
+        "short_description": "This course illustrates how knowledge and principles of biology, biochemistry, and engineering are integrated to create new products for societal benefit. It uses a case study format to examine recently developed products of pharmaceutical and biotechnology industries: how a product evolves from initial idea, through patents, testing, evaluation, production, and marketing. Emphasizes scientific and engineering principles; the responsibility scientists, engineers, and business executives have for the consequences of their technology; and instruction and practice in written and oral communication.\n\nThe topic focus of this class will vary from year to year. This version looks at inflammation underlying many diseases, specifically its role in cancer, diabetes, and cardiovascular disease.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Biological Engineering Design",
+        "image_src": "/courses/20-380j-biological-engineering-design-spring-2010/c16631b7dab45a97451c3c335373fa23_20-380js10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Atissa Banuazizi",
+          "Mr. Harlan Breindel",
+          "Prof. John Essigmann",
+          "Prof. Darrell Irvine",
+          "Dr. Mya Poe",
+          "Prof. Forest White"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-380j-biological-engineering-design-spring-2010"
+      }
+    ],
+    "created": "2020-03-04T00:00:27.275031Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemistry"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.380J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.380J"
+      },
+      {
+        "coursenum": "5.22J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.22J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

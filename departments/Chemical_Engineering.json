@@ -1,0 +1,4657 @@
+[
+  {
+    "id": 7696,
+    "course_id": "cabe279663cb1cc1049b6da9e3f588a5+10.490",
+    "coursenum": "10.490",
+    "short_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrated Chemical Engineering I",
+    "image_src": "/courses/10-490-integrated-chemical-engineering-i-fall-2006/5f16c1d6b57e11947ed9a604479568fe_10-490f06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13428,
+        "run_id": "cabe279663cb1cc1049b6da9e3f588a5",
+        "short_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Integrated Chemical Engineering I",
+        "image_src": "/courses/10-490-integrated-chemical-engineering-i-fall-2006/5f16c1d6b57e11947ed9a604479568fe_10-490f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Barry S. Johnston"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-490-integrated-chemical-engineering-i-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T20:25:37.533865Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.490",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.490"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7765,
+    "course_id": "0d347059d87ec472e4e983495d780abb+15.792J",
+    "coursenum": "15.792J",
+    "short_description": "This course provides an integrative forum for operations and manufacturing students and is the focus for projects in leadership, service, and improvement. It covers a set of integrative manufacturing topics or issues such as leadership and related topics, and includes presentations by guest speakers such as senior level managers of manufacturing companies. The subject is largely managed by students. Primarily for LFM Fellows and Masters students interested in focusing in operations and manufacturing.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Proseminar in Manufacturing",
+    "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13499,
+        "run_id": "0d347059d87ec472e4e983495d780abb",
+        "short_description": "This course provides an integrative forum for operations and manufacturing students and is the focus for projects in leadership, service, and improvement. It covers a set of integrative manufacturing topics or issues such as leadership and related topics, and includes presentations by guest speakers such as senior level managers of manufacturing companies. The subject is largely managed by students. Primarily for LFM Fellows and Masters students interested in focusing in operations and manufacturing.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Proseminar in Manufacturing",
+        "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Donald Rosenfield"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-792j-proseminar-in-manufacturing-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T20:29:30.707309Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.792J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.792J"
+      },
+      {
+        "coursenum": "2.890J,3.80J,10.792J,16.985J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.890J,3.80J,10.792J,16.985J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7717,
+    "course_id": "cae1ee39e4833a3d73631446b5dedab4+2.96",
+    "coursenum": "2.96",
+    "short_description": "This course gives an overview of engineering management and covers topics such as financial principles, management of innovation, technology strategy, and best management practices. The focus of the course is the development of individual skills and team work. This is carried out through an exposure to management tools.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Management in Engineering",
+    "image_src": "/courses/2-96-management-in-engineering-fall-2012/aac891868c06653ecc96bcb25398741c_2-96f12.jpg",
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Project Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14057,
+        "run_id": "cae1ee39e4833a3d73631446b5dedab4",
+        "short_description": "This course gives an overview of engineering management and covers topics such as financial principles, management of innovation, technology strategy, and best management practices. The focus of the course is the development of individual skills and team work. This is carried out through an exposure to management tools.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-09-01T00:00:00Z",
+        "best_end_date": "2012-12-31T00:00:00Z",
+        "title": "Management in Engineering",
+        "image_src": "/courses/2-96-management-in-engineering-fall-2012/aac891868c06653ecc96bcb25398741c_2-96f12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jung-Hoon Chun",
+          "Prof. Henry S. Marcus",
+          "Dr. Abbott Weiss"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-96-management-in-engineering-fall-2012"
+      }
+    ],
+    "created": "2020-03-03T20:27:17.483221Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.96",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.96"
+      },
+      {
+        "coursenum": "2.961,6.930,10.806,16.653",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.961,6.930,10.806,16.653"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8014,
+    "course_id": "413b69950281d604b670910d50872e33+2.993J",
+    "coursenum": "2.993J",
+    "short_description": "This course is offered to undergraduates and introduces students to the formulation, methodology, and techniques for numerical solution of engineering problems. Topics covered include: fundamental principles of digital computing and the implications for algorithm accuracy and stability, error propagation and stability, the solution of systems of linear equations, including direct and iterative techniques, roots of equations and systems of equations, numerical interpolation, differentiation and integration, fundamentals of finite-difference solutions to ordinary differential equations, and error and convergence analysis. The subject is taught the first half of the term.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.002J. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.993J.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+    "image_src": "/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/42c023fdcb96e8fb3e8ff7c9c8ca197f_2-993js05.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Algorithms and Data Structures",
+      "Mathematical Analysis"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13766,
+        "run_id": "413b69950281d604b670910d50872e33",
+        "short_description": "This course is offered to undergraduates and introduces students to the formulation, methodology, and techniques for numerical solution of engineering problems. Topics covered include: fundamental principles of digital computing and the implications for algorithm accuracy and stability, error propagation and stability, the solution of systems of linear equations, including direct and iterative techniques, roots of equations and systems of equations, numerical interpolation, differentiation and integration, fundamentals of finite-difference solutions to ordinary differential equations, and error and convergence analysis. The subject is taught the first half of the term.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.002J. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.993J.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+        "image_src": "/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/42c023fdcb96e8fb3e8ff7c9c8ca197f_2-993js05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Henrik Schmidt"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:50:36.918011Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Programming Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.993J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.993J"
+      },
+      {
+        "coursenum": "10.002J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.002J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8128,
+    "course_id": "c36066b169aa50bf7882ecab10e25f48+10.34",
+    "coursenum": "10.34",
+    "short_description": "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: Numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g. Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Numerical Methods Applied to Chemical Engineering",
+    "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15235,
+        "run_id": "c36066b169aa50bf7882ecab10e25f48",
+        "short_description": "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: Numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g. Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "Numerical Methods Applied to Chemical Engineering",
+        "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. William Green",
+          "Prof. James W. Swan"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T20:56:14.270905Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments",
+      "Lecture Videos",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.34",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.34"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8267,
+    "course_id": "a890f6360f70b51ff92ccb0f0ea7a7d9+10.675J",
+    "coursenum": "10.675J",
+    "short_description": "The theoretical frameworks of Hartree-Fock theory and density functional theory are presented in this course as approximate methods to solve the many-electron problem. A variety of ways to incorporate electron correlation are discussed. The application of these techniques to calculate the reactivity and spectroscopic properties of chemical systems, in addition to the thermodynamics and kinetics of chemical processes, is emphasized. This course also focuses on cutting edge methods to sample complex hypersurfaces, for reactions in liquids, catalysts and biological systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+    "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Quantum Mechanics",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14066,
+        "run_id": "a890f6360f70b51ff92ccb0f0ea7a7d9",
+        "short_description": "The theoretical frameworks of Hartree-Fock theory and density functional theory are presented in this course as approximate methods to solve the many-electron problem. A variety of ways to incorporate electron correlation are discussed. The application of these techniques to calculate the reactivity and spectroscopic properties of chemical systems, in addition to the thermodynamics and kinetics of chemical processes, is emphasized. This course also focuses on cutting edge methods to sample complex hypersurfaces, for reactions in liquids, catalysts and biological systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+        "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bernhardt Trout"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T21:07:21.564584Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Chemistry"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.675J",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.675J"
+      },
+      {
+        "coursenum": "5.675J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.675J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8328,
+    "course_id": "6686938331fe087cf41e87d6aa7d213c+10.467",
+    "coursenum": "10.467",
+    "short_description": "Experiments in this class are broadly aimed at acquainting students with the range of properties of polymers, methods of synthesis, and physical chemistry. Some examples of laboratory work include solution polymerization of acrylamide, bead polymerization of divinylbenzene, and interfacial polymerization of nylon 6,10. Evaluation of networks by tensile and swelling experiments, rheology of polymer solutions and suspensions, and physical properties of natural and silicone rubber are also covered.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Polymer Science Laboratory",
+    "image_src": "/courses/10-467-polymer-science-laboratory-fall-2005/2d74349d8e4eef92ce757e32209c3efa_10-467f05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Physical Chemistry",
+      "Polymers",
+      "Polymeric Materials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14140,
+        "run_id": "6686938331fe087cf41e87d6aa7d213c",
+        "short_description": "Experiments in this class are broadly aimed at acquainting students with the range of properties of polymers, methods of synthesis, and physical chemistry. Some examples of laboratory work include solution polymerization of acrylamide, bead polymerization of divinylbenzene, and interfacial polymerization of nylon 6,10. Evaluation of networks by tensile and swelling experiments, rheology of polymer solutions and suspensions, and physical properties of natural and silicone rubber are also covered.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Polymer Science Laboratory",
+        "image_src": "/courses/10-467-polymer-science-laboratory-fall-2005/2d74349d8e4eef92ce757e32209c3efa_10-467f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Mr. Harlan Breindel",
+          "Prof. Paula Hammond"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-467-polymer-science-laboratory-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T21:12:08.620564Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.467",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.467"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8912,
+    "course_id": "c5b311ea35ff30be4784718e0c7bde7a+7.88J",
+    "coursenum": "7.88J",
+    "short_description": "This course covers amino acid sequence control of protein folding, misfolding, amyloid polymerization and aggregation. Readings and discussions address topics such as chaperone structure and function, folding and assembly of fibrous proteins, and pathologies associated with protein misfolding and aggregation in Alzheimer's, Parkinson's, Huntington's and other protein deposition diseases. Students are required to write and present a research paper.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Protein Folding and Human Disease",
+    "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Proteomics",
+      "Virology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16702,
+        "run_id": "c5b311ea35ff30be4784718e0c7bde7a",
+        "short_description": "This course covers amino acid sequence control of protein folding, misfolding, amyloid polymerization and aggregation. Readings and discussions address topics such as chaperone structure and function, folding and assembly of fibrous proteins, and pathologies associated with protein misfolding and aggregation in Alzheimer's, Parkinson's, Huntington's and other protein deposition diseases. Students are required to write and present a research paper.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-05-31T00:00:00Z",
+        "title": "Protein Folding and Human Disease",
+        "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jonathan King"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/7-88j-protein-folding-and-human-disease-spring-2015"
+      }
+    ],
+    "created": "2020-03-03T22:05:02.160749Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biology",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biology",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "7.88J",
+        "department": "Biology",
+        "primary": true,
+        "sort_coursenum": "07.88J"
+      },
+      {
+        "coursenum": "5.48J,10.543J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.48J,10.543J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9011,
+    "course_id": "b1e28e0acd3e839464045019e0c89697+10.492-1",
+    "coursenum": "10.492-1",
+    "short_description": "In the ICE-Topics courses, various chemical engineering problems are presented and analyzed in an industrial context. Emphasis is on the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies.\n\nThe broad context for this ICE-Topics module is the commonsense notion that, when designing something, one should plan for the off-normal conditions that may occur. A continuous process is conceived and designed as a steady-state operation. However, the process must start up, shut down, and operate in the event of disturbances, and so the time-varying behavior of the process should not be neglected. It is helpful to consider the operability of a process early in the design, when alternatives are still being compared. In this module, we will examine some tools that will help to evaluate the operability of the candidate process at the preliminary design stage, before substantial effort has been invested.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrated Chemical Engineering Topics I: Process Control by Design",
+    "image_src": "/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/5c554eb9211fa1360feb77cf87bb5dec_10-492-1f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Environmental Engineering",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Environmental Management",
+      "Process Control Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15062,
+        "run_id": "b1e28e0acd3e839464045019e0c89697",
+        "short_description": "In the ICE-Topics courses, various chemical engineering problems are presented and analyzed in an industrial context. Emphasis is on the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies.\n\nThe broad context for this ICE-Topics module is the commonsense notion that, when designing something, one should plan for the off-normal conditions that may occur. A continuous process is conceived and designed as a steady-state operation. However, the process must start up, shut down, and operate in the event of disturbances, and so the time-varying behavior of the process should not be neglected. It is helpful to consider the operability of a process early in the design, when alternatives are still being compared. In this module, we will examine some tools that will help to evaluate the operability of the candidate process at the preliminary design stage, before substantial effort has been invested.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Integrated Chemical Engineering Topics I: Process Control by Design",
+        "image_src": "/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/5c554eb9211fa1360feb77cf87bb5dec_10-492-1f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Barry S. Johnston"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T22:13:09.859325Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.492-1",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.492-1"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8970,
+    "course_id": "6be7f3e4390471e87d71bb76e6ec0bcc+10.569",
+    "coursenum": "10.569",
+    "short_description": "Studies synthesis of polymeric materials, emphasizing interrelationships of chemical pathways, process conditions, and microarchitecture of molecules produced. Chemical pathways include traditional approaches such as anionic polymerization, radical condensation, and ring-opening polymerizations. Other techniques are discussed, including stable free radical polymerizations and atom transfer free radical polymerizations (ARTP), catalytic approaches to well-defined architectures, and polymer functionalization in bulk and at surfaces. Process conditions include bulk, solution, emulsion, suspension, gas phase, and batch vs. continuous fluidized bed. Microarchitecture includes tacticity, molecular-weight distribution, sequence distributions in copolymers, errors in chains such as branches, head-to-head addition, and peroxide incorporation.\n\n##### Acknowledgements\n\nThe instructor would like to thank Karen Shu and Karen Daniel for their work in preparing material for this course site.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Synthesis of Polymers",
+    "image_src": "/courses/10-569-synthesis-of-polymers-fall-2006/3095d349824ff0645f97e13262462970_10-569f06.jpg",
+    "topics": [
+      "Engineering",
+      "Nanotechnology",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Molecular Engineering",
+      "Process Control Systems",
+      "Polymers",
+      "Polymeric Materials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14998,
+        "run_id": "6be7f3e4390471e87d71bb76e6ec0bcc",
+        "short_description": "Studies synthesis of polymeric materials, emphasizing interrelationships of chemical pathways, process conditions, and microarchitecture of molecules produced. Chemical pathways include traditional approaches such as anionic polymerization, radical condensation, and ring-opening polymerizations. Other techniques are discussed, including stable free radical polymerizations and atom transfer free radical polymerizations (ARTP), catalytic approaches to well-defined architectures, and polymer functionalization in bulk and at surfaces. Process conditions include bulk, solution, emulsion, suspension, gas phase, and batch vs. continuous fluidized bed. Microarchitecture includes tacticity, molecular-weight distribution, sequence distributions in copolymers, errors in chains such as branches, head-to-head addition, and peroxide incorporation.\n\n##### Acknowledgements\n\nThe instructor would like to thank Karen Shu and Karen Daniel for their work in preparing material for this course site.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Synthesis of Polymers",
+        "image_src": "/courses/10-569-synthesis-of-polymers-fall-2006/3095d349824ff0645f97e13262462970_10-569f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Paula Hammond"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-569-synthesis-of-polymers-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T22:09:43.625736Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.569",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.569"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9444,
+    "course_id": "b3920965365b8a248ef2e9857f7597b6+10.52",
+    "coursenum": "10.52",
+    "short_description": "This course is an advanced subject in fluid and continuum mechanics. The course content includes kinematics, macroscopic balances for linear and angular momentum, stress tensors, creeping flows and the lubrication approximation, the boundary layer approximation, linear stability theory, and some simple turbulent flows.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Mechanics of Fluids",
+    "image_src": "/courses/10-52-mechanics-of-fluids-spring-2006/af54d39ee2824a01e381936768722b01_10-52s06.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15807,
+        "run_id": "b3920965365b8a248ef2e9857f7597b6",
+        "short_description": "This course is an advanced subject in fluid and continuum mechanics. The course content includes kinematics, macroscopic balances for linear and angular momentum, stress tensors, creeping flows and the lubrication approximation, the boundary layer approximation, linear stability theory, and some simple turbulent flows.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Mechanics of Fluids",
+        "image_src": "/courses/10-52-mechanics-of-fluids-spring-2006/af54d39ee2824a01e381936768722b01_10-52s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Kenneth Smith"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-52-mechanics-of-fluids-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:11:14.141869Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.52",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.52"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9797,
+    "course_id": "6a3214ea8fde6a8e8cf661335c59511e+20.010J",
+    "coursenum": "20.010J",
+    "short_description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Bioengineering (BE.010J)",
+    "image_src": "/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Computation and Systems Biology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16570,
+        "run_id": "6a3214ea8fde6a8e8cf661335c59511e",
+        "short_description": "Bioengineering at MIT is represented by the diverse curricula offered by most Departments in the School of Engineering. This course samples the wide variety of bioengineering options for students who plan to major in one of the undergraduate Engineering degree programs. The beginning lectures describe the science basis for bioengineering with particular emphasis on molecular cell biology and systems biology. Bioengineering faculty will then describe the bioengineering options in a particular engineering course as well as the type of research conducted by faculty in the department.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Introduction to Bioengineering (BE.010J)",
+        "image_src": "/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/dbaac34b8f80d8fb3a3c315ae06e4865_20-010js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Angela M. Belcher",
+          "Biological Engineering Faculty",
+          "Prof. Douglas Lauffenburger",
+          "Prof. Paul T. Matsudaira"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:51:08.636577Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.010J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.010J"
+      },
+      {
+        "coursenum": "2.790J,6.025J,7.38J,10.010J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.790J,6.025J,7.38J,10.010J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9830,
+    "course_id": "45bbb427f60e4ec8391e9e8ad438bda1+22.52J",
+    "coursenum": "22.52J",
+    "short_description": "This course explores the theory of self-assembly in surfactant-water (micellar) and surfactant-water-oil (micro-emulsion) systems. It also introduces the theory of polymer solutions, as well as scattering techniques, light, x-ray, and neutron scattering applied to studies of the structure and dynamics of complex liquids, and modern theory of the liquid state relevant to structured (supramolecular) liquids.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Statistical Thermodynamics of Complex Liquids",
+    "image_src": "/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/b810ec94d82d16488adde930a516473a_22-52js04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16651,
+        "run_id": "45bbb427f60e4ec8391e9e8ad438bda1",
+        "short_description": "This course explores the theory of self-assembly in surfactant-water (micellar) and surfactant-water-oil (micro-emulsion) systems. It also introduces the theory of polymer solutions, as well as scattering techniques, light, x-ray, and neutron scattering applied to studies of the structure and dynamics of complex liquids, and modern theory of the liquid state relevant to structured (supramolecular) liquids.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Statistical Thermodynamics of Complex Liquids",
+        "image_src": "/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/b810ec94d82d16488adde930a516473a_22-52js04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Sow-Hsin Chen"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004"
+      }
+    ],
+    "created": "2020-03-03T23:56:55.662182Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Chemical Engineering"
+    ],
+    "department_slug": "nuclear-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "22.52J",
+        "department": "Nuclear Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "22.52J"
+      },
+      {
+        "coursenum": "8.575J,10.44J",
+        "department": "Physics",
+        "primary": false,
+        "sort_coursenum": "08.575J,10.44J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9938,
+    "course_id": "ae2f7e582112fd7e18c12e96b8848f97+10.491",
+    "coursenum": "10.491",
+    "short_description": "This course introduces students to methods and background needed for the conceptual design of continuously operating chemical plants. Particular attention is paid to the use of process modeling tools such as Aspen that are used in industry and to problems of current interest. Each student team is assigned to evaluate and design a different technology and prepare a final design report.\n\nFor spring 2006, the theme of the course is to design technologies for lowering the emissions of climatically active gases from processes that use coal as the primary fuel.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrated Chemical Engineering II",
+    "image_src": "/courses/10-491-integrated-chemical-engineering-ii-spring-2006/c835ea5d7c58875e9efc4476bdcd01cb_10-491s06.jpg",
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Chemical Engineering",
+      "Environmental Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16923,
+        "run_id": "ae2f7e582112fd7e18c12e96b8848f97",
+        "short_description": "This course introduces students to methods and background needed for the conceptual design of continuously operating chemical plants. Particular attention is paid to the use of process modeling tools such as Aspen that are used in industry and to problems of current interest. Each student team is assigned to evaluate and design a different technology and prepare a final design report.\n\nFor spring 2006, the theme of the course is to design technologies for lowering the emissions of climatically active gases from processes that use coal as the primary fuel.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Integrated Chemical Engineering II",
+        "image_src": "/courses/10-491-integrated-chemical-engineering-ii-spring-2006/c835ea5d7c58875e9efc4476bdcd01cb_10-491s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Gregory McRae"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-491-integrated-chemical-engineering-ii-spring-2006"
+      }
+    ],
+    "created": "2020-03-04T00:15:26.604309Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.491",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.491"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9992,
+    "course_id": "a5077bceecd04fb6ec4d3d845d64e74f+ESD.72",
+    "coursenum": "ESD.72",
+    "short_description": "ERBA (ESD.72) emphasizes three methodologies - reliability and probabilistic risk assessment (RPRA), decision analysis (DA), and cost-benefit analysis (CBA). In this class, the issues of interest are: the risks associated with large engineering projects such as nuclear power reactors, the International Space Station, and critical infrastructures; the development of new products; the design of processes and operations with environmental externalities; and infrastructure renewal projects.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Engineering Risk-Benefit Analysis",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17066,
+        "run_id": "a5077bceecd04fb6ec4d3d845d64e74f",
+        "short_description": "ERBA (ESD.72) emphasizes three methodologies - reliability and probabilistic risk assessment (RPRA), decision analysis (DA), and cost-benefit analysis (CBA). In this class, the issues of interest are: the risks associated with large engineering projects such as nuclear power reactors, the International Space Station, and critical infrastructures; the development of new products; the design of processes and operations with environmental externalities; and infrastructure renewal projects.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Engineering Risk-Benefit Analysis",
+        "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. George Apostolakis"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/esd-72-engineering-risk-benefit-analysis-spring-2007"
+      }
+    ],
+    "created": "2020-03-04T00:26:16.819383Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "department_slug": "engineering-systems-division",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ESD.72",
+        "department": "Engineering Systems Division",
+        "primary": true,
+        "sort_coursenum": "ESD.72"
+      },
+      {
+        "coursenum": "1.155,2.963,3.577,6.938,10.816,16.862,22.82",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.155,2.963,3.577,6.938,10.816,16.862,22.82"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10070,
+    "course_id": "b7932fd7ad8f3c60dbda439632880008+20.410J",
+    "coursenum": "20.410J",
+    "short_description": "This course develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include: structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels will also be investigated.\n\nThis course was originally co-developed by Professors Alan Grodzinsky, Roger Kamm, and L. Mahadevan.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+    "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17277,
+        "run_id": "b7932fd7ad8f3c60dbda439632880008",
+        "short_description": "This course develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include: structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels will also be investigated.\n\nThis course was originally co-developed by Professors Alan Grodzinsky, Roger Kamm, and L. Mahadevan.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+        "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Patrick Doyle",
+          "Maxine Jonas",
+          "Roger D. Kamm"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003"
+      }
+    ],
+    "created": "2020-03-04T00:59:29.927344Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.410J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.410J"
+      },
+      {
+        "coursenum": "2.798J,6.524J,10.537",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.798J,6.524J,10.537"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12943,
+    "course_id": "course-v1:MITxT+10.S95x",
+    "coursenum": "10.S95x",
+    "short_description": "Learn about the scientific principles behind the airborne transmission of COVID-19, and how quantitative safety guideline may be derived to assess the risk of transmission.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Physics of COVID-19 Transmission",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10_S95x_about_v2_MITxO.png?v=c60cf094582aeb3355da8dcd1c6ba74b4c0f047b",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2023-09-13T19:30:13.801775Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12123,
+    "course_id": "course-v1:MITxT+10.50.CH01x",
+    "coursenum": "10.50.CH01x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Models",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_ltGreen_MITxO.jpg?v=fc89fef3b7ed47a2bbf316813d748f6cf551b906",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-13T20:01:47.074710Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12125,
+    "course_id": "course-v1:MITxT+10.50.CH03x",
+    "coursenum": "10.50.CH03x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Scaling",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_purple_MITxO.jpg?v=8d67c5376cbaab3718bc94c6814233cadb7194a0",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.271763Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10285,
+    "course_id": "491a2d1f166a02ec1f9a6833608f4f71+10.01",
+    "coursenum": "10.01",
+    "short_description": "Artificial Intelligence (AI), and the algorithmic judgment at its core, is developing at breakneck speed. This version of the popular Ethics for Engineers course focuses on the ethics issues involved in the latest developments of computer science.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 19337,
+        "run_id": "491a2d1f166a02ec1f9a6833608f4f71",
+        "short_description": "Artificial Intelligence (AI), and the algorithmic judgment at its core, is developing at breakneck speed. This version of the popular Ethics for Engineers course focuses on the ethics issues involved in the latest developments of computer science.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2020,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2020-01-01T00:00:00Z",
+        "best_end_date": "2020-05-31T00:00:00Z",
+        "title": "Ethics for Engineers: Artificial Intelligence",
+        "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Daniel Doneson",
+          "Prof. Bernhardt Trout"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020"
+      }
+    ],
+    "created": "2020-07-22T09:02:33.522514Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.01",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.01"
+      },
+      {
+        "coursenum": "1.082,2.900,22.014,6.904,16.676",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.082,2.900,22.014,6.904,16.676"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12747,
+    "course_id": "cd4ea5d54f20493b8dc4dd72babdf4e1+RES.10-002",
+    "coursenum": "RES.10-002",
+    "short_description": "This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the {{% resource_link \"4a142dcb-a3a6-42e5-b7be-fba5fc37b211\" \"chapterized version of the video\" %}} and working through the teaching materials provided for each chapter.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Ethics of AI Bias",
+    "image_src": "/courses/res-10-002-ethics-of-ai-bias-spring-2023/res-10-002s23.png",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the {{% resource_link \"4a142dcb-a3a6-42e5-b7be-fba5fc37b211\" \"chapterized version of the video\" %}} and working through the teaching materials provided for each chapter.",
+        "run_id": "cd4ea5d54f20493b8dc4dd72babdf4e1",
+        "year": 2023,
+        "level": [
+          "Non-Credit"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2023-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Ethics of AI Bias",
+        "image_src": "/courses/res-10-002-ethics-of-ai-bias-spring-2023/res-10-002s23.png",
+        "instructors": [
+          "Prof. Svetozar Minkov",
+          "Prof. Bernhardt Trout"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2023-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 21205,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-10-002-ethics-of-ai-bias-spring-2023",
+        "start_date": null
+      }
+    ],
+    "created": "2023-03-14T10:55:25.926006Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Other Video"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.10-002",
+        "sort_coursenum": "RES.10-002",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7942,
+    "course_id": "6402b1a3d14e6074995e03d001c533da+7.02CI",
+    "coursenum": "7.02CI",
+    "short_description": "This course is the scientific communications portion of course 7.02, Experimental Biology and Communication. Students develop their skills as writers of scientific research, skills that also contribute to the learning of the 7.02 course materials. Through in class and out of class writing exercises, students explore the genre of the research article and its components while developing an understanding of the materials covered in the 7.02 laboratory.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Experimental Biology - Communications Intensive",
+    "image_src": "/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/4184f92e4530a6b3a595725ce6c8c933_7-02cis05.jpg",
+    "topics": [
+      "Science",
+      "Humanities",
+      "Literature",
+      "Biology",
+      "Academic Writing"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13684,
+        "run_id": "6402b1a3d14e6074995e03d001c533da",
+        "short_description": "This course is the scientific communications portion of course 7.02, Experimental Biology and Communication. Students develop their skills as writers of scientific research, skills that also contribute to the learning of the 7.02 course materials. Through in class and out of class writing exercises, students explore the genre of the research article and its components while developing an understanding of the materials covered in the 7.02 laboratory.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Experimental Biology - Communications Intensive",
+        "image_src": "/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/4184f92e4530a6b3a595725ce6c8c933_7-02cis05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Neal Lerner",
+          "Dr. Marilee Ogren-Balkema"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/7-02ci-experimental-biology-communications-intensive-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:45:32.515134Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biology",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biology",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "7.02CI",
+        "department": "Biology",
+        "primary": true,
+        "sort_coursenum": "07.02CI"
+      },
+      {
+        "coursenum": "10.702CI",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.702CI"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8377,
+    "course_id": "c2e77ddd04c99ed4d602705e0b01ecb2+10.520",
+    "coursenum": "10.520",
+    "short_description": "This class covers molecular-level engineering and analysis of chemical processes. The use of chemical bonding, reactivity, and other key concepts in the design and tailoring of organic systems are discussed in this class. Specific class topics include application and development of structure-property relationships, and descriptions of the chemical forces and structural factors that govern supramolecular and interfacial phenomena for molecular and polymeric systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Molecular Aspects of Chemical Engineering",
+    "image_src": "/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/17cc828df8e9a5986ec838e785ef61b8_10-520f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14201,
+        "run_id": "c2e77ddd04c99ed4d602705e0b01ecb2",
+        "short_description": "This class covers molecular-level engineering and analysis of chemical processes. The use of chemical bonding, reactivity, and other key concepts in the design and tailoring of organic systems are discussed in this class. Specific class topics include application and development of structure-property relationships, and descriptions of the chemical forces and structural factors that govern supramolecular and interfacial phenomena for molecular and polymeric systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Molecular Aspects of Chemical Engineering",
+        "image_src": "/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/17cc828df8e9a5986ec838e785ef61b8_10-520f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Paula Hammond"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T21:16:10.428763Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.520",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.520"
+      },
+      {
+        "coursenum": "10.420",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.420"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8416,
+    "course_id": "8eb0a7a1ed321e8015a460a745af8b0c+15.136J",
+    "coursenum": "15.136J",
+    "short_description": "This course serves as a description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Topics covered include drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules, and economic and financial considerations of the drug development process. A multidisciplinary perspective is provided by the faculty, who represent clinical, life, and management sciences. Various industry guests also participate.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles and Practice of Drug Development",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14252,
+        "run_id": "8eb0a7a1ed321e8015a460a745af8b0c",
+        "short_description": "This course serves as a description and critical assessment of the major issues and stages of developing a pharmaceutical or biopharmaceutical. Topics covered include drug discovery, preclinical development, clinical investigation, manufacturing and regulatory issues considered for small and large molecules, and economic and financial considerations of the drug development process. A multidisciplinary perspective is provided by the faculty, who represent clinical, life, and management sciences. Various industry guests also participate.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Principles and Practice of Drug Development",
+        "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Charles Cooney",
+          "Stan Finkelstein, MD",
+          "Dr. G. K. Raju",
+          "Prof. Anthony Sinskey"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/15-136j-principles-and-practice-of-drug-development-fall-2013"
+      }
+    ],
+    "created": "2020-03-03T21:20:25.088484Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "department_slug": "sloan-school-of-management",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "15.136J",
+        "department": "Sloan School of Management",
+        "primary": true,
+        "sort_coursenum": "15.136J"
+      },
+      {
+        "coursenum": "7.547J,10.547J,IDS.620J (formerly ESD.691J),HST.920J",
+        "department": "Biology",
+        "primary": false,
+        "sort_coursenum": "07.547J,10.547J,IDS.620J (formerly ESD.691J),HST.920J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8619,
+    "course_id": "1a2f9a1f145db142eaf22b153f3ed7d0+10.571J",
+    "coursenum": "10.571J",
+    "short_description": "This course provides an introduction to the physics and chemistry of the atmosphere, including experience with computer codes. It is intended for undergraduates and first year graduate students.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Atmospheric Physics and Chemistry",
+    "image_src": "/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/73123c7ea414a257dde4ae35dde88f7a_10-571js06.jpg",
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Geochemistry",
+      "Atmospheric Science",
+      "Geophysics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14500,
+        "run_id": "1a2f9a1f145db142eaf22b153f3ed7d0",
+        "short_description": "This course provides an introduction to the physics and chemistry of the atmosphere, including experience with computer codes. It is intended for undergraduates and first year graduate students.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Atmospheric Physics and Chemistry",
+        "image_src": "/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/73123c7ea414a257dde4ae35dde88f7a_10-571js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Gregory McRae",
+          "Prof. Ronald G Prinn"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-571j-atmospheric-physics-and-chemistry-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:35:29.478649Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.571J",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.571J"
+      },
+      {
+        "coursenum": "12.306,12.806J",
+        "department": "Earth, Atmospheric, and Planetary Sciences",
+        "primary": false,
+        "sort_coursenum": "12.306,12.806J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8754,
+    "course_id": "181ac435135cf98c97d2953400163dfd+10.37",
+    "coursenum": "10.37",
+    "short_description": "This course applies the concepts of reaction rate, stoichiometry and equilibrium to the analysis of chemical and biological reacting systems, derivation of rate expressions from reaction mechanisms and equilibrium or steady state assumptions, design of chemical and biochemical reactors via synthesis of chemical kinetics, transport phenomena, and mass and energy balances. Topics covered include: chemical/biochemical pathways; enzymatic, pathway, and cell growth kinetics; batch, plug flow and well-stirred reactors for chemical reactions and cultivations of microorganisms and mammalian cells; heterogeneous and enzymatic catalysis; heat and mass transport in reactors, including diffusion to and within catalyst particles and cells or immobilized enzymes.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemical and Biological Reaction Engineering",
+    "image_src": "/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/bccea16fcc804939417af606da191833_10-37s07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Transport Processes",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14695,
+        "run_id": "181ac435135cf98c97d2953400163dfd",
+        "short_description": "This course applies the concepts of reaction rate, stoichiometry and equilibrium to the analysis of chemical and biological reacting systems, derivation of rate expressions from reaction mechanisms and equilibrium or steady state assumptions, design of chemical and biochemical reactors via synthesis of chemical kinetics, transport phenomena, and mass and energy balances. Topics covered include: chemical/biochemical pathways; enzymatic, pathway, and cell growth kinetics; batch, plug flow and well-stirred reactors for chemical reactions and cultivations of microorganisms and mammalian cells; heterogeneous and enzymatic catalysis; heat and mass transport in reactors, including diffusion to and within catalyst particles and cells or immobilized enzymes.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Chemical and Biological Reaction Engineering",
+        "image_src": "/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/bccea16fcc804939417af606da191833_10-37s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. William Green",
+          "Prof. K. Dane Wittrup"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-37-chemical-and-biological-reaction-engineering-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T21:49:50.410891Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Activity Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.37",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.37"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8853,
+    "course_id": "b0eb8ca44d27695ec499d73f1d4740a5+10.450",
+    "coursenum": "10.450",
+    "short_description": "This course introduces dynamic processes and the engineering tasks of process operations and control. Subject covers modeling the static and dynamic behavior of processes; control strategies; design of feedback, feedforward, and other control structures; and applications to process equipment.\n\n### Dedication\n\nIn preparing this material, the author has recalled with pleasure his own introduction, many years ago, to Process Control. This OCW course is dedicated with gratitude, to Prof. W. C. Clements of the University of Alabama.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Process Dynamics, Operations, and Control",
+    "image_src": "/courses/10-450-process-dynamics-operations-and-control-spring-2006/19d71d773488c191173186e90d7bc362_10-450s06.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Dynamics and Control",
+      "Process Control Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14828,
+        "run_id": "b0eb8ca44d27695ec499d73f1d4740a5",
+        "short_description": "This course introduces dynamic processes and the engineering tasks of process operations and control. Subject covers modeling the static and dynamic behavior of processes; control strategies; design of feedback, feedforward, and other control structures; and applications to process equipment.\n\n### Dedication\n\nIn preparing this material, the author has recalled with pleasure his own introduction, many years ago, to Process Control. This OCW course is dedicated with gratitude, to Prof. W. C. Clements of the University of Alabama.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Process Dynamics, Operations, and Control",
+        "image_src": "/courses/10-450-process-dynamics-operations-and-control-spring-2006/19d71d773488c191173186e90d7bc362_10-450s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Barry S. Johnston"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-450-process-dynamics-operations-and-control-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T22:00:18.941645Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.450",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.450"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9091,
+    "course_id": "084b3758ba385cdd06cd1207a04cf3da+10.442",
+    "coursenum": "10.442",
+    "short_description": "This course focuses on the interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems are featured among lecture topics. Kinetics of growth, death, and metabolism are also covered. Continuous fermentation, agitation, mass transfer, and scale-up in fermentation systems, and enzyme technology round out the subject material.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biochemical Engineering",
+    "image_src": "/courses/10-442-biochemical-engineering-spring-2005/336be85fd2547401b271b202ae71a8da_10-442s05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Microbiology",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15181,
+        "run_id": "084b3758ba385cdd06cd1207a04cf3da",
+        "short_description": "This course focuses on the interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems are featured among lecture topics. Kinetics of growth, death, and metabolism are also covered. Continuous fermentation, agitation, mass transfer, and scale-up in fermentation systems, and enzyme technology round out the subject material.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Biochemical Engineering",
+        "image_src": "/courses/10-442-biochemical-engineering-spring-2005/336be85fd2547401b271b202ae71a8da_10-442s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Kristala L. Jones Prather"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-442-biochemical-engineering-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T22:23:43.940816Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.442",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.442"
+      },
+      {
+        "coursenum": "10.542",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.542"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9516,
+    "course_id": "423e1dfe9fa3cb59f75f18c660ad798a+10.302",
+    "coursenum": "10.302",
+    "short_description": "Principles of heat and mass transfer. Steady and transient conduction and diffusion. Radiative heat transfer. Convective transport of heat and mass in both laminar and turbulent flows. Emphasis on the development of a physical understanding of the underlying phenomena and upon the ability to solve real heat and mass transfer problems of engineering significance.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Transport Processes",
+    "image_src": "/courses/10-302-transport-processes-fall-2004/ebf14a46d72d9805fe43bd520c34d978_10-302f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15975,
+        "run_id": "423e1dfe9fa3cb59f75f18c660ad798a",
+        "short_description": "Principles of heat and mass transfer. Steady and transient conduction and diffusion. Radiative heat transfer. Convective transport of heat and mass in both laminar and turbulent flows. Emphasis on the development of a physical understanding of the underlying phenomena and upon the ability to solve real heat and mass transfer problems of engineering significance.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Transport Processes",
+        "image_src": "/courses/10-302-transport-processes-fall-2004/ebf14a46d72d9805fe43bd520c34d978_10-302f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Clark Colton",
+          "Dr. William Dalzell",
+          "Prof. Kenneth Smith"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-302-transport-processes-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T23:19:24.869545Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.302",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.302"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9621,
+    "course_id": "f2890de5ddd6b2a961041bb0caf6447a+2.341J",
+    "coursenum": "2.341J",
+    "short_description": "The topics cover physical phenomena in polymeric liquids undergoing deformation and flow; kinematics and material functions for complex fluids; techniques of viscometry, rheometry; and linear viscoelastic measurements for polymeric fluids. Also, generalized Newtonian fluids; continuum mechnanics, frame invariance, and convected derivatives for finite strain viscoelasticity; differential and integral constitutive equations for viscoelastic fluids; analytical solutions to isothermal and non-isothermal flow problems; the roles of non-Newtonian viscosity, linear viscoelasticity, normal stresses, elastic recoil, stress relaxation in processing flows; and introduction to molecular theories for dynamics of polymeric fluids. (Extensive class project and presentation required instead of a final exam).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Macromolecular Hydrodynamics",
+    "image_src": "/courses/2-341j-macromolecular-hydrodynamics-spring-2016/d1ce14274cf922b8b3f8d09c99e78bea_2-341js16.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Fluid Mechanics",
+      "Chemical Engineering",
+      "Molecular Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16181,
+        "run_id": "f2890de5ddd6b2a961041bb0caf6447a",
+        "short_description": "The topics cover physical phenomena in polymeric liquids undergoing deformation and flow; kinematics and material functions for complex fluids; techniques of viscometry, rheometry; and linear viscoelastic measurements for polymeric fluids. Also, generalized Newtonian fluids; continuum mechnanics, frame invariance, and convected derivatives for finite strain viscoelasticity; differential and integral constitutive equations for viscoelastic fluids; analytical solutions to isothermal and non-isothermal flow problems; the roles of non-Newtonian viscosity, linear viscoelasticity, normal stresses, elastic recoil, stress relaxation in processing flows; and introduction to molecular theories for dynamics of polymeric fluids. (Extensive class project and presentation required instead of a final exam).",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2016,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "title": "Macromolecular Hydrodynamics",
+        "image_src": "/courses/2-341j-macromolecular-hydrodynamics-spring-2016/d1ce14274cf922b8b3f8d09c99e78bea_2-341js16.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert C Armstrong",
+          "Prof. Gareth McKinley"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-341j-macromolecular-hydrodynamics-spring-2016"
+      }
+    ],
+    "created": "2020-03-03T23:31:10.113779Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.341J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.341J"
+      },
+      {
+        "coursenum": "10.531J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.531J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9758,
+    "course_id": "57ed4da116f0a1e5fd01a0c0b45aaf01+10.626",
+    "coursenum": "10.626",
+    "short_description": "This course introduces principles and mathematical models of electrochemical energy conversion and storage. Students study equivalent circuits, thermodynamics, reaction kinetics, transport phenomena, electrostatics, porous media, and phase transformations. In addition, this course includes applications to batteries, fuel cells, supercapacitors, and electrokinetics.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Electrochemical Energy Systems",
+    "image_src": "/courses/10-626-electrochemical-energy-systems-spring-2014/5a6cbfd9b7dc6a716189faf1f70f86d8_10-626s14.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Materials Science and Engineering",
+      "Transport Processes",
+      "Electronic Materials",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16973,
+        "run_id": "57ed4da116f0a1e5fd01a0c0b45aaf01",
+        "short_description": "This course introduces principles and mathematical models of electrochemical energy conversion and storage. Students study equivalent circuits, thermodynamics, reaction kinetics, transport phenomena, electrostatics, porous media, and phase transformations. In addition, this course includes applications to batteries, fuel cells, supercapacitors, and electrokinetics.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2014,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-01-01T00:00:00Z",
+        "best_end_date": "2014-05-31T00:00:00Z",
+        "title": "Electrochemical Energy Systems",
+        "image_src": "/courses/10-626-electrochemical-energy-systems-spring-2014/5a6cbfd9b7dc6a716189faf1f70f86d8_10-626s14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Martin Bazant"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-626-electrochemical-energy-systems-spring-2014"
+      }
+    ],
+    "created": "2020-03-03T23:46:33.454397Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.626",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.626"
+      },
+      {
+        "coursenum": "10.426",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.426"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10064,
+    "course_id": "129c59c7e4bc6ad1f5d5b453ec3ef2bb+10.445",
+    "coursenum": "10.445",
+    "short_description": "This course serves as an introduction to the fundamental principles of separation operations for the recovery of products from biological processes, membrane filtration, chromatography, centrifugation, cell disruption, extraction, and process design.\n\nThis course was last taught during the regular school year in the Spring semester of 1999, but has been a part of the MIT Technology and Development Program ([TDP](http://web.mit.edu/mit-tdp/www/)) at the Malaysia University of Science and Technology ([MUST](http://web.mit.edu/mit-tdp/www/pp-malaysia.html)), as well as at [MIT's Professional Institute](http://web.mit.edu/mitpep/pi/) in more recent years.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Separation Processes for Biochemical Products",
+    "image_src": "/courses/10-445-separation-processes-for-biochemical-products-summer-2005/eab4a09142661cb058d7070264a8eb43_10-445su05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Separation Processes",
+      "Biochemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17267,
+        "run_id": "129c59c7e4bc6ad1f5d5b453ec3ef2bb",
+        "short_description": "This course serves as an introduction to the fundamental principles of separation operations for the recovery of products from biological processes, membrane filtration, chromatography, centrifugation, cell disruption, extraction, and process design.\n\nThis course was last taught during the regular school year in the Spring semester of 1999, but has been a part of the MIT Technology and Development Program ([TDP](http://web.mit.edu/mit-tdp/www/)) at the Malaysia University of Science and Technology ([MUST](http://web.mit.edu/mit-tdp/www/pp-malaysia.html)), as well as at [MIT's Professional Institute](http://web.mit.edu/mitpep/pi/) in more recent years.",
+        "full_description": null,
+        "language": null,
+        "semester": "Summer",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-06-01T00:00:00Z",
+        "best_end_date": "2005-08-30T00:00:00Z",
+        "title": "Separation Processes for Biochemical Products",
+        "image_src": "/courses/10-445-separation-processes-for-biochemical-products-summer-2005/eab4a09142661cb058d7070264a8eb43_10-445su05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Charles Cooney"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-445-separation-processes-for-biochemical-products-summer-2005"
+      }
+    ],
+    "created": "2020-03-04T00:58:04.547621Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.445",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.445"
+      },
+      {
+        "coursenum": "10.545",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.545"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11928,
+    "course_id": "483d5aeb27c4dccb7fbc9936e2a14909+2.60J",
+    "coursenum": "2.60J",
+    "short_description": "This course covers fundamentals of thermodynamics, chemistry, and transport applied to energy systems. Topics include analysis of energy conversion and storage in thermal, mechanical, chemical, and electrochemical processes in power and transportation systems, with emphasis on efficiency, performance, and environmental impact. Applications include fuel reforming and alternative fuels, hydrogen, fuel cells and batteries, combustion, catalysis, combined and hybrid power cycles using fossil, nuclear and renewable resources.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fundamentals of Advanced Energy Conversion",
+    "image_src": "/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/92fc5969d1aa2ec6a7e2ed62f781e38b_2-60js20.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Energy",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Nuclear",
+      "Renewables",
+      "Combustion",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 19869,
+        "run_id": "483d5aeb27c4dccb7fbc9936e2a14909",
+        "short_description": "This course covers fundamentals of thermodynamics, chemistry, and transport applied to energy systems. Topics include analysis of energy conversion and storage in thermal, mechanical, chemical, and electrochemical processes in power and transportation systems, with emphasis on efficiency, performance, and environmental impact. Applications include fuel reforming and alternative fuels, hydrogen, fuel cells and batteries, combustion, catalysis, combined and hybrid power cycles using fossil, nuclear and renewable resources.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2020,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2020-01-01T00:00:00Z",
+        "best_end_date": "2020-05-31T00:00:00Z",
+        "title": "Fundamentals of Advanced Energy Conversion",
+        "image_src": "/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/92fc5969d1aa2ec6a7e2ed62f781e38b_2-60js20.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Ahmed F. Ghoniem"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020"
+      }
+    ],
+    "created": "2021-07-20T09:03:00.206214Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Nuclear Science and Engineering"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.60J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.60J"
+      },
+      {
+        "coursenum": "2.62J,10.392J,22.40J,10.390J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.62J,10.392J,22.40J,10.390J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 4917,
+    "course_id": "MITx+10.03x_2",
+    "coursenum": "10.03x_2",
+    "short_description": "Learn how protein therapeutics are manufactured and explore the fundamental principles of biopharmaceutical manufacturing.",
+    "full_description": "<p>Humans have leveraged the power of cells for millennia to produce staples such as bread, cheese, beer and wine. Yet only recently have we begun to utilize cells as factories for the production of protein therapeutics.</p>\n<p>These biologic drugs are able to treat otherwise untreatable diseases. In this course, you will learn how these life saving medicines are made.</p>\n<p>We will connect the engineering fundamentals to real-world application by showing real pieces of biomanufacturing equipment in action and listening to experts describe real-world engineering challenges.</p>",
+    "platform": "mitx",
+    "title": "Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6bc1a53b-db42-4b35-b03b-daf37eb86f46.small.jpg",
+    "topics": [
+      "Engineering",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "end_date": "2015-12-11T13:00:00Z",
+        "short_description": "Learn how protein therapeutics are manufactured and explore the fundamental principles of biopharmaceutical manufacturing.",
+        "run_id": "course-v1:MITx+10.03x_2+3T2015",
+        "year": 2015,
+        "level": [
+          "Intermediate"
+        ],
+        "enrollment_end": "2015-12-01T13:00:00Z",
+        "language": "en-us",
+        "best_start_date": "2015-09-04T14:00:00Z",
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "MITx"
+        ],
+        "title": "Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6bc1a53b-db42-4b35-b03b-daf37eb86f46.small.jpg",
+        "instructors": [
+          "Paul W. Barone",
+          "J. Christopher Love",
+          "Eric Miller",
+          "Nicholas Mozdzierz",
+          "Anthony J. Sinskey",
+          "Betsy Skrip",
+          "Stacy L. Springs"
+        ],
+        "enrollment_start": "2015-09-04T14:00:00Z",
+        "full_description": "<p>Humans have leveraged the power of cells for millennia to produce staples such as bread, cheese, beer and wine. Yet only recently have we begun to utilize cells as factories for the production of protein therapeutics.</p>\n<p>These biologic drugs are able to treat otherwise untreatable diseases. In this course, you will learn how these life saving medicines are made.</p>\n<p>We will connect the engineering fundamentals to real-world application by showing real pieces of biomanufacturing equipment in action and listening to experts describe real-world engineering challenges.</p>",
+        "best_end_date": "2015-12-01T13:00:00Z",
+        "semester": "fall",
+        "id": 734,
+        "prices": [
+          {
+            "mode": "honor",
+            "price": "0.00"
+          },
+          {
+            "mode": "verified",
+            "price": "49.00"
+          }
+        ],
+        "slug": null,
+        "start_date": "2015-10-27T14:00:00Z"
+      }
+    ],
+    "created": "2019-08-28T15:32:44.325524Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12124,
+    "course_id": "course-v1:MITxT+10.50.CH02x",
+    "coursenum": "10.50.CH02x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Mathematical Formulation",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkGreen_MITxO.jpg?v=abb5132c1113a8c4319f9498dbae9e17c82b5b36",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-13T20:01:47.197082Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12126,
+    "course_id": "course-v1:MITxT+10.50.CH04x",
+    "coursenum": "10.50.CH04x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Asymptotics",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkpurple_MITxO.jpg?v=a3da6c637426738ca06d1bfe502c46faf19c5848",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.299305Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12127,
+    "course_id": "course-v1:MITxT+10.50.CH05x",
+    "coursenum": "10.50.CH05x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Series Expansions",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_brown_MITxO.jpg?v=303c5e5f189d14bc24d60db1c8c37802d7015bfa",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.321757Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12130,
+    "course_id": "course-v1:MITxT+10.50.CH08x",
+    "coursenum": "10.50.CH08x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Nonequilibrium Thermodynamics",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_orange_MITxO.jpg?v=5af85cd2839c42e40fe1932f1dd09128170f2958",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.386051Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12131,
+    "course_id": "course-v1:MITxT+10.50.CH09x",
+    "coursenum": "10.50.CH09x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Electrochemical Transport",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_red_MITxO.jpg?v=ac20ccb6a5250fcd998c16b6ec0b92c7b49c999b",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.405533Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12781,
+    "course_id": "course-v1:MITxT+10.MBCx",
+    "coursenum": "10.MBCx",
+    "short_description": "An intensive review of undergraduate-level mathematics for prospective and beginning graduate students in science and engineering.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Math Boot Camp for Engineers",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.MBCx_AboutPage.png?v=0a50a27121bd17ae91dea6949876081ea9de2835",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2023-04-24T19:30:06.162865Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7714,
+    "course_id": "028c113a98ac834908f78965766d3e46+10.805J",
+    "coursenum": "10.805J",
+    "short_description": "This course addresses the relationship between technology-related problems and the law applicable to work environment. The National Labor Relations Act, the Occupational Safety and Health Act, the Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts are discussed in the course. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work are also addressed. Prior courses or experience in environmental, public health, or law-related areas will be useful.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Technology, Law, and the Working Environment",
+    "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Health and Medicine",
+      "Public Health",
+      "Business",
+      "Legal Studies",
+      "Environmental Engineering",
+      "Science and Technology Policy",
+      "Industrial Relations and Human Resource Management",
+      "Environmental Management"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13447,
+        "run_id": "028c113a98ac834908f78965766d3e46",
+        "short_description": "This course addresses the relationship between technology-related problems and the law applicable to work environment. The National Labor Relations Act, the Occupational Safety and Health Act, the Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts are discussed in the course. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work are also addressed. Prior courses or experience in environmental, public health, or law-related areas will be useful.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Technology, Law, and the Working Environment",
+        "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Nicholas Ashford",
+          "Prof. Charles Caldart"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-805j-technology-law-and-the-working-environment-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:27:13.690385Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.805J",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.805J"
+      },
+      {
+        "coursenum": "IDS.436 (formerly ESD.136J)",
+        "department": "Institute for Data, Systems, and Society",
+        "primary": false,
+        "sort_coursenum": "IDS.436 (formerly ESD.136J)"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7781,
+    "course_id": "8ed4cc2d88a32da6faae9ceb7cb79221+22.081J",
+    "coursenum": "22.081J",
+    "short_description": "This class assesses current and potential future energy systems, covering resources, extraction, conversion, and end-use technologies, with emphasis on meeting regional and global energy needs in the 21st century in a sustainable manner. Instructors and guest lecturers will examine various renewable and conventional energy production technologies, energy end-use practices and alternatives, and consumption practices in different countries. Students will learn a quantitative framework to aid in evaluation and analysis of energy technology system proposals in the context of engineering, political, social, economic, and environmental goals. Students taking the graduate version, _Sustainable Energy_, complete additional assignments.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Sustainable Energy",
+    "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Electrical Engineering",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Electric Power",
+      "Science and Technology Policy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Renewables",
+      "Combustion",
+      "Transportation",
+      "Sustainability"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13516,
+        "run_id": "8ed4cc2d88a32da6faae9ceb7cb79221",
+        "short_description": "This class assesses current and potential future energy systems, covering resources, extraction, conversion, and end-use technologies, with emphasis on meeting regional and global energy needs in the 21st century in a sustainable manner. Instructors and guest lecturers will examine various renewable and conventional energy production technologies, energy end-use practices and alternatives, and consumption practices in different countries. Students will learn a quantitative framework to aid in evaluation and analysis of energy technology system proposals in the context of engineering, political, social, economic, and environmental goals. Students taking the graduate version, _Sustainable Energy_, complete additional assignments.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2010,
+        "level": [
+          "Undergraduate",
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-09-01T00:00:00Z",
+        "best_end_date": "2010-12-31T00:00:00Z",
+        "title": "Introduction to Sustainable Energy",
+        "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Randall Field",
+          "Prof. Michael Golay",
+          "Prof. William Green",
+          "Dr. John C. Wright"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/22-081j-introduction-to-sustainable-energy-fall-2010"
+      }
+    ],
+    "created": "2020-03-03T20:30:40.124073Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "department_slug": "nuclear-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "22.081J",
+        "department": "Nuclear Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "22.081J"
+      },
+      {
+        "coursenum": "2.650J,10.291J,1.818J,2.65J,10.391J,11.371J,22.811J,ESD.166J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.650J,10.291J,1.818J,2.65J,10.391J,11.371J,22.811J,ESD.166J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8066,
+    "course_id": "878040470dcec4481a4b49563f318c63+10.40",
+    "coursenum": "10.40",
+    "short_description": "This course aims to connect the principles, concepts, and laws/postulates of classical and statistical thermodynamics to applications that require quantitative knowledge of thermodynamic properties from a macroscopic to a molecular level. It covers their basic postulates of classical thermodynamics and their application to transient open and closed systems, criteria of stability and equilibria, as well as constitutive property models of pure materials and mixtures emphasizing molecular-level effects using the formalism of statistical mechanics. Phase and chemical equilibria of multicomponent systems are covered. Applications are emphasized through extensive problem work relating to practical cases.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemical Engineering Thermodynamics",
+    "image_src": "/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e95dfac16b288eb5e00dcb58b0be6c3f_10-40f03.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13824,
+        "run_id": "878040470dcec4481a4b49563f318c63",
+        "short_description": "This course aims to connect the principles, concepts, and laws/postulates of classical and statistical thermodynamics to applications that require quantitative knowledge of thermodynamic properties from a macroscopic to a molecular level. It covers their basic postulates of classical thermodynamics and their application to transient open and closed systems, criteria of stability and equilibria, as well as constitutive property models of pure materials and mixtures emphasizing molecular-level effects using the formalism of statistical mechanics. Phase and chemical equilibria of multicomponent systems are covered. Applications are emphasized through extensive problem work relating to practical cases.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Chemical Engineering Thermodynamics",
+        "image_src": "/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e95dfac16b288eb5e00dcb58b0be6c3f_10-40f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jefferson W. Tester",
+          "Prof. Bernhardt Trout"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-40-chemical-engineering-thermodynamics-fall-2003"
+      }
+    ],
+    "created": "2020-03-03T20:52:58.158449Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.40",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.40"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8531,
+    "course_id": "8aed02d0b63757cc2a645036e00038e9+3.021J",
+    "coursenum": "3.021J",
+    "short_description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Modeling and Simulation",
+    "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Materials Science and Engineering",
+      "Computational Modeling and Simulation",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17037,
+        "run_id": "8aed02d0b63757cc2a645036e00038e9",
+        "short_description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-01-01T00:00:00Z",
+        "best_end_date": "2012-05-31T00:00:00Z",
+        "title": "Introduction to Modeling and Simulation",
+        "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Markus Buehler",
+          "Prof. Jeffrey Grossman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/3-021j-introduction-to-modeling-and-simulation-spring-2012"
+      }
+    ],
+    "created": "2020-03-03T21:28:03.259756Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Materials Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Nuclear Science and Engineering"
+    ],
+    "department_slug": "materials-science-and-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "3.021J",
+        "department": "Materials Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "03.021J"
+      },
+      {
+        "coursenum": "1.021J,10.333J,18.361J,22.00J",
+        "department": "Civil and Environmental Engineering",
+        "primary": false,
+        "sort_coursenum": "01.021J,10.333J,18.361J,22.00J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8700,
+    "course_id": "04fff842ff7a55452c5bb84041de63b6+10.32",
+    "coursenum": "10.32",
+    "short_description": "This course covers the general principles of separation by equilibrium and rate processes. Topics include staged cascades and applications to distillation, absorption, adsorption, and membrane processes. Phase equilibria and the role of diffusion are also covered.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Separation Processes",
+    "image_src": "/courses/10-32-separation-processes-spring-2005/0f3999d4ed9f6aade03466caca1d490b_10-32s05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Separation Processes",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14615,
+        "run_id": "04fff842ff7a55452c5bb84041de63b6",
+        "short_description": "This course covers the general principles of separation by equilibrium and rate processes. Topics include staged cascades and applications to distillation, absorption, adsorption, and membrane processes. Phase equilibria and the role of diffusion are also covered.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Separation Processes",
+        "image_src": "/courses/10-32-separation-processes-spring-2005/0f3999d4ed9f6aade03466caca1d490b_10-32s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. William Dalzell"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-32-separation-processes-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T21:42:06.192696Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.32",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.32"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8996,
+    "course_id": "66d67daaf18994748c09233522fa4d06+20.420J",
+    "coursenum": "20.420J",
+    "short_description": "This subject deals primarily with kinetic and equilibrium mathematical models of biomolecular interactions, as well as the application of these quantitative analyses to biological problems across a wide range of levels of organization, from individual molecular interactions to populations of cells.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biomolecular Kinetics and Cellular Dynamics (BE.420J)",
+    "image_src": "/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/ec443edc179b4dd44f89b6d9330ea3db_20-420jf04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15033,
+        "run_id": "66d67daaf18994748c09233522fa4d06",
+        "short_description": "This subject deals primarily with kinetic and equilibrium mathematical models of biomolecular interactions, as well as the application of these quantitative analyses to biological problems across a wide range of levels of organization, from individual molecular interactions to populations of cells.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Biomolecular Kinetics and Cellular Dynamics (BE.420J)",
+        "image_src": "/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/ec443edc179b4dd44f89b6d9330ea3db_20-420jf04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bruce Tidor",
+          "Prof. Karl Wittrup"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T22:11:38.718207Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.420J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.420J"
+      },
+      {
+        "coursenum": "10.538J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.538J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9368,
+    "course_id": "e81f4d2e623ec82d2dbb9860c7c4b0e7+HST.525J",
+    "coursenum": "HST.525J",
+    "short_description": "Tumor pathophysiology plays a central role in the growth, invasion, metastasis and treatment of solid tumors. This class applies principles of transport phenomena to develop a systems-level, quantitative understanding of angiogenesis, blood flow and microcirculation, metabolism and microenvironment, transport and binding of small and large molecules, movement of cancer and immune cells, metastatic process, and treatment response. \n\n**Additional Faculty** \n\nDr. Pat D'Amore\n\nDr. Dan Duda\n\nDr. Robert Langer\n\nProf. Robert Weinberg\n\nDr. Marsha Moses\n\nDr. Raghu Kalluri\n\nDr. Lance Munn",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Tumor Pathophysiology and Transport Phenomena",
+    "image_src": "/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/08fd50a4d2cf05479beda0377b5ec497_hst-525jf05.jpg",
+    "topics": [
+      "Engineering",
+      "Health and Medicine",
+      "Transport Processes",
+      "Chemical Engineering",
+      "Pathology and Pathophysiology",
+      "Cancer"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15674,
+        "run_id": "e81f4d2e623ec82d2dbb9860c7c4b0e7",
+        "short_description": "Tumor pathophysiology plays a central role in the growth, invasion, metastasis and treatment of solid tumors. This class applies principles of transport phenomena to develop a systems-level, quantitative understanding of angiogenesis, blood flow and microcirculation, metabolism and microenvironment, transport and binding of small and large molecules, movement of cancer and immune cells, metastatic process, and treatment response. \n\n**Additional Faculty** \n\nDr. Pat D'Amore\n\nDr. Dan Duda\n\nDr. Robert Langer\n\nProf. Robert Weinberg\n\nDr. Marsha Moses\n\nDr. Raghu Kalluri\n\nDr. Lance Munn",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Tumor Pathophysiology and Transport Phenomena",
+        "image_src": "/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/08fd50a4d2cf05479beda0377b5ec497_hst-525jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Rakesh Jain"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T23:02:51.813895Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Health Sciences and Technology",
+      "Chemical Engineering"
+    ],
+    "department_slug": "health-sciences-and-technology",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "HST.525J",
+        "department": "Health Sciences and Technology",
+        "primary": true,
+        "sort_coursenum": "HST.525J"
+      },
+      {
+        "coursenum": "10.548J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.548J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9391,
+    "course_id": "08d97bbbf9ade98658c8b2b43cefc9f5+20.430J",
+    "coursenum": "20.430J",
+    "short_description": "This course covers the fundamental driving forces for transport—chemical gradients, electrical interactions, and fluid flow—as applied to the biology and biophysics of molecules, cells, and tissues.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fields, Forces, and Flows in Biological Systems",
+    "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Biomaterials"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15861,
+        "run_id": "08d97bbbf9ade98658c8b2b43cefc9f5",
+        "short_description": "This course covers the fundamental driving forces for transport—chemical gradients, electrical interactions, and fluid flow—as applied to the biology and biophysics of molecules, cells, and tissues.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "Fields, Forces, and Flows in Biological Systems",
+        "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Mark Bathe",
+          "Prof. Alan Grodzinsky"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T23:05:09.884307Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.430J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.430J"
+      },
+      {
+        "coursenum": "2.795J,6.561J,10.539J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.795J,6.561J,10.539J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9500,
+    "course_id": "19eea2b80c93643e61957fb46bc3898f+10.492-2",
+    "coursenum": "10.492-2",
+    "short_description": "This course provides a brief introduction to the field of biocatalysis in the context of process design. Fundamental topics include why and when one may choose to use biological systems for chemical conversion, considerations for using free enzymes versus whole cells, and issues related to design and development of bioconversion processes. Biological and engineering problems are discussed as well as how one may arrive at both biological and engineering solutions.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Integrated Chemical Engineering Topics I: Introduction to Biocatalysis",
+    "image_src": "/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/c306a039220d84fa430dc7f3d81c61de_10-492-2f04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Organic Chemistry",
+      "Biochemistry",
+      "Chemical Engineering",
+      "Biomaterials",
+      "Process Control Systems"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15936,
+        "run_id": "19eea2b80c93643e61957fb46bc3898f",
+        "short_description": "This course provides a brief introduction to the field of biocatalysis in the context of process design. Fundamental topics include why and when one may choose to use biological systems for chemical conversion, considerations for using free enzymes versus whole cells, and issues related to design and development of bioconversion processes. Biological and engineering problems are discussed as well as how one may arrive at both biological and engineering solutions.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Integrated Chemical Engineering Topics I: Introduction to Biocatalysis",
+        "image_src": "/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/c306a039220d84fa430dc7f3d81c61de_10-492-2f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Kristala L. Jones Prather"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T23:17:34.038798Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.492-2",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.492-2"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9730,
+    "course_id": "1e0df2cd4344d9cc218cb6e432aad235+1.84J",
+    "coursenum": "1.84J",
+    "short_description": "This course provides a detailed overview of the chemical transformations that control the abundances of key trace species in the Earth's atmosphere. Emphasizes the effects of human activity on air quality and climate. Topics include photochemistry, kinetics, and thermodynamics important to the chemistry of the atmosphere; stratospheric ozone depletion; oxidation chemistry of the troposphere; photochemical smog; aerosol chemistry; and sources and sinks of greenhouse gases and other climate forcers.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Atmospheric Chemistry",
+    "image_src": "/courses/1-84j-atmospheric-chemistry-fall-2013/aea7f5215f80326880c9c3be83afadc1_1-84jf13.jpg",
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Energy",
+      "Atmospheric Science",
+      "Climate"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16421,
+        "run_id": "1e0df2cd4344d9cc218cb6e432aad235",
+        "short_description": "This course provides a detailed overview of the chemical transformations that control the abundances of key trace species in the Earth's atmosphere. Emphasizes the effects of human activity on air quality and climate. Topics include photochemistry, kinetics, and thermodynamics important to the chemistry of the atmosphere; stratospheric ozone depletion; oxidation chemistry of the troposphere; photochemical smog; aerosol chemistry; and sources and sinks of greenhouse gases and other climate forcers.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Atmospheric Chemistry",
+        "image_src": "/courses/1-84j-atmospheric-chemistry-fall-2013/aea7f5215f80326880c9c3be83afadc1_1-84jf13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jesse Kroll"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/1-84j-atmospheric-chemistry-fall-2013"
+      }
+    ],
+    "created": "2020-03-03T23:43:25.372706Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "department_slug": "civil-and-environmental-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "1.84J",
+        "department": "Civil and Environmental Engineering",
+        "primary": true,
+        "sort_coursenum": "01.84J"
+      },
+      {
+        "coursenum": "10.817J,12.807J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.817J,12.807J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9853,
+    "course_id": "d1c1a465f21bfb01deac44aea49ab19c+22.313J",
+    "coursenum": "22.313J",
+    "short_description": "This course covers the thermo-fluid dynamic phenomena and analysis methods for conventional and nuclear power stations. Specific topics include: kinematics and dynamics of two-phase flows; steam separation; boiling, instabilities, and critical conditions; single-channel transient analysis; multiple channels connected at plena; loop analysis including single and two-phase natural circulation; and subchannel analysis.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Thermal Hydraulics in Power Technology",
+    "image_src": "/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/dd95060549e1144887b9d0dc3a37ecc4_22-313js07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Nuclear Engineering",
+      "Fossil Fuels",
+      "Nuclear"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16707,
+        "run_id": "d1c1a465f21bfb01deac44aea49ab19c",
+        "short_description": "This course covers the thermo-fluid dynamic phenomena and analysis methods for conventional and nuclear power stations. Specific topics include: kinematics and dynamics of two-phase flows; steam separation; boiling, instabilities, and critical conditions; single-channel transient analysis; multiple channels connected at plena; loop analysis including single and two-phase natural circulation; and subchannel analysis.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Thermal Hydraulics in Power Technology",
+        "image_src": "/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/dd95060549e1144887b9d0dc3a37ecc4_22-313js07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jacopo Buongiorno"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007"
+      }
+    ],
+    "created": "2020-03-04T00:00:32.710420Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "nuclear-engineering",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "22.313J",
+        "department": "Nuclear Science and Engineering",
+        "primary": true,
+        "sort_coursenum": "22.313J"
+      },
+      {
+        "coursenum": "2.59J,10.536J",
+        "department": "Mechanical Engineering",
+        "primary": false,
+        "sort_coursenum": "02.59J,10.536J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9865,
+    "course_id": "ed221d368eacc80f97502c258109a35f+2.58J",
+    "coursenum": "2.58J",
+    "short_description": "This course investigates the principles of thermal radiation and their applications to engineering heat and photon transfer problems. Topics include quantum and classical models of radiative properties of materials, electromagnetic wave theory for thermal radiation, radiative transfer in absorbing, emitting, and scattering media, and coherent laser radiation. Applications cover laser-material interactions, imaging, infrared instrumentation, global warming, semiconductor manufacturing, combustion, furnaces, and high temperature processing.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Radiative Transfer",
+    "image_src": "/courses/2-58j-radiative-transfer-spring-2006/82566101ea5c181aecf5ec0e199c65f0_2-58js06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Energy",
+      "Technology",
+      "Transport Processes",
+      "Particle Physics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Climate",
+      "Combustion",
+      "Electromagnetism"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16750,
+        "run_id": "ed221d368eacc80f97502c258109a35f",
+        "short_description": "This course investigates the principles of thermal radiation and their applications to engineering heat and photon transfer problems. Topics include quantum and classical models of radiative properties of materials, electromagnetic wave theory for thermal radiation, radiative transfer in absorbing, emitting, and scattering media, and coherent laser radiation. Applications cover laser-material interactions, imaging, infrared instrumentation, global warming, semiconductor manufacturing, combustion, furnaces, and high temperature processing.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Radiative Transfer",
+        "image_src": "/courses/2-58j-radiative-transfer-spring-2006/82566101ea5c181aecf5ec0e199c65f0_2-58js06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Gang Chen"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/2-58j-radiative-transfer-spring-2006"
+      }
+    ],
+    "created": "2020-03-04T00:02:15.282277Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "department_slug": "mechanical-engineering",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "2.58J",
+        "department": "Mechanical Engineering",
+        "primary": true,
+        "sort_coursenum": "02.58J"
+      },
+      {
+        "coursenum": "10.74J",
+        "department": "Chemical Engineering",
+        "primary": false,
+        "sort_coursenum": "10.74J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11777,
+    "course_id": "ad4ace5e6d65ac1dab4d4fa2b95f8474+10.34",
+    "coursenum": "10.34",
+    "short_description": "This course focuses on the use of modern computational and mathematical techniques in chemical engineering. Starting from a discussion of linear systems as the basic computational unit in scientific computing, methods for solving sets of nonlinear algebraic equations, ordinary differential equations, and differential-algebraic (DAE) systems are presented. Probability theory and its use in physical modeling is covered, as is the statistical analysis of data and parameter estimation. The finite difference and finite element techniques are presented for converting the partial differential equations obtained from transport phenomena to DAE systems. The use of these techniques will be demonstrated throughout the course in the MATLAB® computing environment.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Numerical Methods Applied to Chemical Engineering",
+    "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5ff3cee9611b77244fa57f43e6c1bc7b_10-34f05.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14810,
+        "run_id": "ad4ace5e6d65ac1dab4d4fa2b95f8474",
+        "short_description": "This course focuses on the use of modern computational and mathematical techniques in chemical engineering. Starting from a discussion of linear systems as the basic computational unit in scientific computing, methods for solving sets of nonlinear algebraic equations, ordinary differential equations, and differential-algebraic (DAE) systems are presented. Probability theory and its use in physical modeling is covered, as is the statistical analysis of data and parameter estimation. The finite difference and finite element techniques are presented for converting the partial differential equations obtained from transport phenomena to DAE systems. The use of these techniques will be demonstrated throughout the course in the MATLAB® computing environment.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Numerical Methods Applied to Chemical Engineering",
+        "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5ff3cee9611b77244fa57f43e6c1bc7b_10-34f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Kenneth Beers"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005"
+      }
+    ],
+    "created": "2020-12-04T02:45:33.652830Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.34",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.34"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12128,
+    "course_id": "course-v1:MITxT+10.50.CH06x",
+    "coursenum": "10.50.CH06x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Fluid Mechanics",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_ltBlue_MITxO.jpg?v=76ede8a2dfb7508d43ae89d52895c245e40524da",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.347654Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12129,
+    "course_id": "course-v1:MITxT+10.50.CH07x",
+    "coursenum": "10.50.CH07x",
+    "short_description": "Graduate-level introduction to mathematical modeling of heat and mass transfer (diffusion and convection), fluid dynamics, chemical reactions, and phase transformations.",
+    "full_description": null,
+    "platform": "mitxonline",
+    "title": "Analysis of Transport Phenomena: Convection",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkBlue_MITxO.jpg?v=7ae955d0db8b19b7b82aa8b1eb5e594352392178",
+    "topics": [],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [],
+    "created": "2022-12-14T20:57:16.365696Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11895,
+    "course_id": "9f26e833ffc8522ebd102f65d4d1ca4e+RES.10-S95",
+    "coursenum": "RES.10-S95",
+    "short_description": "This resource is a collection of videos taught using a LightBoard, a specialized glass that creates a transparent white board. It teaches scientific principles to quantitatively assess the risk of airborne transmission of COVID-19 in indoor spaces based on factors such as the occupancy, time, room geometry, mask use, ventilation, air filtration, humidity, respiratory activities, etc., as well as how these factors interact. This collection is suitable for learners with some undergraduate-level training in STEM, although some videos may also be accessible to the general public. Graduate students and professionals can watch optional videos with more challenging mathematics. A full MITx course with problems and bonus content is available for free on [MITx Online](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+10.S95x+3T2022/home).",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physics of COVID-19 Transmission",
+    "image_src": "/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/2a92f492061700fed74dbbe31b8ab94a_res-10-s95f20.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Public Health",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This resource is a collection of videos taught using a LightBoard, a specialized glass that creates a transparent white board. It teaches scientific principles to quantitatively assess the risk of airborne transmission of COVID-19 in indoor spaces based on factors such as the occupancy, time, room geometry, mask use, ventilation, air filtration, humidity, respiratory activities, etc., as well as how these factors interact. This collection is suitable for learners with some undergraduate-level training in STEM, although some videos may also be accessible to the general public. Graduate students and professionals can watch optional videos with more challenging mathematics. A full MITx course with problems and bonus content is available for free on [MITx Online](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+10.S95x+3T2022/home).",
+        "run_id": "9f26e833ffc8522ebd102f65d4d1ca4e",
+        "year": 2020,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2020-09-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Physics of COVID-19 Transmission",
+        "image_src": "/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/2a92f492061700fed74dbbe31b8ab94a_res-10-s95f20.jpg",
+        "instructors": [
+          "Prof. Martin Bazant",
+          "Alex Cohen",
+          "Dr. Joey Gu"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2020-12-31T00:00:00Z",
+        "semester": "Fall",
+        "id": 19707,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-10-s95-physics-of-covid-19-transmission-fall-2020",
+        "start_date": null
+      }
+    ],
+    "created": "2021-04-09T11:55:10.404467Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.10-S95",
+        "sort_coursenum": "RES.10-S95",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9560,
+    "course_id": "3451586053cf8d374caf02b996543947+RES.10-001",
+    "coursenum": "RES.10-001",
+    "short_description": "In this course you will learn the basics of photography and gain an intriguing new perspective into the visual world. We will begin with a gentle introduction to the tools, and after that, we start in earnest.\n\nAlthough we will emphasize photographing science and engineering, most of the material will easily apply to other kinds of macro photography. The course's video tutorials will be accompanied by assignments using a camera, a flatbed scanner, and mobile devices. You will discover how subtle changes in lighting, composition, and background contribute to creating more effective images. You will also learn to think graphically and present your photographs for journal figures, covers, and grant submissions. We will also host interviews with notable image makers and art directors. \n\nAbout the Instructor\n--------------------\n\n[Felice Frankel](http://www.felicefrankel.com/) is an award-winning science photographer and research scientist in the [Department of Chemical Engineering](https://cheme.mit.edu/) at the Massachusetts Institute of Technology. Felice's images have been internationally published in books, journals, and magazines, including _The New York Times_, _Nature,_ _Science_, _National Geographic_, and _Discover_. She is a fellow of the American Association for the Advancement of Science, a Gugghenheim Fellow, has received awards and grants from NSF, NEA, the Alfred P. Sloan Foundation, and was a senior research fellow in Harvard University's Faculty of Arts and Sciences. \n\nAcknowledgements\n----------------\n\nThe production of these videos is supported by OpenCourseWare, MITx, the Center for Materials Science and Engineering and the following departments: Chemical Engineering, Materials Science and Engineering and Mechanical Engineering.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work",
+    "image_src": "/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/mitres_10_001_chp.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Health and Medicine",
+      "Teaching and Education",
+      "Visual Arts",
+      "Fine Arts",
+      "Biology",
+      "Graphic Design",
+      "Photography"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "In this course you will learn the basics of photography and gain an intriguing new perspective into the visual world. We will begin with a gentle introduction to the tools, and after that, we start in earnest.\n\nAlthough we will emphasize photographing science and engineering, most of the material will easily apply to other kinds of macro photography. The course's video tutorials will be accompanied by assignments using a camera, a flatbed scanner, and mobile devices. You will discover how subtle changes in lighting, composition, and background contribute to creating more effective images. You will also learn to think graphically and present your photographs for journal figures, covers, and grant submissions. We will also host interviews with notable image makers and art directors. \n\nAbout the Instructor\n--------------------\n\n[Felice Frankel](http://www.felicefrankel.com/) is an award-winning science photographer and research scientist in the [Department of Chemical Engineering](https://cheme.mit.edu/) at the Massachusetts Institute of Technology. Felice's images have been internationally published in books, journals, and magazines, including _The New York Times_, _Nature,_ _Science_, _National Geographic_, and _Discover_. She is a fellow of the American Association for the Advancement of Science, a Gugghenheim Fellow, has received awards and grants from NSF, NEA, the Alfred P. Sloan Foundation, and was a senior research fellow in Harvard University's Faculty of Arts and Sciences. \n\nAcknowledgements\n----------------\n\nThe production of these videos is supported by OpenCourseWare, MITx, the Center for Materials Science and Engineering and the following departments: Chemical Engineering, Materials Science and Engineering and Mechanical Engineering.",
+        "run_id": "3451586053cf8d374caf02b996543947",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work",
+        "image_src": "/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/mitres_10_001_chp.jpg",
+        "instructors": [
+          "Felice C. Frankel"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 17136,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:24:13.215728Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments with Examples",
+      "Instructor Insights",
+      "Lecture Audio"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.10-001",
+        "sort_coursenum": "RES.10-001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

@@ -1,0 +1,826 @@
+[
+  {
+    "id": 7752,
+    "course_id": "b794ef89b2b2d1dcebaaeff6d540f04f+PE.210",
+    "coursenum": "PE.210",
+    "short_description": "This course will thoroughly educate the successful student with the knowledge and skills necessary to be a certified beginning SCUBA diver. The prerequisite for the course is passing the MIT SCUBA swim test and demonstrating a \"comfort level\" in the water. At the end of the class, students will attempt to pass the certification exam to become certified divers. The class is taught in two parts each week: a classroom session and a pool session. The classroom sessions along with the reading material will provide the student with the knowledge necessary to pass the written exam. At the pool, the water skills are taught in progressions that build on the previous skills, making the difficult skills seem easy.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "SCUBA",
+    "image_src": "/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13486,
+        "run_id": "b794ef89b2b2d1dcebaaeff6d540f04f",
+        "short_description": "This course will thoroughly educate the successful student with the knowledge and skills necessary to be a certified beginning SCUBA diver. The prerequisite for the course is passing the MIT SCUBA swim test and demonstrating a \"comfort level\" in the water. At the end of the class, students will attempt to pass the certification exam to become certified divers. The class is taught in two parts each week: a classroom session and a pool session. The classroom sessions along with the reading material will provide the student with the knowledge necessary to pass the written exam. At the pool, the water skills are taught in progressions that build on the previous skills, making the difficult skills seem easy.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "SCUBA",
+        "image_src": "/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Halston Taylor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-210-scuba-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T20:28:58.805505Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Demonstration Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.210",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.210"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8316,
+    "course_id": "d27af858aa231ab34d33d2fd7a8d157e+PE.740",
+    "coursenum": "PE.740",
+    "short_description": "This course is intended to provide students with the fundamentals of fencing, including footwork, bladework, bouting and refereeing. It will allow students to develop the ability to analyze a fencing bout, and promotes creativity in applying acquired skills in a fencing bout.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Fencing",
+    "image_src": "/courses/pe-740-fencing-spring-2007/def042500e576559b4d6b2a05e74bde5_pe-740s07.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14123,
+        "run_id": "d27af858aa231ab34d33d2fd7a8d157e",
+        "short_description": "This course is intended to provide students with the fundamentals of fencing, including footwork, bladework, bouting and refereeing. It will allow students to develop the ability to analyze a fencing bout, and promotes creativity in applying acquired skills in a fencing bout.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Fencing",
+        "image_src": "/courses/pe-740-fencing-spring-2007/def042500e576559b4d6b2a05e74bde5_pe-740s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jaroslav Koniusz"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-740-fencing-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T21:10:56.296937Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.740",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.740"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9514,
+    "course_id": "311a1ff5e1341dca6071960185b3530e+PE.710",
+    "coursenum": "PE.710",
+    "short_description": "The goals of this instructional course are to get you started in this wonderful sport and to give you a working knowledge of tennis. It should help you to understand the basics of a sport and how to perform these basics. Most of the course will focus on the basic stroke techniques. Variation to those techniques will be presented, as well as drills and games, so that you can take it to the court. Singles and doubles tactics will be covered as well.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Tennis",
+    "image_src": "/courses/pe-710-tennis-spring-2007/8a7a5270a2665efef6c461b6df94c0e1_pe-710s07.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15972,
+        "run_id": "311a1ff5e1341dca6071960185b3530e",
+        "short_description": "The goals of this instructional course are to get you started in this wonderful sport and to give you a working knowledge of tennis. It should help you to understand the basics of a sport and how to perform these basics. Most of the course will focus on the basic stroke techniques. Variation to those techniques will be presented, as well as drills and games, so that you can take it to the court. Singles and doubles tactics will be covered as well.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Tennis",
+        "image_src": "/courses/pe-710-tennis-spring-2007/8a7a5270a2665efef6c461b6df94c0e1_pe-710s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Carol Matsuzaki"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-710-tennis-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T23:19:16.334624Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Image Gallery"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.710",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.710"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8001,
+    "course_id": "8fff3b4b9dc33a76df2e8e123888d8bc+PE.810",
+    "coursenum": "PE.810",
+    "short_description": "The purpose of this class is to tell you something about our Tech Dinghy and how to sail it. This OCW site is arranged as a series of skills, explained both with lecture notes and videos. Please do not think of these skill checks as tests, but instead, as measures of your understanding of our sport. We don't expect perfection from our beginners, but only that our members be able to safely handle the boats and themselves on the Charles. For those who wish it, there will be much more that can be learned about other boats and other waters, but what can be learned here will provide the basis to build on. For more detail, a text on sailing the Tech Dinghy is provided in the readings section.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Sailing",
+    "image_src": "/courses/pe-810-sailing-spring-2007/1342b186752a55dc2c03f810447aeac1_pe-810s07.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13753,
+        "run_id": "8fff3b4b9dc33a76df2e8e123888d8bc",
+        "short_description": "The purpose of this class is to tell you something about our Tech Dinghy and how to sail it. This OCW site is arranged as a series of skills, explained both with lecture notes and videos. Please do not think of these skill checks as tests, but instead, as measures of your understanding of our sport. We don't expect perfection from our beginners, but only that our members be able to safely handle the boats and themselves on the Charles. For those who wish it, there will be much more that can be learned about other boats and other waters, but what can be learned here will provide the basis to build on. For more detail, a text on sailing the Tech Dinghy is provided in the readings section.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Sailing",
+        "image_src": "/courses/pe-810-sailing-spring-2007/1342b186752a55dc2c03f810447aeac1_pe-810s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Francis Charles"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-810-sailing-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T20:49:20.634321Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.810",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.810"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8148,
+    "course_id": "0efe7b6768d55df7736d0948bf28b0e1+PE.720",
+    "coursenum": "PE.720",
+    "short_description": "This 12 session course is designed for the beginning or novice weight lifter, or for those who have experience lifting but lack proper instruction. We will provide an understanding of the biomechanics involved, muscles used for a given exercise, and program development.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Weight Training",
+    "image_src": "/courses/pe-720-weight-training-spring-2006/c6ca61c4d0217b8291e38502b3c93e72_pe-720s06.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation",
+      "Health and Exercise Science"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13920,
+        "run_id": "0efe7b6768d55df7736d0948bf28b0e1",
+        "short_description": "This 12 session course is designed for the beginning or novice weight lifter, or for those who have experience lifting but lack proper instruction. We will provide an understanding of the biomechanics involved, muscles used for a given exercise, and program development.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Weight Training",
+        "image_src": "/courses/pe-720-weight-training-spring-2006/c6ca61c4d0217b8291e38502b3c93e72_pe-720s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Halston Taylor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-720-weight-training-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T20:57:46.199230Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.720",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.720"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9769,
+    "course_id": "5d053d5a2d5fcc5e357bcbf495902b3d+PE.730",
+    "coursenum": "PE.730",
+    "short_description": "This 12 session course is designed for the beginning or novice archer and uses recurve indoor target bows and equipment. The purpose of the course is to introduce students to the basic techniques of indoor target archery emphasizing the care and use of equipment, range safety, stance and shooting techniques, scoring and competition.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Archery",
+    "image_src": "/courses/pe-730-archery-spring-2006/468d2091d406d924060c6e625898b4bb_pe-730s06.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16512,
+        "run_id": "5d053d5a2d5fcc5e357bcbf495902b3d",
+        "short_description": "This 12 session course is designed for the beginning or novice archer and uses recurve indoor target bows and equipment. The purpose of the course is to introduce students to the basic techniques of indoor target archery emphasizing the care and use of equipment, range safety, stance and shooting techniques, scoring and competition.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Archery",
+        "image_src": "/courses/pe-730-archery-spring-2006/468d2091d406d924060c6e625898b4bb_pe-730s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jaroslav Koniusz",
+          "Prof. Cheryl Silva"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-730-archery-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:48:08.979769Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.730",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.730"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8786,
+    "course_id": "eeffd913b43b154a8a38d23aff17d851+PE.550",
+    "coursenum": "PE.550",
+    "short_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves. They learn how to confront issues in their lives, how to live life, and how to learn from it.\n\nA short version of this course meets during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. Then this semester-long extension of the IAP course is taught to interested members of the MIT community. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program.\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his hopes for its continued expansion, and his commitment to the well-being of MIT students.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Designing Your Life",
+    "image_src": "/courses/pe-550-designing-your-life-spring-2009/16f8552dc3ed252d06dd13a261c06841_pe-550s09.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Mental Health"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves. They learn how to confront issues in their lives, how to live life, and how to learn from it.\n\nA short version of this course meets during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. Then this semester-long extension of the IAP course is taught to interested members of the MIT community. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program.\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his hopes for its continued expansion, and his commitment to the well-being of MIT students.",
+        "run_id": "eeffd913b43b154a8a38d23aff17d851",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Designing Your Life",
+        "image_src": "/courses/pe-550-designing-your-life-spring-2009/16f8552dc3ed252d06dd13a261c06841_pe-550s09.jpg",
+        "instructors": [
+          "Gabriella Jordan",
+          "Lauren Zander"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 17151,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/pe-550-designing-your-life-spring-2009",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T21:53:51.503485Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.550",
+        "sort_coursenum": "PE.550",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11573,
+    "course_id": "0b74e1069176caea1bb5c6e085de13ee+PE.550",
+    "coursenum": "PE.550",
+    "short_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves and others. They learn how to address issues in their lives, how to live life, and how to learn from it.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program. A semester-long extension of the IAP course is also taught to the population at large of MIT (please see PE.550, Spring).\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his intention for its continued expansion, and his commitment to the well-being of MIT students.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Designing Your Life",
+    "image_src": "/courses/pe-550-designing-your-life-january-iap-2007/57642935d9b50d50ed23317d2303214c_pe-550iap07.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Mental Health"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves and others. They learn how to address issues in their lives, how to live life, and how to learn from it.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program. A semester-long extension of the IAP course is also taught to the population at large of MIT (please see PE.550, Spring).\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his intention for its continued expansion, and his commitment to the well-being of MIT students.",
+        "run_id": "0b74e1069176caea1bb5c6e085de13ee",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Designing Your Life",
+        "image_src": "/courses/pe-550-designing-your-life-january-iap-2007/57642935d9b50d50ed23317d2303214c_pe-550iap07.jpg",
+        "instructors": [
+          "Gabriella Jordan",
+          "Lauren Zander"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2007-01-31T00:00:00Z",
+        "semester": "January IAP",
+        "id": 14741,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/pe-550-designing-your-life-january-iap-2007",
+        "start_date": null
+      }
+    ],
+    "created": "2020-12-04T02:44:29.247478Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.550",
+        "sort_coursenum": "PE.550",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7994,
+    "course_id": "ff51301e23d9e2daffeb7ae7b164a1fb+PE.920",
+    "coursenum": "PE.920",
+    "short_description": "The sensing, thinking, moving body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Physical Intelligence, then, is the inherent ability of the human organism to function in extraordinary accord with its physical environment. This class--a joint offering from the Department of Athletics, Physical Education and Recreation (DAPER) and Department of Mechanical Engineering (ME) for both PE and academic credit--uses the MIT gymnastics gym as a laboratory to explore Physical Intelligence as applied to Mechanical Engineering and design. Readings, discussions and experiential learning introduce various dimensions of Physical Intelligence which students then apply to the design of innovative exercise equipment.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "PE for ME",
+    "image_src": "/courses/pe-920-pe-for-me-spring-2005/14ba7a0a27e3cfaad9c2039663d36919_pe-920s05.jpg",
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13743,
+        "run_id": "ff51301e23d9e2daffeb7ae7b164a1fb",
+        "short_description": "The sensing, thinking, moving body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Physical Intelligence, then, is the inherent ability of the human organism to function in extraordinary accord with its physical environment. This class--a joint offering from the Department of Athletics, Physical Education and Recreation (DAPER) and Department of Mechanical Engineering (ME) for both PE and academic credit--uses the MIT gymnastics gym as a laboratory to explore Physical Intelligence as applied to Mechanical Engineering and design. Readings, discussions and experiential learning introduce various dimensions of Physical Intelligence which students then apply to the design of innovative exercise equipment.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "PE for ME",
+        "image_src": "/courses/pe-920-pe-for-me-spring-2005/14ba7a0a27e3cfaad9c2039663d36919_pe-920s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Aline Newton",
+          "Noah Riskin",
+          "Prof. Alex Slocum"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-920-pe-for-me-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:48:45.543049Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.920",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.920"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9695,
+    "course_id": "0a687f02a91c95f7158c4ad4ab4c6bcf+PE.910",
+    "coursenum": "PE.910",
+    "short_description": "For all of the bodies attached to the many great minds that walk the Institute's halls, in the work that goes on at MIT the body is present as an object of study, but is all but unrecognized as an important dimension of our intelligence and experience. Yet the body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Using the MIT gymnastics gym as our laboratory, the Physical Intelligence activity will take an innovative, hands-on approach to explore the kinesthetic intelligence of the body as applicable to a wide range of disciplines. Via exercises, activities, readings and discussions designed to excavate our physical experience, we will not only develop balance, agility, flexibility and strength, but a deep appreciation for the inherent unity of mind and body that suggests physical intelligence as a powerful complement to cognitive intelligence.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physical Intelligence",
+    "image_src": "/courses/pe-910-physical-intelligence-january-iap-2002/a3ed64e97dc56779ad8357d98706a50f_pe-910iap02.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Physical Education and Recreation",
+      "Cognitive Science"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16343,
+        "run_id": "0a687f02a91c95f7158c4ad4ab4c6bcf",
+        "short_description": "For all of the bodies attached to the many great minds that walk the Institute's halls, in the work that goes on at MIT the body is present as an object of study, but is all but unrecognized as an important dimension of our intelligence and experience. Yet the body is the basis of our experience in the world; it is the very foundation on which cognitive intelligence is built. Using the MIT gymnastics gym as our laboratory, the Physical Intelligence activity will take an innovative, hands-on approach to explore the kinesthetic intelligence of the body as applicable to a wide range of disciplines. Via exercises, activities, readings and discussions designed to excavate our physical experience, we will not only develop balance, agility, flexibility and strength, but a deep appreciation for the inherent unity of mind and body that suggests physical intelligence as a powerful complement to cognitive intelligence.",
+        "full_description": null,
+        "language": null,
+        "semester": "January IAP",
+        "year": 2002,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-01-01T00:00:00Z",
+        "best_end_date": "2002-01-31T00:00:00Z",
+        "title": "Physical Intelligence",
+        "image_src": "/courses/pe-910-physical-intelligence-january-iap-2002/a3ed64e97dc56779ad8357d98706a50f_pe-910iap02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Noah Riskin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/pe-910-physical-intelligence-january-iap-2002"
+      }
+    ],
+    "created": "2020-03-03T23:39:12.446668Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "department_slug": "athletics-physical-education-and-recreation",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "PE.910",
+        "department": "Athletics, Physical Education and Recreation",
+        "primary": true,
+        "sort_coursenum": "PE.910"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

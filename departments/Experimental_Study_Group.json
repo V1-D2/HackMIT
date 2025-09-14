@@ -1,0 +1,2578 @@
+[
+  {
+    "id": 8027,
+    "course_id": "af017dc46058d957ad761d53e1764226+ES.253",
+    "coursenum": "ES.253",
+    "short_description": "This is a discussion-based interactive seminar on the two major issues that affect Sub-Saharan Africa: HIV/AIDS and Poverty. AIDS and Poverty, seemingly different concepts, are more inter-related to each other in Africa than in any other continent. As MIT students, we feel it is important to engage ourselves in a dynamic discussion on the relation between the two - how to fight one and how to solve the other.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "AIDS and Poverty in Africa",
+    "image_src": "/courses/es-253-aids-and-poverty-in-africa-spring-2005/dd50a4010a2a4b6272453828afed1e74_es-253s05.jpg",
+    "topics": [
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Global Poverty"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13780,
+        "run_id": "af017dc46058d957ad761d53e1764226",
+        "short_description": "This is a discussion-based interactive seminar on the two major issues that affect Sub-Saharan Africa: HIV/AIDS and Poverty. AIDS and Poverty, seemingly different concepts, are more inter-related to each other in Africa than in any other continent. As MIT students, we feel it is important to engage ourselves in a dynamic discussion on the relation between the two - how to fight one and how to solve the other.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "AIDS and Poverty in Africa",
+        "image_src": "/courses/es-253-aids-and-poverty-in-africa-spring-2005/dd50a4010a2a4b6272453828afed1e74_es-253s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Raja Bobbili",
+          "Dr. Lee Perlman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-253-aids-and-poverty-in-africa-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:51:24.763001Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.253",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.253"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8454,
+    "course_id": "359ee1fbbc2addadc24ad591d83afe0d+ES.240",
+    "coursenum": "ES.240",
+    "short_description": "In this interdisciplinary seminar, we explore a variety of visual and written tools for self exploration and self expression. Through discussion, written assignments, and directed exercises, students practice utilizing a variety of media to explore and express who they are.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Composing Your Life: Exploration of Self through Visual Arts and Writing",
+    "image_src": "/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/6160cfbde9814b8fb9d916003da106f2_es-240s06.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Visual Arts",
+      "Fine Arts",
+      "Creative Writing"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14299,
+        "run_id": "359ee1fbbc2addadc24ad591d83afe0d",
+        "short_description": "In this interdisciplinary seminar, we explore a variety of visual and written tools for self exploration and self expression. Through discussion, written assignments, and directed exercises, students practice utilizing a variety of media to explore and express who they are.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Composing Your Life: Exploration of Self through Visual Arts and Writing",
+        "image_src": "/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/6160cfbde9814b8fb9d916003da106f2_es-240s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Graham Gordon Ramsay",
+          "Dr. Holly Sweet"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:23:48.049729Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Activity Assignments with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.240",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.240"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8683,
+    "course_id": "d40d5ece1d54d6bee67fea0544325c47+ES.255",
+    "coursenum": "ES.255",
+    "short_description": "SP.255 is a lecture, discussion, and project based seminar about the physics of rock climbing. Participants are first exposed to the unsolved problems in the climbing community that could be answered by research and then asked to solve a small part of one of these problems. The seminar provides an introduction to engineering problems, an opportunity to practice communication skills, and a brief stab at doing some research. This seminar explicitly does not include climbing instruction nor is climbing/mountaineering experience a prerequisite.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physics of Rock Climbing",
+    "image_src": "/courses/es-255-physics-of-rock-climbing-spring-2006/f3a14e8e66093ae412a36490fef12387_es-255s06.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14590,
+        "run_id": "d40d5ece1d54d6bee67fea0544325c47",
+        "short_description": "SP.255 is a lecture, discussion, and project based seminar about the physics of rock climbing. Participants are first exposed to the unsolved problems in the climbing community that could be answered by research and then asked to solve a small part of one of these problems. The seminar provides an introduction to engineering problems, an opportunity to practice communication skills, and a brief stab at doing some research. This seminar explicitly does not include climbing instruction nor is climbing/mountaineering experience a prerequisite.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Physics of Rock Climbing",
+        "image_src": "/courses/es-255-physics-of-rock-climbing-spring-2006/f3a14e8e66093ae412a36490fef12387_es-255s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "David Custer"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-255-physics-of-rock-climbing-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:40:49.440098Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.255",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.255"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9250,
+    "course_id": "f4c6e7c15385e0178ff54da7f55d0d2b+ES.S41",
+    "coursenum": "ES.S41",
+    "short_description": "The participants in this seminar will dive into learning basic conversational Italian, Italian culture, and the Mediterranean diet. Each class is based on the preparation of a delicious dish and on the bite-sized acquisition of parts of the Italian language and culture.  A good diet is not based on recipes only, it is also rooted in healthy habits and in culture. At the end of the seminar the participants will be able to cook some healthy and tasty recipes  and to understand and speak basic Italian.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Speak Italian With Your Mouth Full",
+    "image_src": "/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d0dde8482e079ce6210132b295d34fa3_es-s41s12.jpg",
+    "topics": [
+      "Humanities",
+      "Language",
+      "Society",
+      "European and Russian Studies",
+      "Italian"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15460,
+        "run_id": "f4c6e7c15385e0178ff54da7f55d0d2b",
+        "short_description": "The participants in this seminar will dive into learning basic conversational Italian, Italian culture, and the Mediterranean diet. Each class is based on the preparation of a delicious dish and on the bite-sized acquisition of parts of the Italian language and culture.  A good diet is not based on recipes only, it is also rooted in healthy habits and in culture. At the end of the seminar the participants will be able to cook some healthy and tasty recipes  and to understand and speak basic Italian.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-01-01T00:00:00Z",
+        "best_end_date": "2012-05-31T00:00:00Z",
+        "title": "Speak Italian With Your Mouth Full",
+        "image_src": "/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/d0dde8482e079ce6210132b295d34fa3_es-s41s12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Graham Gordon Ramsay",
+          "Dr. Paola Rebusco"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-s41-speak-italian-with-your-mouth-full-spring-2012"
+      }
+    ],
+    "created": "2020-03-03T22:46:18.469204Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.S41",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.S41"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9301,
+    "course_id": "9811aaa07bd17cbd449f7d6a20670916+ES.268",
+    "coursenum": "ES.268",
+    "short_description": "We will explore the mathematical strategies behind popular games, toys, and puzzles. Topics covered will combine basic fundamentals of game theory, probability, group theory, and elementary programming concepts. Each week will consist of a lecture and discussion followed by game play to implement the concepts learned in class.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "The Mathematics in Toys and Games",
+    "image_src": "/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/2d94c2b65d26bea7d2206e6736a3fc33_es-268s10.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Social Science",
+      "Fine Arts",
+      "Game Theory",
+      "Game Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15536,
+        "run_id": "9811aaa07bd17cbd449f7d6a20670916",
+        "short_description": "We will explore the mathematical strategies behind popular games, toys, and puzzles. Topics covered will combine basic fundamentals of game theory, probability, group theory, and elementary programming concepts. Each week will consist of a lecture and discussion followed by game play to implement the concepts learned in class.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "The Mathematics in Toys and Games",
+        "image_src": "/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/2d94c2b65d26bea7d2206e6736a3fc33_es-268s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Erik Demaine",
+          "Melissa Gymrek",
+          "Jing Li"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-268-the-mathematics-in-toys-and-games-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T22:52:28.515312Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments",
+      "Design Assignments",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.268",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.268"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9843,
+    "course_id": "56f0af895fdca981a6fd6648e80e899f+ES.010",
+    "coursenum": "ES.010",
+    "short_description": "The seminar is designed to look at the science of triathlons and sports from a molecular/chemical biological point of view. We will be able to use our own bodies to see how exercise affects the system, through observations written in a training journal. We will also improve the overall fitness of the class through maintaining a physical fitness program over the course of the term. The end of the term will have us all participate in a mini-triathlon.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemistry of Sports",
+    "image_src": "/courses/es-010-chemistry-of-sports-spring-2013/330d55d55168b0cb15fd57c895857d7b_ES-010S13.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Physical Education and Recreation",
+      "Health and Exercise Science"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16681,
+        "run_id": "56f0af895fdca981a6fd6648e80e899f",
+        "short_description": "The seminar is designed to look at the science of triathlons and sports from a molecular/chemical biological point of view. We will be able to use our own bodies to see how exercise affects the system, through observations written in a training journal. We will also improve the overall fitness of the class through maintaining a physical fitness program over the course of the term. The end of the term will have us all participate in a mini-triathlon.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "title": "Chemistry of Sports",
+        "image_src": "/courses/es-010-chemistry-of-sports-spring-2013/330d55d55168b0cb15fd57c895857d7b_ES-010S13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Patricia Christie",
+          "Mr. Steve Lyons"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-010-chemistry-of-sports-spring-2013"
+      }
+    ],
+    "created": "2020-03-03T23:59:02.968414Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.010",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.010"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9929,
+    "course_id": "f8884fc65c5404f2516c1224f4c647cd+ES.258",
+    "coursenum": "ES.258",
+    "short_description": "How are math, art, music, and language intertwined? How does intelligent behavior arise from its component parts? Can computers think? Can brains compute? Douglas Hofstadter probes very cleverly at these questions and more in his Pulitzer Prize winning book, \"Gödel, Escher, Bach\". In this seminar, we will read and discuss the book in depth, taking the time to solve its puzzles, appreciate the Bach pieces that inspired its dialogues, and discover its hidden tricks along the way.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Gödel, Escher, Bach",
+    "image_src": "/courses/es-258-goedel-escher-bach-spring-2007/dd2408e1e30d2fb70d485d6c35b79eb6_es-258s07.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Humanities",
+      "Literature",
+      "Philosophy",
+      "Cognitive Science",
+      "Cryptography",
+      "Creative Writing"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16898,
+        "run_id": "f8884fc65c5404f2516c1224f4c647cd",
+        "short_description": "How are math, art, music, and language intertwined? How does intelligent behavior arise from its component parts? Can computers think? Can brains compute? Douglas Hofstadter probes very cleverly at these questions and more in his Pulitzer Prize winning book, \"Gödel, Escher, Bach\". In this seminar, we will read and discuss the book in depth, taking the time to solve its puzzles, appreciate the Bach pieces that inspired its dialogues, and discover its hidden tricks along the way.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Gödel, Escher, Bach",
+        "image_src": "/courses/es-258-goedel-escher-bach-spring-2007/dd2408e1e30d2fb70d485d6c35b79eb6_es-258s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Robert Speer"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-258-goedel-escher-bach-spring-2007"
+      }
+    ],
+    "created": "2020-03-04T00:13:24.133907Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.258",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.258"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9915,
+    "course_id": "2eb2f93a43a0c41d2e119d2366c273eb+ES.256",
+    "coursenum": "ES.256",
+    "short_description": "Explore the future through modeling, reading, and discussion in an open-ended seminar! Our fields of interest will include changes in science and technology, culture and lifestyles, and dominant paradigms and societies.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "The Coming Years",
+    "image_src": "/courses/es-256-the-coming-years-spring-2008/1533156d4651e4302e3a35d27d233edc_es-256s08.jpg",
+    "topics": [
+      "Humanities",
+      "History",
+      "Modern History",
+      "Historiography"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16866,
+        "run_id": "2eb2f93a43a0c41d2e119d2366c273eb",
+        "short_description": "Explore the future through modeling, reading, and discussion in an open-ended seminar! Our fields of interest will include changes in science and technology, culture and lifestyles, and dominant paradigms and societies.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-01-01T00:00:00Z",
+        "best_end_date": "2008-05-31T00:00:00Z",
+        "title": "The Coming Years",
+        "image_src": "/courses/es-256-the-coming-years-spring-2008/1533156d4651e4302e3a35d27d233edc_es-256s08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "James Rising"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-256-the-coming-years-spring-2008"
+      }
+    ],
+    "created": "2020-03-04T00:10:08.754985Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.256",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.256"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9918,
+    "course_id": "fc2490d65841d2c4ac19f1ac0686210f+ES.242",
+    "coursenum": "ES.242",
+    "short_description": "Does it matter in education whether or not you've got a Y chromosome? You bet it does. In this discussion-based seminar, we will explore why males vastly outrank females in math and science and career advancements (particularly in academia), and why girls get better grades and go to college more often than boys. Do the sexes have different learning styles? Are women denied advanced opportunities in academia and the workforce? How do family life and family decisions affect careers for both men and women?",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Gender Issues in Academics and Academia",
+    "image_src": "/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/40752a1e3e6145e185d7bd7a7ea1ff22_es-242s04.jpg",
+    "topics": [
+      "Society",
+      "Gender Studies",
+      "Women's Studies"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16871,
+        "run_id": "fc2490d65841d2c4ac19f1ac0686210f",
+        "short_description": "Does it matter in education whether or not you've got a Y chromosome? You bet it does. In this discussion-based seminar, we will explore why males vastly outrank females in math and science and career advancements (particularly in academia), and why girls get better grades and go to college more often than boys. Do the sexes have different learning styles? Are women denied advanced opportunities in academia and the workforce? How do family life and family decisions affect careers for both men and women?",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Gender Issues in Academics and Academia",
+        "image_src": "/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/40752a1e3e6145e185d7bd7a7ea1ff22_es-242s04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Kayla Jacobs",
+          "Laurel Ruhlen",
+          "Dr. Holly Sweet"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-242-gender-issues-in-academics-and-academia-spring-2004"
+      }
+    ],
+    "created": "2020-03-04T00:10:31.579237Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.242",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.242"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10022,
+    "course_id": "e2c7b731d0b7c02446b01ddafd4c0187+ES.298",
+    "coursenum": "ES.298",
+    "short_description": "This seminar introduces, through studio projects, the basic principles regarding the use of color in the visual arts. Students explore a range of topics, including the historical uses of color in the arts, the interactions between colors, and the psychology of color.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Art of Color",
+    "image_src": "/courses/es-298-art-of-color-spring-2005/5ebe2f8609b1a59e55f6afc5519c609a_es-298s05.jpg",
+    "topics": [
+      "Visual Arts",
+      "Fine Arts"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17147,
+        "run_id": "e2c7b731d0b7c02446b01ddafd4c0187",
+        "short_description": "This seminar introduces, through studio projects, the basic principles regarding the use of color in the visual arts. Students explore a range of topics, including the historical uses of color in the arts, the interactions between colors, and the psychology of color.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Art of Color",
+        "image_src": "/courses/es-298-art-of-color-spring-2005/5ebe2f8609b1a59e55f6afc5519c609a_es-298s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Peter Dourmashkin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-298-art-of-color-spring-2005"
+      }
+    ],
+    "created": "2020-03-04T00:35:33.647748Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.298",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.298"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8795,
+    "course_id": "4d4a4f93096724e35add359656c59816+ES.260",
+    "coursenum": "ES.260",
+    "short_description": "This pass/fail seminar should be a fun setting where we can all enjoy a love of good books together. Students will read approximately one novel every two weeks, and the class will discuss each novel in a relaxed and interactive setting, with attention to whatever themes and issues interest them most about each book. We will read a wide mixture of classic and contemporary novels written by women, including: Edith Wharton, _The House of Mirth_; Toni Morrison, _Jazz_; Virginia Woolf, _Mrs. Dalloway_; Alice Walker, _The Color Purple_; Charlotte Brontë, _Jane Eyre_; Sheri Reynolds, _The Rapture of Canaan_; Jane Austen, _Pride and Prejudice_; and Sylvia Plath, _The Bell Jar_. Recurrent issues likely to be discussed include: gender, race, and class; romance, love, and marriage; depression and suicide; and conception, childbirth, and parenthood.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Women's Novels: A Weekly Book Club",
+    "image_src": "/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/b2c39977d1c1fb608ae3cdfda6109273_es-260s06.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Society",
+      "Gender Studies",
+      "Women's Studies",
+      "Fiction"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14753,
+        "run_id": "4d4a4f93096724e35add359656c59816",
+        "short_description": "This pass/fail seminar should be a fun setting where we can all enjoy a love of good books together. Students will read approximately one novel every two weeks, and the class will discuss each novel in a relaxed and interactive setting, with attention to whatever themes and issues interest them most about each book. We will read a wide mixture of classic and contemporary novels written by women, including: Edith Wharton, _The House of Mirth_; Toni Morrison, _Jazz_; Virginia Woolf, _Mrs. Dalloway_; Alice Walker, _The Color Purple_; Charlotte Brontë, _Jane Eyre_; Sheri Reynolds, _The Rapture of Canaan_; Jane Austen, _Pride and Prejudice_; and Sylvia Plath, _The Bell Jar_. Recurrent issues likely to be discussed include: gender, race, and class; romance, love, and marriage; depression and suicide; and conception, childbirth, and parenthood.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Women's Novels: A Weekly Book Club",
+        "image_src": "/courses/es-260-womens-novels-a-weekly-book-club-spring-2006/b2c39977d1c1fb608ae3cdfda6109273_es-260s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Faye Kasemset",
+          "Jocelyn Rodal",
+          "Dr. Holly Sweet"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-260-womens-novels-a-weekly-book-club-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:54:10.435705Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.260",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.260"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9759,
+    "course_id": "0815fd5d5cb11bf566f8d6836013a6f2+ES.287",
+    "coursenum": "ES.287",
+    "short_description": "This seminar is designed to be an experimental and hands-on approach to applied chemistry (as seen in cooking). Cooking may be the oldest and most widespread application of chemistry and recipes may be the oldest practical result of chemical research. We shall do some cooking experiments to illustrate some chemical principles, including extraction, denaturation, and phase changes.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Kitchen Chemistry",
+    "image_src": "/courses/es-287-kitchen-chemistry-spring-2009/2e724c085079389a3db4b3ba02ef648e_es-287s09.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This seminar is designed to be an experimental and hands-on approach to applied chemistry (as seen in cooking). Cooking may be the oldest and most widespread application of chemistry and recipes may be the oldest practical result of chemical research. We shall do some cooking experiments to illustrate some chemical principles, including extraction, denaturation, and phase changes.",
+        "run_id": "0815fd5d5cb11bf566f8d6836013a6f2",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Kitchen Chemistry",
+        "image_src": "/courses/es-287-kitchen-chemistry-spring-2009/2e724c085079389a3db4b3ba02ef648e_es-287s09.jpg",
+        "instructors": [
+          "Dr. Patricia Christie"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 16477,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/es-287-kitchen-chemistry-spring-2009",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:46:36.310295Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group",
+      "Chemistry"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.287",
+        "sort_coursenum": "ES.287",
+        "department": "Experimental Study Group",
+        "primary": true
+      },
+      {
+        "coursenum": "5.S15",
+        "sort_coursenum": "05.S15",
+        "department": "Chemistry",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11907,
+    "course_id": "b02e206bc37060abe20ac39c97d076e1+RES.ES-001",
+    "coursenum": "RES.ES-001",
+    "short_description": "The [MIT Prison Education Initiative (PEI)](http://pei.mit.edu/) hosted this non-credit January IAP course to give the MIT community an opportunity to engage in discussions about mass incarceration and criminal justice reform. The Independent Activities Period (IAP) is a special four week term at MIT that runs from the first week of January until the end of the month.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "MIT Prison Education Initiative Discussion About Incarceration",
+    "image_src": "/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg",
+    "topics": [
+      "Social Science",
+      "Society"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "The [MIT Prison Education Initiative (PEI)](http://pei.mit.edu/) hosted this non-credit January IAP course to give the MIT community an opportunity to engage in discussions about mass incarceration and criminal justice reform. The Independent Activities Period (IAP) is a special four week term at MIT that runs from the first week of January until the end of the month.",
+        "run_id": "b02e206bc37060abe20ac39c97d076e1",
+        "year": 2021,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2021-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "MIT Prison Education Initiative Discussion About Incarceration",
+        "image_src": "/courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021/5f65b9d2f13ca1b0ff15d56b535bee6f_res-es-001.jpg",
+        "instructors": [
+          "MIT Prison Education Initiative "
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2021-01-31T00:00:00Z",
+        "semester": "January IAP",
+        "id": 19776,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021",
+        "start_date": null
+      }
+    ],
+    "created": "2021-05-26T09:03:26.038718Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.ES-001",
+        "sort_coursenum": "RES.ES-001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7833,
+    "course_id": "6bcffd17860ac9947413d2d1cd8c379d+ES.S60",
+    "coursenum": "ES.S60",
+    "short_description": "This seminar looks at current theories on happiness and positive psychology as well as practical implications of those theories for our own lives. It explores the concept of happiness, different cultural definitions of happiness, and the connection between happiness, optimism, and meaning. Also explored are practical strategies for creating more opportunities for happiness in our lives and for learning how to deal more effectively with sources of unhappiness.\n\nThis seminar is part of the [Experimental Study Group](http://esg.mit.edu/) at MIT.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "The Art and Science of Happiness",
+    "image_src": "/courses/es-s60-the-art-and-science-of-happiness-spring-2013/b87da46586472a5d75f47e832c2e00e9_ES-S60s13.png",
+    "topics": [
+      "Social Science",
+      "Psychology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13571,
+        "run_id": "6bcffd17860ac9947413d2d1cd8c379d",
+        "short_description": "This seminar looks at current theories on happiness and positive psychology as well as practical implications of those theories for our own lives. It explores the concept of happiness, different cultural definitions of happiness, and the connection between happiness, optimism, and meaning. Also explored are practical strategies for creating more opportunities for happiness in our lives and for learning how to deal more effectively with sources of unhappiness.\n\nThis seminar is part of the [Experimental Study Group](http://esg.mit.edu/) at MIT.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "title": "The Art and Science of Happiness",
+        "image_src": "/courses/es-s60-the-art-and-science-of-happiness-spring-2013/b87da46586472a5d75f47e832c2e00e9_ES-S60s13.png",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Holly Sweet"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-s60-the-art-and-science-of-happiness-spring-2013"
+      }
+    ],
+    "created": "2020-03-03T20:38:14.514746Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.S60",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.S60"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8983,
+    "course_id": "e79421193d7d315696a1123da09b72b6+ES.246",
+    "coursenum": "ES.246",
+    "short_description": "The goal of this seminar is to have open discussions of controversial political and social issues and raise awareness of current world events in an informal setting. Discussions for the first part of each class will focus on current events from that week, while in the second part of class students will discuss a scheduled issue in greater detail. Scheduled issues include the wars in Iraq and Afghanistan, the regulation of marijuana, how our society should punish criminals, genocide in Rwanda and Sudan, discrimination in our society today, the future of social security, whether pornography is sexist, and where we can go from here in the Arab/Israeli Conflict. Discussions will be supplemented by readings, films, and public speakers. Students will also be encouraged to read news media from around the world.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Current Events and Social Issues",
+    "image_src": "/courses/es-246-current-events-and-social-issues-fall-2004/8267173e0362cab667997998118ed6cb_es-246f04.jpg",
+    "topics": [
+      "Social Science",
+      "Public Administration",
+      "Political Science",
+      "Sociology",
+      "Public Policy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15013,
+        "run_id": "e79421193d7d315696a1123da09b72b6",
+        "short_description": "The goal of this seminar is to have open discussions of controversial political and social issues and raise awareness of current world events in an informal setting. Discussions for the first part of each class will focus on current events from that week, while in the second part of class students will discuss a scheduled issue in greater detail. Scheduled issues include the wars in Iraq and Afghanistan, the regulation of marijuana, how our society should punish criminals, genocide in Rwanda and Sudan, discrimination in our society today, the future of social security, whether pornography is sexist, and where we can go from here in the Arab/Israeli Conflict. Discussions will be supplemented by readings, films, and public speakers. Students will also be encouraged to read news media from around the world.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Current Events and Social Issues",
+        "image_src": "/courses/es-246-current-events-and-social-issues-fall-2004/8267173e0362cab667997998118ed6cb_es-246f04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Claudia Gold",
+          "Dr. Lee Perlman",
+          "Jocelyn Rodal"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-246-current-events-and-social-issues-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T22:10:35.966582Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.246",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.246"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9102,
+    "course_id": "683f1e66af911af3add70d3cb09813c4+ES.113",
+    "coursenum": "ES.113",
+    "short_description": "This course explores the relationship between ancient Greek philosophy and mathematics. We investigate how ideas of definition, reason, argument and proof, rationality / irrationality, number, quality and quantity, truth, and even the idea of an idea were shaped by the interplay of philosophic and mathematical inquiry. The course examines how discovery of the incommensurability of magnitudes challenged the Greek presumption that the cosmos is fully understandable. Students explore the influence of mathematics on ancient Greek ethical theories. We read such authors as: Euclid, Plato, Aristotle, Nicomachus, Theon of Smyrna, Bacon, Descartes, Dedekind, and Newton.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Ancient Greek Philosophy and Mathematics",
+    "image_src": "/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/7b7baef25cd4cc0cb0d17c89b72b6e3b_es-113s16.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "History",
+      "Mathematics",
+      "Philosophy",
+      "Classics",
+      "History of Science and Technology",
+      "Mathematical Logic",
+      "Ancient History"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15198,
+        "run_id": "683f1e66af911af3add70d3cb09813c4",
+        "short_description": "This course explores the relationship between ancient Greek philosophy and mathematics. We investigate how ideas of definition, reason, argument and proof, rationality / irrationality, number, quality and quantity, truth, and even the idea of an idea were shaped by the interplay of philosophic and mathematical inquiry. The course examines how discovery of the incommensurability of magnitudes challenged the Greek presumption that the cosmos is fully understandable. Students explore the influence of mathematics on ancient Greek ethical theories. We read such authors as: Euclid, Plato, Aristotle, Nicomachus, Theon of Smyrna, Bacon, Descartes, Dedekind, and Newton.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "title": "Ancient Greek Philosophy and Mathematics",
+        "image_src": "/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/7b7baef25cd4cc0cb0d17c89b72b6e3b_es-113s16.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Lee Perlman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016"
+      }
+    ],
+    "created": "2020-03-03T22:24:44.705460Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.113",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.113"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9369,
+    "course_id": "0fae0f29d97babb408df164c0e853170+8.02X",
+    "coursenum": "8.02X",
+    "short_description": "This course is an introduction to electromagnetism and electrostatics. Topics include: electric charge, Coulomb's law, electric structure of matter, conductors and dielectrics, concepts of electrostatic field and potential, electrostatic energy, electric currents, magnetic fields, Ampere's law, magnetic materials, time-varying fields, Faraday's law of induction, basic electric circuits, electromagnetic waves, and Maxwell's equations. The course has an experimental focus, and includes several experiments that are intended to illustrate the concepts being studied.\n\nAcknowledgements\n----------------\n\nProf. Roland wishes to acknowledge that the structure and content of this course owe much to the contributions of Prof. Ambrogio Fasoli.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physics II: Electricity & Magnetism with an Experimental Focus",
+    "image_src": "/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/3a69054b74979fcaaad791260394da2c_8-02xs05.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15675,
+        "run_id": "0fae0f29d97babb408df164c0e853170",
+        "short_description": "This course is an introduction to electromagnetism and electrostatics. Topics include: electric charge, Coulomb's law, electric structure of matter, conductors and dielectrics, concepts of electrostatic field and potential, electrostatic energy, electric currents, magnetic fields, Ampere's law, magnetic materials, time-varying fields, Faraday's law of induction, basic electric circuits, electromagnetic waves, and Maxwell's equations. The course has an experimental focus, and includes several experiments that are intended to illustrate the concepts being studied.\n\nAcknowledgements\n----------------\n\nProf. Roland wishes to acknowledge that the structure and content of this course owe much to the contributions of Prof. Ambrogio Fasoli.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Physics II: Electricity & Magnetism with an Experimental Focus",
+        "image_src": "/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/3a69054b74979fcaaad791260394da2c_8-02xs05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Peter Dourmashkin",
+          "Prof. Gunther M. Roland"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T23:02:58.020225Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Physics",
+      "Experimental Study Group"
+    ],
+    "department_slug": "physics",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "8.02X",
+        "department": "Physics",
+        "primary": true,
+        "sort_coursenum": "08.02X"
+      },
+      {
+        "coursenum": "ES.802X",
+        "department": "Experimental Study Group",
+        "primary": false,
+        "sort_coursenum": "ES.802X"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9449,
+    "course_id": "c6262f26ad0cdad5daa8ca9b94ccdc0c+ES.S71",
+    "coursenum": "ES.S71",
+    "short_description": "The purpose of this class is to offer students a new perspective on the importance of our bodily experience to our cognitive and social lives. The curriculum is designed to foster a working appreciation for how better bodily awareness can positively affect how we feel in our bodies, carry and present ourselves for improved social sensitivity and more successful social interactions.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Increasing Your Physical Intelligence, Enhancing Your Social Smarts",
+    "image_src": "/courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/e283ee89f16bff616039d4558b7431ae_es-s71s14.jpg",
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation",
+      "Health and Exercise Science",
+      "Mental Health"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15819,
+        "run_id": "c6262f26ad0cdad5daa8ca9b94ccdc0c",
+        "short_description": "The purpose of this class is to offer students a new perspective on the importance of our bodily experience to our cognitive and social lives. The curriculum is designed to foster a working appreciation for how better bodily awareness can positively affect how we feel in our bodies, carry and present ourselves for improved social sensitivity and more successful social interactions.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2014,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-01-01T00:00:00Z",
+        "best_end_date": "2014-05-31T00:00:00Z",
+        "title": "Increasing Your Physical Intelligence, Enhancing Your Social Smarts",
+        "image_src": "/courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/e283ee89f16bff616039d4558b7431ae_es-s71s14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Noah Riskin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014"
+      }
+    ],
+    "created": "2020-03-03T23:11:51.367346Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Media Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.S71",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.S71"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9610,
+    "course_id": "c563bb67734c9895e03fcaee5d69e6d4+ES.259",
+    "coursenum": "ES.259",
+    "short_description": "This is a discussion-based, interactive seminar on the development of information and communication technology in Sub-Saharan Africa. The students will seek to understand the issues surrounding designing and instituting policy, and explore the possible ways in which they can make an impact on information and communication technology in Africa.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Information and Communication Technology in Africa",
+    "image_src": "/courses/es-259-information-and-communication-technology-in-africa-spring-2006/5926b261b341f711f04d77d63c588d17_es-259s06.jpg",
+    "topics": [
+      "Engineering",
+      "Electrical Engineering",
+      "The Developing World",
+      "Society",
+      "Business",
+      "Information Technology",
+      "Telecommunications"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16158,
+        "run_id": "c563bb67734c9895e03fcaee5d69e6d4",
+        "short_description": "This is a discussion-based, interactive seminar on the development of information and communication technology in Sub-Saharan Africa. The students will seek to understand the issues surrounding designing and instituting policy, and explore the possible ways in which they can make an impact on information and communication technology in Africa.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Information and Communication Technology in Africa",
+        "image_src": "/courses/es-259-information-and-communication-technology-in-africa-spring-2006/5926b261b341f711f04d77d63c588d17_es-259s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Raja Bobbili",
+          "Prof. Shigeru Miyagawa"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-259-information-and-communication-technology-in-africa-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T23:30:01.490229Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.259",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.259"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9657,
+    "course_id": "de8a7202edf1a5394d225ea5648651f9+ES.272",
+    "coursenum": "ES.272",
+    "short_description": "This class is divided into a series of sections or \"modules\", each of which concentrates on a particular large technology-related topic in a cultural context. The class will start with a four-week module on Samurai Swords and Blacksmithing, followed by smaller units on Chinese Cooking, the Invention of Clocks, and Andean Weaving, and end with a four-week module on Automobiles and Engines. In addition, there will be a series of hands-on projects that tie theory and practice together. The class discussions range across anthropology, history, and individual development, emphasizing recurring themes, such as the interaction between technology and culture and the relation between \"skill\" knowledge and \"craft\" knowledge.[  \n](http://esg.mit.edu/)\n\nCulture Tech evolved from a more extensive, two-semester course which formed the centerpiece of the Integrated Studies Program at MIT.  For 13 years, ISP was an alternative first-year program combining humanities, physics, learning-by-doing, and weekly luncheons.  Culture Tech represents the core principles of ISP distilled into a 6-unit seminar. Although many collections of topics have been used over the years, the modules presented here are a representative sequence.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Culture Tech",
+    "image_src": "/courses/es-272-culture-tech-spring-2003/76c3d3ab7eae0f4fa4c7d7c24e88f158_es-272s03.jpg",
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Digital Media",
+      "History of Science and Technology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16259,
+        "run_id": "de8a7202edf1a5394d225ea5648651f9",
+        "short_description": "This class is divided into a series of sections or \"modules\", each of which concentrates on a particular large technology-related topic in a cultural context. The class will start with a four-week module on Samurai Swords and Blacksmithing, followed by smaller units on Chinese Cooking, the Invention of Clocks, and Andean Weaving, and end with a four-week module on Automobiles and Engines. In addition, there will be a series of hands-on projects that tie theory and practice together. The class discussions range across anthropology, history, and individual development, emphasizing recurring themes, such as the interaction between technology and culture and the relation between \"skill\" knowledge and \"craft\" knowledge.[  \n](http://esg.mit.edu/)\n\nCulture Tech evolved from a more extensive, two-semester course which formed the centerpiece of the Integrated Studies Program at MIT.  For 13 years, ISP was an alternative first-year program combining humanities, physics, learning-by-doing, and weekly luncheons.  Culture Tech represents the core principles of ISP distilled into a 6-unit seminar. Although many collections of topics have been used over the years, the modules presented here are a representative sequence.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Culture Tech",
+        "image_src": "/courses/es-272-culture-tech-spring-2003/76c3d3ab7eae0f4fa4c7d7c24e88f158_es-272s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Amilio Aviles",
+          "James Rising"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-272-culture-tech-spring-2003"
+      }
+    ],
+    "created": "2020-03-03T23:35:27.679297Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.272",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.272"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13153,
+    "course_id": "895503c61aea4579a9b601126f7ebbe2+ES.1803",
+    "coursenum": "ES.1803",
+    "short_description": "This course, taught to students in MIT’s Experimental Study Group, is equivalent to the Mathematics Department's [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). They satisfy the same prerequisites and are geared to preparing students for downstream science and engineering classes.\n\nMIT’s [Experimental Study Group](https://esg.mit.edu/) (ESG) is one of MIT’s first-year learning communities. Small class sizes allow for teaching interactively and staying in close touch with what every student is finding easy or difficult.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Differential Equations",
+    "image_src": "/courses/es-1803-differential-equations-spring-2024/mites_1803_s24.jpg",
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course, taught to students in MIT’s Experimental Study Group, is equivalent to the Mathematics Department's [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). They satisfy the same prerequisites and are geared to preparing students for downstream science and engineering classes.\n\nMIT’s [Experimental Study Group](https://esg.mit.edu/) (ESG) is one of MIT’s first-year learning communities. Small class sizes allow for teaching interactively and staying in close touch with what every student is finding easy or difficult.",
+        "run_id": "895503c61aea4579a9b601126f7ebbe2",
+        "year": 2024,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2024-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Differential Equations",
+        "image_src": "/courses/es-1803-differential-equations-spring-2024/mites_1803_s24.jpg",
+        "instructors": [
+          "Dr. Jeremy Orloff"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2024-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 22955,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/es-1803-differential-equations-spring-2024",
+        "start_date": null
+      }
+    ],
+    "created": "2025-02-26T18:42:54.067490Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Readings",
+      "Problem Sets with Solutions",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.1803",
+        "sort_coursenum": "ES.1803",
+        "department": "Experimental Study Group",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7880,
+    "course_id": "e31c62059ba3d9d34a768c98df853abe+ES.291",
+    "coursenum": "ES.291",
+    "short_description": "This seminar explores experiments in education and discusses how education and learning might be done, through reading and discussion. This seminar is not a survey of experiments in education, but rather, its goal is to determine how learning should happen and what kinds of contexts allow it to happen.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Learning Seminar: Experiments in Education",
+    "image_src": "/courses/es-291-learning-seminar-experiments-in-education-spring-2003/a2a4bf65116767b7fac8096e38de570e_es-291s03.jpg",
+    "topics": [
+      "Teaching and Education"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13620,
+        "run_id": "e31c62059ba3d9d34a768c98df853abe",
+        "short_description": "This seminar explores experiments in education and discusses how education and learning might be done, through reading and discussion. This seminar is not a survey of experiments in education, but rather, its goal is to determine how learning should happen and what kinds of contexts allow it to happen.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Learning Seminar: Experiments in Education",
+        "image_src": "/courses/es-291-learning-seminar-experiments-in-education-spring-2003/a2a4bf65116767b7fac8096e38de570e_es-291s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "James Rising"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-291-learning-seminar-experiments-in-education-spring-2003"
+      }
+    ],
+    "created": "2020-03-03T20:41:41.586378Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.291",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.291"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7887,
+    "course_id": "f24ba3746c54e14a0e055f099107e387+ES.292",
+    "coursenum": "ES.292",
+    "short_description": "MIT students are challenged daily to solve for x, to complete four problem sets, two papers, and prepare for an exam worth 30% of their grade... all in one night. When they do stop to breathe, it's for a shower or a meal. What does this have to do with creative writing? Everything. Creative writing and MIT go together better than you might imagine.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Writing Workshop",
+    "image_src": "/courses/es-292-writing-workshop-spring-2008/79cfc52b8de45ecde96030fe19d142d8_es-292s08.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13628,
+        "run_id": "f24ba3746c54e14a0e055f099107e387",
+        "short_description": "MIT students are challenged daily to solve for x, to complete four problem sets, two papers, and prepare for an exam worth 30% of their grade... all in one night. When they do stop to breathe, it's for a shower or a meal. What does this have to do with creative writing? Everything. Creative writing and MIT go together better than you might imagine.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-01-01T00:00:00Z",
+        "best_end_date": "2008-05-31T00:00:00Z",
+        "title": "Writing Workshop",
+        "image_src": "/courses/es-292-writing-workshop-spring-2008/79cfc52b8de45ecde96030fe19d142d8_es-292s08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Jessica Young"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-292-writing-workshop-spring-2008"
+      }
+    ],
+    "created": "2020-03-03T20:42:29.022040Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.292",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.292"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8568,
+    "course_id": "4c1967d5e58c50705d8eb1734b815eb1+ES.261",
+    "coursenum": "ES.261",
+    "short_description": "This seminar addresses the inherent challenges of translating poetry from different languages, cultures, and eras. Students do some translation of their own, though accommodations are made if a student lacks even a basic knowledge of any foreign language.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Poetry in Translation",
+    "image_src": "/courses/es-261-poetry-in-translation-spring-2006/961c5c244d1306f05188b61f1362f8cb_es-261s06.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "International Literature",
+      "Comparative Literature",
+      "Poetry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14437,
+        "run_id": "4c1967d5e58c50705d8eb1734b815eb1",
+        "short_description": "This seminar addresses the inherent challenges of translating poetry from different languages, cultures, and eras. Students do some translation of their own, though accommodations are made if a student lacks even a basic knowledge of any foreign language.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-01-01T00:00:00Z",
+        "best_end_date": "2006-05-31T00:00:00Z",
+        "title": "Poetry in Translation",
+        "image_src": "/courses/es-261-poetry-in-translation-spring-2006/961c5c244d1306f05188b61f1362f8cb_es-261s06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Alevtina Asarina",
+          "David Custer"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-261-poetry-in-translation-spring-2006"
+      }
+    ],
+    "created": "2020-03-03T21:31:49.662219Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.261",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.261"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8617,
+    "course_id": "9ef255cea3690eb4999aba36f5ef7a34+ES.333",
+    "coursenum": "ES.333",
+    "short_description": "Production of Educational Videos is an introduction to technical communication that is situated in the production of educational videos; the assignments are all focused on the production of videos that teach some aspect of MIT's first-year core curriculum. The objective of these assignments is improvement in both communication ability and communication habits; these improvements are effected by providing participants with instruction, practice, feedback, and the opportunity for reflection. In addition to improvements in communication skills, improvement is expected in students' attitude towards writing, oral presentations, and collaboration; as the semester progresses, students should feel confident of their ability to write, present, and collaborate.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Producing Educational Videos",
+    "image_src": "/courses/es-333-producing-educational-videos-spring-2015/748df246fb9c471f03a675ee8f9bd46a_ES-333s15.jpg",
+    "topics": [
+      "Teaching and Education",
+      "Visual Arts",
+      "Educational Technology",
+      "Fine Arts",
+      "Film and Video"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14498,
+        "run_id": "9ef255cea3690eb4999aba36f5ef7a34",
+        "short_description": "Production of Educational Videos is an introduction to technical communication that is situated in the production of educational videos; the assignments are all focused on the production of videos that teach some aspect of MIT's first-year core curriculum. The objective of these assignments is improvement in both communication ability and communication habits; these improvements are effected by providing participants with instruction, practice, feedback, and the opportunity for reflection. In addition to improvements in communication skills, improvement is expected in students' attitude towards writing, oral presentations, and collaboration; as the semester progresses, students should feel confident of their ability to write, present, and collaborate.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2015,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-05-31T00:00:00Z",
+        "title": "Producing Educational Videos",
+        "image_src": "/courses/es-333-producing-educational-videos-spring-2015/748df246fb9c471f03a675ee8f9bd46a_ES-333s15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "David Custer",
+          "Graham Gordon Ramsay"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-333-producing-educational-videos-spring-2015"
+      }
+    ],
+    "created": "2020-03-03T21:35:04.186899Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments",
+      "Media Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.333",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.333"
+      },
+      {
+        "coursenum": "CMS.333",
+        "department": null,
+        "primary": false,
+        "sort_coursenum": "CMS.333"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9031,
+    "course_id": "d34f3bdcafc2fc164bb14adca877996e+8.01X",
+    "coursenum": "8.01X",
+    "short_description": "Physics I is a first-year physics course which introduces students to classical mechanics. This course has a hands-on focus, and approaches mechanics through take-home experiments. Topics include: kinematics, Newton's laws of motion, universal gravitation, statics, conservation laws, energy, work, momentum, and special relativity.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physics I: Classical Mechanics with an Experimental Focus",
+    "image_src": "/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/83e58eb8ec840620c4ca663b6e02fdef_8-01xf02.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15093,
+        "run_id": "d34f3bdcafc2fc164bb14adca877996e",
+        "short_description": "Physics I is a first-year physics course which introduces students to classical mechanics. This course has a hands-on focus, and approaches mechanics through take-home experiments. Topics include: kinematics, Newton's laws of motion, universal gravitation, statics, conservation laws, energy, work, momentum, and special relativity.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2002,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2002-09-01T00:00:00Z",
+        "best_end_date": "2002-12-31T00:00:00Z",
+        "title": "Physics I: Classical Mechanics with an Experimental Focus",
+        "image_src": "/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/83e58eb8ec840620c4ca663b6e02fdef_8-01xf02.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Peter Dourmashkin",
+          "Prof. Kate Scholberg"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002"
+      }
+    ],
+    "created": "2020-03-03T22:14:09.452440Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Physics",
+      "Experimental Study Group"
+    ],
+    "department_slug": "physics",
+    "course_feature_tags": [
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "8.01X",
+        "department": "Physics",
+        "primary": true,
+        "sort_coursenum": "08.01X"
+      },
+      {
+        "coursenum": "ES.801X",
+        "department": "Experimental Study Group",
+        "primary": false,
+        "sort_coursenum": "ES.801X"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9400,
+    "course_id": "4d186bed73c1aff131fbf72bb42f95c3+ES.269",
+    "coursenum": "ES.269",
+    "short_description": "This course is primarily a literature seminar. We will use American literature as a lens through which to examine different passing tropes. It will provide an introduction to queer, gender, and critical race theories for science and math majors. We will read such works as _Running A Thousand Miles for Freedom_, _Incognegro_, and Focault's _A History of Sexuality_, to name just a few.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Passing: Flexibility in Race and Gender",
+    "image_src": "/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/edf0f029435c7b67da9f5aa3121efcaf_es-269s09.jpg",
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Society",
+      "Gender Studies",
+      "Women's Studies",
+      "American Literature"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15729,
+        "run_id": "4d186bed73c1aff131fbf72bb42f95c3",
+        "short_description": "This course is primarily a literature seminar. We will use American literature as a lens through which to examine different passing tropes. It will provide an introduction to queer, gender, and critical race theories for science and math majors. We will read such works as _Running A Thousand Miles for Freedom_, _Incognegro_, and Focault's _A History of Sexuality_, to name just a few.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Passing: Flexibility in Race and Gender",
+        "image_src": "/courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/edf0f029435c7b67da9f5aa3121efcaf_es-269s09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Rachel Elizabeth Dillon"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-269-passing-flexibility-in-race-and-gender-spring-2009"
+      }
+    ],
+    "created": "2020-03-03T23:05:37.642427Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.269",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.269"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9614,
+    "course_id": "575e9bc89a7518b4c5840cb6d09d8c8d+ES.S10",
+    "coursenum": "ES.S10",
+    "short_description": "This class is a multidisciplinary introduction to pharmacology, neurotransmitters, drug mechanisms, and brain diseases from addiction to schizophrenia.\n\nFrom Abilify® to Zyrtec®, the world is full of fascinating drugs. If you are poisoned by sarin nerve gas, you may be able to save your life by huffing some BZ nerve gas. This class will explain that chemical curiosity, along with a host of other interesting tidbits of pharmacology. The structure of the class interleaves basic concepts with specific examples and entertaining tangents, so it is not loaded with boring abstract theory. In the first class you will learn what a neurotransmitter is, and you will immediately apply that knowledge when we discuss the mechanism of caffeine. The class is highly multidisciplinary, including topics such as patent law, medical ethics, history, and the physics of crack pipes.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Drugs and the Brain",
+    "image_src": "/courses/es-s10-drugs-and-the-brain-spring-2013/49ed4bea11bfab420b4b1c9511f267a9_ES-S10s13.jpg",
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Neurobiology",
+      "Biochemistry",
+      "Pharmacology and Toxicology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16169,
+        "run_id": "575e9bc89a7518b4c5840cb6d09d8c8d",
+        "short_description": "This class is a multidisciplinary introduction to pharmacology, neurotransmitters, drug mechanisms, and brain diseases from addiction to schizophrenia.\n\nFrom Abilify® to Zyrtec®, the world is full of fascinating drugs. If you are poisoned by sarin nerve gas, you may be able to save your life by huffing some BZ nerve gas. This class will explain that chemical curiosity, along with a host of other interesting tidbits of pharmacology. The structure of the class interleaves basic concepts with specific examples and entertaining tangents, so it is not loaded with boring abstract theory. In the first class you will learn what a neurotransmitter is, and you will immediately apply that knowledge when we discuss the mechanism of caffeine. The class is highly multidisciplinary, including topics such as patent law, medical ethics, history, and the physics of crack pipes.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-01-01T00:00:00Z",
+        "best_end_date": "2013-05-31T00:00:00Z",
+        "title": "Drugs and the Brain",
+        "image_src": "/courses/es-s10-drugs-and-the-brain-spring-2013/49ed4bea11bfab420b4b1c9511f267a9_ES-S10s13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Zak Fallows"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-s10-drugs-and-the-brain-spring-2013"
+      }
+    ],
+    "created": "2020-03-03T23:30:34.621743Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.S10",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.S10"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9839,
+    "course_id": "746db5ff73f4162809f8eaad01e97b5f+ES.114",
+    "coursenum": "ES.114",
+    "short_description": "This course addresses the philosophical question of what a non-violent life entails. It investigates its ethical dimensions and challenges, and considers whether we can derive a comprehensive moral theory from the principle of non-violence. In addition, it discusses the issues of lying, the duty to forgive, non-violent communication, the ethics of our relationship to anger, the possibility of loving enemies, and the ethics of punishment and rehabilitation. Readings are included from primary exponents of non-violence, such as Tolstoy, Gandhi, and King.\n\nThis course is part of the [Experimental Study Group](http://esg.mit.edu/) at MIT.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Non-violence as a Way of Life",
+    "image_src": "/courses/es-114-non-violence-as-a-way-of-life-fall-2018/6b26ae891a3f47c13b87f141e7cff815_ES-114f18.jpg",
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Philosophy",
+      "Classics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16677,
+        "run_id": "746db5ff73f4162809f8eaad01e97b5f",
+        "short_description": "This course addresses the philosophical question of what a non-violent life entails. It investigates its ethical dimensions and challenges, and considers whether we can derive a comprehensive moral theory from the principle of non-violence. In addition, it discusses the issues of lying, the duty to forgive, non-violent communication, the ethics of our relationship to anger, the possibility of loving enemies, and the ethics of punishment and rehabilitation. Readings are included from primary exponents of non-violence, such as Tolstoy, Gandhi, and King.\n\nThis course is part of the [Experimental Study Group](http://esg.mit.edu/) at MIT.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2018,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2018-09-01T00:00:00Z",
+        "best_end_date": "2018-12-31T00:00:00Z",
+        "title": "Non-violence as a Way of Life",
+        "image_src": "/courses/es-114-non-violence-as-a-way-of-life-fall-2018/6b26ae891a3f47c13b87f141e7cff815_ES-114f18.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Lee Perlman"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-114-non-violence-as-a-way-of-life-fall-2018"
+      }
+    ],
+    "created": "2020-03-03T23:58:45.790072Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.114",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.114"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9861,
+    "course_id": "fb63bd3d6f4d40dc821c22f48975115c+ES.293",
+    "coursenum": "ES.293",
+    "short_description": "LEGO® robotics uses LEGO®s as a fun tool to explore robotics, mechanical systems, electronics, and programming. This seminar is primarily a lab experience which provides students with resources to design, build, and program functional robots constructed from LEGO®s and a few other parts such as motors and sensors.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Lego Robotics",
+    "image_src": "/courses/es-293-lego-robotics-spring-2007/442c61e9126e5e029da4c7858113ed48_es-293s07.jpg",
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electronics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Software Design and Engineering",
+      "Robotics and Control Systems",
+      "Mechanical Design"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16731,
+        "run_id": "fb63bd3d6f4d40dc821c22f48975115c",
+        "short_description": "LEGO® robotics uses LEGO®s as a fun tool to explore robotics, mechanical systems, electronics, and programming. This seminar is primarily a lab experience which provides students with resources to design, build, and program functional robots constructed from LEGO®s and a few other parts such as motors and sensors.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Lego Robotics",
+        "image_src": "/courses/es-293-lego-robotics-spring-2007/442c61e9126e5e029da4c7858113ed48_es-293s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "James Rising"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/es-293-lego-robotics-spring-2007"
+      }
+    ],
+    "created": "2020-03-04T00:01:38.014218Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.293",
+        "department": "Experimental Study Group",
+        "primary": true,
+        "sort_coursenum": "ES.293"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]

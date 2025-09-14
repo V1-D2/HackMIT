@@ -1,0 +1,3723 @@
+[
+  {
+    "id": 11977,
+    "course_id": "MITx+5.601x",
+    "coursenum": "5.601x",
+    "short_description": "<p>Based on 5.601 Thermodynamics I, this course introduces learners to fundamental concepts in thermodynamics and statistical mechanics. Learners will develop an understanding of fundamental thermodynamic principles and how they arise from molecular scale system properties.</p>",
+    "full_description": "<p>This course is the first in a series of two thermodynamics courses that together, cover chemical thermodynamics, statistical mechanics, phase equilibria, and kinetics. </p>\n<p>In this course, you will explore the foundational principles of thermodynamics for chemical systems and how these principles connect to the properties of the molecules that comprise them. You will explore the laws of thermodynamics and how they combine to establish the relationships between entropy, energy, work, and heat flow. You will then leverage these relationships to understand the nature of equilibrium and the forces that drive spontaneous transformations. You will then be introduced to the field of statistical mechanics, which formalizes the molecular scale origins of thermodynamic principles. Finally, you will leverage your understanding of thermodynamics and statistical mechanics to explore fundamental applications, including heat engines, calorimetry, and equilibrium in multi-component systems.</p>",
+    "platform": "mitx",
+    "title": "Chemical Thermodynamics I: Thermodynamics and Statistical Mechanics",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5b57b66b-1ea5-467a-a643-b93ad2f0f34c-33ead18774b5.small.jpeg",
+    "topics": [
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "id": 20014,
+        "run_id": "course-v1:MITx+5.601x+1T2022",
+        "short_description": "<p>Based on 5.601 Thermodynamics I, this course introduces learners to fundamental concepts in thermodynamics and statistical mechanics. Learners will develop an understanding of fundamental thermodynamic principles and how they arise from molecular scale system properties.</p>",
+        "full_description": "<p>This course is the first in a series of two thermodynamics courses that together, cover chemical thermodynamics, statistical mechanics, phase equilibria, and kinetics. </p>\n<p>In this course, you will explore the foundational principles of thermodynamics for chemical systems and how these principles connect to the properties of the molecules that comprise them. You will explore the laws of thermodynamics and how they combine to establish the relationships between entropy, energy, work, and heat flow. You will then leverage these relationships to understand the nature of equilibrium and the forces that drive spontaneous transformations. You will then be introduced to the field of statistical mechanics, which formalizes the molecular scale origins of thermodynamic principles. Finally, you will leverage your understanding of thermodynamics and statistical mechanics to explore fundamental applications, including heat engines, calorimetry, and equilibrium in multi-component systems.</p>",
+        "language": "en-us",
+        "semester": "spring",
+        "year": 2022,
+        "level": [
+          "Intermediate"
+        ],
+        "start_date": "2022-04-14T14:00:00Z",
+        "end_date": "2022-07-05T14:00:00Z",
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2022-04-14T14:00:00Z",
+        "best_end_date": "2022-07-05T14:00:00Z",
+        "title": "Chemical Thermodynamics I: Thermodynamics and Statistical Mechanics",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5b57b66b-1ea5-467a-a643-b93ad2f0f34c-33ead18774b5.small.jpeg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          },
+          {
+            "price": "149.00",
+            "mode": "verified"
+          }
+        ],
+        "instructors": [
+          "David Grimes",
+          "Henrik Heelweg",
+          "Adam Willard"
+        ],
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "MITx"
+        ],
+        "slug": null
+      }
+    ],
+    "created": "2022-03-18T13:31:41.864997Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7956,
+    "course_id": "7a18617ab42911a2d655e0b6848ba70a+5.512",
+    "coursenum": "5.512",
+    "short_description": "This course focuses on general methods and strategies for the synthesis of complex organic molecules. Emphasis is on strategies for stereoselective synthesis, including stereocontrolled synthesis of complex acyclic compounds.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Synthetic Organic Chemistry II",
+    "image_src": "/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/4997b774663b6be3d3580a6cd780a4c7_5-512s05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Organic Chemistry",
+      "Molecular Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13700,
+        "run_id": "7a18617ab42911a2d655e0b6848ba70a",
+        "short_description": "This course focuses on general methods and strategies for the synthesis of complex organic molecules. Emphasis is on strategies for stereoselective synthesis, including stereocontrolled synthesis of complex acyclic compounds.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Synthetic Organic Chemistry II",
+        "image_src": "/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/4997b774663b6be3d3580a6cd780a4c7_5-512s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Rick Danheiser"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-512-synthetic-organic-chemistry-ii-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:46:13.314051Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.512",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.512"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8267,
+    "course_id": "a890f6360f70b51ff92ccb0f0ea7a7d9+10.675J",
+    "coursenum": "10.675J",
+    "short_description": "The theoretical frameworks of Hartree-Fock theory and density functional theory are presented in this course as approximate methods to solve the many-electron problem. A variety of ways to incorporate electron correlation are discussed. The application of these techniques to calculate the reactivity and spectroscopic properties of chemical systems, in addition to the thermodynamics and kinetics of chemical processes, is emphasized. This course also focuses on cutting edge methods to sample complex hypersurfaces, for reactions in liquids, catalysts and biological systems.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+    "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Quantum Mechanics",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14066,
+        "run_id": "a890f6360f70b51ff92ccb0f0ea7a7d9",
+        "short_description": "The theoretical frameworks of Hartree-Fock theory and density functional theory are presented in this course as approximate methods to solve the many-electron problem. A variety of ways to incorporate electron correlation are discussed. The application of these techniques to calculate the reactivity and spectroscopic properties of chemical systems, in addition to the thermodynamics and kinetics of chemical processes, is emphasized. This course also focuses on cutting edge methods to sample complex hypersurfaces, for reactions in liquids, catalysts and biological systems.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-09-01T00:00:00Z",
+        "best_end_date": "2004-12-31T00:00:00Z",
+        "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+        "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Bernhardt Trout"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004"
+      }
+    ],
+    "created": "2020-03-03T21:07:21.564584Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemical Engineering",
+      "Chemistry"
+    ],
+    "department_slug": "chemical-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "10.675J",
+        "department": "Chemical Engineering",
+        "primary": true,
+        "sort_coursenum": "10.675J"
+      },
+      {
+        "coursenum": "5.675J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.675J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8296,
+    "course_id": "400c0c06d394f61b56f6cf05d30b1262+5.13",
+    "coursenum": "5.13",
+    "short_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Organic Chemistry II",
+    "image_src": "/courses/5-13-organic-chemistry-ii-fall-2006/514146d5f76bc25ca5e024d6480afb81_5-13f06.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14100,
+        "run_id": "400c0c06d394f61b56f6cf05d30b1262",
+        "short_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2006,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2006-09-01T00:00:00Z",
+        "best_end_date": "2006-12-31T00:00:00Z",
+        "title": "Organic Chemistry II",
+        "image_src": "/courses/5-13-organic-chemistry-ii-fall-2006/514146d5f76bc25ca5e024d6480afb81_5-13f06.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Kimberly Berkowski",
+          "Prof. Timothy F. Jamison"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-13-organic-chemistry-ii-fall-2006"
+      }
+    ],
+    "created": "2020-03-03T21:09:49.328269Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.13",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.13"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8308,
+    "course_id": "fb00432b9f4b6ef47c176d7d73f6e54a+5.37",
+    "coursenum": "5.37",
+    "short_description": "This course, which spans a third of a semester, provides students with experience using techniques employed in synthetic organic chemistry. It also introduces them to the exciting research area of catalytic chiral catalysis.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Organic Synthesis Laboratory",
+    "image_src": "/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/fd981ce72401603d6cf38092cd548b9d_5-37s09.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Chemical Engineering"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14114,
+        "run_id": "fb00432b9f4b6ef47c176d7d73f6e54a",
+        "short_description": "This course, which spans a third of a semester, provides students with experience using techniques employed in synthetic organic chemistry. It also introduces them to the exciting research area of catalytic chiral catalysis.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Introduction to Organic Synthesis Laboratory",
+        "image_src": "/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/fd981ce72401603d6cf38092cd548b9d_5-37s09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Rick Danheiser",
+          "Prof. Timothy Swager"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009"
+      }
+    ],
+    "created": "2020-03-03T21:10:40.152288Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.37",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.37"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8912,
+    "course_id": "c5b311ea35ff30be4784718e0c7bde7a+7.88J",
+    "coursenum": "7.88J",
+    "short_description": "This course covers amino acid sequence control of protein folding, misfolding, amyloid polymerization and aggregation. Readings and discussions address topics such as chaperone structure and function, folding and assembly of fibrous proteins, and pathologies associated with protein misfolding and aggregation in Alzheimer's, Parkinson's, Huntington's and other protein deposition diseases. Students are required to write and present a research paper.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Protein Folding and Human Disease",
+    "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Proteomics",
+      "Virology",
+      "Cell Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16702,
+        "run_id": "c5b311ea35ff30be4784718e0c7bde7a",
+        "short_description": "This course covers amino acid sequence control of protein folding, misfolding, amyloid polymerization and aggregation. Readings and discussions address topics such as chaperone structure and function, folding and assembly of fibrous proteins, and pathologies associated with protein misfolding and aggregation in Alzheimer's, Parkinson's, Huntington's and other protein deposition diseases. Students are required to write and present a research paper.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-01-01T00:00:00Z",
+        "best_end_date": "2015-05-31T00:00:00Z",
+        "title": "Protein Folding and Human Disease",
+        "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Jonathan King"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/7-88j-protein-folding-and-human-disease-spring-2015"
+      }
+    ],
+    "created": "2020-03-03T22:05:02.160749Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biology",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "department_slug": "biology",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "7.88J",
+        "department": "Biology",
+        "primary": true,
+        "sort_coursenum": "07.88J"
+      },
+      {
+        "coursenum": "5.48J,10.543J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.48J,10.543J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9517,
+    "course_id": "cfa3603b58174b2ac12ea12df3669604+5.35",
+    "coursenum": "5.35",
+    "short_description": "This course is the first part of a modular sequence of increasingly sophisticated (and challenging) laboratory courses required of all Chemistry majors: 5.35 Introduction to Experimental Chemistry, 5.36 Biochemistry and Organic Laboratory, 5.37 Organic and Inorganic Laboratory, and 5.38 Physical Chemistry Laboratory. This course provides students with a survey of spectroscopy, and introduces synthesis of coordination compounds and kinetics.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n\n##### Acknowledgements\n\nProfessor Nelson and Dr. Twardowski would like to acknowledge the contributions of MIT Professor Timothy Swager to the development of this course. Module 3 on Fabrication of a Polymeric Light Emitting Device, taught by Timothy Swager, is not currently available on OCW.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introduction to Experimental Chemistry",
+    "image_src": "/courses/5-35-introduction-to-experimental-chemistry-fall-2012/ce5292bdc254d0abddc90a2fb3390ecd_5-35f12.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15976,
+        "run_id": "cfa3603b58174b2ac12ea12df3669604",
+        "short_description": "This course is the first part of a modular sequence of increasingly sophisticated (and challenging) laboratory courses required of all Chemistry majors: 5.35 Introduction to Experimental Chemistry, 5.36 Biochemistry and Organic Laboratory, 5.37 Organic and Inorganic Laboratory, and 5.38 Physical Chemistry Laboratory. This course provides students with a survey of spectroscopy, and introduces synthesis of coordination compounds and kinetics.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n\n##### Acknowledgements\n\nProfessor Nelson and Dr. Twardowski would like to acknowledge the contributions of MIT Professor Timothy Swager to the development of this course. Module 3 on Fabrication of a Polymeric Light Emitting Device, taught by Timothy Swager, is not currently available on OCW.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-09-01T00:00:00Z",
+        "best_end_date": "2012-12-31T00:00:00Z",
+        "title": "Introduction to Experimental Chemistry",
+        "image_src": "/courses/5-35-introduction-to-experimental-chemistry-fall-2012/ce5292bdc254d0abddc90a2fb3390ecd_5-35f12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Keith Nelson",
+          "Dr. Mariusz Twardowski"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-35-introduction-to-experimental-chemistry-fall-2012"
+      }
+    ],
+    "created": "2020-03-03T23:19:24.918566Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.35",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.35"
+      },
+      {
+        "coursenum": "5.35U",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.35U"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9553,
+    "course_id": "c4cac70acab604f720b9cb18e8303a75+5.069",
+    "coursenum": "5.069",
+    "short_description": "This course covers the following topics: X-ray diffraction: symmetry, space groups, geometry of diffraction, structure factors, phase problem, direct methods, Patterson methods, electron density maps, structure refinement, how to grow good crystals, powder methods, limits of X-ray diffraction methods, and structure data bases.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Crystal Structure Analysis",
+    "image_src": "/courses/5-069-crystal-structure-analysis-spring-2010/554135c46af1873203e11f6560f42e7c_5-069s10.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Atomic, Molecular, Optical Physics",
+      "Analytical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16042,
+        "run_id": "c4cac70acab604f720b9cb18e8303a75",
+        "short_description": "This course covers the following topics: X-ray diffraction: symmetry, space groups, geometry of diffraction, structure factors, phase problem, direct methods, Patterson methods, electron density maps, structure refinement, how to grow good crystals, powder methods, limits of X-ray diffraction methods, and structure data bases.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Crystal Structure Analysis",
+        "image_src": "/courses/5-069-crystal-structure-analysis-spring-2010/554135c46af1873203e11f6560f42e7c_5-069s10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Peter Mueller"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-069-crystal-structure-analysis-spring-2010"
+      }
+    ],
+    "created": "2020-03-03T23:22:57.291192Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.069",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.069"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11330,
+    "course_id": "a6e612c83fce634d24167aa50490d24d+5.95J",
+    "coursenum": "5.95J",
+    "short_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. This course is designed for graduate students interested in an academic career, and anyone else interested in teaching. Readings and discussions include: teaching equations for understanding, designing exam and homework questions, incorporating histories of science, creating absorbing lectures, teaching for transfer, the evils of PowerPoint, and planning a course. The subject is appropriate for both novices and those with teaching experience.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Teaching College-Level Science and Engineering",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/bf4f6bc7e2bc1f6a4dc237936a53e4fa_5-95js09.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Teaching and Education",
+      "Curriculum and Teaching",
+      "Higher Education"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14240,
+        "run_id": "a6e612c83fce634d24167aa50490d24d",
+        "short_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. This course is designed for graduate students interested in an academic career, and anyone else interested in teaching. Readings and discussions include: teaching equations for understanding, designing exam and homework questions, incorporating histories of science, creating absorbing lectures, teaching for transfer, the evils of PowerPoint, and planning a course. The subject is appropriate for both novices and those with teaching experience.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Teaching College-Level Science and Engineering",
+        "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/bf4f6bc7e2bc1f6a4dc237936a53e4fa_5-95js09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Sanjoy Mahajan"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-95j-teaching-college-level-science-and-engineering-spring-2009"
+      }
+    ],
+    "created": "2020-12-04T02:43:23.220517Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.95J",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.95J"
+      },
+      {
+        "coursenum": "6.982J,7.59J,8.395J,18.094J",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.982J,7.59J,8.395J,18.094J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11462,
+    "course_id": "05c88cc51a21e5a92f5c2e8ccbb93c91+5.12",
+    "coursenum": "5.12",
+    "short_description": "5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Organic Chemistry I",
+    "image_src": "/courses/5-12-organic-chemistry-i-spring-2003/7641390c3bac90c3481b9fea5e26d54e_5-12s03.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16346,
+        "run_id": "05c88cc51a21e5a92f5c2e8ccbb93c91",
+        "short_description": "5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2003,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-01-01T00:00:00Z",
+        "best_end_date": "2003-05-31T00:00:00Z",
+        "title": "Organic Chemistry I",
+        "image_src": "/courses/5-12-organic-chemistry-i-spring-2003/7641390c3bac90c3481b9fea5e26d54e_5-12s03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Barbara Imperiali",
+          "Dr. Sarah Tabacco"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-12-organic-chemistry-i-spring-2003"
+      }
+    ],
+    "created": "2020-12-04T02:44:01.265169Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.12",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.12"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8825,
+    "course_id": "7f344898ccc5faab5f54ead4063b76ee+20.110J",
+    "coursenum": "20.110J",
+    "short_description": "This subject deals primarily with equilibrium properties of macroscopic and microscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and macromolecular interactions.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Thermodynamics of Biomolecular Systems",
+    "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Thermodynamics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14787,
+        "run_id": "7f344898ccc5faab5f54ead4063b76ee",
+        "short_description": "This subject deals primarily with equilibrium properties of macroscopic and microscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and macromolecular interactions.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Thermodynamics of Biomolecular Systems",
+        "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Moungi Bawendi",
+          "Prof. Robert Field",
+          "Prof. Linda Griffith",
+          "Prof. Kim Hamad-Schifferli"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T21:56:56.721169Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemistry",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.110J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.110J"
+      },
+      {
+        "coursenum": "5.601J,2.772J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.601J,2.772J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11934,
+    "course_id": "MITx+5.02x",
+    "coursenum": "5.02x",
+    "short_description": "<p>Experience the world at the molecular-level! Learn about spontaneity, equilibrium, and mechanisms and rates of reactions. Applications include the energy problem, acid/base chemistry, electrochemistry and batteries, climate science, catalysis, and more.</p>",
+    "full_description": "<p>Chemistry is the study of the properties, structure, behavior, and reactivity of matter. As the central science, chemistry has deep connections to fields from physics to biology, from environmental science to engineering. Cutting-edge research in many fields relies on a fundamental understanding of chemistry. This course is designed to build foundational skills in chemistry, providing learners with the necessary prerequisite knowledge for advanced chemistry courses, including Organic Chemistry, Physical Chemistry, Biochemistry, Inorganic Chemistry, Materials Science, and beyond.</p>\n<p>This course is the second in a series of two general chemistry courses that together cover first-year University-level chemistry. In this course, you will explore fundamentals of chemical reactions, such as how thermodynamics defines the energy released or consumed by a reaction, the nature of chemical equilibrium, and whether a reaction is spontaneous. You will also learn chemical kinetics to examine rates and molecular mechanisms of reactions, and learn about the design and use of catalysts. Along the way, you will examine exciting and important chemical systems, including:</p>\n<ul>\n<li>Acid/base chemistry and buffers</li>\n<li>Redox chemistry and batteries</li>\n<li>Transition metals and applications in biology</li>\n<li>Atmospheric chemistry and global warming</li>\n</ul>",
+    "platform": "mitx",
+    "title": "General Chemistry II: Chemical Equilibrium, Kinetics, and Transition Metals",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/33779baf-a086-4ede-a479-7f408c271ee3-8c8be36e7853.small.png",
+    "topics": [
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "end_date": "2024-08-27T16:00:00Z",
+        "short_description": "<p>Experience the world at the molecular-level! Learn about spontaneity, equilibrium, and mechanisms and rates of reactions. Applications include the energy problem, acid/base chemistry, electrochemistry and batteries, climate science, catalysis, and more.</p>",
+        "run_id": "course-v1:MITx+5.02x+2T2024",
+        "year": 2024,
+        "level": [
+          "Intermediate"
+        ],
+        "enrollment_end": null,
+        "language": "en-us",
+        "best_start_date": "2024-05-16T16:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "MITx"
+        ],
+        "title": "General Chemistry II: Chemical Equilibrium, Kinetics, and Transition Metals",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/33779baf-a086-4ede-a479-7f408c271ee3-8c8be36e7853.small.png",
+        "instructors": [
+          "Patti Christie",
+          "David Grimes",
+          "Matthew Shoulders"
+        ],
+        "enrollment_start": null,
+        "full_description": "<p>Chemistry is the study of the properties, structure, behavior, and reactivity of matter. As the central science, chemistry has deep connections to fields from physics to biology, from environmental science to engineering. Cutting-edge research in many fields relies on a fundamental understanding of chemistry. This course is designed to build foundational skills in chemistry, providing learners with the necessary prerequisite knowledge for advanced chemistry courses, including Organic Chemistry, Physical Chemistry, Biochemistry, Inorganic Chemistry, Materials Science, and beyond.</p>\n<p>This course is the second in a series of two general chemistry courses that together cover first-year University-level chemistry. In this course, you will explore fundamentals of chemical reactions, such as how thermodynamics defines the energy released or consumed by a reaction, the nature of chemical equilibrium, and whether a reaction is spontaneous. You will also learn chemical kinetics to examine rates and molecular mechanisms of reactions, and learn about the design and use of catalysts. Along the way, you will examine exciting and important chemical systems, including:</p>\n<ul>\n<li>Acid/base chemistry and buffers</li>\n<li>Redox chemistry and batteries</li>\n<li>Transition metals and applications in biology</li>\n<li>Atmospheric chemistry and global warming</li>\n</ul>",
+        "best_end_date": "2024-08-27T16:00:00Z",
+        "semester": "summer",
+        "id": 22501,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          },
+          {
+            "mode": "verified",
+            "price": "149.00"
+          }
+        ],
+        "slug": null,
+        "start_date": "2024-05-16T16:00:00Z"
+      }
+    ],
+    "created": "2021-08-06T13:32:09.523462Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [
+      "Certificates"
+    ],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7726,
+    "course_id": "dee284feba2dcd9bd3c54a8f23f01451+5.72",
+    "coursenum": "5.72",
+    "short_description": "This course discusses the principles and methods of non-equilibrium statistical mechanics. Basic topics covered are stochastic processes, regression and response theory, molecular hydrodynamics, and complex liquids. Selected applications, including fluctuation theorems, condensed phase reaction rate theory, electron transfer dynamics, enzymatic networks, photon counting statistics, single molecule kinetics, reaction-controlled diffusion, may also be discussed.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Non-Equilibrium Statistical Mechanics",
+    "image_src": "/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/35b03ee5439763ef0fab624b90fc8601_5-72s12.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Probability and Statistics",
+      "Thermodynamics",
+      "Classical Mechanics",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15799,
+        "run_id": "dee284feba2dcd9bd3c54a8f23f01451",
+        "short_description": "This course discusses the principles and methods of non-equilibrium statistical mechanics. Basic topics covered are stochastic processes, regression and response theory, molecular hydrodynamics, and complex liquids. Selected applications, including fluctuation theorems, condensed phase reaction rate theory, electron transfer dynamics, enzymatic networks, photon counting statistics, single molecule kinetics, reaction-controlled diffusion, may also be discussed.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2012,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-01-01T00:00:00Z",
+        "best_end_date": "2012-05-31T00:00:00Z",
+        "title": "Non-Equilibrium Statistical Mechanics",
+        "image_src": "/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/35b03ee5439763ef0fab624b90fc8601_5-72s12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Jianshu Cao"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-72-non-equilibrium-statistical-mechanics-spring-2012"
+      }
+    ],
+    "created": "2020-03-03T20:27:42.455707Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.72",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.72"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8563,
+    "course_id": "66f28fcd3fd1fa0304750947917a8acc+RES.5-0001",
+    "coursenum": "RES.5-0001",
+    "short_description": "The \"Digital Lab Techniques Manual\" is a series of videos designed to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information. These videos are meant to supplement, and not replace, your lab manual and assigned reading. In fact, you will most benefit from watching the videos if you have already read the appropriate background information. To be a great experimentalist, you must understand both theory and technique! If you have questions about what you see, make sure to ask your TA or your instructor.\n\nWARNING NOTICE:\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Digital Lab Techniques Manual",
+    "image_src": "/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a60170a738063d7b1cfc1d2ebe9fceb7_res-5-0001s07.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "The \"Digital Lab Techniques Manual\" is a series of videos designed to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information. These videos are meant to supplement, and not replace, your lab manual and assigned reading. In fact, you will most benefit from watching the videos if you have already read the appropriate background information. To be a great experimentalist, you must understand both theory and technique! If you have questions about what you see, make sure to ask your TA or your instructor.\n\nWARNING NOTICE:\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)",
+        "run_id": "66f28fcd3fd1fa0304750947917a8acc",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Digital Lab Techniques Manual",
+        "image_src": "/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a60170a738063d7b1cfc1d2ebe9fceb7_res-5-0001s07.jpg",
+        "instructors": [
+          "Dr. Kimberly Berkowski",
+          "Eileen Huang",
+          "Aayesha Siddiqui",
+          "Dr. Sarah Tabacco"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 14429,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-5-0001-digital-lab-techniques-manual-spring-2007",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T21:31:21.637840Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Tutorial Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.5-0001",
+        "sort_coursenum": "RES.5-0001",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13019,
+    "course_id": "1791c2ae74df42009822950657ae6384+RES.HS-002",
+    "coursenum": "RES.HS-002",
+    "short_description": "*Chemistry Behind the Magic* features videos of exciting live chemistry demonstrations. The videos are enhanced by explanations of the science behind the demonstration, in a fun and easy-to-understand format.\n\nThis set of videos showcases exciting live chemistry demonstrations held at MIT. Through the magic of chemistry, Dr. John Dolhun and Dr. Bassam Shakhashiri create things that steam, fizzle, and glow. Each video also provides a deeper look into the chemistry that makes it all possible.\n\nFor teachers, we have provided supporting materials to help you understand and replicate the experiments in your own classrooms. These videos can be watched in any order.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous. Among other things, the experiments should include the following safety measures: a high level of safety training, special facilities and equipment, the use of proper personal protective equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT and Dow shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemistry Behind the Magic: Chemical Demonstrations for the Classroom",
+    "image_src": "/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/chp_hands.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "*Chemistry Behind the Magic* features videos of exciting live chemistry demonstrations. The videos are enhanced by explanations of the science behind the demonstration, in a fun and easy-to-understand format.\n\nThis set of videos showcases exciting live chemistry demonstrations held at MIT. Through the magic of chemistry, Dr. John Dolhun and Dr. Bassam Shakhashiri create things that steam, fizzle, and glow. Each video also provides a deeper look into the chemistry that makes it all possible.\n\nFor teachers, we have provided supporting materials to help you understand and replicate the experiments in your own classrooms. These videos can be watched in any order.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous. Among other things, the experiments should include the following safety measures: a high level of safety training, special facilities and equipment, the use of proper personal protective equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT and Dow shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)",
+        "run_id": "1791c2ae74df42009822950657ae6384",
+        "year": null,
+        "level": [
+          "High School"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": null,
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Chemistry Behind the Magic: Chemical Demonstrations for the Classroom",
+        "image_src": "/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/chp_hands.jpg",
+        "instructors": [
+          "Dr. John J. Dolhun",
+          "Dr. Bassam Shakhashiri"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": null,
+        "semester": null,
+        "id": 22369,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom",
+        "start_date": null
+      }
+    ],
+    "created": "2023-12-20T21:44:22.483899Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.HS-002",
+        "sort_coursenum": "RES.HS-002",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9759,
+    "course_id": "0815fd5d5cb11bf566f8d6836013a6f2+ES.287",
+    "coursenum": "ES.287",
+    "short_description": "This seminar is designed to be an experimental and hands-on approach to applied chemistry (as seen in cooking). Cooking may be the oldest and most widespread application of chemistry and recipes may be the oldest practical result of chemical research. We shall do some cooking experiments to illustrate some chemical principles, including extraction, denaturation, and phase changes.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Kitchen Chemistry",
+    "image_src": "/courses/es-287-kitchen-chemistry-spring-2009/2e724c085079389a3db4b3ba02ef648e_es-287s09.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This seminar is designed to be an experimental and hands-on approach to applied chemistry (as seen in cooking). Cooking may be the oldest and most widespread application of chemistry and recipes may be the oldest practical result of chemical research. We shall do some cooking experiments to illustrate some chemical principles, including extraction, denaturation, and phase changes.",
+        "run_id": "0815fd5d5cb11bf566f8d6836013a6f2",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Kitchen Chemistry",
+        "image_src": "/courses/es-287-kitchen-chemistry-spring-2009/2e724c085079389a3db4b3ba02ef648e_es-287s09.jpg",
+        "instructors": [
+          "Dr. Patricia Christie"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 16477,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/es-287-kitchen-chemistry-spring-2009",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:46:36.310295Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Experimental Study Group",
+      "Chemistry"
+    ],
+    "department_slug": "experimental-study-group",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "ES.287",
+        "sort_coursenum": "ES.287",
+        "department": "Experimental Study Group",
+        "primary": true
+      },
+      {
+        "coursenum": "5.S15",
+        "sort_coursenum": "05.S15",
+        "department": "Chemistry",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 13018,
+    "course_id": "249f5881172f462f9828d9e41fdf6e71+RES.HS-003",
+    "coursenum": "RES.HS-003",
+    "short_description": "Each year, groups of MIT freshmen are introduced to MIT's laboratory environment through a four-week intensive January course called [*5.301 Chemistry Lab Techniques*](http://ocw.mit.edu/courses/chemistry/5-301-chemistry-laboratory-techniques-january-iap-2012/). The stakes are high—students who pass the class are guaranteed a job in an MIT research lab. \n\nOpenCourseWare documented the experience of 14 students who took this course in January 2012. Follow their journey over 11 episodes and watch as they struggled with, but ultimately mastered, the techniques needed to be successful in an MIT chemistry lab.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous. Among other things, the experiments should include the following safety measures: a high level of safety training, special facilities and equipment, the use of proper personal protective equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT and Dow shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "ChemLab Boot Camp",
+    "image_src": "/courses/res-hs-003-chemlab-boot-camp/mitres_hs003_chp.png",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "Each year, groups of MIT freshmen are introduced to MIT's laboratory environment through a four-week intensive January course called [*5.301 Chemistry Lab Techniques*](http://ocw.mit.edu/courses/chemistry/5-301-chemistry-laboratory-techniques-january-iap-2012/). The stakes are high—students who pass the class are guaranteed a job in an MIT research lab. \n\nOpenCourseWare documented the experience of 14 students who took this course in January 2012. Follow their journey over 11 episodes and watch as they struggled with, but ultimately mastered, the techniques needed to be successful in an MIT chemistry lab.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous. Among other things, the experiments should include the following safety measures: a high level of safety training, special facilities and equipment, the use of proper personal protective equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT and Dow shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)",
+        "run_id": "249f5881172f462f9828d9e41fdf6e71",
+        "year": null,
+        "level": [
+          "High School"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": null,
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "ChemLab Boot Camp",
+        "image_src": "/courses/res-hs-003-chemlab-boot-camp/mitres_hs003_chp.png",
+        "instructors": [
+          "Dr. John J. Dolhun"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": null,
+        "semester": null,
+        "id": 22368,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/res-hs-003-chemlab-boot-camp",
+        "start_date": null
+      }
+    ],
+    "created": "2023-12-20T21:40:35.256310Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "RES.HS-003",
+        "sort_coursenum": "RES.HS-003",
+        "department": null,
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7761,
+    "course_id": "fa8b18fc1a1988f825fb8171198f2c36+5.067",
+    "coursenum": "5.067",
+    "short_description": "This course in crystal structure refinement examines the practical aspects of crystal structure determination from data collection strategies to data reduction and basic and advanced refinement problems of organic and inorganic molecules.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Crystal Structure Refinement",
+    "image_src": "/courses/5-067-crystal-structure-refinement-fall-2009/bd6d208fddee4d887fe3104cf59a166a_5-067f09.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15677,
+        "run_id": "fa8b18fc1a1988f825fb8171198f2c36",
+        "short_description": "This course in crystal structure refinement examines the practical aspects of crystal structure determination from data collection strategies to data reduction and basic and advanced refinement problems of organic and inorganic molecules.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-09-01T00:00:00Z",
+        "best_end_date": "2009-12-31T00:00:00Z",
+        "title": "Crystal Structure Refinement",
+        "image_src": "/courses/5-067-crystal-structure-refinement-fall-2009/bd6d208fddee4d887fe3104cf59a166a_5-067f09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Peter Mueller"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-067-crystal-structure-refinement-fall-2009"
+      }
+    ],
+    "created": "2020-03-03T20:29:17.345725Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.067",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.067"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7855,
+    "course_id": "94c079869dc21ad55c2ec841c2b3c839+5.61",
+    "coursenum": "5.61",
+    "short_description": "This course is an introduction to quantum mechanics for _use_ by chemists. Topics include particles and waves, wave mechanics, semi-classical quantum mechanics, matrix mechanics, perturbation theory, molecular orbital theory, molecular structure, molecular spectroscopy, and photochemistry. Emphasis is on creating and building confidence in the use of intuitive pictures.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physical Chemistry",
+    "image_src": "/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13595,
+        "run_id": "94c079869dc21ad55c2ec841c2b3c839",
+        "short_description": "This course is an introduction to quantum mechanics for _use_ by chemists. Topics include particles and waves, wave mechanics, semi-classical quantum mechanics, matrix mechanics, perturbation theory, molecular orbital theory, molecular structure, molecular spectroscopy, and photochemistry. Emphasis is on creating and building confidence in the use of intuitive pictures.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2017,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2017-09-01T00:00:00Z",
+        "best_end_date": "2017-12-31T00:00:00Z",
+        "title": "Physical Chemistry",
+        "image_src": "/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Field"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-61-physical-chemistry-fall-2017"
+      }
+    ],
+    "created": "2020-03-03T20:39:50.960593Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.61",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.61"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7854,
+    "course_id": "cb610ac80381d3471a77c0c7d75173c3+5.12",
+    "coursenum": "5.12",
+    "short_description": "This subject deals primarily with the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Organic Chemistry I",
+    "image_src": "/courses/5-12-organic-chemistry-i-spring-2005/d68dbfbd307333faf9def14ad70db65f_5-12s05.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13594,
+        "run_id": "cb610ac80381d3471a77c0c7d75173c3",
+        "short_description": "This subject deals primarily with the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Organic Chemistry I",
+        "image_src": "/courses/5-12-organic-chemistry-i-spring-2005/d68dbfbd307333faf9def14ad70db65f_5-12s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Kimberly Berkowski",
+          "Prof. Sarah O’Connor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-12-organic-chemistry-i-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T20:39:48.796430Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.12",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.12"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8062,
+    "course_id": "9ad1d2510ace891dbf7b55ffbe84e7a5+5.60",
+    "coursenum": "5.60",
+    "short_description": "This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and rates of chemical reactions.\n##### Acknowledgements\n\nThe material for 5.60 has evolved over a period of many years, and therefore several faculty members have contributed to the development of the course contents. The following are known to have assisted in preparing the lecture notes available on OpenCourseWare: Emeritus Professors of Chemistry: Robert A. Alberty, Carl W. Garland, Irwin Oppenheim, John S. Waugh. Professors of Chemistry: Moungi Bawendi, John M. Deutch, Robert W. Field, Robert G. Griffin, Keith A. Nelson, Robert J. Silbey, Jeffrey I. Steinfeld. Professor of Bioengineering and Computer Science: Bruce Tidor. Professor of Chemistry, Rice University: James L. Kinsey. Professor of Physics, University of Illinois: Philip W. Phillips.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Thermodynamics & Kinetics",
+    "image_src": "/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Thermodynamics",
+      "Classical Mechanics",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15713,
+        "run_id": "9ad1d2510ace891dbf7b55ffbe84e7a5",
+        "short_description": "This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and rates of chemical reactions.\n##### Acknowledgements\n\nThe material for 5.60 has evolved over a period of many years, and therefore several faculty members have contributed to the development of the course contents. The following are known to have assisted in preparing the lecture notes available on OpenCourseWare: Emeritus Professors of Chemistry: Robert A. Alberty, Carl W. Garland, Irwin Oppenheim, John S. Waugh. Professors of Chemistry: Moungi Bawendi, John M. Deutch, Robert W. Field, Robert G. Griffin, Keith A. Nelson, Robert J. Silbey, Jeffrey I. Steinfeld. Professor of Bioengineering and Computer Science: Bruce Tidor. Professor of Chemistry, Rice University: James L. Kinsey. Professor of Physics, University of Illinois: Philip W. Phillips.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-01-01T00:00:00Z",
+        "best_end_date": "2008-05-31T00:00:00Z",
+        "title": "Thermodynamics & Kinetics",
+        "image_src": "/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Moungi Bawendi",
+          "Prof. Keith A. Nelson"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-60-thermodynamics-kinetics-spring-2008"
+      }
+    ],
+    "created": "2020-03-03T20:52:43.399303Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.60",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.60"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8163,
+    "course_id": "c2a4907d7cfa724909111923172114ba+5.80",
+    "coursenum": "5.80",
+    "short_description": "The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Small-Molecule Spectroscopy and Dynamics",
+    "image_src": "/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13935,
+        "run_id": "c2a4907d7cfa724909111923172114ba",
+        "short_description": "The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "Small-Molecule Spectroscopy and Dynamics",
+        "image_src": "/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Field"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T20:59:54.888723Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.80",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.80"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8245,
+    "course_id": "7cce634b9b0fc7a91810860b903b0d91+5.73",
+    "coursenum": "5.73",
+    "short_description": "5.73 covers fundamental concepts of quantum mechanics: wave properties, uncertainty principles, Schrödinger equation, and operator and matrix methods. Basic applications of the following are discussed: one-dimensional potentials (harmonic oscillator), three-dimensional centrosymmetric potentials (hydrogen atom), and angular momentum and spin. The course also examines approximation methods: variational principle and perturbation theory.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introductory Quantum Mechanics I",
+    "image_src": "/courses/5-73-introductory-quantum-mechanics-i-fall-2005/b5276fba9ebe0d234be2539ef9a6e3c7_5-73f05.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14037,
+        "run_id": "7cce634b9b0fc7a91810860b903b0d91",
+        "short_description": "5.73 covers fundamental concepts of quantum mechanics: wave properties, uncertainty principles, Schrödinger equation, and operator and matrix methods. Basic applications of the following are discussed: one-dimensional potentials (harmonic oscillator), three-dimensional centrosymmetric potentials (hydrogen atom), and angular momentum and spin. The course also examines approximation methods: variational principle and perturbation theory.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Introductory Quantum Mechanics I",
+        "image_src": "/courses/5-73-introductory-quantum-mechanics-i-fall-2005/b5276fba9ebe0d234be2539ef9a6e3c7_5-73f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Troy Van Voorhis"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-73-introductory-quantum-mechanics-i-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T21:05:35.554890Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes",
+      "Problem Sets with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.73",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.73"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8336,
+    "course_id": "d4861d376ba9b777d65d85e472c3b293+5.74",
+    "coursenum": "5.74",
+    "short_description": "This course covers topics in time-dependent quantum mechanics, spectroscopy, and relaxation, with an emphasis on descriptions applicable to condensed phase problems and a statistical description of ensembles.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introductory Quantum Mechanics II",
+    "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15373,
+        "run_id": "d4861d376ba9b777d65d85e472c3b293",
+        "short_description": "This course covers topics in time-dependent quantum mechanics, spectroscopy, and relaxation, with an emphasis on descriptions applicable to condensed phase problems and a statistical description of ensembles.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Introductory Quantum Mechanics II",
+        "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Andrei Tokmakoff"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-74-introductory-quantum-mechanics-ii-spring-2009"
+      }
+    ],
+    "created": "2020-03-03T21:12:41.999593Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.74",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.74"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8408,
+    "course_id": "8567c6d26924e53ae9278a51c9468ff7+5.95J",
+    "coursenum": "5.95J",
+    "short_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. It is designed for graduate students interested in an academic career, and anyone else interested in teaching. Students research and present a relevant topic of particular interest. The subject is appropriate for both novices and those with teaching experience.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Teaching College-Level Science and Engineering",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14337,
+        "run_id": "8567c6d26924e53ae9278a51c9468ff7",
+        "short_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. It is designed for graduate students interested in an academic career, and anyone else interested in teaching. Students research and present a relevant topic of particular interest. The subject is appropriate for both novices and those with teaching experience.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2015,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2015-09-01T00:00:00Z",
+        "best_end_date": "2015-12-31T00:00:00Z",
+        "title": "Teaching College-Level Science and Engineering",
+        "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Janet Rankin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-95j-teaching-college-level-science-and-engineering-fall-2015"
+      }
+    ],
+    "created": "2020-03-03T21:19:03.179405Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.95J",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.95J"
+      },
+      {
+        "coursenum": "6.982J,7.59J,8.395J,18.094J,1.95J,2.978J",
+        "department": "Electrical Engineering and Computer Science",
+        "primary": false,
+        "sort_coursenum": "06.982J,7.59J,8.395J,18.094J,1.95J,2.978J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8698,
+    "course_id": "f33667690d4535a9dee8e35562632fda+5.43",
+    "coursenum": "5.43",
+    "short_description": "This course deals with the application of structure and theory to the study of organic reaction mechanisms: Stereochemical features including conformation and stereoelectronic effects; reaction dynamics, isotope effects and molecular orbital theory applied to pericyclic and photochemical reactions; and special reactive intermediates including carbenes, carbanions, and free radicals.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Advanced Organic Chemistry",
+    "image_src": "/courses/5-43-advanced-organic-chemistry-spring-2007/942a2e40f03f64ab3189562028f96cdf_5-43s07.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14611,
+        "run_id": "f33667690d4535a9dee8e35562632fda",
+        "short_description": "This course deals with the application of structure and theory to the study of organic reaction mechanisms: Stereochemical features including conformation and stereoelectronic effects; reaction dynamics, isotope effects and molecular orbital theory applied to pericyclic and photochemical reactions; and special reactive intermediates including carbenes, carbanions, and free radicals.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-01-01T00:00:00Z",
+        "best_end_date": "2007-05-31T00:00:00Z",
+        "title": "Advanced Organic Chemistry",
+        "image_src": "/courses/5-43-advanced-organic-chemistry-spring-2007/942a2e40f03f64ab3189562028f96cdf_5-43s07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Mohammad Movassaghi"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-43-advanced-organic-chemistry-spring-2007"
+      }
+    ],
+    "created": "2020-03-03T21:41:58.458491Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.43",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.43"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9178,
+    "course_id": "6b37f3cc1d1a0b5ece034b3306be57bc+5.36",
+    "coursenum": "5.36",
+    "short_description": "The course, which spans two thirds of a semester, provides students with a research-inspired laboratory experience that introduces standard biochemical techniques in the context of investigating a current and exciting research topic, acquired resistance to the cancer drug Gleevec. Techniques include protein expression, purification, and gel analysis, PCR, site-directed mutagenesis, kinase activity assays, and protein structure viewing.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n\n##### Acknowledgments\n\nDevelopment of this course was funded through an HHMI Professors grant to Professor Catherine L. Drennan.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biochemistry Laboratory",
+    "image_src": "/courses/5-36-biochemistry-laboratory-spring-2009/ac1586bc3d2b67f4782780f48ccca8f2_5-36S09.jpg",
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15335,
+        "run_id": "6b37f3cc1d1a0b5ece034b3306be57bc",
+        "short_description": "The course, which spans two thirds of a semester, provides students with a research-inspired laboratory experience that introduces standard biochemical techniques in the context of investigating a current and exciting research topic, acquired resistance to the cancer drug Gleevec. Techniques include protein expression, purification, and gel analysis, PCR, site-directed mutagenesis, kinase activity assays, and protein structure viewing.\n\nThis class is part of the new laboratory curriculum in the MIT Department of Chemistry. Undergraduate Research-Inspired Experimental Chemistry Alternatives ([URIECA](http://web.mit.edu/chemistry/www/academic/urieca.html)) introduces students to cutting edge research topics in a modular format.\n\n##### Acknowledgments\n\nDevelopment of this course was funded through an HHMI Professors grant to Professor Catherine L. Drennan.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2009,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2009-01-01T00:00:00Z",
+        "best_end_date": "2009-05-31T00:00:00Z",
+        "title": "Biochemistry Laboratory",
+        "image_src": "/courses/5-36-biochemistry-laboratory-spring-2009/ac1586bc3d2b67f4782780f48ccca8f2_5-36S09.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Elizabeth Vogel Taylor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-36-biochemistry-laboratory-spring-2009"
+      }
+    ],
+    "created": "2020-03-03T22:35:57.123077Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.36",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.36"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9204,
+    "course_id": "b076cec809395a056cb189091687ea29+5.05",
+    "coursenum": "5.05",
+    "short_description": "This course covers the principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles of Inorganic Chemistry III",
+    "image_src": "/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/fb3cb7fe99b2461fa42fc0cf7028ae96_5-05s05.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 15386,
+        "run_id": "b076cec809395a056cb189091687ea29",
+        "short_description": "This course covers the principles of main group (s and p block) element chemistry with an emphasis on synthesis, structure, bonding, and reaction mechanisms.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2005,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-01-01T00:00:00Z",
+        "best_end_date": "2005-05-31T00:00:00Z",
+        "title": "Principles of Inorganic Chemistry III",
+        "image_src": "/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/fb3cb7fe99b2461fa42fc0cf7028ae96_5-05s05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Christopher Cummins"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005"
+      }
+    ],
+    "created": "2020-03-03T22:39:59.180878Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.05",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.05"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11411,
+    "course_id": "4af933b36131c6b5d88794f5830fe9eb+5.13",
+    "coursenum": "5.13",
+    "short_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Organic Chemistry II",
+    "image_src": "/courses/5-13-organic-chemistry-ii-fall-2003/ee5e9d213b89c7e38f1ee8c5fb9e9aef_5-13f03.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16287,
+        "run_id": "4af933b36131c6b5d88794f5830fe9eb",
+        "short_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2003,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2003-09-01T00:00:00Z",
+        "best_end_date": "2003-12-31T00:00:00Z",
+        "title": "Organic Chemistry II",
+        "image_src": "/courses/5-13-organic-chemistry-ii-fall-2003/ee5e9d213b89c7e38f1ee8c5fb9e9aef_5-13f03.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Timothy F. Jamison",
+          "Dr. Sarah Tabacco"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-13-organic-chemistry-ii-fall-2003"
+      }
+    ],
+    "created": "2020-12-04T02:43:47.080126Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.13",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.13"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11859,
+    "course_id": "07e8097f872c3d0eb7978fe63405c946+5.73",
+    "coursenum": "5.73",
+    "short_description": "This course presents the fundamental concepts of quantum mechanics: wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods. Key topics include commutation rule definitions of scalar, vector, and spherical tensor operators; the Wigner-Eckart theorem; and 3j (Clebsch-Gordan) coefficients. In addition, we deal with many-body systems, exemplified by many-electron atoms (“electronic structure”), anharmonically coupled harmonic oscillators (“intramolecular vibrational redistribution: IVR”), and periodic solids.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Quantum Mechanics I",
+    "image_src": "/courses/5-73-quantum-mechanics-i-fall-2018/db0a558feb6fa1511bb1b3f4515dfb5d_5-73f18.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Quantum Mechanics",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 19594,
+        "run_id": "07e8097f872c3d0eb7978fe63405c946",
+        "short_description": "This course presents the fundamental concepts of quantum mechanics: wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods. Key topics include commutation rule definitions of scalar, vector, and spherical tensor operators; the Wigner-Eckart theorem; and 3j (Clebsch-Gordan) coefficients. In addition, we deal with many-body systems, exemplified by many-electron atoms (“electronic structure”), anharmonically coupled harmonic oscillators (“intramolecular vibrational redistribution: IVR”), and periodic solids.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2018,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2018-09-01T00:00:00Z",
+        "best_end_date": "2018-12-31T00:00:00Z",
+        "title": "Quantum Mechanics I",
+        "image_src": "/courses/5-73-quantum-mechanics-i-fall-2018/db0a558feb6fa1511bb1b3f4515dfb5d_5-73f18.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Field"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-73-quantum-mechanics-i-fall-2018"
+      }
+    ],
+    "created": "2020-12-04T09:03:33.740864Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.73",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.73"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 12844,
+    "course_id": "MITx+5.602x",
+    "coursenum": "5.602x",
+    "short_description": "<p>Discover the flow of energy at a fundamental physical level, and learn how to approach multi-component systems as they evolve with time.</p>",
+    "full_description": "<p><em>Chemical Thermodynamics II: Equilibrium and Kinetics</em> is an online course that will teach you how to apply fundamental concepts and principles of thermodynamics to multi-component systems. </p>\n<p>The second in a two-part series, this course builds on concepts from <a href=\"https://www.edx.org/learn/chemistry/massachusetts-institute-of-technology-chemical-thermodynamics-i\" rel=\"noopener\" target=\"_blank\">5.601x Chemical Thermodynamics I</a>. Together, the pair covers chemical thermodynamics, statistical mechanics, phase equilibria, and kinetics.</p>\n<p>In this course, you will leverage the ideas of entropy and free energy (previously developed in 5.601x) to describe chemical potential and how it relates to equilibrium. You will explore chemical equilibria between different chemical species and phase equilibria between different phases of the same chemical species, finally combining both to examine the multiple equilibria present in non-reactive mixtures of species.</p>\n<p>You will then change gears to focus on the evolution of chemical systems with time, exploring the concepts of kinetics. After appreciating links between molecular mechanisms and reaction dynamics, you will explore a variety of advanced topics, including catalysis, enzymatics, chain reactions, and oscillating chemical reactions.</p>\n<p>Based on the MIT undergraduate course 5.602 Thermodynamics II and Kinetics required of all Chemistry majors, this online version is best suited for learners with some knowledge of undergraduate general chemistry and multivariable calculus. However, any learner who wants to get an introduction to fundamental concepts in equilibrium and kinetics will benefit. We welcome undergraduate university students reviewing or supplementing their own course work, as well as mid-career professionals seeking to advance their careers or pursuing post-baccalaureate engineering and technology degrees.</p>",
+    "platform": "mitx",
+    "title": "Chemical Thermodynamics II: Equilibrium and Kinetics",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/ff4f8b7a-d7f2-452f-bc85-ce65ff097908-fc94d2321eb1.small.png",
+    "topics": [
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "end_date": "2023-12-12T17:00:00Z",
+        "short_description": "<p>Discover the flow of energy at a fundamental physical level, and learn how to approach multi-component systems as they evolve with time.</p>",
+        "run_id": "course-v1:MITx+5.602x+3T2023",
+        "year": 2023,
+        "level": [
+          "Introductory"
+        ],
+        "enrollment_end": null,
+        "language": "en-us",
+        "best_start_date": "2023-09-28T16:00:00Z",
+        "published": true,
+        "availability": "Archived",
+        "offered_by": [
+          "MITx"
+        ],
+        "title": "Chemical Thermodynamics II: Equilibrium and Kinetics",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/ff4f8b7a-d7f2-452f-bc85-ce65ff097908-fc94d2321eb1.small.png",
+        "instructors": [
+          "David Grimes",
+          "Alex Shalek"
+        ],
+        "enrollment_start": null,
+        "full_description": "<p><em>Chemical Thermodynamics II: Equilibrium and Kinetics</em> is an online course that will teach you how to apply fundamental concepts and principles of thermodynamics to multi-component systems. </p>\n<p>The second in a two-part series, this course builds on concepts from <a href=\"https://www.edx.org/learn/chemistry/massachusetts-institute-of-technology-chemical-thermodynamics-i\" rel=\"noopener\" target=\"_blank\">5.601x Chemical Thermodynamics I</a>. Together, the pair covers chemical thermodynamics, statistical mechanics, phase equilibria, and kinetics.</p>\n<p>In this course, you will leverage the ideas of entropy and free energy (previously developed in 5.601x) to describe chemical potential and how it relates to equilibrium. You will explore chemical equilibria between different chemical species and phase equilibria between different phases of the same chemical species, finally combining both to examine the multiple equilibria present in non-reactive mixtures of species.</p>\n<p>You will then change gears to focus on the evolution of chemical systems with time, exploring the concepts of kinetics. After appreciating links between molecular mechanisms and reaction dynamics, you will explore a variety of advanced topics, including catalysis, enzymatics, chain reactions, and oscillating chemical reactions.</p>\n<p>Based on the MIT undergraduate course 5.602 Thermodynamics II and Kinetics required of all Chemistry majors, this online version is best suited for learners with some knowledge of undergraduate general chemistry and multivariable calculus. However, any learner who wants to get an introduction to fundamental concepts in equilibrium and kinetics will benefit. We welcome undergraduate university students reviewing or supplementing their own course work, as well as mid-career professionals seeking to advance their careers or pursuing post-baccalaureate engineering and technology degrees.</p>",
+        "best_end_date": "2023-12-12T17:00:00Z",
+        "semester": "fall",
+        "id": 21696,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          },
+          {
+            "mode": "verified",
+            "price": "149.00"
+          }
+        ],
+        "slug": null,
+        "start_date": "2023-09-28T16:00:00Z"
+      }
+    ],
+    "created": "2023-08-16T15:32:52.996254Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10335,
+    "course_id": "MITx+5.01x",
+    "coursenum": "5.01x",
+    "short_description": "<p>Learn about the world at the molecular level by exploring chemical structure and bonding from a quantum mechanical perspective. Topics include wave-particle duality, electronic structure of atoms, chemical bonding models, and intermolecular interactions.</p>",
+    "full_description": "<p>Chemistry is the study of the properties, structure, behavior, and reactivity of matter. As the central science, chemistry has connections to fields from physics to biology, from environmental science to nano-science. A fundamental understanding of chemistry is the basis on which cutting-edge research in many fields rests. This course is designed to build core skills in chemistry, including drawing chemical structures and predicting molecular properties and reactivities, as well as to gain the necessary fundamental knowledge for advanced courses such as Organic Chemistry, Physical Chemistry, Biochemistry, or Materials Science. </p>\n<p>This chemistry course is the first in a series of two courses that together cover first-year, University-level chemistry. In this course, you will uncover the principles of chemical bonding, in the way it historically occurred: starting from the first experiments that revealed the fundamental dual wave-particle nature of energy and matter. Using the machinery of quantum chemistry, you will learn to:</p>\n<ul>\n<li>build models to describe the electronic structure of atoms,</li>\n<li>examine how atoms can be combined into molecules through different chemical bonding models,</li>\n<li>predict the structure and geometry of molecules,</li>\n<li>analyze how molecular geometry determines molecular properties,</li>\n<li>explore how molecules interact with each other and analyze how these interactions impact properties in a variety of phases</li>\n</ul>\n<p>This course is based on material in MIT’s Principles of Chemical Science course, which fulfills the General Institute Requirement in Chemistry for all MIT undergraduates. </p>\n<p><em>The course image is of liquid oxygen suspended between two powerful magnets, demonstrating that oxygen is a magnetic species.</em></p>",
+    "platform": "mitx",
+    "title": "General Chemistry I: Atoms, Molecules, and Bonding",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/cbf75148-ef8c-48f4-b68c-41decf6179b1-9d0229a8190a.small.jpeg",
+    "topics": [
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "MITx"
+    ],
+    "runs": [
+      {
+        "end_date": "2024-08-27T16:00:00Z",
+        "short_description": "<p>Learn about the world at the molecular level by exploring chemical structure and bonding from a quantum mechanical perspective. Topics include wave-particle duality, electronic structure of atoms, chemical bonding models, and intermolecular interactions.</p>",
+        "run_id": "course-v1:MITx+5.01x+2T2024",
+        "year": 2024,
+        "level": [
+          "Intermediate"
+        ],
+        "enrollment_end": null,
+        "language": "en-us",
+        "best_start_date": "2024-05-16T16:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "MITx"
+        ],
+        "title": "General Chemistry I: Atoms, Molecules, and Bonding",
+        "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/cbf75148-ef8c-48f4-b68c-41decf6179b1-9d0229a8190a.small.jpeg",
+        "instructors": [
+          "Sylvia Ceyer",
+          "Patti Christie",
+          "David Grimes",
+          "Mei Hong",
+          "Alisa Krishtal"
+        ],
+        "enrollment_start": null,
+        "full_description": "<p>Chemistry is the study of the properties, structure, behavior, and reactivity of matter. As the central science, chemistry has connections to fields from physics to biology, from environmental science to nano-science. A fundamental understanding of chemistry is the basis on which cutting-edge research in many fields rests. This course is designed to build core skills in chemistry, including drawing chemical structures and predicting molecular properties and reactivities, as well as to gain the necessary fundamental knowledge for advanced courses such as Organic Chemistry, Physical Chemistry, Biochemistry, or Materials Science. </p>\n<p>This chemistry course is the first in a series of two courses that together cover first-year, University-level chemistry. In this course, you will uncover the principles of chemical bonding, in the way it historically occurred: starting from the first experiments that revealed the fundamental dual wave-particle nature of energy and matter. Using the machinery of quantum chemistry, you will learn to:</p>\n<ul>\n<li>build models to describe the electronic structure of atoms,</li>\n<li>examine how atoms can be combined into molecules through different chemical bonding models,</li>\n<li>predict the structure and geometry of molecules,</li>\n<li>analyze how molecular geometry determines molecular properties,</li>\n<li>explore how molecules interact with each other and analyze how these interactions impact properties in a variety of phases</li>\n</ul>\n<p>This course is based on material in MIT’s Principles of Chemical Science course, which fulfills the General Institute Requirement in Chemistry for all MIT undergraduates. </p>\n<p><em>The course image is of liquid oxygen suspended between two powerful magnets, demonstrating that oxygen is a magnetic species.</em></p>",
+        "best_end_date": "2024-08-27T16:00:00Z",
+        "semester": "summer",
+        "id": 22500,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          },
+          {
+            "mode": "verified",
+            "price": "149.00"
+          }
+        ],
+        "slug": null,
+        "start_date": "2024-05-16T16:00:00Z"
+      }
+    ],
+    "created": "2020-09-29T13:31:36.110223Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [
+      "Certificates"
+    ],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": null,
+    "department_course_numbers": [],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9796,
+    "course_id": "48209c36f500a3ef6039774dbc84acbf+5.08J",
+    "coursenum": "5.08J",
+    "short_description": "This course is an advanced treatment of biochemical mechanisms that underlie biological processes. Topics include macromolecular machines such as the ribosome, the proteasome, fatty acid synthases as a paradigm for polyketide synthases and non-ribosomal polypeptide synthases, and polymerases. Emphasis will be given to the experimental methods used to unravel how these processes fit into the cellular context as well as the coordinated regulation of these processes.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Chemistry II",
+    "image_src": "/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Biochemistry",
+      "Structural Biology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course is an advanced treatment of biochemical mechanisms that underlie biological processes. Topics include macromolecular machines such as the ribosome, the proteasome, fatty acid synthases as a paradigm for polyketide synthases and non-ribosomal polypeptide synthases, and polymerases. Emphasis will be given to the experimental methods used to unravel how these processes fit into the cellular context as well as the coordinated regulation of these processes.",
+        "run_id": "48209c36f500a3ef6039774dbc84acbf",
+        "year": 2016,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2016-01-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Biological Chemistry II",
+        "image_src": "/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg",
+        "instructors": [
+          "Prof. Elizabeth Nolan",
+          "Prof. Joanne Stubbe"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2016-05-31T00:00:00Z",
+        "semester": "Spring",
+        "id": 16876,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/5-08j-biological-chemistry-ii-spring-2016",
+        "start_date": null
+      }
+    ],
+    "created": "2020-03-03T23:51:04.087849Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry",
+      "Biology"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Problem Sets with Solutions",
+      "Exams with Solutions"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.08J",
+        "sort_coursenum": "05.08J",
+        "department": "Chemistry",
+        "primary": true
+      },
+      {
+        "coursenum": "7.08J,7.80",
+        "sort_coursenum": "07.08J,7.80",
+        "department": "Biology",
+        "primary": false
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 7884,
+    "course_id": "5fad3ed883c51494f91cec88dbe176d4+5.112",
+    "coursenum": "5.112",
+    "short_description": "5.112 is an introductory chemistry course for students with an unusually strong background in chemistry. Knowledge of calculus equivalent to MIT course 18.01 is recommended. Emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. The course also covers applications of basic principles to problems in metal coordination chemistry, organic chemistry, and biological chemistry.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles of Chemical Science",
+    "image_src": "/courses/5-112-principles-of-chemical-science-fall-2005/dba8f52717543334c11ee615d251ed27_5-112f05.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13624,
+        "run_id": "5fad3ed883c51494f91cec88dbe176d4",
+        "short_description": "5.112 is an introductory chemistry course for students with an unusually strong background in chemistry. Knowledge of calculus equivalent to MIT course 18.01 is recommended. Emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. The course also covers applications of basic principles to problems in metal coordination chemistry, organic chemistry, and biological chemistry.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2005,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2005-09-01T00:00:00Z",
+        "best_end_date": "2005-12-31T00:00:00Z",
+        "title": "Principles of Chemical Science",
+        "image_src": "/courses/5-112-principles-of-chemical-science-fall-2005/dba8f52717543334c11ee615d251ed27_5-112f05.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Sylvia Ceyer",
+          "Prof. Christopher Cummins"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-112-principles-of-chemical-science-fall-2005"
+      }
+    ],
+    "created": "2020-03-03T20:42:07.600015Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.112",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.112"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8093,
+    "course_id": "0f4b39500f495f4ba167bf8552fb24fc+5.301",
+    "coursenum": "5.301",
+    "short_description": "This course is an intensive introduction to the techniques of experimental chemistry and gives first year students an opportunity to learn and master the basic chemistry lab techniques for carrying out experiments. Students who successfully complete the course and obtain a \"Competent Chemist\" (CC) or \"Expert Experimentalist\" (EE) rating are likely to secure opportunities for research work in a chemistry lab at MIT.\n\n##### Acknowledgements\n\nThe laboratory manual and materials for this course were prepared by Dr. Katherine J. Franz and Dr. Kevin M. Shea with the assistance of Professors Rick L. Danheiser and Timothy M. Swager. Materials have been revised by Dr. J. Haseltine, Dr. Kevin M. Shea, Dr. Sarah A. Tabacco, Dr. Kimberly L. Berkowski, Anne M. (Gorham) Rachupka, and Dr. John J. Dolhun.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Chemistry Laboratory Techniques",
+    "image_src": "/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/608fbe13fdb3edc9a80e353b29b7ebe1_5-301iap12.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 13852,
+        "run_id": "0f4b39500f495f4ba167bf8552fb24fc",
+        "short_description": "This course is an intensive introduction to the techniques of experimental chemistry and gives first year students an opportunity to learn and master the basic chemistry lab techniques for carrying out experiments. Students who successfully complete the course and obtain a \"Competent Chemist\" (CC) or \"Expert Experimentalist\" (EE) rating are likely to secure opportunities for research work in a chemistry lab at MIT.\n\n##### Acknowledgements\n\nThe laboratory manual and materials for this course were prepared by Dr. Katherine J. Franz and Dr. Kevin M. Shea with the assistance of Professors Rick L. Danheiser and Timothy M. Swager. Materials have been revised by Dr. J. Haseltine, Dr. Kevin M. Shea, Dr. Sarah A. Tabacco, Dr. Kimberly L. Berkowski, Anne M. (Gorham) Rachupka, and Dr. John J. Dolhun.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)",
+        "full_description": null,
+        "language": null,
+        "semester": "January IAP",
+        "year": 2012,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2012-01-01T00:00:00Z",
+        "best_end_date": "2012-01-31T00:00:00Z",
+        "title": "Chemistry Laboratory Techniques",
+        "image_src": "/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/608fbe13fdb3edc9a80e353b29b7ebe1_5-301iap12.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. John J. Dolhun"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-301-chemistry-laboratory-techniques-january-iap-2012"
+      }
+    ],
+    "created": "2020-03-03T20:54:04.339722Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.301",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.301"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8285,
+    "course_id": "4b83661227b2af6d81ff5f4ca0082540+5.111SC",
+    "coursenum": "5.111SC",
+    "short_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. One year of high school chemistry is the expected background for this freshman-level course.\n\nThe aims include developing a unified and intuitive view of how electronic structure controls the three-dimensional shape of molecules, the physical and chemical properties of molecules in gases, liquids and solids, and ultimately the assembly of macromolecules as in polymers and DNA. Relationships between chemistry and other fundamental sciences such as biology and physics are emphasized, as are the relationships between the science of chemistry to its applications in environmental science, atmospheric chemistry and electronic devices. \n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\n### Acknowledgements\n\nProfessor Drennan would like to acknowledge the contributions of MIT Lecturer Dr. Elizabeth Vogel Taylor, Professor Sylvia Ceyer, and Professor Robert Silbey to the development of this course and its materials.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles of Chemical Science",
+    "image_src": "/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg",
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Physical Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14085,
+        "run_id": "4b83661227b2af6d81ff5f4ca0082540",
+        "short_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. One year of high school chemistry is the expected background for this freshman-level course.\n\nThe aims include developing a unified and intuitive view of how electronic structure controls the three-dimensional shape of molecules, the physical and chemical properties of molecules in gases, liquids and solids, and ultimately the assembly of macromolecules as in polymers and DNA. Relationships between chemistry and other fundamental sciences such as biology and physics are emphasized, as are the relationships between the science of chemistry to its applications in environmental science, atmospheric chemistry and electronic devices. \n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\n### Acknowledgements\n\nProfessor Drennan would like to acknowledge the contributions of MIT Lecturer Dr. Elizabeth Vogel Taylor, Professor Sylvia Ceyer, and Professor Robert Silbey to the development of this course and its materials.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2014,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2014-09-01T00:00:00Z",
+        "best_end_date": "2014-12-31T00:00:00Z",
+        "title": "Principles of Chemical Science",
+        "image_src": "/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Catherine Drennan"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-111sc-principles-of-chemical-science-fall-2014"
+      }
+    ],
+    "created": "2020-03-03T21:08:43.590062Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets with Solutions",
+      "Exams with Solutions",
+      "Other Video",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.111SC",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.111SC"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8384,
+    "course_id": "807a333eacc6fe03252bca0fc01b0dce+5.111",
+    "coursenum": "5.111",
+    "short_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](/courses/5-111-principles-of-chemical-science-fall-2008/pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Principles of Chemical Science",
+    "image_src": "/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14209,
+        "run_id": "807a333eacc6fe03252bca0fc01b0dce",
+        "short_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](/courses/5-111-principles-of-chemical-science-fall-2008/pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-09-01T00:00:00Z",
+        "best_end_date": "2008-12-31T00:00:00Z",
+        "title": "Principles of Chemical Science",
+        "image_src": "/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Catherine Drennan",
+          "Dr. Elizabeth Vogel Taylor"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-111-principles-of-chemical-science-fall-2008"
+      }
+    ],
+    "created": "2020-03-03T21:16:50.752068Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams with Solutions",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.111",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.111"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 8711,
+    "course_id": "79a2dc870192158d03e53343e37da0a2+5.62",
+    "coursenum": "5.62",
+    "short_description": "This course covers elementary statistical mechanics, transport properties, kinetic theory, solid state, reaction rate theory, and chemical reaction dynamics.\n\nAcknowledgements\n----------------\n\nThe staff for this course would like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Chemistry Department affiliated with course #5.62. Since the following works have evolved over a period of many years, no single source can be attributed.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physical Chemistry II",
+    "image_src": "/courses/5-62-physical-chemistry-ii-spring-2008/7e210e0252be4b2092bce2aef84e994f_5-62s08.jpg",
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Transport Processes",
+      "Classical Mechanics",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 14628,
+        "run_id": "79a2dc870192158d03e53343e37da0a2",
+        "short_description": "This course covers elementary statistical mechanics, transport properties, kinetic theory, solid state, reaction rate theory, and chemical reaction dynamics.\n\nAcknowledgements\n----------------\n\nThe staff for this course would like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Chemistry Department affiliated with course #5.62. Since the following works have evolved over a period of many years, no single source can be attributed.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2008,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2008-01-01T00:00:00Z",
+        "best_end_date": "2008-05-31T00:00:00Z",
+        "title": "Physical Chemistry II",
+        "image_src": "/courses/5-62-physical-chemistry-ii-spring-2008/7e210e0252be4b2092bce2aef84e994f_5-62s08.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Field",
+          "Prof. Robert Guy Griffin"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-62-physical-chemistry-ii-spring-2008"
+      }
+    ],
+    "created": "2020-03-03T21:43:02.958653Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.62",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.62"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 9852,
+    "course_id": "ac66ca7638a70997d607fad6776b3b51+20.380J",
+    "coursenum": "20.380J",
+    "short_description": "This course illustrates how knowledge and principles of biology, biochemistry, and engineering are integrated to create new products for societal benefit. It uses a case study format to examine recently developed products of pharmaceutical and biotechnology industries: how a product evolves from initial idea, through patents, testing, evaluation, production, and marketing. Emphasizes scientific and engineering principles; the responsibility scientists, engineers, and business executives have for the consequences of their technology; and instruction and practice in written and oral communication.\n\nThe topic focus of this class will vary from year to year. This version looks at inflammation underlying many diseases, specifically its role in cancer, diabetes, and cardiovascular disease.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Engineering Design",
+    "image_src": "/courses/20-380j-biological-engineering-design-spring-2010/c16631b7dab45a97451c3c335373fa23_20-380js10.jpg",
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Public Health",
+      "Biomedical Enterprise",
+      "Pathology and Pathophysiology"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16705,
+        "run_id": "ac66ca7638a70997d607fad6776b3b51",
+        "short_description": "This course illustrates how knowledge and principles of biology, biochemistry, and engineering are integrated to create new products for societal benefit. It uses a case study format to examine recently developed products of pharmaceutical and biotechnology industries: how a product evolves from initial idea, through patents, testing, evaluation, production, and marketing. Emphasizes scientific and engineering principles; the responsibility scientists, engineers, and business executives have for the consequences of their technology; and instruction and practice in written and oral communication.\n\nThe topic focus of this class will vary from year to year. This version looks at inflammation underlying many diseases, specifically its role in cancer, diabetes, and cardiovascular disease.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2010,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2010-01-01T00:00:00Z",
+        "best_end_date": "2010-05-31T00:00:00Z",
+        "title": "Biological Engineering Design",
+        "image_src": "/courses/20-380j-biological-engineering-design-spring-2010/c16631b7dab45a97451c3c335373fa23_20-380js10.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Dr. Atissa Banuazizi",
+          "Mr. Harlan Breindel",
+          "Prof. John Essigmann",
+          "Prof. Darrell Irvine",
+          "Dr. Mya Poe",
+          "Prof. Forest White"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/20-380j-biological-engineering-design-spring-2010"
+      }
+    ],
+    "created": "2020-03-04T00:00:27.275031Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Biological Engineering",
+      "Chemistry"
+    ],
+    "department_slug": "biological-engineering",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "20.380J",
+        "department": "Biological Engineering",
+        "primary": true,
+        "sort_coursenum": "20.380J"
+      },
+      {
+        "coursenum": "5.22J",
+        "department": "Chemistry",
+        "primary": false,
+        "sort_coursenum": "05.22J"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10020,
+    "course_id": "2c6a0dad6eb48e88a28a2e79e58a14b9+5.07SC",
+    "coursenum": "5.07SC",
+    "short_description": "This course examines the chemical and physical properties of the cell and its building blocks, with special emphasis on the structures of proteins and principles of catalysis, as well as the chemistry of organic / inorganic cofactors required for chemical transformations within the cell. Topics encompass the basic principles of metabolism and regulation in pathways, including glycolysis, gluconeogenesis, fatty acid synthesis / degradation, pentose phosphate pathway, Krebs cycle and oxidative phosphorylation.\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\n##### Course Format\n\nThis OCW Scholar course, designed for independent study, is closely modeled on the course taught on the MIT campus. The on-campus course has two types of class sessions: Lectures and recitations. The lectures meet three times each week and recitations meet once a week. In recitations, an instructor or Teaching Assistant elaborates on concepts presented in lecture, working through new examples with student participation, and answers questions.\n\nMIT students who take the corresponding residential class typically report an average of 10–15 hours spent each week, including lectures, recitations, readings, homework, and exams. All students are encouraged to supplement the textbooks and readings with their own research.  \nThe Scholar course has three major learning units, called Modules. Each module has been divided into a sequence of lecture sessions that include:\n\n*   Textbook Readings\n*   Lecture Notes or Storyboards\n*   A video by Professor JoAnne Stubbe or Professor John Essigmann\n*   Problem Sets and solutions\n\nTo help guide your learning, each of these problem sets are accompanied by Problem Solving Videos where Dr. Bogdan Fedeles solves one of the problems from the set.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Biological Chemistry I",
+    "image_src": "/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg",
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17144,
+        "run_id": "2c6a0dad6eb48e88a28a2e79e58a14b9",
+        "short_description": "This course examines the chemical and physical properties of the cell and its building blocks, with special emphasis on the structures of proteins and principles of catalysis, as well as the chemistry of organic / inorganic cofactors required for chemical transformations within the cell. Topics encompass the basic principles of metabolism and regulation in pathways, including glycolysis, gluconeogenesis, fatty acid synthesis / degradation, pentose phosphate pathway, Krebs cycle and oxidative phosphorylation.\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\n##### Course Format\n\nThis OCW Scholar course, designed for independent study, is closely modeled on the course taught on the MIT campus. The on-campus course has two types of class sessions: Lectures and recitations. The lectures meet three times each week and recitations meet once a week. In recitations, an instructor or Teaching Assistant elaborates on concepts presented in lecture, working through new examples with student participation, and answers questions.\n\nMIT students who take the corresponding residential class typically report an average of 10–15 hours spent each week, including lectures, recitations, readings, homework, and exams. All students are encouraged to supplement the textbooks and readings with their own research.  \nThe Scholar course has three major learning units, called Modules. Each module has been divided into a sequence of lecture sessions that include:\n\n*   Textbook Readings\n*   Lecture Notes or Storyboards\n*   A video by Professor JoAnne Stubbe or Professor John Essigmann\n*   Problem Sets and solutions\n\nTo help guide your learning, each of these problem sets are accompanied by Problem Solving Videos where Dr. Bogdan Fedeles solves one of the problems from the set.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2013,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2013-09-01T00:00:00Z",
+        "best_end_date": "2013-12-31T00:00:00Z",
+        "title": "Biological Chemistry I",
+        "image_src": "/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. John Essigmann",
+          "Dr. Bogdan Fedeles",
+          "Prof. Joanne Stubbe"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-07sc-biological-chemistry-i-fall-2013"
+      }
+    ],
+    "created": "2020-03-04T00:35:24.497495Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Other Video",
+      "Problem Sets with Solutions",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.07SC",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.07SC"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10779,
+    "course_id": "a789392c7923702be2db26e985316fbd+5.61",
+    "coursenum": "5.61",
+    "short_description": "This course presents an introduction to quantum mechanics. It begins with an examination of the historical development of quantum theory, properties of particles and waves, wave mechanics and applications to simple systems — the particle in a box, the harmonic oscillator, the rigid rotor and the hydrogen atom. The lectures continue with a discussion of atomic structure and the Periodic Table. The final lectures cover applications to chemical bonding including valence bond and molecular orbital theory, molecular structure, spectroscopy.\n\nAcknowledgements\n----------------\n\nThe material for 5.61 has evolved over a period of many years, and, accordingly, several faculty members have contributed to the development of the course contents. The original version of the lecture notes that are available on OCW was prepared in the early 1990's by Prof. Sylvia T. Ceyer. These were revised and transcribed to electronic form primarily by Prof. Keith A. Nelson. The current version includes additional contributions by Professors Moungi G. Bawendi, Robert W. Field, Robert G. Griffin, Robert J. Silbey and John S. Waugh, all of whom have taught the course in the recent past.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Physical Chemistry",
+    "image_src": "/courses/5-61-physical-chemistry-fall-2007/1f705170357b16eb99e045a724316cde_5-61f07.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Quantum Mechanics",
+      "Physical Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 16653,
+        "run_id": "a789392c7923702be2db26e985316fbd",
+        "short_description": "This course presents an introduction to quantum mechanics. It begins with an examination of the historical development of quantum theory, properties of particles and waves, wave mechanics and applications to simple systems — the particle in a box, the harmonic oscillator, the rigid rotor and the hydrogen atom. The lectures continue with a discussion of atomic structure and the Periodic Table. The final lectures cover applications to chemical bonding including valence bond and molecular orbital theory, molecular structure, spectroscopy.\n\nAcknowledgements\n----------------\n\nThe material for 5.61 has evolved over a period of many years, and, accordingly, several faculty members have contributed to the development of the course contents. The original version of the lecture notes that are available on OCW was prepared in the early 1990's by Prof. Sylvia T. Ceyer. These were revised and transcribed to electronic form primarily by Prof. Keith A. Nelson. The current version includes additional contributions by Professors Moungi G. Bawendi, Robert W. Field, Robert G. Griffin, Robert J. Silbey and John S. Waugh, all of whom have taught the course in the recent past.",
+        "full_description": null,
+        "language": null,
+        "semester": "Fall",
+        "year": 2007,
+        "level": [
+          "Undergraduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2007-09-01T00:00:00Z",
+        "best_end_date": "2007-12-31T00:00:00Z",
+        "title": "Physical Chemistry",
+        "image_src": "/courses/5-61-physical-chemistry-fall-2007/1f705170357b16eb99e045a724316cde_5-61f07.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Guy Griffin",
+          "Prof. Troy Van Voorhis"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-61-physical-chemistry-fall-2007"
+      }
+    ],
+    "created": "2020-12-04T02:41:03.915623Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.61",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.61"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 10897,
+    "course_id": "4ee564fcdbb95eb091f4362c4041ccd5+5.74",
+    "coursenum": "5.74",
+    "short_description": "This course covers time-dependent quantum mechanics and spectroscopy. Topics include perturbation theory, two-level systems, light-matter interactions, relaxation in quantum systems, correlation functions and linear response theory, and nonlinear spectroscopy.",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Introductory Quantum Mechanics II",
+    "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg",
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "id": 17198,
+        "run_id": "4ee564fcdbb95eb091f4362c4041ccd5",
+        "short_description": "This course covers time-dependent quantum mechanics and spectroscopy. Topics include perturbation theory, two-level systems, light-matter interactions, relaxation in quantum systems, correlation functions and linear response theory, and nonlinear spectroscopy.",
+        "full_description": null,
+        "language": null,
+        "semester": "Spring",
+        "year": 2004,
+        "level": [
+          "Graduate"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "enrollment_start": null,
+        "enrollment_end": null,
+        "best_start_date": "2004-01-01T00:00:00Z",
+        "best_end_date": "2004-05-31T00:00:00Z",
+        "title": "Introductory Quantum Mechanics II",
+        "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg",
+        "prices": [
+          {
+            "price": "0.00",
+            "mode": "audit"
+          }
+        ],
+        "instructors": [
+          "Prof. Robert Field",
+          "Prof. Andrei Tokmakoff"
+        ],
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "slug": "courses/5-74-introductory-quantum-mechanics-ii-spring-2004"
+      }
+    ],
+    "created": "2020-12-04T02:41:30.830965Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.74",
+        "department": "Chemistry",
+        "primary": true,
+        "sort_coursenum": "05.74"
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  },
+  {
+    "id": 11904,
+    "course_id": "e9e44f783a625e17a36f9e8f176758be+5.310",
+    "coursenum": "5.310",
+    "short_description": "This course introduces experimental chemistry for students who are not majoring in chemistry. The course covers principles and applications of chemical laboratory techniques, including preparation and analysis of chemical materials, measurement of pH, gas and liquid chromatography, visible-ultraviolet spectrophotometry, infrared spectroscopy, nuclear magnetic resonance, mass spectrometry, polarimetry, X-ray diffraction, kinetics, data analysis, and organic synthesis.\n\n### Acknowledgements\n\nDr. Dolhun and Dr. Hewett would like to acknowledge the contributions of past instructors over the years to the development of this course and its materials.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)",
+    "full_description": null,
+    "platform": "ocw",
+    "title": "Laboratory Chemistry",
+    "image_src": "/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg",
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "published": true,
+    "offered_by": [
+      "OCW"
+    ],
+    "runs": [
+      {
+        "end_date": null,
+        "short_description": "This course introduces experimental chemistry for students who are not majoring in chemistry. The course covers principles and applications of chemical laboratory techniques, including preparation and analysis of chemical materials, measurement of pH, gas and liquid chromatography, visible-ultraviolet spectrophotometry, infrared spectroscopy, nuclear magnetic resonance, mass spectrometry, polarimetry, X-ray diffraction, kinetics, data analysis, and organic synthesis.\n\n### Acknowledgements\n\nDr. Dolhun and Dr. Hewett would like to acknowledge the contributions of past instructors over the years to the development of this course and its materials.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)",
+        "run_id": "e9e44f783a625e17a36f9e8f176758be",
+        "year": 2019,
+        "level": [
+          "Undergraduate"
+        ],
+        "enrollment_end": null,
+        "language": null,
+        "best_start_date": "2019-09-01T00:00:00Z",
+        "published": true,
+        "availability": "Current",
+        "offered_by": [
+          "OCW"
+        ],
+        "title": "Laboratory Chemistry",
+        "image_src": "/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg",
+        "instructors": [
+          "Dr. John J. Dolhun",
+          "Dr. Sarah Hewett"
+        ],
+        "enrollment_start": null,
+        "full_description": null,
+        "best_end_date": "2019-12-31T00:00:00Z",
+        "semester": "Fall",
+        "id": 19772,
+        "prices": [
+          {
+            "mode": "audit",
+            "price": "0.00"
+          }
+        ],
+        "slug": "courses/5-310-laboratory-chemistry-fall-2019",
+        "start_date": null
+      }
+    ],
+    "created": "2021-05-19T09:03:17.575977Z",
+    "default_search_priority": 1,
+    "minimum_price": "0.00",
+    "audience": [
+      "Open Content"
+    ],
+    "certification": [],
+    "department_name": [
+      "Chemistry"
+    ],
+    "department_slug": "chemistry",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Podcasts"
+    ],
+    "department_course_numbers": [
+      {
+        "coursenum": "5.310",
+        "sort_coursenum": "05.310",
+        "department": "Chemistry",
+        "primary": true
+      }
+    ],
+    "object_type": "course",
+    "resource_relations": {
+      "name": "resource"
+    }
+  }
+]
