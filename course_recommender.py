@@ -195,88 +195,52 @@ Analyze the student profile and select the most appropriate departments."""
 
             prompt = f"""You are selecting specific courses from {department} department for a student based on their profile.
 
-            STUDENT PROFILE:
-            Advisor Assessment: {advisor_description}
+STUDENT PROFILE:
+Advisor Assessment: {advisor_description}
 
-            Conversation Context: {conversation_transcript}
+Conversation Context: {conversation_transcript}
 
-            Current Skills and Levels:
-            {skills_text}
+Current Skills and Levels:
+{skills_text}
 
-            AVAILABLE COURSES IN {department}:
-            {courses_text}
+AVAILABLE COURSES IN {department}:
+{courses_text}
 
-            SELECTION REQUIREMENTS:
-            1. Select courses that closely match student interests and goals
-            2. Consider skill level for difficulty appropriateness
-            3. For each selected course, identify ALL necessary prerequisites based on student's current skill level
-            4. CRITICAL: Prerequisites must be ACTUAL course titles from the available courses, not generic names
-            5. Prerequisite Logic:
-               - Beginner STEM students: Include foundational courses (Precalculus, Calculus, Basic Physics, etc.)
-               - Intermediate students: Some foundational courses, can skip very basics
-               - Advanced students: Direct access to advanced courses with minimal prerequisites
-            6. Only select courses you're confident will benefit this specific student
-            7. Quality over quantity - better to select fewer, more relevant courses
+SELECTION REQUIREMENTS:
+1. Select courses that closely match student interests and goals
+2. Consider skill level for difficulty appropriateness
+3. For each selected course, identify ALL necessary prerequisites based on student's current skill level
+4. CRITICAL: Prerequisites must be ACTUAL course titles from the available courses, not generic names
+5. Prerequisite Logic:
+   - Beginner STEM students: Include foundational courses (Precalculus, Calculus, Basic Physics, etc.)
+   - Intermediate students: Some foundational courses, can skip very basics
+   - Advanced students: Direct access to advanced courses with minimal prerequisites
+6. Only select courses you're confident will benefit this specific student
+7. Quality over quantity - better to select fewer, more relevant courses
 
-            RESPONSE FORMAT:
-            Return ONLY a valid JSON array. CRITICAL JSON RULES:
-            - All strings must be on single lines (no line breaks)
-            - Keep descriptions under 100 characters
-            - Use only alphanumeric characters and basic punctuation in descriptions
-            - No unescaped quotes in strings
+RESPONSE FORMAT:
+Return ONLY a JSON array of course objects:
+[
+  {{
+    "course_title": "Actual Course Title from List",
+    "course_description": "Course description",
+    "department": "{department}",
+    "prerequisites": ["Prerequisite Course 1", "Prerequisite Course 2"]
+  }}
+]
 
-            [
-              {{
-                "course_title": "Actual Course Title from List",
-                "course_description": "Brief description without quotes or line breaks",
-                "department": "{department}",
-                "prerequisites": ["Prerequisite Course 1", "Prerequisite Course 2"]
-              }}
-            ]
-
-            IMPORTANT: Return ONLY the JSON array, nothing else. No explanations.
-
-            Select appropriate courses with complete prerequisite chains for this student."""
+Select appropriate courses with complete prerequisite chains for this student."""
 
             try:
                 response = self._call_claude_api(prompt)
                 if response:
-                    # Clean and extract JSON from response
+                    # Extract JSON from response
                     import re
-                    # First try to find JSON array
-                    json_match = re.search(r'\[[\s\S]*?\]', response)
+                    json_match = re.search(r'\[.*?\]', response, re.DOTALL)
                     if json_match:
-                        json_str = json_match.group()
-                        # Clean the JSON string
-                        json_str = json_str.replace('\n', ' ').replace('\r', '')
-                        try:
-                            courses = json.loads(json_str)
-                            # Validate structure
-                            if isinstance(courses, list):
-                                all_selected_courses.extend(courses)
-                                logger.info(f"Selected {len(courses)} courses from {department}")
-                            else:
-                                logger.error(f"Invalid JSON structure from {department}")
-                        except json.JSONDecodeError as je:
-                            logger.error(f"JSON decode error for {department}: {str(je)}")
-                            # Try to fix common JSON issues and retry
-                            try:
-                                # Fix common issues
-                                fixed_json = json_str.replace('\n', ' ').replace('\r', ' ')
-                                fixed_json = re.sub(r'([^\\])"([^,}\]])', r'\1\"\2', fixed_json)  # Fix unescaped quotes
-                                fixed_json = re.sub(r'\s+', ' ', fixed_json)  # Multiple spaces to single
-                                courses = json.loads(fixed_json)
-                                if isinstance(courses, list):
-                                    all_selected_courses.extend(courses)
-                                    logger.info(f"Fixed and selected {len(courses)} courses from {department}")
-                                else:
-                                    logger.error(f"Still invalid JSON structure from {department}")
-                            except:
-                                logger.error(f"Could not fix JSON for {department}")
-                                logger.error(f"Original JSON: {json_str[:300]}...")
-                    else:
-                        logger.error(f"No JSON array found in response for {department}")
-                        logger.error(f"Response was: {response[:200]}...")
+                        courses = json.loads(json_match.group())
+                        all_selected_courses.extend(courses)
+                        logger.info(f"Selected {len(courses)} courses from {department}")
 
             except Exception as e:
                 logger.error(f"Error selecting courses from {department}: {str(e)}")
@@ -366,16 +330,9 @@ Create an optimal learning sequence with proper dependencies."""
             if response:
                 # Extract JSON from response
                 import re
-                json_match = re.search(r'\{[\s\S]*?\}', response)
+                json_match = re.search(r'\{.*\}', response, re.DOTALL)
                 if json_match:
-                    json_str = json_match.group()
-                    json_str = json_str.replace('\n', ' ').replace('\r', '')
-                    try:
-                        roadmap = json.loads(json_str)
-                    except json.JSONDecodeError as je:
-                        logger.error(f"JSON decode error in roadmap: {str(je)}")
-                        logger.error(f"JSON string was: {json_str[:200]}...")
-                        return {"error": "Failed to parse roadmap JSON"}
+                    roadmap = json.loads(json_match.group())
                     logger.info("Successfully created learning roadmap")
                     return roadmap
 
