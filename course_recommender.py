@@ -222,7 +222,7 @@ Analyze the student profile and select the most appropriate departments."""
 Return ONLY a valid JSON array. CRITICAL JSON RULES:
 - NO line breaks anywhere in the JSON
 - NO quotes inside descriptions 
-- Keep descriptions under 200 characters
+- Keep descriptions under 500 characters
 - Use simple punctuation only (periods, commas)
 - Select as many courses per department as needed. Do not histate to add as many prerequisites as need. Add many and be happy. I need from you the comprehending guide for the user. With the full list of courses.
 
@@ -271,6 +271,19 @@ RESPONSE FORMAT:
                             if isinstance(courses, list):
                                 all_selected_courses.extend(courses)
                                 logger.info(f"Selected {len(courses)} courses from {department}")
+                                if isinstance(courses, list):
+                                    # Enrich courses with original descriptions from department_courses
+                                    for course in courses:
+                                        course_title = course.get('course_title', '')
+                                        # Find original course in department_courses
+                                        for original_course in department_courses:
+                                            if original_course.get('title', '') == course_title:
+                                                course['original_description'] = original_course.get(
+                                                    'short_description', 'No description')
+                                                break
+
+                                    all_selected_courses.extend(courses)
+                                    logger.info(f"Selected {len(courses)} courses from {department}")
                             else:
                                 logger.error(f"Invalid JSON structure from {department}")
                         except json.JSONDecodeError as je:
@@ -282,6 +295,8 @@ RESPONSE FORMAT:
 
             except Exception as e:
                 logger.error(f"Error selecting courses from {department}: {str(e)}")
+
+
 
         logger.info(f"Total selected courses with prerequisites: {len(all_selected_courses)}")
         return all_selected_courses
@@ -323,9 +338,12 @@ RESPONSE FORMAT:
 
             # Try to get original description from the course data
             # First try course_description, then short_description as fallback
-            original_desc = course.get('course_description', '')
+            # Try to get original description from the course data
+            original_desc = course.get('original_description', '')
+            if not original_desc:
+                original_desc = course.get('course_description', '')
             if not original_desc or original_desc == 'No description':
-                original_desc = course.get('short_description', 'No description available')
+                original_desc = 'No description available'
 
             vertices.append([course_name, original_desc])
             course_names.add(course_name)
@@ -349,6 +367,69 @@ RESPONSE FORMAT:
 
         logger.info(f"Created graph with {len(vertices)} vertices and {len(edges)} edges")
         return [vertices, edges]
+
+
+def generate_course_roadmap(advisor_description: str, conversation_transcript: str,
+                            skill_levels: List[List[str]]) -> List:
+    """
+    Main function to generate course roadmap from student profile.
+
+    Args:
+        api_key: Your Claude API key
+        advisor_description: Academic advisor's assessment of the student
+        conversation_transcript: Q&A dialogue between advisor and student
+        skill_levels: Array of [skill_name, skill_level] pairs
+
+    Returns:
+        List in format: [[vertices], [edges]] where:
+        - vertices: List of [course_name, course_description] pairs
+        - edges: List of [prerequisite_course, dependent_course] pairs
+
+    Example input format:
+        api_key = "sk-ant-api03-..."
+        advisor_description = "Student interested in AI/ML, software developer background, wants to transition to AI research"
+        conversation_transcript = "Advisor: What interests you? Student: Neural networks and deep learning..."
+        skill_levels = [["Mathematics", "Beginner"], ["Programming", "Intermediate"], ["Statistics", "Beginner"]]
+    """
+    try:
+        api_key = "my-key"
+        # Initialize the recommendation system
+        recommender = CourseRecommendationSystem(api_key)
+
+        # Step 1: Select departments
+        departments = recommender.select_departments(advisor_description, conversation_transcript, skill_levels)
+
+        if not departments:
+            logger.warning("No departments selected, returning empty graph")
+            return [[], []]
+
+        # Step 2: Select courses with prerequisites
+        courses = recommender.select_courses_with_prerequisites(
+            departments, advisor_description, conversation_transcript, skill_levels
+        )
+
+        if not courses:
+            logger.warning("No courses selected, returning empty graph")
+            return [[], []]
+
+        # Step 3: Create course graph
+        student_profile = {
+            "interests": "Based on advisor assessment",
+            "background": "From conversation context",
+            "goal": "Derived from student profile"
+        }
+        graph = recommender.create_learning_roadmap(courses, student_profile)
+
+        logger.info(f"Successfully generated roadmap with {len(graph[0])} courses and {len(graph[1])} dependencies")
+        return graph
+
+    except Exception as e:
+        logger.error(f"Error generating course roadmap: {str(e)}")
+        return [[], []]
+
+
+
+
 
 
 
@@ -409,7 +490,13 @@ def main():
     print()
 
     # Step 3: Create course graph
+    # Step 3: Create course graph
     print("Step 3: Creating course graph...")
+    student_profile = {
+        "interests": "AI/ML",
+        "background": "Software Developer",
+        "goal": "AI Engineer/Researcher"
+    }
     graph = recommender.create_learning_roadmap(courses, student_profile)
 
     vertices, edges = graph
@@ -431,6 +518,8 @@ def main():
         print(f"... and {len(edges) - 15} more dependencies")
 
     print(f"\nFinal graph structure: [[{len(vertices)} vertices], [{len(edges)} edges]]")
+
+    print(graph)
 
 
 if __name__ == "__main__":
