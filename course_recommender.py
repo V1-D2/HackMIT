@@ -222,7 +222,7 @@ Analyze the student profile and select the most appropriate departments."""
 Return ONLY a valid JSON array. CRITICAL JSON RULES:
 - NO line breaks anywhere in the JSON
 - NO quotes inside descriptions 
-- Keep descriptions under 50 characters
+- Keep descriptions under 200 characters
 - Use simple punctuation only (periods, commas)
 - Select as many courses per department as needed. Do not histate to add as many prerequisites as need. Add many and be happy. I need from you the comprehending guide for the user. With the full list of courses.
 
@@ -286,148 +286,28 @@ RESPONSE FORMAT:
         logger.info(f"Total selected courses with prerequisites: {len(all_selected_courses)}")
         return all_selected_courses
 
-    def create_learning_roadmap(self, courses_with_prereqs: List[Dict], student_profile: Dict = None) -> Dict:
+    def create_learning_roadmap(self, courses_with_prereqs: List[Dict], student_profile: Dict = None) -> List:
         """
-        Function 3: Create a structured learning path with proper course sequencing.
+        Function 3: Create a graph representation from courses and prerequisites.
 
         Args:
             courses_with_prereqs: Output from select_courses_with_prerequisites
-            student_profile: Additional student context (optional)
+            student_profile: Not used, kept for compatibility
 
         Returns:
-            Structured roadmap dictionary
-        """
-        if not courses_with_prereqs:
-            return {"error": "No courses provided for roadmap creation"}
-
-        # Prepare courses data for Claude
-        courses_text = ""
-        for i, course in enumerate(courses_with_prereqs):
-            prereqs = ", ".join(course.get('prerequisites', []))
-            courses_text += f"{i + 1}. Course: {course.get('course_title', 'Unknown')}\n"
-            courses_text += f"   Department: {course.get('department', 'Unknown')}\n"
-            courses_text += f"   Description: {course.get('course_description', 'No description')}\n"
-            courses_text += f"   Prerequisites: {prereqs if prereqs else 'None'}\n\n"
-
-        profile_text = ""
-        if student_profile:
-            profile_text = f"Student Profile Context: {student_profile}"
-
-        prompt = f"""Create a structured learning roadmap from the selected courses and their prerequisites.
-
-{profile_text}
-
-COURSES WITH PREREQUISITES:
-{courses_text}
-
-ROADMAP REQUIREMENTS:
-1. Analyze all courses and their prerequisite relationships
-2. Create a level-based learning progression (Foundation → Intermediate → Advanced)
-3. Ensure proper course sequencing - prerequisites must come before dependent courses
-4. Group courses into logical learning levels
-5. Estimate realistic timeframes for each level
-6. Provide clear learning path summary
-
-RESPONSE FORMAT:
-Return ONLY a JSON object with this exact structure:
-{{
-  "roadmap": {{
-    "levels": [
-      {{
-        "level": 1,
-        "level_name": "Foundation",
-        "courses": [
-          {{
-            "course_title": "Course Name",
-            "description": "Course description",
-            "department": "Department Name",
-            "estimated_duration": "X weeks"
-          }}
-        ]
-      }},
-      {{
-        "level": 2,
-        "level_name": "Intermediate",
-        "courses": [...]
-      }},
-      {{
-        "level": 3,
-        "level_name": "Advanced", 
-        "courses": [...]
-      }}
-    ]
-  }},
-  "total_estimated_time": "X months/years",
-  "learning_path_summary": "Comprehensive description of the complete learning journey and how courses build upon each other"
-}}
-
-Create an optimal learning sequence with proper dependencies."""
-
-        try:
-            response = self._call_claude_api(prompt)
-            if response:
-                import re
-
-                # Find the complete JSON object using brace counting
-                start_idx = response.find('{')
-                if start_idx != -1:
-                    brace_count = 0
-                    end_idx = start_idx
-
-                    for i, char in enumerate(response[start_idx:], start_idx):
-                        if char == '{':
-                            brace_count += 1
-                        elif char == '}':
-                            brace_count -= 1
-                            if brace_count == 0:
-                                end_idx = i + 1
-                                break
-
-                    json_str = response[start_idx:end_idx]
-
-                    # Clean the JSON string
-                    json_str = json_str.replace('\n', ' ').replace('\r', ' ')
-                    json_str = re.sub(r'\s+', ' ', json_str)  # Multiple spaces to single
-
-                    try:
-                        roadmap = json.loads(json_str)
-                        logger.info("Successfully created learning roadmap")
-                        return roadmap
-                    except json.JSONDecodeError as je:
-                        logger.error(f"JSON decode error in roadmap: {str(je)}")
-                        logger.error(f"Problematic JSON: {json_str}")
-                        return {"error": "Failed to parse roadmap JSON"}
-                else:
-                    logger.error(f"No JSON object found in response")
-                    logger.error(f"Full response: {response}")
-
-            logger.error("Failed to get response from Claude")
-            return {"error": "Failed to create roadmap"}
-
-        except Exception as e:
-            logger.error(f"Error creating learning roadmap: {str(e)}")
-            return {"error": f"Roadmap creation failed: {str(e)}"}
-
-    def create_course_graph(self, courses_with_prereqs: List[Dict]) -> List:
-        """
-        Function 4: Create a graph representation of courses and their prerequisites.
-
-        Args:
-            courses_with_prereqs: Output from select_courses_with_prerequisites
-
-        Returns:
-            List with format: [[vertices], [edges]]
-            vertices: List of [course_name, course_description] pairs
+            List in format: [[vertices], [edges]]
+            vertices: List of [course_name, original_course_description] pairs
             edges: List of [prerequisite_course, dependent_course] pairs
         """
         if not courses_with_prereqs:
+            logger.error("No courses provided for graph creation")
             return [[], []]
 
         # Create vertices (nodes) - each course is a vertex
         vertices = []
         course_names = set()
 
-        # Collect all course names first (including prerequisites that might not be in main list)
+        # Collect all course names first (including prerequisites)
         all_course_names = set()
         for course in courses_with_prereqs:
             course_name = course.get('course_title', 'Unknown')
@@ -437,18 +317,24 @@ Create an optimal learning sequence with proper dependencies."""
             for prereq in course.get('prerequisites', []):
                 all_course_names.add(prereq)
 
-        # Create vertices list
+        # Create vertices list with original descriptions
         for course in courses_with_prereqs:
             course_name = course.get('course_title', 'Unknown')
-            course_desc = course.get('course_description', 'No description')
-            vertices.append([course_name, course_desc])
+
+            # Try to get original description from the course data
+            # First try course_description, then short_description as fallback
+            original_desc = course.get('course_description', '')
+            if not original_desc or original_desc == 'No description':
+                original_desc = course.get('short_description', 'No description available')
+
+            vertices.append([course_name, original_desc])
             course_names.add(course_name)
 
         # Add vertices for prerequisites that aren't in main course list
         for course in courses_with_prereqs:
             for prereq in course.get('prerequisites', []):
                 if prereq not in course_names:
-                    vertices.append([prereq, "Prerequisite course"])
+                    vertices.append([prereq, "Prerequisite course - description not available"])
                     course_names.add(prereq)
 
         # Create edges - from prerequisite to dependent course
@@ -458,8 +344,7 @@ Create an optimal learning sequence with proper dependencies."""
             prerequisites = course.get('prerequisites', [])
 
             for prereq in prerequisites:
-                # Edge format: [from_course, to_course]
-                # From prerequisite TO the course that requires it
+                # Edge format: [prerequisite_course, dependent_course]
                 edges.append([prereq, course_name])
 
         logger.info(f"Created graph with {len(vertices)} vertices and {len(edges)} edges")
@@ -523,57 +408,29 @@ def main():
             print(f"  Prerequisites: {', '.join(course['prerequisites'])}")
     print()
 
-    # Step 3: Create learning roadmap
-    print("Step 3: Creating learning roadmap...")
-    student_profile = {
-        "interests": "AI/ML",
-        "background": "Software Developer",
-        "goal": "AI Engineer/Researcher"
-    }
-    roadmap = recommender.create_learning_roadmap(courses, student_profile)
-
-    # Step 4: Create course graph
-    print("Step 4: Creating course graph...")
-    graph = recommender.create_course_graph(courses)
+    # Step 3: Create course graph
+    print("Step 3: Creating course graph...")
+    graph = recommender.create_learning_roadmap(courses, student_profile)
 
     vertices, edges = graph
     print(f"\n=== COURSE GRAPH ===")
     print(f"Total vertices (courses): {len(vertices)}")
     print(f"Total edges (dependencies): {len(edges)}")
 
-    print("\nVertices (Courses):")
-    for i, vertex in enumerate(vertices[:10]):  # Show first 10
-        print(f"{i + 1}. {vertex[0]} - {vertex[1]}")
+    print("\nVertices (first 10 courses):")
+    for i, vertex in enumerate(vertices[:10]):
+        print(f"{i + 1}. {vertex[0]}")
+        print(f"   Description: {vertex[1][:100]}...")
     if len(vertices) > 10:
         print(f"... and {len(vertices) - 10} more courses")
 
-    print("\nEdges (Dependencies):")
-    for i, edge in enumerate(edges[:15]):  # Show first 15
+    print("\nEdges (first 15 dependencies):")
+    for i, edge in enumerate(edges[:15]):
         print(f"{i + 1}. {edge[0]} → {edge[1]}")
     if len(edges) > 15:
         print(f"... and {len(edges) - 15} more dependencies")
 
-    print(f"\nGraph data structure:")
-    print(f"Vertices: {len(vertices)} courses")
-    print(f"Edges: {len(edges)} prerequisite relationships")
-
-    if "error" in roadmap:
-        print(f"Error creating roadmap: {roadmap['error']}")
-        return
-
-    # Display roadmap
-    print("=== LEARNING ROADMAP ===")
-    print(f"Total Estimated Time: {roadmap.get('total_estimated_time', 'Unknown')}")
-    print(f"Summary: {roadmap.get('learning_path_summary', 'No summary')}\n")
-
-    for level in roadmap.get('roadmap', {}).get('levels', []):
-        print(f"LEVEL {level.get('level', '?')}: {level.get('level_name', 'Unknown')}")
-        for course in level.get('courses', []):
-            print(
-                f"  • {course.get('course_title', 'Unknown')} ({course.get('estimated_duration', 'Unknown duration')})")
-            print(f"    {course.get('description', 'No description')}")
-            print(f"    Department: {course.get('department', 'Unknown')}")
-        print()
+    print(f"\nFinal graph structure: [[{len(vertices)} vertices], [{len(edges)} edges]]")
 
 
 if __name__ == "__main__":
